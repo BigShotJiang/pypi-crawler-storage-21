@@ -1,0 +1,11 @@
+{
+  "name": "vibe-remote",
+  "version": "2.0.0",
+  "summary": "Local-first agent runtime for Slack - run AI coding agents from your chat",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibe_remote-2.0.0.tar.gz",
+  "download_time": "2026-01-19T16:56:55.135901",
+  "package_url": "https://pypi.org/project/vibe-remote/"
+}

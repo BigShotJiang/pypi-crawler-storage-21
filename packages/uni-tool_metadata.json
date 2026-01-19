@@ -1,0 +1,11 @@
+{
+  "name": "uni-tool",
+  "version": "0.4.0",
+  "summary": "UniTools SDK - A unified tool registration and execution framework for LLM agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uni_tool-0.4.0.tar.gz",
+  "download_time": "2026-01-19T16:56:49.398682",
+  "package_url": "https://pypi.org/project/uni-tool/"
+}

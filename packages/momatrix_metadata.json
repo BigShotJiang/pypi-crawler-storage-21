@@ -1,0 +1,11 @@
+{
+  "name": "momatrix",
+  "version": "0.1.1",
+  "summary": "A custom widget for matrix input built with anywidget and marimo.",
+  "author": "Hannes Knoll",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "momatrix-0.1.1.tar.gz",
+  "download_time": "2026-01-19T16:56:39.493525",
+  "package_url": "https://pypi.org/project/momatrix/"
+}

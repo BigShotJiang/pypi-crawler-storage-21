@@ -1,0 +1,11 @@
+{
+  "name": "aws-access-analyzer-validator",
+  "version": "0.5.0",
+  "summary": "A tool to validate existing identity and resource policies across regions and supported AWS services with AWS IAM Access Analyzer.",
+  "author": "Sami Jaktholm",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_access_analyzer_validator-0.5.0.tar.gz",
+  "download_time": "2026-01-19T16:56:36.411639",
+  "package_url": "https://pypi.org/project/aws-access-analyzer-validator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gitsl",
+  "version": "1.1",
+  "summary": "Git to Sapling CLI shim",
+  "author": "gitsl contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitsl-1.1.tar.gz",
+  "download_time": "2026-01-19T16:57:03.045278",
+  "package_url": "https://pypi.org/project/gitsl/"
+}

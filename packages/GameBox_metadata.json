@@ -1,0 +1,11 @@
+{
+  "name": "GameBox",
+  "version": "0.9.1",
+  "summary": "GameBox is a beginner-friendly Python package built on top of pygame, designed to make 2D game development faster and easier. It provides ready-to-use modules, utilities, and abstractions that let new developers create polished games without needing advanced coding knowledge—while still offering the flexibility for experienced coders to customize and extend.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gamebox-0.9.1.tar.gz",
+  "download_time": "2026-01-19T16:56:50.420993",
+  "package_url": "https://pypi.org/project/GameBox/"
+}

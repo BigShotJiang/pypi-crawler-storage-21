@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-rpc",
+  "version": "2.0.0",
+  "summary": "A simple JSON-RPC for aiohttp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiohttp_rpc-2.0.0.tar.gz",
+  "download_time": "2026-01-19T16:56:36.924353",
+  "package_url": "https://pypi.org/project/aiohttp-rpc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "az-envs",
+  "version": "0.1.2",
+  "summary": "Create .env files from Azure Key Vault secrets",
+  "author": "Dillon Johnson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "az_envs-0.1.2.tar.gz",
+  "download_time": "2026-01-19T16:56:47.816362",
+  "package_url": "https://pypi.org/project/az-envs/"
+}
