@@ -1,0 +1,11 @@
+{
+  "name": "meltano-map-transform",
+  "version": "0.12.0",
+  "summary": "Singer-compatible inline map transformer, built with the Meltano SDK for Singer Taps.",
+  "author": "Meltano Team and Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meltano_map_transform-0.12.0.tar.gz",
+  "download_time": "2026-01-19T22:46:45.089875",
+  "package_url": "https://pypi.org/project/meltano-map-transform/"
+}

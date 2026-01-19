@@ -1,0 +1,11 @@
+{
+  "name": "py-nb-to-src",
+  "version": "0.1.0",
+  "summary": "Convert Jupyter Notebooks (of all languages) and Rmd to their non-notebook counterparts.",
+  "author": null,
+  "license": "MPLv2 License",
+  "home_page": null,
+  "download_filename": "py_nb_to_src-0.1.0.tar.gz",
+  "download_time": "2026-01-19T22:47:07.405589",
+  "package_url": "https://pypi.org/project/py-nb-to-src/"
+}

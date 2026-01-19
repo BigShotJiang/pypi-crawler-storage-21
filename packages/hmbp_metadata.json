@@ -1,0 +1,11 @@
+{
+  "name": "hmbp",
+  "version": "0.2.1",
+  "summary": "Simple matplotlib and PGFPlots plotting with consistent, publication-ready styling",
+  "author": "hmblair",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hmbp-0.2.1.tar.gz",
+  "download_time": "2026-01-19T22:47:02.120946",
+  "package_url": "https://pypi.org/project/hmbp/"
+}

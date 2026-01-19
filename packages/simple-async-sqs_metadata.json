@@ -1,0 +1,11 @@
+{
+  "name": "simple-async-sqs",
+  "version": "0.2.0",
+  "summary": "Simple async SQS client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_async_sqs-0.2.0.tar.gz",
+  "download_time": "2026-01-19T22:47:18.527582",
+  "package_url": "https://pypi.org/project/simple-async-sqs/"
+}

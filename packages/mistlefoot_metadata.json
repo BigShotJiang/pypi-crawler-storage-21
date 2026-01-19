@@ -1,0 +1,11 @@
+{
+  "name": "mistlefoot",
+  "version": "0.0.1",
+  "summary": "Extended markdown features for mistletoe, including subscript, superscript, highlighting, emojis, footnotes, task lists, and more.",
+  "author": "Jeremy Howard",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/AnswerDotAI/mistlefoot",
+  "download_filename": "mistlefoot-0.0.1.tar.gz",
+  "download_time": "2026-01-19T22:47:21.787741",
+  "package_url": "https://pypi.org/project/mistlefoot/"
+}

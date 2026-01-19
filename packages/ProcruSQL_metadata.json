@@ -1,0 +1,11 @@
+{
+  "name": "ProcruSQL",
+  "version": "0.0.17",
+  "summary": "Make a database fit its description",
+  "author": "Peter J. Holzer",
+  "license": "MIT",
+  "home_page": "https://git.hjp.at:3000/hjp/procrusql",
+  "download_filename": "procrusql-0.0.17.tar.gz",
+  "download_time": "2026-01-19T22:46:50.843211",
+  "package_url": "https://pypi.org/project/ProcruSQL/"
+}

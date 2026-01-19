@@ -1,0 +1,11 @@
+{
+  "name": "hetman-kit-localize",
+  "version": "1.0.0",
+  "summary": "Hetman Kit Localize provides thread-safe locale management using context variables. It enables concurrent execution with different locale settings per context.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hetman_kit_localize-1.0.0.tar.gz",
+  "download_time": "2026-01-19T22:46:56.771144",
+  "package_url": "https://pypi.org/project/hetman-kit-localize/"
+}

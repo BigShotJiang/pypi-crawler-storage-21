@@ -1,0 +1,11 @@
+{
+  "name": "exllamav3",
+  "version": "0.0.20",
+  "summary": null,
+  "author": "turboderp",
+  "license": "MIT",
+  "home_page": "https://github.com/turboderp/exllamav3",
+  "download_filename": "exllamav3-0.0.20-py3-none-any.whl",
+  "download_time": "2026-01-19T22:47:22.337910",
+  "package_url": "https://pypi.org/project/exllamav3/"
+}

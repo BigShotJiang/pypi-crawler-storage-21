@@ -1,0 +1,11 @@
+{
+  "name": "eurotronic-cometblue-ha",
+  "version": "1.3.1",
+  "summary": "Python client for Eurotronic GmbH BLE Comet (and rebranded) Radiator TRVs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eurotronic_cometblue_ha-1.3.1.tar.gz",
+  "download_time": "2026-01-19T22:47:14.623419",
+  "package_url": "https://pypi.org/project/eurotronic-cometblue-ha/"
+}

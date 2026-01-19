@@ -1,11 +1,11 @@
 {
   "name": "iron-sql",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "iron_sql generates typed async PostgreSQL clients and runtime helpers from schemas and SQL queries",
   "author": "Ilia Ablamonov",
   "license": null,
   "home_page": null,
-  "download_filename": "iron_sql-0.1.2.tar.gz",
-  "download_time": "2026-01-19T17:27:31.751109",
+  "download_filename": "iron_sql-0.2.0.tar.gz",
+  "download_time": "2026-01-19T22:47:12.417562",
   "package_url": "https://pypi.org/project/iron-sql/"
 }
