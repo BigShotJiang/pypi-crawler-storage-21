@@ -1,0 +1,11 @@
+{
+  "name": "heare-stats-client",
+  "version": "0.0.10",
+  "summary": "Metrics client and server for heare services and clients",
+  "author": "Sean Fitzgerald",
+  "license": null,
+  "home_page": "https://github.com/heare-io/heare-stats-client",
+  "download_filename": "heare_stats_client-0.0.10.tar.gz",
+  "download_time": "2026-01-19T20:26:24.434797",
+  "package_url": "https://pypi.org/project/heare-stats-client/"
+}

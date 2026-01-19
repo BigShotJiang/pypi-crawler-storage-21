@@ -1,0 +1,11 @@
+{
+  "name": "tg-runner-worker-sdk",
+  "version": "1.0.0",
+  "summary": "Worker SDK for TG Runner orchestrator - build distributed workers easily",
+  "author": "TimaxLacs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tg_runner_worker_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-19T20:25:58.158991",
+  "package_url": "https://pypi.org/project/tg-runner-worker-sdk/"
+}

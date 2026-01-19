@@ -1,0 +1,11 @@
+{
+  "name": "nextdnsctl",
+  "version": "1.2.0",
+  "summary": "A CLI tool for managing NextDNS profiles",
+  "author": "Daniel Meint",
+  "license": "MIT",
+  "home_page": "https://github.com/danielmeint/nextdnsctl",
+  "download_filename": "nextdnsctl-1.2.0.tar.gz",
+  "download_time": "2026-01-19T20:26:23.918981",
+  "package_url": "https://pypi.org/project/nextdnsctl/"
+}

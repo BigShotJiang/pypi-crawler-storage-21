@@ -1,0 +1,11 @@
+{
+  "name": "pipolars",
+  "version": "0.1.3",
+  "summary": "High-performance PI System data extraction library with Polars DataFrames",
+  "author": "PIPolars Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pipolars-0.1.3.tar.gz",
+  "download_time": "2026-01-19T20:26:28.123130",
+  "package_url": "https://pypi.org/project/pipolars/"
+}

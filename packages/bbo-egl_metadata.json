@@ -1,0 +1,11 @@
+{
+  "name": "bbo-egl",
+  "version": "1.1.0",
+  "summary": "A package of black-box optimization (BBO) algorithms.",
+  "author": "Yedidya Kfir",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bbo_egl-1.1.0.tar.gz",
+  "download_time": "2026-01-19T20:26:03.389187",
+  "package_url": "https://pypi.org/project/bbo-egl/"
+}
