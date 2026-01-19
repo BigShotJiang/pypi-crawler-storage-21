@@ -1,11 +1,11 @@
 {
   "name": "dev-excuse-gen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Generate realistic programming excuses",
   "author": "Manish Tiwari",
   "license": null,
   "home_page": null,
-  "download_filename": "dev_excuse_gen-0.1.0.tar.gz",
-  "download_time": "2026-01-19T17:27:05.505011",
+  "download_filename": "dev_excuse_gen-0.1.1.tar.gz",
+  "download_time": "2026-01-19T17:49:31.105602",
   "package_url": "https://pypi.org/project/dev-excuse-gen/"
 }

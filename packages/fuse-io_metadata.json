@@ -1,11 +1,11 @@
 {
   "name": "fuse-io",
-  "version": "0.1.65",
+  "version": "0.1.66",
   "summary": "Fuse - Workflow automation. A powerful local-first automation platform with visual builder, AI integration, and extensive node library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fuse_io-0.1.65.tar.gz",
-  "download_time": "2026-01-19T17:27:04.463597",
+  "download_filename": "fuse_io-0.1.66.tar.gz",
+  "download_time": "2026-01-19T17:49:10.982645",
   "package_url": "https://pypi.org/project/fuse-io/"
 }

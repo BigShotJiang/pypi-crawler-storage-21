@@ -1,0 +1,11 @@
+{
+  "name": "wafw00f",
+  "version": "2.4.0",
+  "summary": "The Web Application Firewall Fingerprinting Toolkit",
+  "author": "Sandro Gauci",
+  "license": null,
+  "home_page": "https://github.com/enablesecurity/wafw00f",
+  "download_filename": "wafw00f-2.4.0.tar.gz",
+  "download_time": "2026-01-19T17:49:25.432077",
+  "package_url": "https://pypi.org/project/wafw00f/"
+}

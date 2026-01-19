@@ -1,11 +1,11 @@
 {
   "name": "pcp-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "MCP server for Performance Co-Pilot",
   "author": "Major Hayden",
   "license": null,
   "home_page": null,
-  "download_filename": "pcp_mcp-1.0.2.tar.gz",
-  "download_time": "2026-01-19T17:27:16.036935",
+  "download_filename": "pcp_mcp-1.0.3.tar.gz",
+  "download_time": "2026-01-19T17:49:09.867495",
   "package_url": "https://pypi.org/project/pcp-mcp/"
 }

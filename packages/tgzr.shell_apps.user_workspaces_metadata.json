@@ -1,0 +1,11 @@
+{
+  "name": "tgzr.shell_apps.user_workspaces",
+  "version": "0.0.5",
+  "summary": "A frontend for tgzr.pipeline workspaces.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tgzr_shell_apps_user_workspaces-0.0.5.tar.gz",
+  "download_time": "2026-01-19T17:49:00.944691",
+  "package_url": "https://pypi.org/project/tgzr.shell_apps.user_workspaces/"
+}

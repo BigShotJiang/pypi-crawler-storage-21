@@ -1,0 +1,11 @@
+{
+  "name": "steren",
+  "version": "0.0.2a0",
+  "summary": "A computer vision package for planetary GIS data and using neural networks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "steren-0.0.2a0.tar.gz",
+  "download_time": "2026-01-19T17:49:09.344862",
+  "package_url": "https://pypi.org/project/steren/"
+}

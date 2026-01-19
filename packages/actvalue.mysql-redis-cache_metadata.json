@@ -1,0 +1,11 @@
+{
+  "name": "actvalue.mysql-redis-cache",
+  "version": "0.3.0",
+  "summary": "Async wrapper for MySQL queries with Redis caching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "actvalue_mysql_redis_cache-0.3.0.tar.gz",
+  "download_time": "2026-01-19T17:48:59.119598",
+  "package_url": "https://pypi.org/project/actvalue.mysql-redis-cache/"
+}
