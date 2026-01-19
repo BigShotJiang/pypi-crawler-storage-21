@@ -1,0 +1,11 @@
+{
+  "name": "jitapi",
+  "version": "0.1.0",
+  "summary": "Just-in-Time API Orchestration System for LLMs - An MCP server for dynamic API discovery and execution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jitapi-0.1.0.tar.gz",
+  "download_time": "2026-01-19T20:47:08.798580",
+  "package_url": "https://pypi.org/project/jitapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vayu-whisper",
+  "version": "1.0.0",
+  "summary": "Vayu - The fastest Whisper implementation on Apple Silicon",
+  "author": "Apple Inc., Mustafa Aljadery, Siddharth Sharma, Behnam Ebrahimi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vayu_whisper-1.0.0.tar.gz",
+  "download_time": "2026-01-19T20:47:20.798620",
+  "package_url": "https://pypi.org/project/vayu-whisper/"
+}

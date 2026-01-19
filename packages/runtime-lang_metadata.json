@@ -1,0 +1,11 @@
+{
+  "name": "runtime-lang",
+  "version": "0.1.5",
+  "summary": "Interpreter for the RUNTIME programming language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runtime_lang-0.1.5.tar.gz",
+  "download_time": "2026-01-19T20:47:11.413474",
+  "package_url": "https://pypi.org/project/runtime-lang/"
+}

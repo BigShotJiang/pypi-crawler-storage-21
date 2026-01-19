@@ -1,0 +1,11 @@
+{
+  "name": "bobs-lazy-logging",
+  "version": "0.0.5",
+  "summary": "Debug logging for lazy people",
+  "author": "BobTheBuidler",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/lazy_logging",
+  "download_filename": "bobs_lazy_logging-0.0.5.tar.gz",
+  "download_time": "2026-01-19T20:47:21.310328",
+  "package_url": "https://pypi.org/project/bobs-lazy-logging/"
+}

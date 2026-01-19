@@ -1,0 +1,11 @@
+{
+  "name": "smashup-cli",
+  "version": "0.0.1",
+  "summary": "Smash Up faction randomizer with TUI configuration.",
+  "author": "Andrew Peng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smashup_cli-0.0.1.tar.gz",
+  "download_time": "2026-01-19T20:47:35.934315",
+  "package_url": "https://pypi.org/project/smashup-cli/"
+}

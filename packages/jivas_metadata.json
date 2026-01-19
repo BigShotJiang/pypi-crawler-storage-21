@@ -1,0 +1,11 @@
+{
+  "name": "jivas",
+  "version": "2.1.25",
+  "summary": "JIVAS is an Agentic Framework for rapidly prototyping and deploying graph-based, AI solutions.",
+  "author": "TrueSelph Inc.",
+  "license": null,
+  "home_page": "https://github.com/TrueSelph/jivas",
+  "download_filename": "jivas-2.1.25.tar.gz",
+  "download_time": "2026-01-19T20:47:33.342041",
+  "package_url": "https://pypi.org/project/jivas/"
+}

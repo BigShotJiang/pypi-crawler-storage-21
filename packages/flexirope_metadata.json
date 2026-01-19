@@ -1,11 +1,11 @@
 {
   "name": "flexirope",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Flexible middleware-based method tools",
-  "author": null,
-  "license": null,
+  "author": "SnayperTihCreator",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "flexirope-0.1.0.tar.gz",
-  "download_time": "2026-01-19T20:25:55.937870",
+  "download_filename": "flexirope-0.1.1.tar.gz",
+  "download_time": "2026-01-19T20:46:59.153484",
   "package_url": "https://pypi.org/project/flexirope/"
 }

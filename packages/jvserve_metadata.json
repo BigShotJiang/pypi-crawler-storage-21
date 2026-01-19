@@ -1,0 +1,11 @@
+{
+  "name": "jvserve",
+  "version": "2.1.25",
+  "summary": "FastAPI webserver for loading and interaction with JIVAS agents.",
+  "author": "TrueSelph Inc.",
+  "license": null,
+  "home_page": "https://github.com/TrueSelph/jvserve",
+  "download_filename": "jvserve-2.1.25.tar.gz",
+  "download_time": "2026-01-19T20:47:31.288721",
+  "package_url": "https://pypi.org/project/jvserve/"
+}
