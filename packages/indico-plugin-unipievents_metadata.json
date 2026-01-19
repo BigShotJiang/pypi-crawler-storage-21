@@ -1,11 +1,11 @@
 {
   "name": "indico-plugin-unipievents",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "UnipiEvents integration for Indico",
   "author": "Leonardo Robol",
   "license": "MIT",
   "home_page": "https://github.com/robol/indico-plugin-unipievents",
-  "download_filename": "indico_plugin_unipievents-0.3.2.tar.gz",
-  "download_time": "2026-01-19T17:49:05.632201",
+  "download_filename": "indico_plugin_unipievents-0.3.3.tar.gz",
+  "download_time": "2026-01-19T18:34:24.413531",
   "package_url": "https://pypi.org/project/indico-plugin-unipievents/"
 }

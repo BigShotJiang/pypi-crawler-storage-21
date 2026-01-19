@@ -1,0 +1,11 @@
+{
+  "name": "elegoo-robot-car4",
+  "version": "0.1.1",
+  "summary": "Python software for controlling the Elegoo Smart Robot Car V4.0",
+  "author": "Michele De Stefano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elegoo_robot_car4-0.1.1.tar.gz",
+  "download_time": "2026-01-19T18:34:46.654344",
+  "package_url": "https://pypi.org/project/elegoo-robot-car4/"
+}

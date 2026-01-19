@@ -1,0 +1,11 @@
+{
+  "name": "libsrg",
+  "version": "6.1.0",
+  "summary": "Utility lib logging, statistics, subprocesses",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "libsrg-6.1.0.tar.gz",
+  "download_time": "2026-01-19T18:33:58.411564",
+  "package_url": "https://pypi.org/project/libsrg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Pyrebase4",
+  "version": "4.9.0",
+  "summary": "A simple python wrapper for the Firebase API with current deps",
+  "author": "nhorvath",
+  "license": "MIT",
+  "home_page": "https://github.com/nhorvath/Pyrebase4",
+  "download_filename": "pyrebase4-4.9.0.tar.gz",
+  "download_time": "2026-01-19T18:34:37.954888",
+  "package_url": "https://pypi.org/project/Pyrebase4/"
+}

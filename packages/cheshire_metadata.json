@@ -1,0 +1,11 @@
+{
+  "name": "cheshire",
+  "version": "1.0.0",
+  "summary": "API for Keepsmile, LuckyStyle, Leeleberd, and related smart lights",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cheshire-1.0.0.tar.gz",
+  "download_time": "2026-01-19T18:34:00.801855",
+  "package_url": "https://pypi.org/project/cheshire/"
+}

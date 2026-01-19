@@ -1,11 +1,11 @@
 {
   "name": "namespacecraft",
-  "version": "0.3.1",
-  "summary": "Tiny toolkit for composing URI namespaces",
+  "version": "0.3.2",
+  "summary": "Composable URI namespaces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "namespacecraft-0.3.1.tar.gz",
-  "download_time": "2026-01-19T17:48:52.659052",
+  "download_filename": "namespacecraft-0.3.2.tar.gz",
+  "download_time": "2026-01-19T18:34:01.379586",
   "package_url": "https://pypi.org/project/namespacecraft/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "updownserver",
+  "version": "1.0.0",
+  "summary": "A lightweight HTTP server with unified upload/download interface",
+  "author": "Harry (Original by Densaugeo)",
+  "license": null,
+  "home_page": "https://github.com/harry18456/updownserver",
+  "download_filename": "updownserver-1.0.0.tar.gz",
+  "download_time": "2026-01-19T18:34:17.249646",
+  "package_url": "https://pypi.org/project/updownserver/"
+}
