@@ -1,0 +1,11 @@
+{
+  "name": "mocap-settings",
+  "version": "1.24.1",
+  "summary": "Motion capture service used for all moveai engine's operation settings.",
+  "author": "Move.ai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mocap_settings-1.24.1-py3-none-any.whl",
+  "download_time": "2026-01-19T23:55:03.546143",
+  "package_url": "https://pypi.org/project/mocap-settings/"
+}

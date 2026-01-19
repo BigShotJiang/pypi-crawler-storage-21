@@ -1,0 +1,11 @@
+{
+  "name": "comtypes",
+  "version": "1.4.15",
+  "summary": "Pure Python COM package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "comtypes-1.4.15.tar.gz",
+  "download_time": "2026-01-19T23:55:11.605313",
+  "package_url": "https://pypi.org/project/comtypes/"
+}
