@@ -1,0 +1,11 @@
+{
+  "name": "kipu-python",
+  "version": "0.0.2",
+  "summary": "A comprehensive Python library for the Kipu Healthcare API with HMAC SHA1 authentication and recursive JSON flattening",
+  "author": "Rahul",
+  "license": "MIT",
+  "home_page": "https://github.com/Rahulkumar010/kipu-python",
+  "download_filename": "kipu_python-0.0.2.tar.gz",
+  "download_time": "2026-01-19T17:27:07.063654",
+  "package_url": "https://pypi.org/project/kipu-python/"
+}

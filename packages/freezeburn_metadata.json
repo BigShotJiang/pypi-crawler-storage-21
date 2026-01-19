@@ -1,0 +1,11 @@
+{
+  "name": "freezeburn",
+  "version": "0.6.0",
+  "summary": "Freeze what you actually use. Generate requirements.txt from real imports and installed packages.",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "freezeburn-0.6.0.tar.gz",
+  "download_time": "2026-01-19T17:27:38.613909",
+  "package_url": "https://pypi.org/project/freezeburn/"
+}

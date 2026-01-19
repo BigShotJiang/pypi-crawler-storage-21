@@ -1,0 +1,11 @@
+{
+  "name": "data-gentry",
+  "version": "0.1.0",
+  "summary": "A library for packaging together data + documentation into an agent-friendly duckdb artifact.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_gentry-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-19T17:27:08.101387",
+  "package_url": "https://pypi.org/project/data-gentry/"
+}

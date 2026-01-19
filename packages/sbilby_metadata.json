@@ -1,0 +1,11 @@
+{
+  "name": "sbilby",
+  "version": "0.0.1",
+  "summary": "A package to perform residual neural likelihood evaluation for gravitational waves",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sbilby-0.0.1.tar.gz",
+  "download_time": "2026-01-19T17:27:16.556346",
+  "package_url": "https://pypi.org/project/sbilby/"
+}

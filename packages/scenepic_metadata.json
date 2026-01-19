@@ -1,0 +1,11 @@
+{
+  "name": "scenepic",
+  "version": "1.1.2",
+  "summary": "3D Visualization Made Easy",
+  "author": "ScenePic Team",
+  "license": null,
+  "home_page": "https://microsoft.github.io/scenepic/",
+  "download_filename": "scenepic-1.1.2.tar.gz",
+  "download_time": "2026-01-19T17:27:41.766124",
+  "package_url": "https://pypi.org/project/scenepic/"
+}

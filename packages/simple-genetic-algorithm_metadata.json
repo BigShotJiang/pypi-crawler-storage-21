@@ -1,0 +1,11 @@
+{
+  "name": "simple-genetic-algorithm",
+  "version": "0.3.0.0",
+  "summary": "Genetic Algorithm Framework",
+  "author": "Tobia Ippolito",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/M-106/Genetic-Algorithm",
+  "download_filename": "simple_genetic_algorithm-0.3.0.0.tar.gz",
+  "download_time": "2026-01-19T17:27:08.624020",
+  "package_url": "https://pypi.org/project/simple-genetic-algorithm/"
+}
