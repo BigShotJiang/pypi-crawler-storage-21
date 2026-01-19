@@ -1,0 +1,11 @@
+{
+  "name": "atlantic",
+  "version": "2.0.28",
+  "summary": "Atlantic is an automated preprocessing framework for supervised machine learning",
+  "author": "Luís Fernando da Silva Santos",
+  "license": "MIT",
+  "home_page": "https://github.com/TsLu1s/Atlantic",
+  "download_filename": "atlantic-2.0.28-py3-none-any.whl",
+  "download_time": "2026-01-19T19:01:30.766910",
+  "package_url": "https://pypi.org/project/atlantic/"
+}

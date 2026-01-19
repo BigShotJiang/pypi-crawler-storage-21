@@ -1,0 +1,11 @@
+{
+  "name": "textgenerator-ai",
+  "version": "1.0.0",
+  "summary": "Biblioteka w pythonie która służy do robienia czegoś podobnego do tqdm ale o wiele łatwiej.",
+  "author": "Alexander",
+  "license": "MIT",
+  "home_page": "https://github.com/superbest14/generator",
+  "download_filename": "textgenerator_ai-1.0.0.tar.gz",
+  "download_time": "2026-01-19T19:01:51.206666",
+  "package_url": "https://pypi.org/project/textgenerator-ai/"
+}

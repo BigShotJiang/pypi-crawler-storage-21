@@ -1,0 +1,11 @@
+{
+  "name": "weather-cli-era5",
+  "version": "2026.1.19rc0",
+  "summary": "CLI to download a 10-years weather data from ERA5 and process it in reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weather_cli_era5-2026.1.19rc0.tar.gz",
+  "download_time": "2026-01-19T19:01:04.074653",
+  "package_url": "https://pypi.org/project/weather-cli-era5/"
+}

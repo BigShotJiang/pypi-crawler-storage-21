@@ -1,0 +1,11 @@
+{
+  "name": "usf-bios",
+  "version": "0.0.1.post2",
+  "summary": "USF BIOS: AI Training & Fine-tuning Platform - Powered by US Inc",
+  "author": "US Inc",
+  "license": "Apache License 2.0",
+  "home_page": "https://us.inc",
+  "download_filename": "usf_bios-0.0.1.post2.tar.gz",
+  "download_time": "2026-01-19T19:01:05.882651",
+  "package_url": "https://pypi.org/project/usf-bios/"
+}

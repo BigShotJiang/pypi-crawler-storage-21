@@ -1,0 +1,11 @@
+{
+  "name": "repoclean-cli",
+  "version": "0.7.0",
+  "summary": "Repo hygiene scanner and fixer (junk files, secrets, gitignore).",
+  "author": "Trishir Kumar Vind",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repoclean_cli-0.7.0.tar.gz",
+  "download_time": "2026-01-19T19:01:11.615091",
+  "package_url": "https://pypi.org/project/repoclean-cli/"
+}

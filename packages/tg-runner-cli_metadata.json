@@ -1,0 +1,11 @@
+{
+  "name": "tg-runner-cli",
+  "version": "1.0.0",
+  "summary": "CLI for managing Telegram bots via TG Runner",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tg_runner_cli-1.0.0.tar.gz",
+  "download_time": "2026-01-19T19:01:54.976712",
+  "package_url": "https://pypi.org/project/tg-runner-cli/"
+}

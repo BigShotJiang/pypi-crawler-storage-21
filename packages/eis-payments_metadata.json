@@ -1,0 +1,11 @@
+{
+  "name": "eis-payments",
+  "version": "1.10.0",
+  "summary": "Emil Payment Service",
+  "author": "Contact us",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eis_payments-1.10.0.tar.gz",
+  "download_time": "2026-01-19T19:01:54.464669",
+  "package_url": "https://pypi.org/project/eis-payments/"
+}

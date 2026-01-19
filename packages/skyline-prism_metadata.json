@@ -1,0 +1,11 @@
+{
+  "name": "skyline-prism",
+  "version": "26.2.1",
+  "summary": "PRISM (Proteomics Reference-Integrated Signal Modeling) - RT-aware normalization for Skyline proteomics data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skyline_prism-26.2.1.tar.gz",
+  "download_time": "2026-01-19T19:01:43.656367",
+  "package_url": "https://pypi.org/project/skyline-prism/"
+}

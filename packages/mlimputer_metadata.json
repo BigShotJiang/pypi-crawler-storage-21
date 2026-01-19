@@ -1,0 +1,11 @@
+{
+  "name": "mlimputer",
+  "version": "2.0.23",
+  "summary": "MLimputer - Missing Data Imputation Framework for Machine Learning",
+  "author": "Luís Fernando da Silva Santos",
+  "license": "MIT",
+  "home_page": "https://github.com/TsLu1s/MLimputer",
+  "download_filename": "mlimputer-2.0.23-py3-none-any.whl",
+  "download_time": "2026-01-19T19:01:26.585175",
+  "package_url": "https://pypi.org/project/mlimputer/"
+}

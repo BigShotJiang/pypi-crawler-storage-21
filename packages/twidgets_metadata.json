@@ -1,0 +1,11 @@
+{
+  "name": "twidgets",
+  "version": "2.0.0",
+  "summary": "A tool to design and run dynamic, customizable dashboards directly inside your terminal.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twidgets-2.0.0.tar.gz",
+  "download_time": "2026-01-19T19:01:32.492991",
+  "package_url": "https://pypi.org/project/twidgets/"
+}
