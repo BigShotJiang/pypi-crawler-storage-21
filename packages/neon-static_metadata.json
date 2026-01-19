@@ -1,0 +1,11 @@
+{
+  "name": "neon-static",
+  "version": "1.0.0",
+  "summary": "Formal, static Sphinx theme with dark/light/system modes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neon_static-1.0.0.tar.gz",
+  "download_time": "2026-01-19T22:23:29.483406",
+  "package_url": "https://pypi.org/project/neon-static/"
+}

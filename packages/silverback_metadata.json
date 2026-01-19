@@ -1,0 +1,11 @@
+{
+  "name": "silverback",
+  "version": "0.7.37",
+  "summary": "Listen and respond to on-chain events in real-time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "silverback-0.7.37.tar.gz",
+  "download_time": "2026-01-19T22:23:39.398897",
+  "package_url": "https://pypi.org/project/silverback/"
+}

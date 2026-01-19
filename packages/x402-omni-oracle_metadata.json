@@ -1,0 +1,11 @@
+{
+  "name": "x402-omni-oracle",
+  "version": "0.1.0",
+  "summary": "Agent-First Data Provider. Native tools for LangChain, AutoGen, and CrewAI.",
+  "author": "Omni-Oracle",
+  "license": null,
+  "home_page": "https://github.com/omni-oracle/x402",
+  "download_filename": "x402_omni_oracle-0.1.0.tar.gz",
+  "download_time": "2026-01-19T22:23:08.795488",
+  "package_url": "https://pypi.org/project/x402-omni-oracle/"
+}

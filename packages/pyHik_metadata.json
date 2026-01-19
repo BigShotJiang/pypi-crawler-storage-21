@@ -1,0 +1,11 @@
+{
+  "name": "pyHik",
+  "version": "0.4.1",
+  "summary": "Python API for Hikvision cameras and NVRs - event streaming, ISAPI access, and device control.",
+  "author": "John Mihalic",
+  "license": "MIT",
+  "home_page": "https://github.com/mezz64/pyhik",
+  "download_filename": "pyhik-0.4.1.tar.gz",
+  "download_time": "2026-01-19T22:23:04.687455",
+  "package_url": "https://pypi.org/project/pyHik/"
+}

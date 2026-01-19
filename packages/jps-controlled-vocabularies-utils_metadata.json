@@ -1,0 +1,11 @@
+{
+  "name": "jps-controlled-vocabularies-utils",
+  "version": "0.1.0",
+  "summary": "The package is intended to be reusable across projects by allowing any consumer to load proprietary controlled vocabularies stored in YAML files and validate/consume terms programmatically.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jps_controlled_vocabularies_utils-0.1.0.tar.gz",
+  "download_time": "2026-01-19T22:23:23.319156",
+  "package_url": "https://pypi.org/project/jps-controlled-vocabularies-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyview-web",
+  "version": "0.8.2",
+  "summary": "LiveView in Python",
+  "author": "Larry Ogrodnek",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyview_web-0.8.2.tar.gz",
+  "download_time": "2026-01-19T22:23:47.384730",
+  "package_url": "https://pypi.org/project/pyview-web/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "glowprom",
+  "version": "1.2.0",
+  "summary": "Receives gas and electric meter data from https://glowmarkt.com/ and exposes it to Prometheus.",
+  "author": "Andrew Wilkinson",
+  "license": null,
+  "home_page": "https://github.com/andrewjw/glowprom",
+  "download_filename": "glowprom-1.2.0.tar.gz",
+  "download_time": "2026-01-19T22:23:28.457044",
+  "package_url": "https://pypi.org/project/glowprom/"
+}

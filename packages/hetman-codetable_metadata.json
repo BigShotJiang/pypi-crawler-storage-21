@@ -1,11 +1,11 @@
 {
   "name": "hetman-codetable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Hetman Codetable provides centralized, standardized response codes for APIs and applications. It ensures consistency by treating codes as a single source of truth.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hetman_codetable-1.0.0.tar.gz",
-  "download_time": "2026-01-19T17:49:07.253599",
+  "download_filename": "hetman_codetable-1.0.1.tar.gz",
+  "download_time": "2026-01-19T22:23:34.062646",
   "package_url": "https://pypi.org/project/hetman-codetable/"
 }
