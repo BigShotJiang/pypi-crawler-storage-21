@@ -1,12 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-19T21:43:22.322069
-- **Total Packages**: 87
-- **Total Size**: 47.25 MB
+- **Download Time**: 2026-01-19T21:54:40.876326
+- **Total Packages**: 89
+- **Total Size**: 19.67 MB
 
 ## Packages List
+- csvnorm
+- pixi-to-conda-lock
+- pyearthviz3d
+- pg-sui
+- telecore-api
+- shopee-zhaoyq-tools
+- kagazkit
+- smartx-rfid
+- omnidocs
+- claude-mpm
+- skills-agent-lib
 - screen-brightness-control
+- shopeenoc-utils
 - django-nested-values
 - remdb
 - ipfabric
@@ -56,7 +68,6 @@
 - darkzloop
 - novyx-langchain
 - petal-leafsdk
-- skills-agent-lib
 - chronometre
 - dragonfly-energy
 - plato-sdk-v2
@@ -84,12 +95,3 @@
 - porkbun-mcp
 - ado-git-repo-insights
 - lucidscan
-- claude-mpm
-- writer-reader
-- ibm-aigov-facts-client
-- aiinbx
-- shopee-pfms-smart-tools
-- xshelftransects
-- orient_express
-- rossum-agent-client
-- familiar-gemini
