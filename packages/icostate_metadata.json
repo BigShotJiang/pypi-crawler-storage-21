@@ -1,11 +1,11 @@
 {
   "name": "icostate",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "summary": "Stateful API for the ICOtronic system intended for usage in a Web API",
   "author": "Moritz Breurather",
   "license": null,
   "home_page": null,
-  "download_filename": "icostate-0.21.0.tar.gz",
-  "download_time": "2026-01-19T16:56:58.846383",
+  "download_filename": "icostate-0.22.0.tar.gz",
+  "download_time": "2026-01-19T19:52:00.750651",
   "package_url": "https://pypi.org/project/icostate/"
 }

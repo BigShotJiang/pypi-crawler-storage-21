@@ -1,0 +1,11 @@
+{
+  "name": "impacts-hpc",
+  "version": "0.0.8",
+  "summary": "Impacts-HPC is a Python library designed to estimate the environmental impact of jobs on data centers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "impacts_hpc-0.0.8.tar.gz",
+  "download_time": "2026-01-19T19:52:18.637805",
+  "package_url": "https://pypi.org/project/impacts-hpc/"
+}

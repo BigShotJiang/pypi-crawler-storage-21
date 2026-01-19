@@ -1,0 +1,11 @@
+{
+  "name": "test-package-fMRI-dMRI",
+  "version": "0.0.2",
+  "summary": "Implementation of joint dMRI and fMRI metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "test_package_fmri_dmri-0.0.2.tar.gz",
+  "download_time": "2026-01-19T19:52:22.226106",
+  "package_url": "https://pypi.org/project/test-package-fMRI-dMRI/"
+}
