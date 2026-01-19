@@ -1,0 +1,11 @@
+{
+  "name": "rsync-time-machine",
+  "version": "1.4.1",
+  "summary": "rsync-time-machine.py is a wrapper around rsync to make it easier to create and maintain Time Machine style backups.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsync_time_machine-1.4.1.tar.gz",
+  "download_time": "2026-01-19T21:21:36.955246",
+  "package_url": "https://pypi.org/project/rsync-time-machine/"
+}

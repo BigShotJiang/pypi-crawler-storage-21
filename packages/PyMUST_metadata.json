@@ -1,0 +1,11 @@
+{
+  "name": "PyMUST",
+  "version": "0.1.9",
+  "summary": "Python port of the MUST toolbox for ultrasound signal processing and generation of simulated images",
+  "author": "Gabriel Bernardino (Python port), Damien Garcia (original matlab code)",
+  "license": "GNU Lesser General Public License v3.0 (LGPL v3)",
+  "home_page": "https://www.biomecardio.com/en//",
+  "download_filename": "pymust-0.1.9-py3-none-any.whl",
+  "download_time": "2026-01-19T21:21:38.562992",
+  "package_url": "https://pypi.org/project/PyMUST/"
+}

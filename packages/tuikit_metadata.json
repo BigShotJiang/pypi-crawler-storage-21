@@ -1,0 +1,11 @@
+{
+  "name": "tuikit",
+  "version": "1.0.0",
+  "summary": "Lightweight TUI utilities: console, text, lists, timezones and logic helpers.",
+  "author": "Caleb M. Sibanda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tuikit-1.0.0.tar.gz",
+  "download_time": "2026-01-19T21:21:46.509865",
+  "package_url": "https://pypi.org/project/tuikit/"
+}
