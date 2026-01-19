@@ -1,11 +1,11 @@
 {
   "name": "coach-app-baml-client",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "summary": "BAML-generated types and client for coach-app boundary contracts",
   "author": "Coach App Team",
   "license": null,
   "home_page": null,
-  "download_filename": "coach_app_baml_client-1.1.1.tar.gz",
-  "download_time": "2026-01-19T22:46:56.205982",
+  "download_filename": "coach_app_baml_client-1.1.4.tar.gz",
+  "download_time": "2026-01-19T23:43:22.031888",
   "package_url": "https://pypi.org/project/coach-app-baml-client/"
 }

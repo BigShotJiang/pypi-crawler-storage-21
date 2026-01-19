@@ -1,0 +1,11 @@
+{
+  "name": "kevo-mcp-fastmcp",
+  "version": "0.1.1",
+  "summary": "An MCP server giving you access to your data in Kevo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kevo_mcp_fastmcp-0.1.1.tar.gz",
+  "download_time": "2026-01-19T23:43:44.503392",
+  "package_url": "https://pypi.org/project/kevo-mcp-fastmcp/"
+}

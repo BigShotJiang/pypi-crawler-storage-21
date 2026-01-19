@@ -1,0 +1,11 @@
+{
+  "name": "cf-python",
+  "version": "3.19.0",
+  "summary": "A CF-compliant earth science data analysis library",
+  "author": "David Hassell",
+  "license": "MIT",
+  "home_page": "https://ncas-cms.github.io/cf-python",
+  "download_filename": "cf_python-3.19.0.tar.gz",
+  "download_time": "2026-01-19T23:43:39.277260",
+  "package_url": "https://pypi.org/project/cf-python/"
+}

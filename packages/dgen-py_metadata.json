@@ -1,0 +1,11 @@
+{
+  "name": "dgen-py",
+  "version": "0.1.5",
+  "summary": "High-performance random data generation with NUMA optimization and zero-copy Python interface",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "dgen_py-0.1.5.tar.gz",
+  "download_time": "2026-01-19T23:43:30.316360",
+  "package_url": "https://pypi.org/project/dgen-py/"
+}

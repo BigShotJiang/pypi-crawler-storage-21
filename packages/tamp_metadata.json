@@ -1,0 +1,11 @@
+{
+  "name": "tamp",
+  "version": "1.11.0",
+  "summary": null,
+  "author": "Brian Pugh",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/BrianPugh/tamp",
+  "download_filename": "tamp-1.11.0.tar.gz",
+  "download_time": "2026-01-19T23:43:48.673017",
+  "package_url": "https://pypi.org/project/tamp/"
+}

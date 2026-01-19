@@ -1,0 +1,11 @@
+{
+  "name": "application-file-scanner",
+  "version": "0.6.4",
+  "summary": "A small package to deal with the headaches of scanning for files for an application to execute on.",
+  "author": "Jack De Winter",
+  "license": "MIT",
+  "home_page": "https://github.com/jackdewinter/application_file_scanner",
+  "download_filename": "application_file_scanner-0.6.4.tar.gz",
+  "download_time": "2026-01-19T23:43:35.071724",
+  "package_url": "https://pypi.org/project/application-file-scanner/"
+}

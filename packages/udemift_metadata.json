@@ -1,11 +1,11 @@
 {
   "name": "udemift",
-  "version": "0.3",
+  "version": "0.6",
   "summary": "udemift package",
   "author": "vic",
   "license": null,
-  "home_page": null,
-  "download_filename": "udemift-0.3.tar.gz",
-  "download_time": "2026-01-19T23:21:59.291795",
+  "home_page": "https://github.com/Victorio-dev/udemift",
+  "download_filename": "udemift-0.6.tar.gz",
+  "download_time": "2026-01-19T23:43:18.370214",
   "package_url": "https://pypi.org/project/udemift/"
 }
