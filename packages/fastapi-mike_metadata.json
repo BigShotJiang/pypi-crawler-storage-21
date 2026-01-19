@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-mike",
+  "version": "0.2.2",
+  "summary": "Enterprise FastAPI Scaffolder with Auth, Admin and Docker by MIKECARDONA076",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_mike-0.2.2.tar.gz",
+  "download_time": "2026-01-19T23:21:58.768648",
+  "package_url": "https://pypi.org/project/fastapi-mike/"
+}

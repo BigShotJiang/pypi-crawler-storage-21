@@ -1,0 +1,11 @@
+{
+  "name": "pdperf",
+  "version": "0.2.0",
+  "summary": "A static performance linter that detects slow Pandas anti-patterns before they reach production.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdperf-0.2.0.tar.gz",
+  "download_time": "2026-01-19T23:22:06.141986",
+  "package_url": "https://pypi.org/project/pdperf/"
+}

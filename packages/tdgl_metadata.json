@@ -1,0 +1,11 @@
+{
+  "name": "tdgl",
+  "version": "0.8.4",
+  "summary": "pyTDGL: Time-dependent Ginzburg-Landau in Python.",
+  "author": "Logan Bishop-Van Horn",
+  "license": "MIT",
+  "home_page": "https://github.com/loganbvh/py-tdgl",
+  "download_filename": "tdgl-0.8.4.tar.gz",
+  "download_time": "2026-01-19T23:22:10.828921",
+  "package_url": "https://pypi.org/project/tdgl/"
+}

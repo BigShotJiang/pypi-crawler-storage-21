@@ -1,11 +1,11 @@
 {
   "name": "ipfabric",
-  "version": "7.8.2",
+  "version": "7.9.0",
   "summary": "Python package for interacting with IP Fabric",
   "author": "Solution Architecture",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ipfabric-7.8.2.tar.gz",
-  "download_time": "2026-01-19T21:42:34.358607",
+  "download_filename": "ipfabric-7.9.0.tar.gz",
+  "download_time": "2026-01-19T23:21:56.181067",
   "package_url": "https://pypi.org/project/ipfabric/"
 }
