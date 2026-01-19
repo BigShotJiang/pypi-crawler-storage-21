@@ -1,0 +1,11 @@
+{
+  "name": "aistore",
+  "version": "1.19.0",
+  "summary": "Client-side APIs to access and utilize clusters, buckets, and objects on AIStore.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aistore-1.19.0.tar.gz",
+  "download_time": "2026-01-19T19:31:26.883319",
+  "package_url": "https://pypi.org/project/aistore/"
+}

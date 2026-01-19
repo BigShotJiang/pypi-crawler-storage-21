@@ -1,0 +1,11 @@
+{
+  "name": "ouman-eh-800-api",
+  "version": "0.2.0",
+  "summary": "Async client for communicating with the Ouman EH-800 heating controller",
+  "author": "Markus Tuominen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ouman_eh_800_api-0.2.0.tar.gz",
+  "download_time": "2026-01-19T19:31:04.313884",
+  "package_url": "https://pypi.org/project/ouman-eh-800-api/"
+}

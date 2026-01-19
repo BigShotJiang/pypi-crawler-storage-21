@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-tools-api",
+  "version": "0.2.1",
+  "summary": "Generic API tool for calling any REST API via OpenAPI specs - search, explore, and dynamically use ANY API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hanzo_tools_api-0.2.1.tar.gz",
+  "download_time": "2026-01-19T19:30:52.961979",
+  "package_url": "https://pypi.org/project/hanzo-tools-api/"
+}

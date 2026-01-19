@@ -1,0 +1,11 @@
+{
+  "name": "fairspec-extension",
+  "version": "0.1.1",
+  "summary": "Fairspec Extension is a Git repository template for rapid Fairspec extension development",
+  "author": "Evgeny Karev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairspec_extension-0.1.1.tar.gz",
+  "download_time": "2026-01-19T19:31:17.382885",
+  "package_url": "https://pypi.org/project/fairspec-extension/"
+}

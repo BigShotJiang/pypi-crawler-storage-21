@@ -1,0 +1,11 @@
+{
+  "name": "auth0-ai",
+  "version": "1.0.0",
+  "summary": "This package provides base abstractions for authentication and authorization in AI applications.",
+  "author": "Auth0",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "auth0_ai-1.0.0.tar.gz",
+  "download_time": "2026-01-19T19:31:27.910904",
+  "package_url": "https://pypi.org/project/auth0-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rapidfit",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Build multi-task classifiers and augment classification datasets with ease",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rapidfit-0.1.3.tar.gz",
-  "download_time": "2026-01-19T19:01:08.862996",
+  "download_filename": "rapidfit-0.1.4.tar.gz",
+  "download_time": "2026-01-19T19:30:55.545900",
   "package_url": "https://pypi.org/project/rapidfit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "featransform",
+  "version": "1.6.56",
+  "summary": "Featransform is an automated feature engineering framework for supervised machine learning",
+  "author": "Luís Fernando da Silva Santos",
+  "license": "MIT",
+  "home_page": "https://github.com/TsLu1s/Featransform",
+  "download_filename": "featransform-1.6.56-py3-none-any.whl",
+  "download_time": "2026-01-19T19:31:26.361430",
+  "package_url": "https://pypi.org/project/featransform/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smoothglue_django_mongo_adapter",
+  "version": "0.0.2",
+  "summary": "A Django adapter to facilitate using MongoDB with MongoEngine.",
+  "author": "BrainGu",
+  "license": "Proprietary",
+  "home_page": "https://braingu.com/solutions/smoothglue/",
+  "download_filename": "smoothglue_django_mongo_adapter-0.0.2.tar.gz",
+  "download_time": "2026-01-19T19:30:48.784002",
+  "package_url": "https://pypi.org/project/smoothglue_django_mongo_adapter/"
+}

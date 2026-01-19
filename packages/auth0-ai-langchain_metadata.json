@@ -1,0 +1,11 @@
+{
+  "name": "auth0-ai-langchain",
+  "version": "1.0.0",
+  "summary": "This package is an SDK for building secure AI-powered applications using Auth0, Okta FGA and LangChain.",
+  "author": "Auth0",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "auth0_ai_langchain-1.0.0.tar.gz",
+  "download_time": "2026-01-19T19:31:24.774355",
+  "package_url": "https://pypi.org/project/auth0-ai-langchain/"
+}

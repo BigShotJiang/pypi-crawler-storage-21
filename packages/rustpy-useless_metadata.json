@@ -1,0 +1,11 @@
+{
+  "name": "rustpy-useless",
+  "version": "0.1.1",
+  "summary": "A Python library that parodies Rust syntax and concepts with intentionally bad optimization and excessive complexity. Every operation waits 1 second and executes 'pão com banana' before doing anything useful.",
+  "author": "Klee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rustpy_useless-0.1.1.tar.gz",
+  "download_time": "2026-01-19T19:31:05.362096",
+  "package_url": "https://pypi.org/project/rustpy-useless/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tsp",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "summary": "Making permafrost data effortless",
   "author": "Nick Brown",
   "license": null,
   "home_page": "https://gitlab.com/permafrostnet/teaspoon",
-  "download_filename": "tsp-1.10.2.tar.gz",
-  "download_time": "2026-01-19T19:01:39.416619",
+  "download_filename": "tsp-1.10.3.tar.gz",
+  "download_time": "2026-01-19T19:30:47.756662",
   "package_url": "https://pypi.org/project/tsp/"
 }

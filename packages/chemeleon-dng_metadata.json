@@ -1,0 +1,11 @@
+{
+  "name": "chemeleon-dng",
+  "version": "0.1.5",
+  "summary": "Chemeleon framework for De Novo Generation (DNG) and Crystal Structure Prediction (CSP) tasks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chemeleon_dng-0.1.5.tar.gz",
+  "download_time": "2026-01-19T19:31:00.193248",
+  "package_url": "https://pypi.org/project/chemeleon-dng/"
+}

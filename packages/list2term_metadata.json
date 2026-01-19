@@ -1,0 +1,11 @@
+{
+  "name": "list2term",
+  "version": "1.2.0",
+  "summary": "A lightweight tool to mirror and dynamically update a Python list in your terminal, with built-in support for concurrent output (asyncio / threading / multiprocessing).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "list2term-1.2.0.tar.gz",
+  "download_time": "2026-01-19T19:30:57.626375",
+  "package_url": "https://pypi.org/project/list2term/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gridded-obs",
+  "version": "1.0.5",
+  "summary": "Efficient verification of gridded observations",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "gridded_obs-1.0.5.tar.gz",
+  "download_time": "2026-01-19T19:31:03.287595",
+  "package_url": "https://pypi.org/project/gridded-obs/"
+}
