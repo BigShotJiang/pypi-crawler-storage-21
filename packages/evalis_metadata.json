@@ -1,0 +1,11 @@
+{
+  "name": "evalis",
+  "version": "0.2.1",
+  "summary": "A polyglot, safe, user-friendly expression evaluator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evalis-0.2.1.tar.gz",
+  "download_time": "2026-01-19T21:42:37.327722",
+  "package_url": "https://pypi.org/project/evalis/"
+}

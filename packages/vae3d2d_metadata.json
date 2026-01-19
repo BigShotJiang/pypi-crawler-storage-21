@@ -1,0 +1,11 @@
+{
+  "name": "vae3d2d",
+  "version": "0.2.0",
+  "summary": "3D and 2D VAE tools for medical and grayscale images",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vae3d2d-0.2.0.tar.gz",
+  "download_time": "2026-01-19T21:43:13.662769",
+  "package_url": "https://pypi.org/project/vae3d2d/"
+}

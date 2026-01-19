@@ -1,0 +1,11 @@
+{
+  "name": "tools",
+  "version": "1.0.20",
+  "summary": "python syntax tool",
+  "author": "JaeSung Yoo",
+  "license": null,
+  "home_page": "https://github.com/jsyoo61/tools",
+  "download_filename": "tools-1.0.20.tar.gz",
+  "download_time": "2026-01-19T21:42:41.855096",
+  "package_url": "https://pypi.org/project/tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytezos",
+  "version": "3.17.0",
+  "summary": "Python toolkit for Tezos",
+  "author": "Michael Zaikin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytezos-3.17.0.tar.gz",
+  "download_time": "2026-01-19T21:43:08.615589",
+  "package_url": "https://pypi.org/project/pytezos/"
+}

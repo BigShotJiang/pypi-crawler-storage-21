@@ -1,0 +1,11 @@
+{
+  "name": "darkzloop",
+  "version": "0.8.3",
+  "summary": "Reliable. Autonomous. Model-Agnostic. Turn any LLM into a disciplined software engineer.",
+  "author": "Darkzloop Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "darkzloop-0.8.3.tar.gz",
+  "download_time": "2026-01-19T21:43:00.011234",
+  "package_url": "https://pypi.org/project/darkzloop/"
+}

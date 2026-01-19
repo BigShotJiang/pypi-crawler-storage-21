@@ -1,0 +1,11 @@
+{
+  "name": "majis-ops",
+  "version": "1.2.1",
+  "summary": "Juice/MAJIS operations toolbox",
+  "author": "Axelle Gottafray",
+  "license": null,
+  "home_page": null,
+  "download_filename": "majis_ops-1.2.1.tar.gz",
+  "download_time": "2026-01-19T21:42:54.640539",
+  "package_url": "https://pypi.org/project/majis-ops/"
+}

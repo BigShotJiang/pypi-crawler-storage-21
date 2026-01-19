@@ -1,0 +1,11 @@
+{
+  "name": "ml4t-diagnostic",
+  "version": "0.1.0a1",
+  "summary": "Comprehensive diagnostic and evaluation framework for quantitative finance ML workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ml4t_diagnostic-0.1.0a1.tar.gz",
+  "download_time": "2026-01-19T21:42:44.936341",
+  "package_url": "https://pypi.org/project/ml4t-diagnostic/"
+}
