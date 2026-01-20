@@ -1,0 +1,11 @@
+{
+  "name": "datalogger-tf",
+  "version": "0.1.0",
+  "summary": "datalogger-tf is a GUI interfaced software to log multiple instruments via ethernet, usb or serial connection.",
+  "author": "Baptiste Marechal",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/pythonbase1/datalogger",
+  "download_filename": "datalogger_tf-0.1.0.tar.gz",
+  "download_time": "2026-01-20T15:04:29.327207",
+  "package_url": "https://pypi.org/project/datalogger-tf/"
+}

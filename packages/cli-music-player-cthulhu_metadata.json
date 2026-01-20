@@ -1,0 +1,11 @@
+{
+  "name": "cli-music-player-cthulhu",
+  "version": "1.0.10",
+  "summary": "A lightweight terminal music player with mpv engine and auto-setup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_music_player_cthulhu-1.0.10.tar.gz",
+  "download_time": "2026-01-20T15:04:12.793001",
+  "package_url": "https://pypi.org/project/cli-music-player-cthulhu/"
+}

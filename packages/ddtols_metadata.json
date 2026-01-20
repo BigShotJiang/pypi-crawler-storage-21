@@ -1,11 +1,11 @@
 {
   "name": "ddtols",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A small Python utility library skeleton.",
   "author": "ddtols contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ddtols-0.1.1.tar.gz",
-  "download_time": "2026-01-20T12:53:16.189406",
+  "download_filename": "ddtols-0.1.2.tar.gz",
+  "download_time": "2026-01-20T15:04:27.270484",
   "package_url": "https://pypi.org/project/ddtols/"
 }

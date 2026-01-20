@@ -1,11 +1,11 @@
 {
   "name": "indiayz",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Unified open-source AI toolkit with a clean, modular Python SDK",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "indiayz-0.2.0.tar.gz",
-  "download_time": "2026-01-20T12:53:46.534360",
+  "download_filename": "indiayz-0.2.2.tar.gz",
+  "download_time": "2026-01-20T15:04:10.703211",
   "package_url": "https://pypi.org/project/indiayz/"
 }

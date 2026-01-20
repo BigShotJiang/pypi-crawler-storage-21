@@ -1,11 +1,11 @@
 {
   "name": "databricks-tellr",
-  "version": "0.1.13",
+  "version": "0.1.16",
   "summary": "Tellr deployment tooling for Databricks Apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "databricks_tellr-0.1.13.tar.gz",
-  "download_time": "2026-01-20T12:53:25.101375",
+  "download_filename": "databricks_tellr-0.1.16.tar.gz",
+  "download_time": "2026-01-20T15:04:14.338620",
   "package_url": "https://pypi.org/project/databricks-tellr/"
 }

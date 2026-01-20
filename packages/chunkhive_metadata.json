@@ -1,0 +1,11 @@
+{
+  "name": "chunkhive",
+  "version": "0.1.2",
+  "summary": "Hierarchical, semantic code chunking for AI systems",
+  "author": "ChunkHive",
+  "license": null,
+  "home_page": "https://github.com/AgentAhmed/ChunkHive",
+  "download_filename": "chunkhive-0.1.2.tar.gz",
+  "download_time": "2026-01-20T15:03:41.723146",
+  "package_url": "https://pypi.org/project/chunkhive/"
+}
