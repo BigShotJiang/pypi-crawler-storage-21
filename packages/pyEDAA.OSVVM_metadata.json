@@ -1,0 +1,11 @@
+{
+  "name": "pyEDAA.OSVVM",
+  "version": "0.6.1",
+  "summary": "Parser and converters for OSVVM-specific data models and report formats.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/edaa-org/pyEDAA.OSVVM",
+  "download_filename": "pyedaa_osvvm-0.6.1.tar.gz",
+  "download_time": "2026-01-20T23:46:31.906603",
+  "package_url": "https://pypi.org/project/pyEDAA.OSVVM/"
+}

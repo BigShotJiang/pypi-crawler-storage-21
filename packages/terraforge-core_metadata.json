@@ -1,0 +1,11 @@
+{
+  "name": "terraforge-core",
+  "version": "1.2.1",
+  "summary": "A customizable Python tool for generating maps for games and simulations.",
+  "author": "Brianna Ladson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "terraforge_core-1.2.1.tar.gz",
+  "download_time": "2026-01-20T23:46:41.943431",
+  "package_url": "https://pypi.org/project/terraforge-core/"
+}

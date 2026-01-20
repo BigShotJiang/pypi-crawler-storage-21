@@ -1,0 +1,11 @@
+{
+  "name": "morango",
+  "version": "0.8.6",
+  "summary": "Pure Python sqlite-based Django DB replication engine.",
+  "author": "Learning Equality",
+  "license": "MIT",
+  "home_page": "https://github.com/learningequality/morango",
+  "download_filename": "morango-0.8.6.tar.gz",
+  "download_time": "2026-01-20T23:46:43.515664",
+  "package_url": "https://pypi.org/project/morango/"
+}

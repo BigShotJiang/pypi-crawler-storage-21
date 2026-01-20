@@ -1,0 +1,11 @@
+{
+  "name": "fw-nodes-core",
+  "version": "0.0.1a1",
+  "summary": "Core nodes for Flowire workflow automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fw_nodes_core-0.0.1a1.tar.gz",
+  "download_time": "2026-01-20T23:46:35.651926",
+  "package_url": "https://pypi.org/project/fw-nodes-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "winloop",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "Windows version of uvloop",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "winloop-0.4.2.tar.gz",
-  "download_time": "2026-01-19T20:26:14.495922",
+  "download_filename": "winloop-0.5.0.tar.gz",
+  "download_time": "2026-01-20T23:46:11.255995",
   "package_url": "https://pypi.org/project/winloop/"
 }

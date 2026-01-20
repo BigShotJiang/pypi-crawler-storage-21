@@ -1,0 +1,11 @@
+{
+  "name": "plantbgc",
+  "version": "0.1.0",
+  "summary": "PlantBGC: Transformer-based biosynthetic gene cluster candidate detection for plant genomes",
+  "author": "PlantBGC Authors",
+  "license": "MIT",
+  "home_page": "https://github.com/Yuhanzhao-233/PlantBGC",
+  "download_filename": "plantbgc-0.1.0.tar.gz",
+  "download_time": "2026-01-20T23:46:15.536537",
+  "package_url": "https://pypi.org/project/plantbgc/"
+}

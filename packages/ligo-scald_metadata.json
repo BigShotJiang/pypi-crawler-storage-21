@@ -1,0 +1,11 @@
+{
+  "name": "ligo-scald",
+  "version": "0.8.5",
+  "summary": "SCalable Analytics for LVK Data",
+  "author": "Olivia Godwin",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://git.ligo.org/gstlal-visualisation/ligo-scald",
+  "download_filename": "ligo_scald-0.8.5.tar.gz",
+  "download_time": "2026-01-20T23:46:13.353223",
+  "package_url": "https://pypi.org/project/ligo-scald/"
+}

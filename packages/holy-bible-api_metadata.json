@@ -1,0 +1,11 @@
+{
+  "name": "holy-bible-api",
+  "version": "1.0.7",
+  "summary": "A Python client library for the Holy Bible API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "holy_bible_api-1.0.7.tar.gz",
+  "download_time": "2026-01-20T23:46:40.885332",
+  "package_url": "https://pypi.org/project/holy-bible-api/"
+}

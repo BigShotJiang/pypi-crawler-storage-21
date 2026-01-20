@@ -1,0 +1,11 @@
+{
+  "name": "joulescope-ui",
+  "version": "1.4.2",
+  "summary": "Joulescope™ graphical user interface",
+  "author": "Jetperch LLC",
+  "license": "Apache-2.0",
+  "home_page": "https://www.joulescope.com",
+  "download_filename": "joulescope_ui-1.4.2.tar.gz",
+  "download_time": "2026-01-20T23:46:38.799403",
+  "package_url": "https://pypi.org/project/joulescope-ui/"
+}
