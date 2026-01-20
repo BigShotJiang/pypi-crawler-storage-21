@@ -1,0 +1,11 @@
+{
+  "name": "ArraySplitter",
+  "version": "1.4.0",
+  "summary": "De Novo Decomposition of Satellite DNA Arrays into Monomers within Telomere-to-Telomere Assemblies",
+  "author": "Aleksey Komissarov",
+  "license": "BSD",
+  "home_page": "https://github.com/aglabx/ArraySplitter",
+  "download_filename": "arraysplitter-1.4.0.tar.gz",
+  "download_time": "2026-01-20T18:38:58.985711",
+  "package_url": "https://pypi.org/project/ArraySplitter/"
+}

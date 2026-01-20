@@ -1,0 +1,11 @@
+{
+  "name": "burki",
+  "version": "0.1.2",
+  "summary": "Official Python SDK for the Burki Voice AI Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "burki-0.1.2.tar.gz",
+  "download_time": "2026-01-20T18:39:33.652223",
+  "package_url": "https://pypi.org/project/burki/"
+}

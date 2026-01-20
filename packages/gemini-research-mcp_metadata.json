@@ -1,0 +1,11 @@
+{
+  "name": "gemini-research-mcp",
+  "version": "0.2.3",
+  "summary": "MCP server for AI-powered research using Gemini: quick grounded search + Deep Research Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemini_research_mcp-0.2.3.tar.gz",
+  "download_time": "2026-01-20T18:39:30.555791",
+  "package_url": "https://pypi.org/project/gemini-research-mcp/"
+}

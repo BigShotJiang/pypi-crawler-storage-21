@@ -1,11 +1,11 @@
 {
   "name": "urlpath-filereader",
-  "version": "1.1.1",
-  "summary": null,
+  "version": "1.2.0",
+  "summary": "urlpath-filereader - библиотека для чтения файлов из локальной файловой системы и URL-адресов",
   "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
   "license": null,
   "home_page": "https://github.com/MagIlyasDOMA/urlpath-filereader",
-  "download_filename": "urlpath_filereader-1.1.1-py3-none-any.whl",
-  "download_time": "2026-01-20T15:04:13.304396",
+  "download_filename": "urlpath_filereader-1.2.0.tar.gz",
+  "download_time": "2026-01-20T18:39:05.338420",
   "package_url": "https://pypi.org/project/urlpath-filereader/"
 }

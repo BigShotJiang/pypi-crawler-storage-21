@@ -1,11 +1,11 @@
 {
   "name": "verge-auth-sdk",
-  "version": "0.1.46",
+  "version": "0.1.48",
   "summary": "Secure centralized authentication SDK for FastAPI microservices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "verge_auth_sdk-0.1.46.tar.gz",
-  "download_time": "2026-01-20T15:03:48.436782",
+  "download_filename": "verge_auth_sdk-0.1.48.tar.gz",
+  "download_time": "2026-01-20T18:39:07.008495",
   "package_url": "https://pypi.org/project/verge-auth-sdk/"
 }

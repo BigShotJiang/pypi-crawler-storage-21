@@ -1,11 +1,11 @@
 {
   "name": "denial",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Is one None not enough for you? There's more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "denial-0.0.4.tar.gz",
-  "download_time": "2026-01-20T17:06:17.903275",
+  "download_filename": "denial-0.0.5.tar.gz",
+  "download_time": "2026-01-20T18:39:18.974595",
   "package_url": "https://pypi.org/project/denial/"
 }

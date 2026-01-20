@@ -1,0 +1,11 @@
+{
+  "name": "curveball",
+  "version": "0.3.0",
+  "summary": "Predicting competition results from growth curves",
+  "author": "Yoav Ram",
+  "license": "MIT",
+  "home_page": "https://github.com/yoavram/curveball",
+  "download_filename": "curveball-0.3.0.tar.gz",
+  "download_time": "2026-01-20T18:39:09.073528",
+  "package_url": "https://pypi.org/project/curveball/"
+}

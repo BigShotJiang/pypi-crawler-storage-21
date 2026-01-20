@@ -1,11 +1,11 @@
 {
   "name": "Topsis-raj-102303324",
-  "version": "1.0.4",
+  "version": "0.1.8",
   "summary": "TOPSIS implementation using Python",
   "author": "Raj Gupta",
   "license": null,
   "home_page": null,
-  "download_filename": "topsis_raj_102303324-1.0.4.tar.gz",
-  "download_time": "2026-01-20T16:38:23.122134",
+  "download_filename": "topsis_raj_102303324-0.1.8.tar.gz",
+  "download_time": "2026-01-20T18:39:10.146759",
   "package_url": "https://pypi.org/project/Topsis-raj-102303324/"
 }

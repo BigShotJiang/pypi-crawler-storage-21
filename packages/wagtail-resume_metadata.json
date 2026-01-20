@@ -1,11 +1,11 @@
 {
   "name": "wagtail-resume",
-  "version": "2.11.3",
+  "version": "2.12.0",
   "summary": "A Wagtail project made to simplify creation of resumes for developers.",
   "author": "Adin Hodovic",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wagtail_resume-2.11.3.tar.gz",
-  "download_time": "2026-01-19T22:23:02.624687",
+  "download_filename": "wagtail_resume-2.12.0.tar.gz",
+  "download_time": "2026-01-20T18:39:31.091987",
   "package_url": "https://pypi.org/project/wagtail-resume/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wasmtime",
+  "version": "41.0.0",
+  "summary": "A WebAssembly runtime powered by Wasmtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wasmtime-41.0.0.tar.gz",
+  "download_time": "2026-01-20T18:39:36.793933",
+  "package_url": "https://pypi.org/project/wasmtime/"
+}
