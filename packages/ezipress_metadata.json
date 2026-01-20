@@ -1,0 +1,11 @@
+{
+  "name": "ezipress",
+  "version": "202601210707",
+  "summary": "File image re-compression tool - supports ZIP, RAR, EPUB format image compression processing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezipress-202601210707.tar.gz",
+  "download_time": "2026-01-20T23:27:07.914276",
+  "package_url": "https://pypi.org/project/ezipress/"
+}

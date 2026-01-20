@@ -1,0 +1,11 @@
+{
+  "name": "pyEDAA.ProjectModel",
+  "version": "0.6.2",
+  "summary": "An abstract model of EDA tool projects.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/edaa-org/pyEDAA.ProjectModel",
+  "download_filename": "pyedaa_projectmodel-0.6.2.tar.gz",
+  "download_time": "2026-01-20T23:26:44.297248",
+  "package_url": "https://pypi.org/project/pyEDAA.ProjectModel/"
+}

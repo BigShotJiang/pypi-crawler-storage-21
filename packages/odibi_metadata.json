@@ -1,0 +1,11 @@
+{
+  "name": "odibi",
+  "version": "2.9.0",
+  "summary": "A declarative data engineering framework - Explicit over implicit, Stories over magic",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "odibi-2.9.0.tar.gz",
+  "download_time": "2026-01-20T23:26:50.343828",
+  "package_url": "https://pypi.org/project/odibi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "schemathesis",
+  "version": "4.9.3",
+  "summary": "Property-based testing framework for Open API and GraphQL based apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schemathesis-4.9.3-py3-none-any.whl",
+  "download_time": "2026-01-20T23:26:42.702578",
+  "package_url": "https://pypi.org/project/schemathesis/"
+}

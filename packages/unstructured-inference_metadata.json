@@ -1,11 +1,11 @@
 {
   "name": "unstructured-inference",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "A library for performing inference using trained models.",
   "author": "Unstructured Technologies",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Unstructured-IO/unstructured-inference",
-  "download_filename": "unstructured_inference-1.1.6.tar.gz",
-  "download_time": "2026-01-20T18:39:31.605817",
+  "download_filename": "unstructured_inference-1.1.7.tar.gz",
+  "download_time": "2026-01-20T23:27:12.891445",
   "package_url": "https://pypi.org/project/unstructured-inference/"
 }

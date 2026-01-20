@@ -1,0 +1,11 @@
+{
+  "name": "regexonic",
+  "version": "0.1.0",
+  "summary": "A more pythonic extension of the builtin `re` module.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "regexonic-0.1.0.tar.gz",
+  "download_time": "2026-01-20T23:27:06.314467",
+  "package_url": "https://pypi.org/project/regexonic/"
+}

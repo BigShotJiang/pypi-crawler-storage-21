@@ -1,0 +1,11 @@
+{
+  "name": "usbmon-exporter",
+  "version": "0.1.0",
+  "summary": "Prometheus exporter for usbmon",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usbmon_exporter-0.1.0.tar.gz",
+  "download_time": "2026-01-20T23:27:12.339215",
+  "package_url": "https://pypi.org/project/usbmon-exporter/"
+}

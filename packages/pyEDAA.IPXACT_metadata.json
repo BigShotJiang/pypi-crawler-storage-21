@@ -1,0 +1,11 @@
+{
+  "name": "pyEDAA.IPXACT",
+  "version": "0.6.5",
+  "summary": "A Document-Object-Model (DOM) for IP-XACT files.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/edaa-org/pyEDAA.IPXACT",
+  "download_filename": "pyedaa_ipxact-0.6.5.tar.gz",
+  "download_time": "2026-01-20T23:27:05.785697",
+  "package_url": "https://pypi.org/project/pyEDAA.IPXACT/"
+}
