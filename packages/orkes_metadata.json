@@ -1,0 +1,11 @@
+{
+  "name": "orkes",
+  "version": "0.1.3.3",
+  "summary": "A lightweight orchestration framework for LLM agents, no abstractions you don’t need, no bloated APIs, just clean coordination logic that works.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orkes-0.1.3.3.tar.gz",
+  "download_time": "2026-01-20T04:36:22.141993",
+  "package_url": "https://pypi.org/project/orkes/"
+}

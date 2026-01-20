@@ -1,0 +1,11 @@
+{
+  "name": "fastnntpy",
+  "version": "0.2.4",
+  "summary": "Fast NeighbourNet (Rust) with Python bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastnntpy-0.2.4-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-20T04:35:29.821997",
+  "package_url": "https://pypi.org/project/fastnntpy/"
+}

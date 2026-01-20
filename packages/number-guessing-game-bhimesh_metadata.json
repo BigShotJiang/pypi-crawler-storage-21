@@ -1,0 +1,11 @@
+{
+  "name": "number-guessing-game-bhimesh",
+  "version": "1.0.3",
+  "summary": "An interactive number guessing game where players try to guess a random number between 1 and 100",
+  "author": "bhimesh",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/number-guessing-game",
+  "download_filename": "number_guessing_game_bhimesh-1.0.3.tar.gz",
+  "download_time": "2026-01-20T04:35:39.511607",
+  "package_url": "https://pypi.org/project/number-guessing-game-bhimesh/"
+}

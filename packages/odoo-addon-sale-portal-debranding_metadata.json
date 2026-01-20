@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-portal-debranding",
+  "version": "19.0.1.0.0.6",
+  "summary": "Sale Portal Debranding",
+  "author": "HAV Media GmbH, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-brand",
+  "download_filename": "odoo_addon_sale_portal_debranding-19.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2026-01-20T04:36:19.253352",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-portal-debranding/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "signing-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP Server for Ethereum message signing and EIP-712 typed data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "signing_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-01-20T04:35:52.050642",
+  "package_url": "https://pypi.org/project/signing-mcp-server/"
+}

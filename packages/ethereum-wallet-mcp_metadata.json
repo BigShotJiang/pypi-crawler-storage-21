@@ -1,0 +1,11 @@
+{
+  "name": "ethereum-wallet-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for Ethereum wallet generation and HD wallet operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ethereum_wallet_mcp-1.0.0.tar.gz",
+  "download_time": "2026-01-20T04:35:53.299492",
+  "package_url": "https://pypi.org/project/ethereum-wallet-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "citeurl",
+  "version": "12.0.3",
+  "summary": "an extensible tool to process legal citations in text",
+  "author": "Simon Raindrum Sherred",
+  "license": "MIT",
+  "home_page": "https://raindrum.github.io/citeurl",
+  "download_filename": "citeurl-12.0.3.tar.gz",
+  "download_time": "2026-01-20T04:35:43.174574",
+  "package_url": "https://pypi.org/project/citeurl/"
+}

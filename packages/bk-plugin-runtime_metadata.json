@@ -1,0 +1,11 @@
+{
+  "name": "bk-plugin-runtime",
+  "version": "2.1.2",
+  "summary": "bk plugin python django runtime",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bk_plugin_runtime-2.1.2.tar.gz",
+  "download_time": "2026-01-20T04:35:35.169752",
+  "package_url": "https://pypi.org/project/bk-plugin-runtime/"
+}

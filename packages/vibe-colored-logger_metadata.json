@@ -1,0 +1,11 @@
+{
+  "name": "vibe-colored-logger",
+  "version": "0.1.7",
+  "summary": "A colored logger with context injection support for Python applications.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibe_colored_logger-0.1.7.tar.gz",
+  "download_time": "2026-01-20T04:35:55.221891",
+  "package_url": "https://pypi.org/project/vibe-colored-logger/"
+}

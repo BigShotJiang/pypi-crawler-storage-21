@@ -1,0 +1,11 @@
+{
+  "name": "validation-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP server for Ethereum address/key validation and cryptographic utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "validation_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-01-20T04:35:50.752618",
+  "package_url": "https://pypi.org/project/validation-mcp-server/"
+}
