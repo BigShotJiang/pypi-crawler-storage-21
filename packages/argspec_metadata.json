@@ -1,0 +1,11 @@
+{
+  "name": "argspec",
+  "version": "0.1.0",
+  "summary": "A library for cleanly and succinctly performing type-safe command-line argument parsing via a declarative interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argspec-0.1.0.tar.gz",
+  "download_time": "2026-01-20T07:43:34.321250",
+  "package_url": "https://pypi.org/project/argspec/"
+}

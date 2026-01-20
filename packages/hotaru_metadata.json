@@ -1,0 +1,11 @@
+{
+  "name": "hotaru",
+  "version": "5.1.2",
+  "summary": "High performance Optimizer to extract spike Timing And cell location from calcium imaging data via lineaR impUlse",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hotaru-5.1.2.tar.gz",
+  "download_time": "2026-01-20T07:43:48.982354",
+  "package_url": "https://pypi.org/project/hotaru/"
+}

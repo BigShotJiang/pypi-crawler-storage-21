@@ -1,0 +1,11 @@
+{
+  "name": "gnosari-engine",
+  "version": "0.3.1",
+  "summary": "A powerful framework for orchestrating multi-agent teams using Large Language Models. Create intelligent AI agent swarms that collaborate through streaming delegation and dynamic tool discovery.",
+  "author": "daviunx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnosari_engine-0.3.1.tar.gz",
+  "download_time": "2026-01-20T07:43:31.163129",
+  "package_url": "https://pypi.org/project/gnosari-engine/"
+}

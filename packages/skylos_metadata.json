@@ -1,0 +1,11 @@
+{
+  "name": "skylos",
+  "version": "3.1.1",
+  "summary": "An analysis tool for Python codebases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skylos-3.1.1.tar.gz",
+  "download_time": "2026-01-20T07:43:46.881153",
+  "package_url": "https://pypi.org/project/skylos/"
+}

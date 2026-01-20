@@ -1,0 +1,11 @@
+{
+  "name": "redturtle.rsync",
+  "version": "1.0.7",
+  "summary": "An add-on for Plone",
+  "author": "Mauro Amico",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/redturtle.rsync",
+  "download_filename": "redturtle_rsync-1.0.7.tar.gz",
+  "download_time": "2026-01-20T07:44:01.212755",
+  "package_url": "https://pypi.org/project/redturtle.rsync/"
+}

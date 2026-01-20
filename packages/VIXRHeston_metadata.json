@@ -1,0 +1,11 @@
+{
+  "name": "VIXRHeston",
+  "version": "0.1.2",
+  "summary": "VIX term structure in the rough Heston model via Markovian approximation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vixrheston-0.1.2.tar.gz",
+  "download_time": "2026-01-20T07:43:49.500930",
+  "package_url": "https://pypi.org/project/VIXRHeston/"
+}

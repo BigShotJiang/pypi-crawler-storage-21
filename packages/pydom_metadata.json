@@ -1,0 +1,11 @@
+{
+  "name": "pydom",
+  "version": "0.4.2",
+  "summary": "A Python package for creating and manipulating reusable HTML components",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydom-0.4.2.tar.gz",
+  "download_time": "2026-01-20T07:43:32.724209",
+  "package_url": "https://pypi.org/project/pydom/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "northserve",
+  "version": "2.0.6",
+  "summary": "A one-click LLM serving deployment tool for Kubernetes",
+  "author": "NorthServing Team",
+  "license": "MIT",
+  "home_page": "https://github.com/china-qijizhifeng/NorthServing",
+  "download_filename": "northserve-2.0.6.tar.gz",
+  "download_time": "2026-01-20T07:43:52.700699",
+  "package_url": "https://pypi.org/project/northserve/"
+}
