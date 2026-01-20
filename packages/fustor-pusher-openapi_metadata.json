@@ -1,11 +1,11 @@
 {
   "name": "fustor-pusher-openapi",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "An OpenAPI pusher for Fustor Agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_pusher_openapi-0.2.1.tar.gz",
-  "download_time": "2026-01-20T08:42:17.032475",
+  "download_filename": "fustor_pusher_openapi-0.2.2.tar.gz",
+  "download_time": "2026-01-20T09:55:53.620828",
   "package_url": "https://pypi.org/project/fustor-pusher-openapi/"
 }

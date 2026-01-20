@@ -1,0 +1,11 @@
+{
+  "name": "whocitedme",
+  "version": "0.1.2",
+  "summary": "Google Scholar citation analysis tool for identifying high-impact citations, influential authors, and notable peers for grant applications and CV building.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whocitedme-0.1.2.tar.gz",
+  "download_time": "2026-01-20T09:55:17.060633",
+  "package_url": "https://pypi.org/project/whocitedme/"
+}

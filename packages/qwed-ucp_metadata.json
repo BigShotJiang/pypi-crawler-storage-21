@@ -1,0 +1,11 @@
+{
+  "name": "qwed-ucp",
+  "version": "0.2.0",
+  "summary": "QWED verification for Universal Commerce Protocol (UCP) transactions",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qwed_ucp-0.2.0.tar.gz",
+  "download_time": "2026-01-20T09:55:37.130067",
+  "package_url": "https://pypi.org/project/qwed-ucp/"
+}

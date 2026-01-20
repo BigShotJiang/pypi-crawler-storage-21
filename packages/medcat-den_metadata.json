@@ -1,0 +1,11 @@
+{
+  "name": "medcat-den",
+  "version": "0.5.2",
+  "summary": "Model storage and lifecycle management for MedCAT with support for local, remote [TODO], and cloud [TODO] backends.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "medcat_den-0.5.2-py3-none-any.whl",
+  "download_time": "2026-01-20T09:55:32.985952",
+  "package_url": "https://pypi.org/project/medcat-den/"
+}

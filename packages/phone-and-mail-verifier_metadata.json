@@ -1,0 +1,11 @@
+{
+  "name": "phone-and-mail-verifier",
+  "version": "0.1.1",
+  "summary": "Simple email and phone number validation library",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/Skyweb/phone-and-mail-verifier",
+  "download_filename": "phone_and_mail_verifier-0.1.1.tar.gz",
+  "download_time": "2026-01-20T09:55:59.776399",
+  "package_url": "https://pypi.org/project/phone-and-mail-verifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tvrcoint",
+  "version": "1.0.0",
+  "summary": "Time-Varying Cointegration Tests - Bootstrap LR tests for time-varying cointegration based on Bierens & Martins (2010) and Martins (2015)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tvrcoint-1.0.0.tar.gz",
+  "download_time": "2026-01-20T09:55:22.189325",
+  "package_url": "https://pypi.org/project/tvrcoint/"
+}
