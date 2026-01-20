@@ -1,0 +1,11 @@
+{
+  "name": "genshin-impact",
+  "version": "0.1.2",
+  "summary": "A static library of Genshin item/char info. (WIP)",
+  "author": "Imran Bin Gifary (System Delta or Imran Delta Online)",
+  "license": null,
+  "home_page": "https://github.com/Imran-Delta/GI-Static-Data-Library",
+  "download_filename": "genshin_impact-0.1.2.tar.gz",
+  "download_time": "2026-01-20T07:06:10.894887",
+  "package_url": "https://pypi.org/project/genshin-impact/"
+}

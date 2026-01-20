@@ -1,0 +1,11 @@
+{
+  "name": "fustor-source-oss",
+  "version": "0.2",
+  "summary": "Fustor Source Driver for S3-compatible object storage (OSS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fustor_source_oss-0.2.tar.gz",
+  "download_time": "2026-01-20T07:06:17.352294",
+  "package_url": "https://pypi.org/project/fustor-source-oss/"
+}

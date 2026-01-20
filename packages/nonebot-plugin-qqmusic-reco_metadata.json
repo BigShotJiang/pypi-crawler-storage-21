@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-qqmusic-reco",
+  "version": "0.1.7",
+  "summary": "基于QQ音乐歌单，支持多群配置、持久化管理及定时自定义话术的音乐推荐插件",
+  "author": "ChlorophyTeio",
+  "license": "MIT",
+  "home_page": "https://github.com/ChlorophyTeio/nonebot-plugin-qqmusic-reco",
+  "download_filename": "nonebot_plugin_qqmusic_reco-0.1.7.tar.gz",
+  "download_time": "2026-01-20T07:05:50.136450",
+  "package_url": "https://pypi.org/project/nonebot-plugin-qqmusic-reco/"
+}

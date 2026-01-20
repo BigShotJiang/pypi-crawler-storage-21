@@ -1,0 +1,11 @@
+{
+  "name": "s1-shift-left-cli",
+  "version": "0.5.5",
+  "summary": "SentinelOne CNS CLI is an extension of our vision to shift-left security with SentinelOne CNS.",
+  "author": "pingsafe-dev",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "s1_shift_left_cli-0.5.5.tar.gz",
+  "download_time": "2026-01-20T07:05:57.388704",
+  "package_url": "https://pypi.org/project/s1-shift-left-cli/"
+}

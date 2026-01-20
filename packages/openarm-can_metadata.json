@@ -1,0 +1,11 @@
+{
+  "name": "openarm-can",
+  "version": "1.2.5",
+  "summary": null,
+  "author": "Enactic, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openarm_can-1.2.5.tar.gz",
+  "download_time": "2026-01-20T07:06:32.425380",
+  "package_url": "https://pypi.org/project/openarm-can/"
+}

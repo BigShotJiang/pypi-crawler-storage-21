@@ -1,0 +1,11 @@
+{
+  "name": "mqttxx",
+  "version": "4.0.2",
+  "summary": "基于 aiomqtt 的高级 MQTT 客户端和 RPC 框架",
+  "author": "MQTTX Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mqttxx-4.0.2.tar.gz",
+  "download_time": "2026-01-20T07:06:25.970825",
+  "package_url": "https://pypi.org/project/mqttxx/"
+}

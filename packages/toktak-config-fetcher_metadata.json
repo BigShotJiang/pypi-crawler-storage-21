@@ -1,0 +1,11 @@
+{
+  "name": "toktak-config-fetcher",
+  "version": "1.0.0",
+  "summary": "Config utility library to fetch configuration from AWS SSM/Secrets Manager and .env files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toktak_config_fetcher-1.0.0.tar.gz",
+  "download_time": "2026-01-20T07:06:32.970988",
+  "package_url": "https://pypi.org/project/toktak-config-fetcher/"
+}
