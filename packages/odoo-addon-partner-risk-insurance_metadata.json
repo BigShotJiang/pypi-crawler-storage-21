@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-risk-insurance",
+  "version": "18.0.1.0.3",
+  "summary": "Risk insurance partner information",
+  "author": "=?utf-8?q?AvanzOSC=2CTecnativa=2CFactor_Libre_S=2EL=2CNaN=C2=B7tic=2CModuon=2COdoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/credit-control",
+  "download_filename": "odoo_addon_partner_risk_insurance-18.0.1.0.3-py3-none-any.whl",
+  "download_time": "2026-01-20T10:30:04.403344",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-risk-insurance/"
+}

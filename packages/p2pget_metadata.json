@@ -1,0 +1,11 @@
+{
+  "name": "p2pget",
+  "version": "0.0.0",
+  "summary": "A small example package",
+  "author": "sc",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "p2pget-0.0.0.tar.gz",
+  "download_time": "2026-01-20T10:29:29.289726",
+  "package_url": "https://pypi.org/project/p2pget/"
+}

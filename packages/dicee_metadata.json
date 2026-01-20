@@ -1,0 +1,11 @@
+{
+  "name": "dicee",
+  "version": "0.3.0",
+  "summary": "Dice embedding is an hardware-agnostic framework for large-scale knowledge graph embedding applications",
+  "author": "Caglar Demir",
+  "license": null,
+  "home_page": "https://github.com/dice-group/dice-embeddings",
+  "download_filename": "dicee-0.3.0-py3-none-any.whl",
+  "download_time": "2026-01-20T10:29:26.188252",
+  "package_url": "https://pypi.org/project/dicee/"
+}

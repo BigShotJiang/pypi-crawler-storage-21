@@ -1,0 +1,11 @@
+{
+  "name": "pop-testbed",
+  "version": "0.2.1",
+  "summary": "Pop plus for Testbed II",
+  "author": "HBE Lab",
+  "license": null,
+  "home_page": "https://github.com/hanback-lab/testbedii",
+  "download_filename": "pop_testbed-0.2.1-py3-none-any.whl",
+  "download_time": "2026-01-20T10:29:37.000844",
+  "package_url": "https://pypi.org/project/pop-testbed/"
+}

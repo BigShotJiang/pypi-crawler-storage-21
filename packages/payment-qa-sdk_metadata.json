@@ -1,0 +1,11 @@
+{
+  "name": "payment-qa-sdk",
+  "version": "0.0.0",
+  "summary": "A small example package",
+  "author": "sc",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "payment_qa_sdk-0.0.0.tar.gz",
+  "download_time": "2026-01-20T10:29:47.777889",
+  "package_url": "https://pypi.org/project/payment-qa-sdk/"
+}

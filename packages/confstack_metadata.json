@@ -1,0 +1,11 @@
+{
+  "name": "confstack",
+  "version": "0.1.0",
+  "summary": "Multi-Layer Configuration Architecture with priority order: in-code defaults, config file, env vars, and CLI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "confstack-0.1.0.tar.gz",
+  "download_time": "2026-01-20T10:29:45.726520",
+  "package_url": "https://pypi.org/project/confstack/"
+}

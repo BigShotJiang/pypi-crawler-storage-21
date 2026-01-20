@@ -1,0 +1,11 @@
+{
+  "name": "langchain-neo4j",
+  "version": "0.8.0",
+  "summary": "An integration package connecting Neo4j and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_neo4j-0.8.0.tar.gz",
+  "download_time": "2026-01-20T10:29:26.706575",
+  "package_url": "https://pypi.org/project/langchain-neo4j/"
+}

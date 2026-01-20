@@ -1,0 +1,11 @@
+{
+  "name": "seqslab-cli",
+  "version": "3.3.12",
+  "summary": "Atgenomix SeqsLab Command Line Tool",
+  "author": "Allen Chang",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/AnomeGAP/seqslab-cli",
+  "download_filename": "seqslab_cli-3.3.12-py2.py3-none-any.whl",
+  "download_time": "2026-01-20T10:29:54.469946",
+  "package_url": "https://pypi.org/project/seqslab-cli/"
+}
