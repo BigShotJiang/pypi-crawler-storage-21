@@ -1,0 +1,11 @@
+{
+  "name": "bbo-bbo",
+  "version": "0.4.12",
+  "summary": "Base tools for MPINB BBO group",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "bbo_bbo-0.4.12.tar.gz",
+  "download_time": "2026-01-20T13:49:15.236890",
+  "package_url": "https://pypi.org/project/bbo-bbo/"
+}

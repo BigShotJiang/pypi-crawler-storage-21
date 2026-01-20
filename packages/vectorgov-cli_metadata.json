@@ -1,0 +1,11 @@
+{
+  "name": "vectorgov-cli",
+  "version": "0.1.4",
+  "summary": "CLI para a API VectorGov - Busca semântica em legislação brasileira",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vectorgov_cli-0.1.4.tar.gz",
+  "download_time": "2026-01-20T13:49:48.783753",
+  "package_url": "https://pypi.org/project/vectorgov-cli/"
+}

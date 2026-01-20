@@ -1,0 +1,11 @@
+{
+  "name": "eulerian-marketing-platform",
+  "version": "0.1.1",
+  "summary": "MCP server for Eulerian Marketing Platform - enables AI assistants to interact with Eulerian's marketing analytics and campaign management APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eulerian_marketing_platform-0.1.1.tar.gz",
+  "download_time": "2026-01-20T13:49:47.246121",
+  "package_url": "https://pypi.org/project/eulerian-marketing-platform/"
+}

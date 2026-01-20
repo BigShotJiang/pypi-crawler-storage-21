@@ -1,0 +1,11 @@
+{
+  "name": "jmq-olt-zyxel",
+  "version": "1.1.1",
+  "summary": "Paquete de Integración OLT Zyxel con Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jmq_olt_zyxel-1.1.1.tar.gz",
+  "download_time": "2026-01-20T13:49:38.012545",
+  "package_url": "https://pypi.org/project/jmq-olt-zyxel/"
+}

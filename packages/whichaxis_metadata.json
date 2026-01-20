@@ -1,0 +1,11 @@
+{
+  "name": "whichaxis",
+  "version": "0.1.4",
+  "summary": "NumPy arrays with named axes. Because axis=1 is not a memory aid.",
+  "author": "Gaudenz Halter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whichaxis-0.1.4.tar.gz",
+  "download_time": "2026-01-20T13:49:37.501174",
+  "package_url": "https://pypi.org/project/whichaxis/"
+}

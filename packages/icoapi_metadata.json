@@ -1,0 +1,11 @@
+{
+  "name": "icoapi",
+  "version": "0.1.2",
+  "summary": "A REST and WebSocket API for the ICOtronic system using the Python FastAPI library",
+  "author": "Moritz Breurather",
+  "license": null,
+  "home_page": null,
+  "download_filename": "icoapi-0.1.2.tar.gz",
+  "download_time": "2026-01-20T13:49:13.181342",
+  "package_url": "https://pypi.org/project/icoapi/"
+}

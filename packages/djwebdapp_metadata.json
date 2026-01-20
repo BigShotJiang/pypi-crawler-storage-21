@@ -1,0 +1,11 @@
+{
+  "name": "djwebdapp",
+  "version": "0.6.15",
+  "summary": null,
+  "author": "James Pic",
+  "license": "MIT",
+  "home_page": "https://yourlabs.io/oss/djwebdapp",
+  "download_filename": "djwebdapp-0.6.15.tar.gz",
+  "download_time": "2026-01-20T13:49:49.812899",
+  "package_url": "https://pypi.org/project/djwebdapp/"
+}

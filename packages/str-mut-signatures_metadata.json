@@ -1,0 +1,11 @@
+{
+  "name": "str-mut-signatures",
+  "version": "2.0.0",
+  "summary": "Extract STR signatures from annotated VCF",
+  "author": "Olesia Kondrateva",
+  "license": "MIT",
+  "home_page": "https://github.com/acg-team/str_mut_signatures",
+  "download_filename": "str_mut_signatures-2.0.0-py3-none-any.whl",
+  "download_time": "2026-01-20T13:49:57.557090",
+  "package_url": "https://pypi.org/project/str-mut-signatures/"
+}

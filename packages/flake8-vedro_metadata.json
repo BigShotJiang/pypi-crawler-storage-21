@@ -1,0 +1,11 @@
+{
+  "name": "flake8-vedro",
+  "version": "1.1.1",
+  "summary": "flake8 based linter for vedro framework",
+  "author": "Anna",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mytestopia/flake8-vedro",
+  "download_filename": "flake8_vedro-1.1.1.tar.gz",
+  "download_time": "2026-01-20T13:49:29.237147",
+  "package_url": "https://pypi.org/project/flake8-vedro/"
+}

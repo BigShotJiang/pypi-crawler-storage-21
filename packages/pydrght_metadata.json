@@ -1,0 +1,11 @@
+{
+  "name": "pydrght",
+  "version": "0.2.1",
+  "summary": "A comprehensive Python package for drought analysis, with standardized indices (SPI, SPEI, SSFI) and copula-based bivariate MSDI for multivariate drought characterization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydrght-0.2.1.tar.gz",
+  "download_time": "2026-01-20T13:49:16.264768",
+  "package_url": "https://pypi.org/project/pydrght/"
+}
