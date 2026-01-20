@@ -1,11 +1,11 @@
 {
   "name": "lhcbdiracx-client",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "TODO",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "lhcbdiracx_client-0.0.3-py3-none-any.whl",
-  "download_time": "2026-01-19T20:47:16.613206",
+  "download_filename": "lhcbdiracx_client-0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-20T05:53:42.549069",
   "package_url": "https://pypi.org/project/lhcbdiracx-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "oepandas",
+  "version": "3.1.0",
+  "summary": "Native handling of OpenEye objects in Pandas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oepandas-3.1.0-py3-none-any.whl",
+  "download_time": "2026-01-20T05:53:24.612179",
+  "package_url": "https://pypi.org/project/oepandas/"
+}

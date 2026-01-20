@@ -1,0 +1,11 @@
+{
+  "name": "quickcall-voiceover",
+  "version": "0.2.0",
+  "summary": "Utility tool for creating voice-over audio assets for QuickCall videos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickcall_voiceover-0.2.0.tar.gz",
+  "download_time": "2026-01-20T05:53:12.019246",
+  "package_url": "https://pypi.org/project/quickcall-voiceover/"
+}

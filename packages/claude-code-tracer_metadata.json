@@ -1,11 +1,11 @@
 {
   "name": "claude-code-tracer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Analytics dashboard for Claude Code sessions",
   "author": "Thein Oo",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_code_tracer-0.1.2.tar.gz",
-  "download_time": "2026-01-20T05:17:54.553485",
+  "download_filename": "claude_code_tracer-0.1.3.tar.gz",
+  "download_time": "2026-01-20T05:53:34.088558",
   "package_url": "https://pypi.org/project/claude-code-tracer/"
 }

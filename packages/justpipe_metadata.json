@@ -1,0 +1,11 @@
+{
+  "name": "justpipe",
+  "version": "0.5.1",
+  "summary": "Your code is the graph. Async, streaming pipelines for AI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "justpipe-0.5.1.tar.gz",
+  "download_time": "2026-01-20T05:53:22.371252",
+  "package_url": "https://pypi.org/project/justpipe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "petrinex",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Load Alberta Petrinex data (Volumetrics, NGL) into Spark/pandas DataFrames",
   "author": "Guanjie Shen",
   "license": "MIT",
   "home_page": "https://github.com/guanjieshen/petrinex-python-api",
-  "download_filename": "petrinex-1.0.1.tar.gz",
-  "download_time": "2026-01-20T05:17:58.641106",
+  "download_filename": "petrinex-1.1.0.tar.gz",
+  "download_time": "2026-01-20T05:53:08.086348",
   "package_url": "https://pypi.org/project/petrinex/"
 }
