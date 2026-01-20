@@ -1,0 +1,11 @@
+{
+  "name": "xml-pipeline",
+  "version": "0.4.0",
+  "summary": "Schema-driven XML message bus for multi-agent systems",
+  "author": "xml-pipeline contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xml_pipeline-0.4.0.tar.gz",
+  "download_time": "2026-01-20T09:18:08.701001",
+  "package_url": "https://pypi.org/project/xml-pipeline/"
+}
