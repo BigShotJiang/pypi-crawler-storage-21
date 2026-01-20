@@ -1,0 +1,11 @@
+{
+  "name": "rummage",
+  "version": "4.23.1",
+  "summary": "A GUI search and replace app.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rummage-4.23.1.tar.gz",
+  "download_time": "2026-01-20T15:48:31.293681",
+  "package_url": "https://pypi.org/project/rummage/"
+}

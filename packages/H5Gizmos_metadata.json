@@ -1,0 +1,11 @@
+{
+  "name": "H5Gizmos",
+  "version": "0.1.17",
+  "summary": "Tools for building interactive graphical interfaces for applications using browser technology and HTML5",
+  "author": "Aaron Watters",
+  "license": null,
+  "home_page": "https://github.com/AaronWatters/H5Gizmos",
+  "download_filename": "h5gizmos-0.1.17.tar.gz",
+  "download_time": "2026-01-20T15:48:16.527543",
+  "package_url": "https://pypi.org/project/H5Gizmos/"
+}

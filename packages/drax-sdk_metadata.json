@@ -1,11 +1,11 @@
 {
   "name": "drax-sdk",
-  "version": "2.2.28",
+  "version": "2.2.30",
   "summary": "Python sdk for Drax IoT Platform",
   "author": "Applica Software Guru",
   "license": null,
   "home_page": null,
-  "download_filename": "drax_sdk-2.2.28.tar.gz",
-  "download_time": "2026-01-20T15:03:46.360301",
+  "download_filename": "drax_sdk-2.2.30.tar.gz",
+  "download_time": "2026-01-20T15:48:25.422368",
   "package_url": "https://pypi.org/project/drax-sdk/"
 }

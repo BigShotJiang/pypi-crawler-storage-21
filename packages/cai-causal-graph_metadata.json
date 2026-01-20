@@ -1,0 +1,11 @@
+{
+  "name": "cai-causal-graph",
+  "version": "0.5.14",
+  "summary": "A Causal AI package for causal graphs.",
+  "author": "causaLens",
+  "license": "Apache-2.0",
+  "home_page": "https://causalgraph.causalens.com/",
+  "download_filename": "cai_causal_graph-0.5.14.tar.gz",
+  "download_time": "2026-01-20T15:48:33.384322",
+  "package_url": "https://pypi.org/project/cai-causal-graph/"
+}

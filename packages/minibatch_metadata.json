@@ -1,0 +1,11 @@
+{
+  "name": "minibatch",
+  "version": "0.6.0",
+  "summary": "Python stream processing for humans",
+  "author": "Patrick Senti",
+  "license": "Apache 2.0 + \"No Sell, Consulting Yes\" License Condition",
+  "home_page": "http://github.com/omegaml/minibatch",
+  "download_filename": "minibatch-0.6.0.tar.gz",
+  "download_time": "2026-01-20T15:48:28.068384",
+  "package_url": "https://pypi.org/project/minibatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "n-filej",
+  "version": "0.1.8",
+  "summary": "A simple, TUI-based file manager written in Python using Textual.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "n_filej-0.1.8.tar.gz",
+  "download_time": "2026-01-20T15:48:31.813813",
+  "package_url": "https://pypi.org/project/n-filej/"
+}

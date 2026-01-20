@@ -1,0 +1,11 @@
+{
+  "name": "variant-mapper",
+  "version": "0.1.0a0",
+  "summary": "Map genetic variants to rsIDs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "variant_mapper-0.1.0a0.tar.gz",
+  "download_time": "2026-01-20T15:47:59.616592",
+  "package_url": "https://pypi.org/project/variant-mapper/"
+}

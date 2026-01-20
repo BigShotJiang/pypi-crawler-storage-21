@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "2.5.0",
-  "summary": "DSLighting 2.5.0 - New Benchmark System: Lightweight batch evaluation with MLE-Bench integration",
+  "version": "2.5.2",
+  "summary": "DSLighting 2.5.2 - Fix: Correct MLE-Bench import paths for PyPI (benchmarks.mlebench)",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/usail-hkust/dslighting",
-  "download_filename": "dslighting-2.5.0.tar.gz",
-  "download_time": "2026-01-20T15:04:09.146218",
+  "download_filename": "dslighting-2.5.2.tar.gz",
+  "download_time": "2026-01-20T15:48:26.473810",
   "package_url": "https://pypi.org/project/dslighting/"
 }

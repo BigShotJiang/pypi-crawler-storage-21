@@ -1,0 +1,11 @@
+{
+  "name": "dbt-to-junit",
+  "version": "0.2.0",
+  "summary": "Convert dbt's target/run_results.json into a JUnit XML report so Azure DevOps (ADO) can display dbt test results in the Tests tab.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_to_junit-0.2.0.tar.gz",
+  "download_time": "2026-01-20T15:48:03.785388",
+  "package_url": "https://pypi.org/project/dbt-to-junit/"
+}
