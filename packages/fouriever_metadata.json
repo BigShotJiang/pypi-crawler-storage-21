@@ -1,0 +1,11 @@
+{
+  "name": "fouriever",
+  "version": "0.4.3",
+  "summary": "A single toolkit for calibrations, correlations, and companion search for kernel phase, aperture masking, and long-baseline interferometry data.",
+  "author": "Jens Kammerer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fouriever-0.4.3.tar.gz",
+  "download_time": "2026-01-20T14:33:12.934867",
+  "package_url": "https://pypi.org/project/fouriever/"
+}

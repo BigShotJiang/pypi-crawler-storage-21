@@ -1,0 +1,11 @@
+{
+  "name": "rtc-tools",
+  "version": "2.7.3",
+  "summary": "Toolbox for control and optimization of water systems.",
+  "author": "Deltares",
+  "license": null,
+  "home_page": "https://oss.deltares.nl/web/rtc-tools/home",
+  "download_filename": "rtc_tools-2.7.3.tar.gz",
+  "download_time": "2026-01-20T14:33:08.241210",
+  "package_url": "https://pypi.org/project/rtc-tools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "enapter",
-  "version": "0.14.2",
+  "version": "0.14.3",
   "summary": "Enapter Python SDK",
   "author": "Roman Novatorov",
   "license": null,
   "home_page": "https://github.com/Enapter/python-sdk",
-  "download_filename": "enapter-0.14.2-py3-none-any.whl",
-  "download_time": "2026-01-20T11:29:09.012816",
+  "download_filename": "enapter-0.14.3-py3-none-any.whl",
+  "download_time": "2026-01-20T14:33:06.681989",
   "package_url": "https://pypi.org/project/enapter/"
 }

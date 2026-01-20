@@ -1,0 +1,11 @@
+{
+  "name": "pocketping",
+  "version": "0.1.0",
+  "summary": "Python SDK for PocketPing - real-time customer chat with mobile notifications",
+  "author": "PocketPing Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pocketping-0.1.0.tar.gz",
+  "download_time": "2026-01-20T14:32:42.098600",
+  "package_url": "https://pypi.org/project/pocketping/"
+}

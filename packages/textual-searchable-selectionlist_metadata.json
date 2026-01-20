@@ -1,0 +1,11 @@
+{
+  "name": "textual-searchable-selectionlist",
+  "version": "0.0.2",
+  "summary": "Add search to Textual SelectionList.",
+  "author": "Joao Coelho",
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_searchable_selectionlist-0.0.2.tar.gz",
+  "download_time": "2026-01-20T14:32:32.687733",
+  "package_url": "https://pypi.org/project/textual-searchable-selectionlist/"
+}

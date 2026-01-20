@@ -1,0 +1,11 @@
+{
+  "name": "pulp-python-client",
+  "version": "3.23.1",
+  "summary": "Pulp 3 API",
+  "author": "Pulp Team",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "pulp_python_client-3.23.1.tar.gz",
+  "download_time": "2026-01-20T14:32:54.694452",
+  "package_url": "https://pypi.org/project/pulp-python-client/"
+}

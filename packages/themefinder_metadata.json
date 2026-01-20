@@ -1,0 +1,11 @@
+{
+  "name": "themefinder",
+  "version": "0.7.4",
+  "summary": "A topic modelling Python package designed for analysing one-to-many question-answer data eg free-text survey responses.",
+  "author": "i.AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "themefinder-0.7.4.tar.gz",
+  "download_time": "2026-01-20T14:32:34.765700",
+  "package_url": "https://pypi.org/project/themefinder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rdfizer",
+  "version": "4.7.5.13.5",
+  "summary": "This project presents the SDM-RDFizer, an interpreter of mapping rules that allows the transformation of (un)structured data into RDF knowledge graphs. The current version of the SDM-RDFizer assumes mapping rules are defined in the RDF Mapping Language (RML) by Dimou et al.",
+  "author": "Maria-Esther Vidal",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/SDM-TIB/SDM-RDFizer",
+  "download_filename": "rdfizer-4.7.5.13.5.tar.gz",
+  "download_time": "2026-01-20T14:32:35.843232",
+  "package_url": "https://pypi.org/project/rdfizer/"
+}

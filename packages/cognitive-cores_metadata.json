@@ -1,0 +1,11 @@
+{
+  "name": "cognitive-cores",
+  "version": "1.0.3",
+  "summary": "Universal Cognitive Architecture Framework for AI Models",
+  "author": "Mike Amega",
+  "license": "Proprietary",
+  "home_page": "https://github.com/Volgat/nexus-standardisation",
+  "download_filename": "cognitive_cores-1.0.3.tar.gz",
+  "download_time": "2026-01-20T14:32:32.165435",
+  "package_url": "https://pypi.org/project/cognitive-cores/"
+}

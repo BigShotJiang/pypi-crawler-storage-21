@@ -1,11 +1,11 @@
 {
   "name": "mailtool",
-  "version": "0.9.3",
+  "version": "0.10.0",
   "summary": "Outlook automation bridge for WSL2 via COM with MCP server for Claude Code",
   "author": "Sam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mailtool-0.9.3.tar.gz",
-  "download_time": "2026-01-20T11:28:42.136425",
+  "download_filename": "mailtool-0.10.0.tar.gz",
+  "download_time": "2026-01-20T14:32:59.394919",
   "package_url": "https://pypi.org/project/mailtool/"
 }

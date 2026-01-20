@@ -1,0 +1,11 @@
+{
+  "name": "arionxiv",
+  "version": "1.0.39",
+  "summary": "AI-Powered Research Paper Analysis and Management System",
+  "author": "Arion Das",
+  "license": "MIT",
+  "home_page": "https://github.com/ArionDas/ArionXiv",
+  "download_filename": "arionxiv-1.0.39.tar.gz",
+  "download_time": "2026-01-20T14:32:38.451564",
+  "package_url": "https://pypi.org/project/arionxiv/"
+}
