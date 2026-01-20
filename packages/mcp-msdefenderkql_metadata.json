@@ -1,0 +1,11 @@
+{
+  "name": "mcp-msdefenderkql",
+  "version": "1.0.0",
+  "summary": "MCP server for Microsoft Defender Advanced Hunting - execute KQL queries via natural language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_msdefenderkql-1.0.0.tar.gz",
+  "download_time": "2026-01-20T01:50:07.704272",
+  "package_url": "https://pypi.org/project/mcp-msdefenderkql/"
+}

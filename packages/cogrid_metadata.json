@@ -1,0 +1,11 @@
+{
+  "name": "cogrid",
+  "version": "0.1.1",
+  "summary": "Multi-agent extension and expansion of MiniGrid.",
+  "author": "Chase McDonald",
+  "license": null,
+  "home_page": "https://github.com/chasemcd/cogrid",
+  "download_filename": "cogrid-0.1.1.tar.gz",
+  "download_time": "2026-01-20T01:50:15.139442",
+  "package_url": "https://pypi.org/project/cogrid/"
+}

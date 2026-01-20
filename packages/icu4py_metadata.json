@@ -1,0 +1,11 @@
+{
+  "name": "icu4py",
+  "version": "0.2.0",
+  "summary": "Bindings to the ICU (International Components for Unicode) library (ICU4C).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icu4py-0.2.0.tar.gz",
+  "download_time": "2026-01-20T01:50:24.098040",
+  "package_url": "https://pypi.org/project/icu4py/"
+}

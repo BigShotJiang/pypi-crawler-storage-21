@@ -1,0 +1,11 @@
+{
+  "name": "pyina",
+  "version": "0.3.2",
+  "summary": "MPI parallel map and cluster scheduling",
+  "author": "Mike McKerns",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/uqfoundation/pyina",
+  "download_filename": "pyina-0.3.2.tar.gz",
+  "download_time": "2026-01-20T01:50:34.046088",
+  "package_url": "https://pypi.org/project/pyina/"
+}

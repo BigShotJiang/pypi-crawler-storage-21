@@ -1,0 +1,11 @@
+{
+  "name": "nexusLIMS",
+  "version": "2.3.0",
+  "summary": "Electron Microscopy Nexus LIMS project (Datasophos fork)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexuslims-2.3.0-py3-none-any.whl",
+  "download_time": "2026-01-20T01:50:24.668284",
+  "package_url": "https://pypi.org/project/nexusLIMS/"
+}

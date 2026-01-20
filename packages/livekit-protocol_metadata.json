@@ -1,0 +1,11 @@
+{
+  "name": "livekit-protocol",
+  "version": "1.1.2",
+  "summary": "Python protocol stubs for LiveKit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_protocol-1.1.2.tar.gz",
+  "download_time": "2026-01-20T01:50:05.440175",
+  "package_url": "https://pypi.org/project/livekit-protocol/"
+}

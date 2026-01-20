@@ -1,0 +1,11 @@
+{
+  "name": "dalex",
+  "version": "1.8.0",
+  "summary": "Responsible Machine Learning in Python",
+  "author": "Przemyslaw Biecek",
+  "license": null,
+  "home_page": "https://dalex.drwhy.ai/",
+  "download_filename": "dalex-1.8.0.tar.gz",
+  "download_time": "2026-01-20T01:50:25.243084",
+  "package_url": "https://pypi.org/project/dalex/"
+}

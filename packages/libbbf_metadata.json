@@ -1,0 +1,11 @@
+{
+  "name": "libbbf",
+  "version": "0.3.0",
+  "summary": "Bound Book Format (BBF) tools and bindings",
+  "author": "EF1500",
+  "license": null,
+  "home_page": "https://github.com/ef1500/libbbf",
+  "download_filename": "libbbf-0.3.0.tar.gz",
+  "download_time": "2026-01-20T01:50:20.564211",
+  "package_url": "https://pypi.org/project/libbbf/"
+}

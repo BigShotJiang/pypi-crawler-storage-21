@@ -1,0 +1,11 @@
+{
+  "name": "ncbi-cluster-tracker",
+  "version": "0.3.0",
+  "summary": "Create standalone HTML reports for tracking SNP clusters within NCBI Pathogen Detection",
+  "author": "Sam Baird",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "ncbi_cluster_tracker-0.3.0.tar.gz",
+  "download_time": "2026-01-20T01:50:36.331515",
+  "package_url": "https://pypi.org/project/ncbi-cluster-tracker/"
+}

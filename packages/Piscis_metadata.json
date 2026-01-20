@@ -1,0 +1,11 @@
+{
+  "name": "Piscis",
+  "version": "0.2.9",
+  "summary": "An automatic deep learning algorithm for spot detection in fluorescence microscopy images.",
+  "author": "William Niu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "piscis-0.2.9.tar.gz",
+  "download_time": "2026-01-20T01:49:52.237095",
+  "package_url": "https://pypi.org/project/Piscis/"
+}

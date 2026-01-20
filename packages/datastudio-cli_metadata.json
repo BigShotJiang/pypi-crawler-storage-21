@@ -1,0 +1,11 @@
+{
+  "name": "datastudio-cli",
+  "version": "0.2.4",
+  "summary": "A command line client for running DataStudio Datakits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datastudio_cli-0.2.4.tar.gz",
+  "download_time": "2026-01-20T01:50:13.998486",
+  "package_url": "https://pypi.org/project/datastudio-cli/"
+}
