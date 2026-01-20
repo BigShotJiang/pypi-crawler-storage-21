@@ -1,11 +1,11 @@
 {
   "name": "topsispackage1.1.1",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "topsis",
   "author": "Karanveer Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "topsispackage1_1_1-0.0.6.tar.gz",
-  "download_time": "2026-01-20T18:39:15.373679",
+  "download_filename": "topsispackage1_1_1-0.0.7.tar.gz",
+  "download_time": "2026-01-20T19:59:18.810896",
   "package_url": "https://pypi.org/project/topsispackage1.1.1/"
 }

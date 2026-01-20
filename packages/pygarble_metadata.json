@@ -1,0 +1,11 @@
+{
+  "name": "pygarble",
+  "version": "0.5.0",
+  "summary": "A Python package for detecting garbled text using multiple detection strategies with a scikit-learn-like interface",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/brightertiger/pygarble",
+  "download_filename": "pygarble-0.5.0.tar.gz",
+  "download_time": "2026-01-20T19:59:30.578941",
+  "package_url": "https://pypi.org/project/pygarble/"
+}

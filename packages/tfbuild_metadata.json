@@ -1,0 +1,11 @@
+{
+  "name": "tfbuild",
+  "version": "1.5.0",
+  "summary": "TFBuild is a command line tool for Terraform ",
+  "author": "Michael Pearson",
+  "license": null,
+  "home_page": "https://github.com/mpearson117/tfbuild",
+  "download_filename": "tfbuild-1.5.0.tar.gz",
+  "download_time": "2026-01-20T19:59:20.092136",
+  "package_url": "https://pypi.org/project/tfbuild/"
+}

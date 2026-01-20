@@ -1,11 +1,11 @@
 {
   "name": "guirecognizerapp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Companion application for library guirecognizer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "guirecognizerapp-0.1.0.tar.gz",
-  "download_time": "2026-01-19T20:47:33.854431",
+  "download_filename": "guirecognizerapp-0.1.1.tar.gz",
+  "download_time": "2026-01-20T20:00:08.788622",
   "package_url": "https://pypi.org/project/guirecognizerapp/"
 }

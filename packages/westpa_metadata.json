@@ -1,0 +1,11 @@
+{
+  "name": "westpa",
+  "version": "2022.13",
+  "summary": "WESTPA is a package for constructing and running stochastic simulations using the \"weighted ensemble\" approach of Huber and Kim (1996).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "westpa-2022.13.tar.gz",
+  "download_time": "2026-01-20T19:59:35.981256",
+  "package_url": "https://pypi.org/project/westpa/"
+}
