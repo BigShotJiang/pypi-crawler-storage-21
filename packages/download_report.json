@@ -1,7 +1,7 @@
 {
-  "download_time": "2026-01-20T07:44:09.544554",
+  "download_time": "2026-01-20T07:58:31.086901",
   "total_packages_downloaded": 76,
-  "total_size_mb": 43.85,
+  "total_size_mb": 0.8,
   "packages": [
     "iron-sql",
     "matrice-analytics",
