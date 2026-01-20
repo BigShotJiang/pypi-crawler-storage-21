@@ -1,0 +1,11 @@
+{
+  "name": "sportsdataverse",
+  "version": "0.0.40",
+  "summary": "Retrieve Sports data in Python",
+  "author": "Saiem Gilani",
+  "license": "MIT",
+  "home_page": "https://github.com/sportsdataverse/sportsdataverse-py",
+  "download_filename": "sportsdataverse-0.0.40.tar.gz",
+  "download_time": "2026-01-20T05:17:29.738794",
+  "package_url": "https://pypi.org/project/sportsdataverse/"
+}

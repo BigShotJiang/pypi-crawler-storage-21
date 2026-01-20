@@ -1,11 +1,11 @@
 {
   "name": "oblox-fastapi-auth",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A comprehensive authentication package for FastAPI applications with JWT, RBAC, and social auth support",
   "author": "FastAPI Auth Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oblox_fastapi_auth-0.1.3.tar.gz",
-  "download_time": "2026-01-19T20:26:25.460666",
+  "download_filename": "oblox_fastapi_auth-0.1.4.tar.gz",
+  "download_time": "2026-01-20T05:17:43.706362",
   "package_url": "https://pypi.org/project/oblox-fastapi-auth/"
 }

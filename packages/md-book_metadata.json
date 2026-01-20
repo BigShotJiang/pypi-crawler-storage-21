@@ -1,0 +1,11 @@
+{
+  "name": "md-book",
+  "version": "1.0.4",
+  "summary": "MD Book Tools - A DI/SOA markdown book reader and writer with MCP server support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md_book-1.0.4.tar.gz",
+  "download_time": "2026-01-20T05:17:34.387047",
+  "package_url": "https://pypi.org/project/md-book/"
+}

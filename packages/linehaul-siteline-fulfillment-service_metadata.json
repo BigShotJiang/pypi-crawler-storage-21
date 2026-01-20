@@ -1,0 +1,11 @@
+{
+  "name": "linehaul-siteline-fulfillment-service",
+  "version": "0.0.0",
+  "summary": "A small example package",
+  "author": "sc",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "linehaul_siteline_fulfillment_service-0.0.0.tar.gz",
+  "download_time": "2026-01-20T05:17:22.912646",
+  "package_url": "https://pypi.org/project/linehaul-siteline-fulfillment-service/"
+}
