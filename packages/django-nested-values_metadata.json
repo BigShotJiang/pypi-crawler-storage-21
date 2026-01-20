@@ -1,11 +1,11 @@
 {
   "name": "django-nested-values",
-  "version": "0.6.10",
+  "version": "0.6.11",
   "summary": "Add .values_nested() to Django querysets for nested prefetch dictionaries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_nested_values-0.6.10.tar.gz",
-  "download_time": "2026-01-20T15:03:55.695854",
+  "download_filename": "django_nested_values-0.6.11.tar.gz",
+  "download_time": "2026-01-20T16:38:41.565573",
   "package_url": "https://pypi.org/project/django-nested-values/"
 }

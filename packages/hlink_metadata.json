@@ -1,0 +1,11 @@
+{
+  "name": "hlink",
+  "version": "4.2.2",
+  "summary": "Fast supervised pyspark record linkage software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hlink-4.2.2.tar.gz",
+  "download_time": "2026-01-20T16:38:42.122543",
+  "package_url": "https://pypi.org/project/hlink/"
+}

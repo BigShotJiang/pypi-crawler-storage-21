@@ -1,0 +1,11 @@
+{
+  "name": "lopace",
+  "version": "0.1.2",
+  "summary": "Lossless Optimized Prompt Accurate Compression Engine",
+  "author": "Aman Ulla",
+  "license": "MIT",
+  "home_page": "https://github.com/connectaman/LoPace",
+  "download_filename": "lopace-0.1.2.tar.gz",
+  "download_time": "2026-01-20T16:38:35.847182",
+  "package_url": "https://pypi.org/project/lopace/"
+}

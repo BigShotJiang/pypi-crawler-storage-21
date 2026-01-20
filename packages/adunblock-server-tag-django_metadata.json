@@ -1,0 +1,11 @@
+{
+  "name": "adunblock-server-tag-django",
+  "version": "1.0.0",
+  "summary": "A Django package to fetch and render scripts from a remote URL with template tag integration and caching support.",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "adunblock_server_tag_django-1.0.0.tar.gz",
+  "download_time": "2026-01-20T16:38:06.806811",
+  "package_url": "https://pypi.org/project/adunblock-server-tag-django/"
+}
