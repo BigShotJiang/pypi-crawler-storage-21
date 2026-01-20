@@ -1,0 +1,11 @@
+{
+  "name": "brightdata-sdk",
+  "version": "2.1.1",
+  "summary": "Modern async-first Python SDK for Bright Data APIs",
+  "author": "Bright Data",
+  "license": "MIT",
+  "home_page": "https://github.com/brightdata/sdk-python",
+  "download_filename": "brightdata_sdk-2.1.1.tar.gz",
+  "download_time": "2026-01-20T12:53:52.538710",
+  "package_url": "https://pypi.org/project/brightdata-sdk/"
+}

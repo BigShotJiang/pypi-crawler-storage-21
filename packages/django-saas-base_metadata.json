@@ -1,0 +1,11 @@
+{
+  "name": "django-saas-base",
+  "version": "0.15.0",
+  "summary": "The foundation for building a SaaS product with Django",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_saas_base-0.15.0.tar.gz",
+  "download_time": "2026-01-20T12:53:52.019553",
+  "package_url": "https://pypi.org/project/django-saas-base/"
+}

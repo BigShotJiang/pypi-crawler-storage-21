@@ -1,0 +1,11 @@
+{
+  "name": "gdal2numpy",
+  "version": "0.0.522",
+  "summary": "An utils functions package",
+  "author": "Valerio Luzzi, Marco Renzi, Lorenzo Borelli",
+  "license": "MIT",
+  "home_page": "https://github.com/SaferPlaces2023/gdal2numpy.git",
+  "download_filename": "gdal2numpy-0.0.522.tar.gz",
+  "download_time": "2026-01-20T12:53:27.711020",
+  "package_url": "https://pypi.org/project/gdal2numpy/"
+}

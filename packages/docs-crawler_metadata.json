@@ -1,0 +1,11 @@
+{
+  "name": "docs-crawler",
+  "version": "0.3.0",
+  "summary": "A documentation crawler that converts web documentation to Markdown format",
+  "author": "nev4rb14su",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docs_crawler-0.3.0.tar.gz",
+  "download_time": "2026-01-20T12:53:32.422786",
+  "package_url": "https://pypi.org/project/docs-crawler/"
+}

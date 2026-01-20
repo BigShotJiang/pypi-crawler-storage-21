@@ -1,0 +1,11 @@
+{
+  "name": "beep-lite",
+  "version": "0.1.2",
+  "summary": "Cross-platform notification sound library - lightweight and easy to use",
+  "author": "Moge800",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "beep_lite-0.1.2.tar.gz",
+  "download_time": "2026-01-20T12:53:40.822938",
+  "package_url": "https://pypi.org/project/beep-lite/"
+}

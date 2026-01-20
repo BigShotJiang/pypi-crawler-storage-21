@@ -1,0 +1,11 @@
+{
+  "name": "testgres",
+  "version": "1.13.0",
+  "summary": "Testing utility for PostgreSQL and its extensions",
+  "author": null,
+  "license": "PostgreSQL",
+  "home_page": null,
+  "download_filename": "testgres-1.13.0.tar.gz",
+  "download_time": "2026-01-20T12:53:44.979929",
+  "package_url": "https://pypi.org/project/testgres/"
+}

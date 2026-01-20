@@ -1,0 +1,11 @@
+{
+  "name": "omnicontext",
+  "version": "1.0.0",
+  "summary": "Universal LLM context portability - take your AI conversations anywhere",
+  "author": "OmniContext Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnicontext-1.0.0.tar.gz",
+  "download_time": "2026-01-20T12:53:13.026147",
+  "package_url": "https://pypi.org/project/omnicontext/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mdsync",
+  "version": "0.1.2",
+  "summary": "A Python CLI package to sync markdown files to Notion and other platforms",
+  "author": "MDSync Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdsync-0.1.2.tar.gz",
+  "download_time": "2026-01-20T12:53:43.419933",
+  "package_url": "https://pypi.org/project/mdsync/"
+}

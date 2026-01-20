@@ -1,0 +1,11 @@
+{
+  "name": "mcp-gemini-search",
+  "version": "0.2.6",
+  "summary": "MCP Server for web search via Gemini's grounding API",
+  "author": "cubase",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_gemini_search-0.2.6.tar.gz",
+  "download_time": "2026-01-20T12:53:17.233250",
+  "package_url": "https://pypi.org/project/mcp-gemini-search/"
+}

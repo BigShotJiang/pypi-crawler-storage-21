@@ -1,0 +1,11 @@
+{
+  "name": "pogo-migrate",
+  "version": "0.4.1",
+  "summary": "Database migration tool for asyncpg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pogo_migrate-0.4.1.tar.gz",
+  "download_time": "2026-01-20T12:53:48.898415",
+  "package_url": "https://pypi.org/project/pogo-migrate/"
+}
