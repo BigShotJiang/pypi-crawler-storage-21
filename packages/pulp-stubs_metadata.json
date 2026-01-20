@@ -1,0 +1,11 @@
+{
+  "name": "pulp-stubs",
+  "version": "0.1.1",
+  "summary": "Type stubs for PuLP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulp_stubs-0.1.1.tar.gz",
+  "download_time": "2026-01-20T11:48:33.025939",
+  "package_url": "https://pypi.org/project/pulp-stubs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pg-sui",
-  "version": "1.7.2",
+  "version": "1.7.4",
   "summary": "Python machine and deep learning API to impute missing genotypes",
   "author": null,
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": null,
-  "download_filename": "pg_sui-1.7.2-py3-none-any.whl",
-  "download_time": "2026-01-19T21:53:51.469612",
+  "download_filename": "pg_sui-1.7.4-py3-none-any.whl",
+  "download_time": "2026-01-20T11:49:10.019088",
   "package_url": "https://pypi.org/project/pg-sui/"
 }

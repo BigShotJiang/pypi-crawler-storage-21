@@ -1,0 +1,11 @@
+{
+  "name": "dev-cleaner",
+  "version": "0.1.0",
+  "summary": "CLI tool to clean development caches and free disk space",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dev_cleaner-0.1.0.tar.gz",
+  "download_time": "2026-01-20T11:48:51.071855",
+  "package_url": "https://pypi.org/project/dev-cleaner/"
+}

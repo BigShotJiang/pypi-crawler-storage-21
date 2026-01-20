@@ -1,0 +1,11 @@
+{
+  "name": "mindformers",
+  "version": "1.8.0",
+  "summary": "mindformers platform: linux, cpu: x86_64",
+  "author": "The MindSpore Authors",
+  "license": "Apache 2.0",
+  "home_page": "https://www.mindspore.cn",
+  "download_filename": "mindformers-1.8.0-py3-none-any.whl",
+  "download_time": "2026-01-20T11:49:11.741136",
+  "package_url": "https://pypi.org/project/mindformers/"
+}

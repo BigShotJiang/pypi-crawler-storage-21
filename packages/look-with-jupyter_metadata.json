@@ -1,11 +1,11 @@
 {
   "name": "look-with-jupyter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Модуль для просмотра таблиц polars или pandas с помощью виджетов Jupyter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "look_with_jupyter-0.1.0.tar.gz",
-  "download_time": "2026-01-20T10:29:47.264718",
+  "download_filename": "look_with_jupyter-0.1.1.tar.gz",
+  "download_time": "2026-01-20T11:48:35.864905",
   "package_url": "https://pypi.org/project/look-with-jupyter/"
 }

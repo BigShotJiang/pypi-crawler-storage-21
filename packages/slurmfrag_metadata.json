@@ -1,0 +1,11 @@
+{
+  "name": "slurmfrag",
+  "version": "0.1.0",
+  "summary": "SLURM Fragmentation Analyzer - Visualize and analyze resource fragmentation across SLURM clusters",
+  "author": "Fabio Ferreira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurmfrag-0.1.0.tar.gz",
+  "download_time": "2026-01-20T11:49:03.473732",
+  "package_url": "https://pypi.org/project/slurmfrag/"
+}
