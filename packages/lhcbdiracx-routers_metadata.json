@@ -1,11 +1,11 @@
 {
   "name": "lhcbdiracx-routers",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "TODO",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "lhcbdiracx_routers-0.0.4-py3-none-any.whl",
-  "download_time": "2026-01-20T05:53:40.457417",
+  "download_filename": "lhcbdiracx_routers-0.0.6-py3-none-any.whl",
+  "download_time": "2026-01-20T10:57:51.631274",
   "package_url": "https://pypi.org/project/lhcbdiracx-routers/"
 }

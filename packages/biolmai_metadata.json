@@ -1,11 +1,11 @@
 {
   "name": "biolmai",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "summary": "BioLM Python client",
   "author": "BioLM",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/BioLM/py-biolm",
-  "download_filename": "biolmai-0.2.14.tar.gz",
-  "download_time": "2026-01-20T06:39:02.002905",
+  "download_filename": "biolmai-0.2.15.tar.gz",
+  "download_time": "2026-01-20T10:57:05.223598",
   "package_url": "https://pypi.org/project/biolmai/"
 }

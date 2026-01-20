@@ -1,0 +1,11 @@
+{
+  "name": "tc-queue-system",
+  "version": "1.0.0",
+  "summary": "A flexible message queue system with SQLite backend and Flask API",
+  "author": "Yashvanth D",
+  "license": "MIT",
+  "home_page": "https://github.com/task-circuit/tc-queue-system",
+  "download_filename": "tc_queue_system-1.0.0.tar.gz",
+  "download_time": "2026-01-20T10:57:40.996748",
+  "package_url": "https://pypi.org/project/tc-queue-system/"
+}

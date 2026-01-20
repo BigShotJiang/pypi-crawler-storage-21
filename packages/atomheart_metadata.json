@@ -1,11 +1,11 @@
 {
   "name": "atomheart",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "chess environment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atomheart-0.1.3.tar.gz",
-  "download_time": "2026-01-20T10:29:59.597906",
+  "download_filename": "atomheart-0.1.5.tar.gz",
+  "download_time": "2026-01-20T10:57:37.668876",
   "package_url": "https://pypi.org/project/atomheart/"
 }

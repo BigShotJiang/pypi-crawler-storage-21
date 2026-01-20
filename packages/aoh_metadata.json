@@ -1,0 +1,11 @@
+{
+  "name": "aoh",
+  "version": "2.0.1",
+  "summary": "A library for calculating Area of Habitat for species distribution mapping",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aoh-2.0.1.tar.gz",
+  "download_time": "2026-01-20T10:57:27.499370",
+  "package_url": "https://pypi.org/project/aoh/"
+}
