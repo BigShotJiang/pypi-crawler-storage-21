@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-app-builder",
+  "version": "0.1.0b1",
+  "summary": "ASP.NET Core-style dependency injection for FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_app_builder-0.1.0b1.tar.gz",
+  "download_time": "2026-01-20T21:36:10.789821",
+  "package_url": "https://pypi.org/project/fastapi-app-builder/"
+}

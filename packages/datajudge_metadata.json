@@ -1,0 +1,11 @@
+{
+  "name": "datajudge",
+  "version": "1.13.0",
+  "summary": "datajudge allows to assess  whether data from database complies with referenceinformation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datajudge-1.13.0.tar.gz",
+  "download_time": "2026-01-20T21:36:13.482733",
+  "package_url": "https://pypi.org/project/datajudge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "salesforce-cdp-connector",
+  "version": "1.0.18",
+  "summary": "Salesforce Data Cloud Python Connector",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "salesforce_cdp_connector-1.0.18.tar.gz",
+  "download_time": "2026-01-20T21:35:55.302818",
+  "package_url": "https://pypi.org/project/salesforce-cdp-connector/"
+}

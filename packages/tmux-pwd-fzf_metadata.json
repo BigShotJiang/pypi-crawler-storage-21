@@ -1,0 +1,11 @@
+{
+  "name": "tmux-pwd-fzf",
+  "version": "1.0.0",
+  "summary": "Select a tmux window based on its name and the directory it is in",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmux_pwd_fzf-1.0.0.tar.gz",
+  "download_time": "2026-01-20T21:36:21.795811",
+  "package_url": "https://pypi.org/project/tmux-pwd-fzf/"
+}

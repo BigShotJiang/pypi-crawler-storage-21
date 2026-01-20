@@ -1,0 +1,11 @@
+{
+  "name": "google-air-quality-api",
+  "version": "3.0.0",
+  "summary": "Python module to talk to Google Air Quality API.",
+  "author": "Thomas Peter Protzner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_air_quality_api-3.0.0.tar.gz",
+  "download_time": "2026-01-20T21:36:23.857567",
+  "package_url": "https://pypi.org/project/google-air-quality-api/"
+}

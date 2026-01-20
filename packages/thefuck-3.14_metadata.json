@@ -1,0 +1,11 @@
+{
+  "name": "thefuck-3.14",
+  "version": "3.33",
+  "summary": "Magnificent app which corrects your previous console command (Python 3.14 compatible fork)",
+  "author": "Witnz",
+  "license": "MIT",
+  "home_page": "https://github.com/Witnz/thefuck3.14",
+  "download_filename": "thefuck_3_14-3.33.tar.gz",
+  "download_time": "2026-01-20T21:36:26.964408",
+  "package_url": "https://pypi.org/project/thefuck-3.14/"
+}

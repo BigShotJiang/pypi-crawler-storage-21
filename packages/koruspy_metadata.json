@@ -1,0 +1,11 @@
+{
+  "name": "koruspy",
+  "version": "0.9.8",
+  "summary": "Uma biblioteca inspirada em Rust e Kotlin para lidar com Option, Result, AsyncOption e coleções monadicas como SomeList, FrozenSomeList e LazyList",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koruspy-0.9.8.tar.gz",
+  "download_time": "2026-01-20T21:36:12.956427",
+  "package_url": "https://pypi.org/project/koruspy/"
+}
