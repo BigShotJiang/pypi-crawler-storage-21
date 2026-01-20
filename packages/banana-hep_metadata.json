@@ -1,0 +1,11 @@
+{
+  "name": "banana-hep",
+  "version": "0.6.17",
+  "summary": "Benchmark QCD physics",
+  "author": "Andrea Barontini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "banana_hep-0.6.17.tar.gz",
+  "download_time": "2026-01-20T17:48:03.191944",
+  "package_url": "https://pypi.org/project/banana-hep/"
+}

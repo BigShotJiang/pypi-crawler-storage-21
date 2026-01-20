@@ -1,0 +1,11 @@
+{
+  "name": "topsis-purnika-102303412",
+  "version": "1.0.2",
+  "summary": "This package implements the TOPSIS method for multi-criteria decision making using a command-line interface. It allows users to rank alternatives from a CSV file by specifying custom weights and impacts. The package includes input validation and generates a ranked output file efficiently. It is designed for academic and practical decision-analysis use.",
+  "author": "Purnika Malhotra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "topsis_purnika_102303412-1.0.2.tar.gz",
+  "download_time": "2026-01-20T17:48:01.641982",
+  "package_url": "https://pypi.org/project/topsis-purnika-102303412/"
+}

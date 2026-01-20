@@ -1,11 +1,11 @@
 {
   "name": "reldo",
-  "version": "0.2.1",
+  "version": "0.4.2",
   "summary": "Claude-powered code review orchestrator that coordinates specialized review agents",
   "author": "Rasmus Godske",
   "license": null,
   "home_page": null,
-  "download_filename": "reldo-0.2.1.tar.gz",
-  "download_time": "2026-01-19T22:47:08.540477",
+  "download_filename": "reldo-0.4.2.tar.gz",
+  "download_time": "2026-01-20T17:47:48.133800",
   "package_url": "https://pypi.org/project/reldo/"
 }

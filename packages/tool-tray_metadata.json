@@ -1,0 +1,11 @@
+{
+  "name": "tool-tray",
+  "version": "0.1.1",
+  "summary": "System tray tool manager for private GitHub tools via uv",
+  "author": "Fredrik Averpil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tool_tray-0.1.1.tar.gz",
+  "download_time": "2026-01-20T17:47:55.340535",
+  "package_url": "https://pypi.org/project/tool-tray/"
+}

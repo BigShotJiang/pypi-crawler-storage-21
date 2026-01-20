@@ -1,0 +1,11 @@
+{
+  "name": "omium",
+  "version": "0.3.2",
+  "summary": "Omium SDK for Python - Fault-tolerant agent operating system",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "omium-0.3.2.tar.gz",
+  "download_time": "2026-01-20T17:47:45.575643",
+  "package_url": "https://pypi.org/project/omium/"
+}
