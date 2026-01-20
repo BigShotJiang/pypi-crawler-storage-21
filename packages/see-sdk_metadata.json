@@ -1,0 +1,11 @@
+{
+  "name": "see-sdk",
+  "version": "1.1.1",
+  "summary": "A modern Python SDK for SEE Content Sharing services (Short URL, Text, File, etc.)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "see_sdk-1.1.1.tar.gz",
+  "download_time": "2026-01-20T08:42:44.096787",
+  "package_url": "https://pypi.org/project/see-sdk/"
+}

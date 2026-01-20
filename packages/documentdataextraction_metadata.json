@@ -1,0 +1,11 @@
+{
+  "name": "documentdataextraction",
+  "version": "0.0.165",
+  "summary": "Resolved the FileNotFound error that occurred when Excel files failed to convert to PDF due to .xls files actually being internally in .xlsx format.",
+  "author": "Proteus Technology PVT. LTD.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "documentdataextraction-0.0.165-py3-none-any.whl",
+  "download_time": "2026-01-20T08:42:30.067389",
+  "package_url": "https://pypi.org/project/documentdataextraction/"
+}

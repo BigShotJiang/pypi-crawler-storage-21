@@ -1,0 +1,11 @@
+{
+  "name": "summary-tool",
+  "version": "1.2.0",
+  "summary": "Compare testdetails tables from HTML reports and generate diff/summary HTML reports.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "summary_tool-1.2.0.tar.gz",
+  "download_time": "2026-01-20T08:42:36.549470",
+  "package_url": "https://pypi.org/project/summary-tool/"
+}

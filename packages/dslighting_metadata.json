@@ -1,0 +1,11 @@
+{
+  "name": "dslighting",
+  "version": "2.3.2",
+  "summary": "DSLighting 2.3.2 - Bug Fix: load_data() now properly supports built-in dataset names",
+  "author": "DSLighting Team",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/usail-hkust/dslighting",
+  "download_filename": "dslighting-2.3.2.tar.gz",
+  "download_time": "2026-01-20T08:42:02.456088",
+  "package_url": "https://pypi.org/project/dslighting/"
+}

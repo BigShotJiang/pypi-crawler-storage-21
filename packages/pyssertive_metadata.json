@@ -1,11 +1,11 @@
 {
   "name": "pyssertive",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Fluent, chainable assertions for Django tests. Inspired by Laravel's elegant testing API.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyssertive-0.1.0.tar.gz",
-  "download_time": "2026-01-20T03:45:33.459089",
+  "download_filename": "pyssertive-0.2.0.tar.gz",
+  "download_time": "2026-01-20T08:42:09.527735",
   "package_url": "https://pypi.org/project/pyssertive/"
 }

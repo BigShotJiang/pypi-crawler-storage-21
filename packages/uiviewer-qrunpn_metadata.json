@@ -1,0 +1,11 @@
+{
+  "name": "uiviewer-qrunpn",
+  "version": "1.0.2",
+  "summary": "UI hierarchy visualization tool, supporting Android, iOS, HarmonyOS NEXT.(测试打包)",
+  "author": "codematrixer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uiviewer_qrunpn-1.0.2.tar.gz",
+  "download_time": "2026-01-20T08:42:23.033945",
+  "package_url": "https://pypi.org/project/uiviewer-qrunpn/"
+}

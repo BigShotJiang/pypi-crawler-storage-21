@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-docsearch",
+  "version": "0.3.0",
+  "summary": "A Sphinx extension for replacing the built-in search with Algolia DocSearch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_docsearch-0.3.0.tar.gz",
+  "download_time": "2026-01-20T08:42:39.228959",
+  "package_url": "https://pypi.org/project/sphinx-docsearch/"
+}

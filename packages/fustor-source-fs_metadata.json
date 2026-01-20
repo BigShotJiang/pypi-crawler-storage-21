@@ -1,11 +1,11 @@
 {
   "name": "fustor-source-fs",
-  "version": "0.2",
+  "version": "0.2.1",
   "summary": "Fustor Agent FS Source Driver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_source_fs-0.2.tar.gz",
-  "download_time": "2026-01-20T07:06:16.826976",
+  "download_filename": "fustor_source_fs-0.2.1.tar.gz",
+  "download_time": "2026-01-20T08:42:14.904625",
   "package_url": "https://pypi.org/project/fustor-source-fs/"
 }
