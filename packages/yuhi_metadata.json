@@ -1,0 +1,11 @@
+{
+  "name": "yuhi",
+  "version": "0.0.6",
+  "summary": "Python CLI toolkit to automate project enhancement using standard config templates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yuhi-0.0.6-py3-none-any.whl",
+  "download_time": "2026-01-20T21:52:01.712002",
+  "package_url": "https://pypi.org/project/yuhi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kib-lap",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "A package for structural engineering calculations",
   "author": "leoth",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kib_lap-0.8.3-cp313-cp313-win_amd64.whl",
-  "download_time": "2026-01-19T20:25:59.700497",
+  "download_filename": "kib_lap-0.8.4.tar.gz",
+  "download_time": "2026-01-20T21:52:18.689073",
   "package_url": "https://pypi.org/project/kib-lap/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "meshagent",
-  "version": "0.22.0",
+  "version": "0.22.2",
   "summary": "Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent-0.22.0.tar.gz",
-  "download_time": "2026-01-20T09:56:03.356061",
+  "download_filename": "meshagent-0.22.2.tar.gz",
+  "download_time": "2026-01-20T21:52:24.558881",
   "package_url": "https://pypi.org/project/meshagent/"
 }

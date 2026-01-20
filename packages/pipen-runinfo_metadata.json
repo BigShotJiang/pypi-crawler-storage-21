@@ -1,11 +1,11 @@
 {
   "name": "pipen-runinfo",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Generate running information for jobs in pipen pipelines",
   "author": "pwwang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pipen_runinfo-1.1.1.tar.gz",
-  "download_time": "2026-01-19T22:47:15.177393",
+  "download_filename": "pipen_runinfo-1.1.2.tar.gz",
+  "download_time": "2026-01-20T21:52:29.934154",
   "package_url": "https://pypi.org/project/pipen-runinfo/"
 }

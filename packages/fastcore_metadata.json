@@ -1,0 +1,11 @@
+{
+  "name": "fastcore",
+  "version": "1.12.3",
+  "summary": "Python supercharged for fastai development",
+  "author": "Jeremy Howard and Sylvain Gugger",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/fastcore/",
+  "download_filename": "fastcore-1.12.3.tar.gz",
+  "download_time": "2026-01-20T21:52:05.429137",
+  "package_url": "https://pypi.org/project/fastcore/"
+}
