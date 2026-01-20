@@ -1,0 +1,11 @@
+{
+  "name": "depthai-pipeline-graph",
+  "version": "0.0.7",
+  "summary": "Tool to create graphs oh DepthAI pipelines",
+  "author": "geaxgx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "depthai_pipeline_graph-0.0.7-py3-none-any.whl",
+  "download_time": "2026-01-20T21:03:36.590829",
+  "package_url": "https://pypi.org/project/depthai-pipeline-graph/"
+}

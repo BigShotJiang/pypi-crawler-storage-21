@@ -1,0 +1,11 @@
+{
+  "name": "config-mixin",
+  "version": "1.0.1",
+  "summary": "Provide an auto-discovery process for configurations",
+  "author": null,
+  "license": "License :: OSI Approved :: Apache Software License",
+  "home_page": null,
+  "download_filename": "config_mixin-1.0.1.tar.gz",
+  "download_time": "2026-01-20T21:03:22.110183",
+  "package_url": "https://pypi.org/project/config-mixin/"
+}

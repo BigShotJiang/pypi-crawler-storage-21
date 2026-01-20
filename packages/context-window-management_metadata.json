@@ -1,0 +1,11 @@
+{
+  "name": "context-window-management",
+  "version": "1.10.0",
+  "summary": "Claude Code skill for extended context through swap-to-disk memory management",
+  "author": "Dennis Lattka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "context_window_management-1.10.0.tar.gz",
+  "download_time": "2026-01-20T21:03:18.114853",
+  "package_url": "https://pypi.org/project/context-window-management/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "podns",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A Pronouns over DNS specification compliant Python API.",
   "author": "abigail phoebe",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "podns-0.2.1.tar.gz",
-  "download_time": "2026-01-20T20:45:37.318042",
+  "download_filename": "podns-0.2.2.tar.gz",
+  "download_time": "2026-01-20T21:02:47.178940",
   "package_url": "https://pypi.org/project/podns/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-relukko",
+  "version": "0.10.0",
+  "summary": "Resource Locking for Robot Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_relukko-0.10.0.tar.gz",
+  "download_time": "2026-01-20T21:03:16.298500",
+  "package_url": "https://pypi.org/project/robotframework-relukko/"
+}

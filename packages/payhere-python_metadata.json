@@ -1,11 +1,11 @@
 {
   "name": "payhere-python",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Unofficial Python SDK for PayHere Payment Gateway",
   "author": "Kavindu Harshitha",
   "license": "GNU GENERAL PUBLIC LICENSE\r\n        Version 3, 29 June 2007\r\n        \r\n        Copyright (C) 2026 Kavindu Harshitha (apexkv)\r\n        \r\n        This program is free software: you can redistribute it and/or modify\r\n        it under the terms of the GNU General Public License as published by\r\n        the Free Software Foundation, either version 3 of the License, or\r\n        (at your option) any later version.\r\n        \r\n        This program is distributed in the hope that it will be useful,\r\n        but WITHOUT ANY WARRANTY; without even the implied warranty of\r\n        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\r\n        ",
   "home_page": null,
-  "download_filename": "payhere_python-1.0.2.tar.gz",
-  "download_time": "2026-01-20T17:48:12.526699",
+  "download_filename": "payhere_python-1.0.3.tar.gz",
+  "download_time": "2026-01-20T21:03:19.802096",
   "package_url": "https://pypi.org/project/payhere-python/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "shared-jwt-service",
+  "version": "0.1.0",
+  "summary": "A Simple library to get certain JWT for later uses in different projects mainly to get the user_id from the header",
+  "author": "Ndaedzo Mudau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shared_jwt_service-0.1.0.tar.gz",
+  "download_time": "2026-01-20T21:02:43.126100",
+  "package_url": "https://pypi.org/project/shared-jwt-service/"
+}

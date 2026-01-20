@@ -1,0 +1,11 @@
+{
+  "name": "delvewheel",
+  "version": "1.12.0",
+  "summary": "Self-contained wheels for Windows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "delvewheel-1.12.0.tar.gz",
+  "download_time": "2026-01-20T21:02:51.831744",
+  "package_url": "https://pypi.org/project/delvewheel/"
+}

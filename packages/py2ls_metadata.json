@@ -1,11 +1,11 @@
 {
   "name": "py2ls",
-  "version": "0.2.7.14",
+  "version": "0.2.7.15",
   "summary": "py(thon)2(too)ls",
   "author": "Jianfeng",
   "license": null,
   "home_page": null,
-  "download_filename": "py2ls-0.2.7.14.tar.gz",
-  "download_time": "2026-01-20T10:29:38.559905",
+  "download_filename": "py2ls-0.2.7.15.tar.gz",
+  "download_time": "2026-01-20T21:03:37.479292",
   "package_url": "https://pypi.org/project/py2ls/"
 }
