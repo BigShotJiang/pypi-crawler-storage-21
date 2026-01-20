@@ -1,0 +1,11 @@
+{
+  "name": "huff",
+  "version": "1.7.0",
+  "summary": "huff: Huff Model Market Area Analysis",
+  "author": "Thomas Wieland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "huff-1.7.0.tar.gz",
+  "download_time": "2026-01-20T06:38:20.741054",
+  "package_url": "https://pypi.org/project/huff/"
+}

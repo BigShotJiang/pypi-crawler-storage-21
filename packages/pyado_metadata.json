@@ -1,11 +1,11 @@
 {
   "name": "pyado",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "Add your description here",
   "author": "Fred Stober",
   "license": null,
   "home_page": null,
-  "download_filename": "pyado-0.1.16.tar.gz",
-  "download_time": "2026-01-20T04:35:48.368830",
+  "download_filename": "pyado-0.1.17.tar.gz",
+  "download_time": "2026-01-20T06:38:39.528160",
   "package_url": "https://pypi.org/project/pyado/"
 }

@@ -1,19 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-20T05:53:54.640212
-- **Total Packages**: 89
-- **Total Size**: 36.38 MB
+- **Download Time**: 2026-01-20T06:39:05.114427
+- **Total Packages**: 81
+- **Total Size**: 29.14 MB
 
 ## Packages List
+- uipath
+- kyutil
+- cua-computer-server
+- pyg-nightly
+- spyotest
+- huff
+- iflow-mcp_gbaeke_mcp-obo
+- groknroll
+- stowrypy
+- letta-nightly
+- unitcvrt
+- ptn
+- pydmoo
+- soiltextureplot
+- nvjpegdecoder
+- simplepyble
+- chdb-core
+- torchada
+- swegen
+- mixinforge
+- lunalib
+- compress-lightreach
+- query-understand
+- wardengui
 - ezpanos
+- dome-api-sdk
+- toms-fast
+- zettelkasten-cli
+- quickcall-integrations
+- query-expander
+- alibabacloud-cms20240330
+- py-docker-admin
+- Topsis-Tanya-102303077
+- caffeinated-whale-cli
+- weirdfingers-boards
+- dodil
+- kollabor
+- pyado
+- fs-offline-hash
+- annofabcli
+- pyqwest
+- tunacode-cli
+- apphelpers
+- unlockedpd
+- nonebot-plugin-oi-helper
+- chatbot-component
+- dde-agent-lib
+- wisent
+- vibego
+- evm-log-father
+- harbor
+- dmart
+- kubrick-cli
+- logistics-charge-platform
 - red-dwarf
 - math-tools-v3-0
 - qbraid-cli
 - petrinex
 - spx-open-order
 - quatint
-- pydmoo
 - ucloud-sdk-python3
 - pyboomi-platform
 - contextifier
@@ -28,7 +80,6 @@
 - mpi-pyhive
 - pipescript
 - llemb
-- Topsis-Tanya-102303077
 - icq-parser
 - biolmai
 - chewy-attachment
@@ -36,62 +87,3 @@
 - edurag
 - superb-ai-onprem
 - iflow-mcp_kdoronin_figma_mcp
-- justpipe
-- qubitclient
-- odoo-addon-field-vector
-- claude-mpm
-- oepandas
-- ftllexengine
-- garf-core
-- garf-executors
-- bay-wheels
-- funding-common
-- ufycv
-- usfx
-- halib
-- isagellm
-- Topsis-Anshika-10123456
-- LHCbDIRAC
-- bayinx
-- vllm-sr
-- isagellm-core
-- qbraid-core
-- isagellm-backend
-- markdown-to-blog
-- claude-code-tracer
-- iv-platform-model-new-base
-- supermemory
-- Topsis-Naman-102303352
-- svpg
-- tsmasterapi
-- claude-nagger
-- sovereign
-- shopee-videoqa-cg-agent
-- odoo-addon-sale-blanket-order
-- balabs-kit
-- yu-tcal
-- lhcbdiracx-routers
-- lhcbdiracx-logic
-- lhcbdiracx-db
-- lhcbdiracx-core
-- lhcbdiracx-client
-- lhcbdiracx-cli
-- lhcbdiracx-api
-- lhcbdiracx
-- mt-ldp
-- toms-fast
-- microimpute
-- karaoke-gen
-- fastapi-async-storages
-- kdbxtool
-- request-rule-decorators
-- nvidia-modelopt
-- django-cfg
-- aleph-rlm
-- canvas-eject
-- datasuite-dataservice-sdk-python
-- nulapack
-- cli-wizard
-- isage-kernel
-- logistics-waybill-center
-- truthound

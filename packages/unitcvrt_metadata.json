@@ -1,0 +1,11 @@
+{
+  "name": "unitcvrt",
+  "version": "0.1.7",
+  "summary": "Unit Conversion System",
+  "author": "Shinsuke Sakai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unitcvrt-0.1.7.tar.gz",
+  "download_time": "2026-01-20T06:38:23.739305",
+  "package_url": "https://pypi.org/project/unitcvrt/"
+}

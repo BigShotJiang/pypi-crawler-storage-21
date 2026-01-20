@@ -1,0 +1,11 @@
+{
+  "name": "evm-log-father",
+  "version": "0.2.0",
+  "summary": "Fast EVM log decoding library",
+  "author": "adidonato",
+  "license": "MIT",
+  "home_page": "https://rehashed.work",
+  "download_filename": "evm_log_father-0.2.0.tar.gz",
+  "download_time": "2026-01-20T06:38:47.180099",
+  "package_url": "https://pypi.org/project/evm-log-father/"
+}

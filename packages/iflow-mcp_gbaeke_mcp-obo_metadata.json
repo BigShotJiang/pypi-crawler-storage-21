@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_gbaeke_mcp-obo",
+  "version": "0.1.1",
+  "summary": "MCP Server with Azure Entra ID Authentication and OBO flow for Microsoft Search",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_gbaeke_mcp_obo-0.1.1.tar.gz",
+  "download_time": "2026-01-20T06:38:21.349733",
+  "package_url": "https://pypi.org/project/iflow-mcp_gbaeke_mcp-obo/"
+}

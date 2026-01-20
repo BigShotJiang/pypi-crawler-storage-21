@@ -1,0 +1,11 @@
+{
+  "name": "zettelkasten-cli",
+  "version": "1.0.3",
+  "summary": "A CLI for managing your Neovim + Obsidian Zettelkasten",
+  "author": "Mischa van den Burg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zettelkasten_cli-1.0.3.tar.gz",
+  "download_time": "2026-01-20T06:38:33.742115",
+  "package_url": "https://pypi.org/project/zettelkasten-cli/"
+}

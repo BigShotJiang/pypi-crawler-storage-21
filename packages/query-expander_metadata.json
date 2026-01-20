@@ -1,0 +1,11 @@
+{
+  "name": "query-expander",
+  "version": "0.0.0",
+  "summary": "A small example package",
+  "author": "sc",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "query_expander-0.0.0.tar.gz",
+  "download_time": "2026-01-20T06:38:34.893334",
+  "package_url": "https://pypi.org/project/query-expander/"
+}

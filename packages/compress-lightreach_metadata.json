@@ -1,0 +1,11 @@
+{
+  "name": "compress-lightreach",
+  "version": "0.1.5",
+  "summary": "Intelligent compression algorithms for LLM prompts that reduce token usage",
+  "author": "Light Reach",
+  "license": "MIT",
+  "home_page": "https://compress.lightreach.io",
+  "download_filename": "compress_lightreach-0.1.5.tar.gz",
+  "download_time": "2026-01-20T06:38:30.255830",
+  "package_url": "https://pypi.org/project/compress-lightreach/"
+}

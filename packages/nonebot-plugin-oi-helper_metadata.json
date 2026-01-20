@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-oi-helper",
+  "version": "2.0.0",
+  "summary": "A NoneBot2 plugin for querying OI/ACM related information, including LeetCode daily question.",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_oi_helper-2.0.0.tar.gz",
+  "download_time": "2026-01-20T06:38:44.254703",
+  "package_url": "https://pypi.org/project/nonebot-plugin-oi-helper/"
+}
