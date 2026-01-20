@@ -1,0 +1,11 @@
+{
+  "name": "sop4py",
+  "version": "2.0.45",
+  "summary": "Scalable Objects Persistence (SOP) V2 for Python. General Public Availability (GPA) Release",
+  "author": "Gerardo Recinto",
+  "license": null,
+  "home_page": "https://pypi.org/project/sop-python-beta-3",
+  "download_filename": "sop4py-2.0.45-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-20T22:45:29.581477",
+  "package_url": "https://pypi.org/project/sop4py/"
+}

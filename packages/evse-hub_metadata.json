@@ -1,11 +1,11 @@
 {
   "name": "evse-hub",
-  "version": "0.3.4",
+  "version": "0.5.0",
   "summary": "Solar monitoring and control daemons",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evse_hub-0.3.4.tar.gz",
-  "download_time": "2026-01-20T22:28:04.488984",
+  "download_filename": "evse_hub-0.5.0.tar.gz",
+  "download_time": "2026-01-20T22:45:42.225473",
   "package_url": "https://pypi.org/project/evse-hub/"
 }

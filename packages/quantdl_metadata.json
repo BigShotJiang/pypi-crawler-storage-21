@@ -1,0 +1,11 @@
+{
+  "name": "quantdl",
+  "version": "0.2.1",
+  "summary": "Financial data fetcher for alpha research with S3 backend and local caching",
+  "author": "QuantDL Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantdl-0.2.1.tar.gz",
+  "download_time": "2026-01-20T22:45:50.158269",
+  "package_url": "https://pypi.org/project/quantdl/"
+}
