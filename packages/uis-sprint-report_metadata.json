@@ -1,0 +1,11 @@
+{
+  "name": "uis-sprint-report",
+  "version": "2026.1.201651",
+  "summary": "A Python package for generating sprint reports and managing sprint activities at University Information Services.",
+  "author": "Eugene Evstafev",
+  "license": null,
+  "home_page": "https://gitlab.developers.cam.ac.uk/ee345/demo",
+  "download_filename": "uis_sprint_report-2026.1.201651.tar.gz",
+  "download_time": "2026-01-20T17:06:23.073566",
+  "package_url": "https://pypi.org/project/uis-sprint-report/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tunax",
+  "version": "0.2.6",
+  "summary": "Differential calibrator of the vertical ocean turbulence closures.",
+  "author": "Gabriel Mouttapa",
+  "license": "CC BY-NC 4.0",
+  "home_page": "https://github.com/meom-group/tunax",
+  "download_filename": "tunax-0.2.6.tar.gz",
+  "download_time": "2026-01-20T17:06:36.148667",
+  "package_url": "https://pypi.org/project/tunax/"
+}

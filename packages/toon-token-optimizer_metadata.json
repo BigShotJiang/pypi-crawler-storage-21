@@ -1,0 +1,11 @@
+{
+  "name": "toon-token-optimizer",
+  "version": "1.0.0",
+  "summary": "Token Optimized Object Notation - Reduce LLM token usage by 40-60%",
+  "author": "Prashant Dudami",
+  "license": null,
+  "home_page": "https://github.com/prashantdudami/toon-converter",
+  "download_filename": "toon_token_optimizer-1.0.0.tar.gz",
+  "download_time": "2026-01-20T17:06:19.446627",
+  "package_url": "https://pypi.org/project/toon-token-optimizer/"
+}

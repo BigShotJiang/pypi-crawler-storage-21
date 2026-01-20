@@ -1,0 +1,11 @@
+{
+  "name": "ttconv",
+  "version": "1.2.1",
+  "summary": "Library for conversion of common timed text formats",
+  "author": "Sandflow Consulting LLC",
+  "license": null,
+  "home_page": "https://github.com/sandflow/ttconv",
+  "download_filename": "ttconv-1.2.1.tar.gz",
+  "download_time": "2026-01-20T17:06:31.517179",
+  "package_url": "https://pypi.org/project/ttconv/"
+}

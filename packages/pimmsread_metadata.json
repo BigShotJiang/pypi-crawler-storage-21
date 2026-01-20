@@ -1,0 +1,11 @@
+{
+  "name": "pimmsread",
+  "version": "1.0.0",
+  "summary": "Python package for reading PImMS data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pimmsread-1.0.0.tar.gz",
+  "download_time": "2026-01-20T17:06:16.344405",
+  "package_url": "https://pypi.org/project/pimmsread/"
+}

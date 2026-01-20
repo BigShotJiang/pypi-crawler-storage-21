@@ -1,0 +1,11 @@
+{
+  "name": "py12306",
+  "version": "0.1.0",
+  "summary": "China Railway (12306) API client for querying stations, trains, tickets, and transfers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py12306-0.1.0.tar.gz",
+  "download_time": "2026-01-20T17:06:10.014117",
+  "package_url": "https://pypi.org/project/py12306/"
+}

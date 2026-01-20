@@ -1,0 +1,11 @@
+{
+  "name": "fast-graph-gp",
+  "version": "0.1.1",
+  "summary": "Graph Random Features for Scalable Gaussian Processes (GRF-GP)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_graph_gp-0.1.1.tar.gz",
+  "download_time": "2026-01-20T17:06:02.676043",
+  "package_url": "https://pypi.org/project/fast-graph-gp/"
+}

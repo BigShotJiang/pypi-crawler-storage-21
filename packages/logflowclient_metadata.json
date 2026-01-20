@@ -1,0 +1,11 @@
+{
+  "name": "logflowclient",
+  "version": "0.2.1",
+  "summary": "Schema-less logging SDK for LogFlow platform",
+  "author": "LogFlow Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/logflow",
+  "download_filename": "logflowclient-0.2.1.tar.gz",
+  "download_time": "2026-01-20T17:06:37.687230",
+  "package_url": "https://pypi.org/project/logflowclient/"
+}

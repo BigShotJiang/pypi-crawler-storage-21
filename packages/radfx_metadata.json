@@ -1,0 +1,11 @@
+{
+  "name": "radfx",
+  "version": "0.0.1",
+  "summary": "Rapid Application Development framework for Python",
+  "author": "Your Name",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "radfx-0.0.1.tar.gz",
+  "download_time": "2026-01-20T17:06:32.544394",
+  "package_url": "https://pypi.org/project/radfx/"
+}

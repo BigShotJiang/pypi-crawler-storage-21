@@ -1,11 +1,11 @@
 {
   "name": "crunch-synth",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "A package for participating in the Crunch-Synth Game on CrunchDAO",
   "author": "Abdennour BOUTRIG, Alexis Gassmann",
   "license": null,
   "home_page": "https://github.com/crunchdao/crunch-synth",
-  "download_filename": "crunch_synth-0.6.0.tar.gz",
-  "download_time": "2026-01-19T22:23:27.433441",
+  "download_filename": "crunch_synth-0.6.1.tar.gz",
+  "download_time": "2026-01-20T17:06:08.989362",
   "package_url": "https://pypi.org/project/crunch-synth/"
 }
