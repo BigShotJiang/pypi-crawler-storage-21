@@ -1,0 +1,11 @@
+{
+  "name": "symqnet-molopt",
+  "version": "4.0.3",
+  "summary": "SymQNet Molecular Optimization via Hamiltonian Estimation",
+  "author": "YTomar79",
+  "license": "MIT",
+  "home_page": "https://github.com/YTomar79/symqnet-molopt",
+  "download_filename": "symqnet_molopt-4.0.3.tar.gz",
+  "download_time": "2026-01-20T03:45:03.756948",
+  "package_url": "https://pypi.org/project/symqnet-molopt/"
+}

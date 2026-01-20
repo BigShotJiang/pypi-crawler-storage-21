@@ -1,0 +1,11 @@
+{
+  "name": "agton-wallet",
+  "version": "0.2.4",
+  "summary": "TON Blockchain wrappers for wallets contracts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agton_wallet-0.2.4.tar.gz",
+  "download_time": "2026-01-20T03:45:25.114229",
+  "package_url": "https://pypi.org/project/agton-wallet/"
+}

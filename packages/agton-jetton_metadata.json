@@ -1,0 +1,11 @@
+{
+  "name": "agton-jetton",
+  "version": "0.2.4",
+  "summary": "TON Blockchain jetton wrappers, implementation of TEP-74",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agton_jetton-0.2.4.tar.gz",
+  "download_time": "2026-01-20T03:45:25.632648",
+  "package_url": "https://pypi.org/project/agton-jetton/"
+}

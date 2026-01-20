@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-firebird-async",
+  "version": "0.2.1",
+  "summary": "Asyncio support for Firebird in SQLAlchemy",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlalchemy_firebird_async-0.2.1.tar.gz",
+  "download_time": "2026-01-20T03:45:37.633571",
+  "package_url": "https://pypi.org/project/sqlalchemy-firebird-async/"
+}

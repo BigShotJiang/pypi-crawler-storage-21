@@ -1,0 +1,11 @@
+{
+  "name": "pipescript",
+  "version": "0.0.12",
+  "summary": "Powerful pipeline syntax for IPython and Jupyter",
+  "author": "Stephen Macke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/smacke/pipescript",
+  "download_filename": "pipescript-0.0.12.tar.gz",
+  "download_time": "2026-01-20T03:45:29.282295",
+  "package_url": "https://pypi.org/project/pipescript/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-type-base",
+  "version": "18.0.2.0.0.1",
+  "summary": "Base implementation to improve the address type customization.",
+  "author": "glueckkanja AG, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_type_base-18.0.2.0.0.1-py3-none-any.whl",
+  "download_time": "2026-01-20T03:45:14.880469",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-type-base/"
+}

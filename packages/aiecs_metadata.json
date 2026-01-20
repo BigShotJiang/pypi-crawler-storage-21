@@ -1,0 +1,11 @@
+{
+  "name": "aiecs",
+  "version": "1.8.5",
+  "summary": "AI Execute Services - A middleware framework for AI-powered task execution and tool orchestration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiecs-1.8.5.tar.gz",
+  "download_time": "2026-01-20T03:45:42.352656",
+  "package_url": "https://pypi.org/project/aiecs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mtopencv",
+  "version": "1.11.13",
+  "summary": "Minh-Tri Pham's extra modules using OpenCV",
+  "author": "Minh-Tri Pham",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtopencv-1.11.13-py3-none-any.whl",
+  "download_time": "2026-01-20T03:45:16.972796",
+  "package_url": "https://pypi.org/project/mtopencv/"
+}

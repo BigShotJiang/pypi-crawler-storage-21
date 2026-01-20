@@ -1,11 +1,11 @@
 {
   "name": "dotfiles-cli",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "CLI tool to sync and manage dotfiles across machines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dotfiles_cli-0.2.2.tar.gz",
-  "download_time": "2026-01-19T21:21:36.443849",
+  "download_filename": "dotfiles_cli-0.2.4.tar.gz",
+  "download_time": "2026-01-20T03:45:49.829585",
   "package_url": "https://pypi.org/project/dotfiles-cli/"
 }

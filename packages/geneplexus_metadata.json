@@ -1,0 +1,11 @@
+{
+  "name": "geneplexus",
+  "version": "3.0.0",
+  "summary": "Network based gene classification",
+  "author": "Remy Liu and Christopher A. Mancuso",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/krishnanlab/PyGenePlexus",
+  "download_filename": "geneplexus-3.0.0.tar.gz",
+  "download_time": "2026-01-20T03:45:47.627374",
+  "package_url": "https://pypi.org/project/geneplexus/"
+}

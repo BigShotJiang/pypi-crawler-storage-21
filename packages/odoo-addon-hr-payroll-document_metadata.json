@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-payroll-document",
+  "version": "17.0.1.1.0.2",
+  "summary": "Manage payroll for each employee",
+  "author": "APSL, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/payroll",
+  "download_filename": "odoo_addon_hr_payroll_document-17.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-20T03:45:11.244754",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-payroll-document/"
+}

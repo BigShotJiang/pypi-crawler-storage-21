@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_iflytek_ifly-workflow-mcp-server",
+  "version": "1.0.0",
+  "summary": "This a simple implementation of an MCP server using iFlytek. It enables calling iFlytek workflows through MCP tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_iflytek_ifly_workflow_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-01-20T03:45:40.784117",
+  "package_url": "https://pypi.org/project/iflow-mcp_iflytek_ifly-workflow-mcp-server/"
+}

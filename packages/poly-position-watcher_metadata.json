@@ -1,0 +1,11 @@
+{
+  "name": "poly-position-watcher",
+  "version": "0.2.3",
+  "summary": "polymarket proxy wallet redeem",
+  "author": "pinbar",
+  "license": null,
+  "home_page": "https://github.com/tosmart01/polymarket-position-watcher",
+  "download_filename": "poly_position_watcher-0.2.3.tar.gz",
+  "download_time": "2026-01-20T03:45:02.682193",
+  "package_url": "https://pypi.org/project/poly-position-watcher/"
+}
