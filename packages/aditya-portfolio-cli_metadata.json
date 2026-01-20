@@ -1,11 +1,11 @@
 {
   "name": "aditya-portfolio-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A portfolio that will is not even readable",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aditya_portfolio_cli-0.0.2.tar.gz",
-  "download_time": "2026-01-20T22:45:28.063217",
+  "download_filename": "aditya_portfolio_cli-0.0.3.tar.gz",
+  "download_time": "2026-01-20T22:56:50.896216",
   "package_url": "https://pypi.org/project/aditya-portfolio-cli/"
 }

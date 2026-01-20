@@ -1,11 +1,11 @@
 {
   "name": "tsforecasting",
-  "version": "1.61.10",
+  "version": "1.61.11",
   "summary": "TSForecasting is an automated time series forecasting framework",
   "author": "Luís Fernando da Silva Santos",
   "license": "MIT",
   "home_page": "https://github.com/TsLu1s/TSForecasting",
-  "download_filename": "tsforecasting-1.61.10-py3-none-any.whl",
-  "download_time": "2026-01-19T19:01:21.860429",
+  "download_filename": "tsforecasting-1.61.11-py3-none-any.whl",
+  "download_time": "2026-01-20T22:56:38.867632",
   "package_url": "https://pypi.org/project/tsforecasting/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyBlindOpt",
+  "version": "0.2.1",
+  "summary": "A library that implements several derivation-free optimization algorithms (such as genetic optimization).",
+  "author": "Mário Antunes",
+  "license": null,
+  "home_page": "https://github.com/mariolpantunes/pyBlindOpt",
+  "download_filename": "pyblindopt-0.2.1.tar.gz",
+  "download_time": "2026-01-20T22:56:34.679000",
+  "package_url": "https://pypi.org/project/pyBlindOpt/"
+}

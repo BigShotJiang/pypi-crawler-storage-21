@@ -1,0 +1,11 @@
+{
+  "name": "intgate",
+  "version": "1.0.0",
+  "summary": "Python client library for the IntGate license verification API",
+  "author": "IntGate Client Library",
+  "license": null,
+  "home_page": "https://license.intserver.com",
+  "download_filename": "intgate-1.0.0.tar.gz",
+  "download_time": "2026-01-20T22:56:33.635904",
+  "package_url": "https://pypi.org/project/intgate/"
+}
