@@ -1,0 +1,11 @@
+{
+  "name": "pyrokid-cxr-clientm",
+  "version": "0.0.4a4",
+  "summary": "A python port of the com.rokid.cxr.client-m Java library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrokid_cxr_clientm-0.0.4a4.tar.gz",
+  "download_time": "2026-01-20T22:27:56.961103",
+  "package_url": "https://pypi.org/project/pyrokid-cxr-clientm/"
+}

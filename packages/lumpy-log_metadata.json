@@ -1,0 +1,11 @@
+{
+  "name": "lumpy-log",
+  "version": "0.1.4",
+  "summary": "Make git logs easier for use in scenarios when communicating the progress of a project to non-experts",
+  "author": "UTC Sheffield",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lumpy_log-0.1.4.tar.gz",
+  "download_time": "2026-01-20T22:28:18.757818",
+  "package_url": "https://pypi.org/project/lumpy-log/"
+}

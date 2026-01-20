@@ -1,0 +1,11 @@
+{
+  "name": "Pyckles",
+  "version": "0.6.0",
+  "summary": "Simple interface to the Pickles 1998 stellar spectra catalogue.",
+  "author": "Kieran Leschinski",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/AstarVienna/Pyckles/",
+  "download_filename": "pyckles-0.6.0.tar.gz",
+  "download_time": "2026-01-20T22:28:30.167299",
+  "package_url": "https://pypi.org/project/Pyckles/"
+}

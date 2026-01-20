@@ -1,0 +1,11 @@
+{
+  "name": "nbdev",
+  "version": "2.4.14",
+  "summary": "Create delightful software with Jupyter Notebooks",
+  "author": "Jeremy Howard and Hamel Husain",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/nbdev",
+  "download_filename": "nbdev-2.4.14.tar.gz",
+  "download_time": "2026-01-20T22:28:26.925256",
+  "package_url": "https://pypi.org/project/nbdev/"
+}

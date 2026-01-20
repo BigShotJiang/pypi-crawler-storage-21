@@ -1,0 +1,11 @@
+{
+  "name": "pypolyclip",
+  "version": "1.2.0",
+  "summary": "A python driver to the polyclip functions",
+  "author": "Pypolyclip Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypolyclip-1.2.0.tar.gz",
+  "download_time": "2026-01-20T22:28:31.251150",
+  "package_url": "https://pypi.org/project/pypolyclip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pygments-bsl",
+  "version": "1.0.1",
+  "summary": "Pygments 1C (BSL, SDBL) lexer",
+  "author": "Ingvar Vilkman",
+  "license": "MIT License",
+  "home_page": "https://github.com/zeegin/pygments-bsl",
+  "download_filename": "pygments_bsl-1.0.1.tar.gz",
+  "download_time": "2026-01-20T22:27:42.437091",
+  "package_url": "https://pypi.org/project/pygments-bsl/"
+}

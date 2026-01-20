@@ -1,0 +1,11 @@
+{
+  "name": "cedar-python",
+  "version": "0.1.4",
+  "summary": "Python bindings for Cedar, the open-source policy language for access control.",
+  "author": "Sondera",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cedar_python-0.1.4.tar.gz",
+  "download_time": "2026-01-20T22:28:17.666175",
+  "package_url": "https://pypi.org/project/cedar-python/"
+}

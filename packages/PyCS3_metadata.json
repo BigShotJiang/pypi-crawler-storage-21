@@ -1,0 +1,11 @@
+{
+  "name": "PyCS3",
+  "version": "3.0.4",
+  "summary": "PyCS3: A Python toolbox for time-delay measurements in lensed quasars",
+  "author": "Malte Tewes, Vivien Bonvin",
+  "license": null,
+  "home_page": "https://gitlab.com/cosmograil/PyCS3",
+  "download_filename": "pycs3-3.0.4.tar.gz",
+  "download_time": "2026-01-20T22:27:57.472488",
+  "package_url": "https://pypi.org/project/PyCS3/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "erdo",
+  "version": "0.1.33",
+  "summary": "Python SDK for building workflow automation agents with Erdo",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "erdo-0.1.33.tar.gz",
+  "download_time": "2026-01-20T22:28:02.398762",
+  "package_url": "https://pypi.org/project/erdo/"
+}
