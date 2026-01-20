@@ -1,11 +1,11 @@
 {
   "name": "wagtail-sitemap-seo",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Sitemap XML generation helpers for Wagtail",
   "author": "Gerry Mcbride",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wagtail_sitemap_seo-1.5.0.tar.gz",
-  "download_time": "2026-01-20T10:29:39.581659",
+  "download_filename": "wagtail_sitemap_seo-1.5.1.tar.gz",
+  "download_time": "2026-01-20T11:28:28.266365",
   "package_url": "https://pypi.org/project/wagtail-sitemap-seo/"
 }

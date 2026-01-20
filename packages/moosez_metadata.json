@@ -1,0 +1,11 @@
+{
+  "name": "moosez",
+  "version": "3.1.5",
+  "summary": "An AI-inference engine for 3D clinical and preclinical whole-body segmentation tasks",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "moosez-3.1.5.tar.gz",
+  "download_time": "2026-01-20T11:29:05.947266",
+  "package_url": "https://pypi.org/project/moosez/"
+}

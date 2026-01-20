@@ -1,11 +1,11 @@
 {
   "name": "hfortix-fortios",
-  "version": "0.5.120",
+  "version": "0.5.123",
   "summary": "FortiOS SDK - Part of HFortix",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "hfortix_fortios-0.5.120.tar.gz",
-  "download_time": "2026-01-19T17:27:12.385005",
+  "download_filename": "hfortix_fortios-0.5.123.tar.gz",
+  "download_time": "2026-01-20T11:29:00.815904",
   "package_url": "https://pypi.org/project/hfortix-fortios/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "causalfe",
+  "version": "0.2.0",
+  "summary": "Causal Forests with Fixed Effects for Panel and Difference-in-Differences Settings",
+  "author": "Harry Aytug",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "causalfe-0.2.0.tar.gz",
+  "download_time": "2026-01-20T11:28:47.815852",
+  "package_url": "https://pypi.org/project/causalfe/"
+}

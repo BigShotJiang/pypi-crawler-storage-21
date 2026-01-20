@@ -1,11 +1,11 @@
 {
   "name": "multiplexer-llm",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A multiplexer for Large Language Model APIs built on the OpenAI SDK. It combines quotas from multiple models and automatically uses fallback models when the primary models are rate limited.",
   "author": "Havencto",
   "license": "MIT",
   "home_page": "https://github.com/Haven-hvn/multiplexer-llm",
-  "download_filename": "multiplexer_llm-0.2.2.tar.gz",
-  "download_time": "2026-01-19T20:47:30.773498",
+  "download_filename": "multiplexer_llm-0.2.3.tar.gz",
+  "download_time": "2026-01-20T11:28:49.859273",
   "package_url": "https://pypi.org/project/multiplexer-llm/"
 }

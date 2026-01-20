@@ -1,0 +1,11 @@
+{
+  "name": "fcbyk-cli",
+  "version": "0.2.0",
+  "summary": "A CLI tool for fcbyk",
+  "author": "fcbyk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fcbyk_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-20T11:29:10.547343",
+  "package_url": "https://pypi.org/project/fcbyk-cli/"
+}

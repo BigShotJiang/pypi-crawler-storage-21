@@ -1,0 +1,11 @@
+{
+  "name": "mattermost-notify",
+  "version": "26.1.0",
+  "summary": "Python tool to post GitHub Action runs to mattermost",
+  "author": "Jaspar Stach",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mattermost_notify-26.1.0.tar.gz",
+  "download_time": "2026-01-20T11:29:06.967985",
+  "package_url": "https://pypi.org/project/mattermost-notify/"
+}

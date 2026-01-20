@@ -1,0 +1,11 @@
+{
+  "name": "mem-llm",
+  "version": "2.4.2",
+  "summary": "Privacy-first, memory-enabled AI assistant with workflow engine, knowledge graph, multi-agent systems, multi-backend LLM support (Ollama, LM Studio), vector search, and analytics - 100% local and production-ready",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mem_llm-2.4.2.tar.gz",
+  "download_time": "2026-01-20T11:29:10.036034",
+  "package_url": "https://pypi.org/project/mem-llm/"
+}

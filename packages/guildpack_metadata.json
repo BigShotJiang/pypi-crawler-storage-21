@@ -1,0 +1,11 @@
+{
+  "name": "guildpack",
+  "version": "0.1.12",
+  "summary": "Alias for oguild — OGuild utilities for Python projects",
+  "author": "Hordunlarmy",
+  "license": "MIT",
+  "home_page": "https://github.com/OpsGuild/guildpack",
+  "download_filename": "guildpack-0.1.12.tar.gz",
+  "download_time": "2026-01-20T11:29:15.671208",
+  "package_url": "https://pypi.org/project/guildpack/"
+}

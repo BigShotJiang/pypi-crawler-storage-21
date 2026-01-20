@@ -1,0 +1,11 @@
+{
+  "name": "euring",
+  "version": "26.4",
+  "summary": "A Python library and CLI for decoding, validating, and converting EURING ringing and recovery records.",
+  "author": "Dylan Verheul",
+  "license": null,
+  "home_page": null,
+  "download_filename": "euring-26.4.tar.gz",
+  "download_time": "2026-01-20T11:29:13.634187",
+  "package_url": "https://pypi.org/project/euring/"
+}

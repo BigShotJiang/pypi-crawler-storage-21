@@ -1,0 +1,11 @@
+{
+  "name": "pulp-hugging-face",
+  "version": "0.3.0",
+  "summary": "pulp-hugging-face plugin for the Pulp Project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulp_hugging_face-0.3.0.tar.gz",
+  "download_time": "2026-01-20T11:28:50.880054",
+  "package_url": "https://pypi.org/project/pulp-hugging-face/"
+}

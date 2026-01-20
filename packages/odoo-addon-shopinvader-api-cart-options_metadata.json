@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-api-cart-options",
+  "version": "16.0.1.0.2",
+  "summary": "Add product options to the cart API",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_api_cart_options-16.0.1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-20T11:28:57.547207",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-api-cart-options/"
+}

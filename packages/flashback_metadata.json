@@ -1,0 +1,11 @@
+{
+  "name": "flashback",
+  "version": "3.1.3",
+  "summary": "A collection of python utilities you might have written a couple of times already",
+  "author": "Paul Renvoisé",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flashback-3.1.3.tar.gz",
+  "download_time": "2026-01-20T11:29:11.573640",
+  "package_url": "https://pypi.org/project/flashback/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ultranest",
+  "version": "4.5.0",
+  "summary": "Fit and compare complex models reliably and rapidly. Advanced Nested Sampling.",
+  "author": "Johannes Buchner",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/JohannesBuchner/ultranest",
+  "download_filename": "ultranest-4.5.0.tar.gz",
+  "download_time": "2026-01-20T11:28:43.172082",
+  "package_url": "https://pypi.org/project/ultranest/"
+}
