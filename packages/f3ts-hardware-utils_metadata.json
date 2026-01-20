@@ -1,0 +1,11 @@
+{
+  "name": "f3ts-hardware-utils",
+  "version": "0.1.26",
+  "summary": "FixturFab Functional Test System Hardware Utilities Library. Connect and control test hardware for your FixturFab Functional Test System.",
+  "author": "Duncan Lowder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "f3ts_hardware_utils-0.1.26.tar.gz",
+  "download_time": "2026-01-20T20:45:38.374779",
+  "package_url": "https://pypi.org/project/f3ts-hardware-utils/"
+}

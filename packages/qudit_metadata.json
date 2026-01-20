@@ -1,0 +1,11 @@
+{
+  "name": "qudit",
+  "version": "0.2.2",
+  "summary": "High performance quantum sims on qudits",
+  "author": "plutoniumm",
+  "license": "MIT",
+  "home_page": "https://github.com/plutoniumm/qudit",
+  "download_filename": "qudit-0.2.2.tar.gz",
+  "download_time": "2026-01-20T20:45:42.022516",
+  "package_url": "https://pypi.org/project/qudit/"
+}

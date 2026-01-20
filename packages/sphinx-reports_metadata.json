@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-reports",
+  "version": "0.10.0",
+  "summary": "A Sphinx extension providing reports and summaries embedded in documentation pages.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/pyTooling/sphinx_reports",
+  "download_filename": "sphinx_reports-0.10.0.tar.gz",
+  "download_time": "2026-01-20T20:45:53.108702",
+  "package_url": "https://pypi.org/project/sphinx-reports/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sgn-skig",
+  "version": "0.1.0",
+  "summary": "SGN infrastructure for metrics, Kafka, InfluxDB, and Grafana integration",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "sgn_skig-0.1.0.tar.gz",
+  "download_time": "2026-01-20T20:45:56.278592",
+  "package_url": "https://pypi.org/project/sgn-skig/"
+}

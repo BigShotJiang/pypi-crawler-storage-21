@@ -1,0 +1,11 @@
+{
+  "name": "UC2-REST",
+  "version": "0.2.0.32",
+  "summary": "This pacage will help you to drive the ESP32-driven microscopy control modules from UC2",
+  "author": "Benedict Diederich",
+  "license": "GPL v3",
+  "home_page": "https://github.com/openUC2/UC2-REST",
+  "download_filename": "uc2_rest-0.2.0.32.tar.gz",
+  "download_time": "2026-01-20T20:45:08.746211",
+  "package_url": "https://pypi.org/project/UC2-REST/"
+}

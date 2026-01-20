@@ -1,0 +1,11 @@
+{
+  "name": "browsergym",
+  "version": "0.14.3",
+  "summary": "BrowserGym: a gym environment for web task automation in the Chromium browser",
+  "author": "Rim Assouel, Léo Boisvert, Massimo Caccia, Alex Drouin, Maxime Gasse, Imene Kerboua, Alex Lacoste, Thibault Le Sellier De Chezelles, Tom Marty, Aman Jaiswal, Nicolas Gontier",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "browsergym-0.14.3.tar.gz",
+  "download_time": "2026-01-20T20:45:33.999313",
+  "package_url": "https://pypi.org/project/browsergym/"
+}

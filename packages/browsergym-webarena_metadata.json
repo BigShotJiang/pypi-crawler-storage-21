@@ -1,0 +1,11 @@
+{
+  "name": "browsergym-webarena",
+  "version": "0.14.3",
+  "summary": "WebArena benchmark for BrowserGym",
+  "author": "Maxime Gasse, Tom Marty",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "browsergym_webarena-0.14.3.tar.gz",
+  "download_time": "2026-01-20T20:45:30.330201",
+  "package_url": "https://pypi.org/project/browsergym-webarena/"
+}

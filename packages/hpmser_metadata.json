@@ -1,0 +1,11 @@
+{
+  "name": "hpmser",
+  "version": "2.2.2",
+  "summary": "Hyper Parameters Search tool",
+  "author": "Piotr Niewinski",
+  "license": "MIT",
+  "home_page": "https://github.com/piteren/hpmser.git",
+  "download_filename": "hpmser-2.2.2.tar.gz",
+  "download_time": "2026-01-20T20:45:51.015372",
+  "package_url": "https://pypi.org/project/hpmser/"
+}

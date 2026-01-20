@@ -1,0 +1,11 @@
+{
+  "name": "yoco",
+  "version": "1.2.1",
+  "summary": "Minimalistic YAML-based configuration system",
+  "author": "Leonard Bruns",
+  "license": null,
+  "home_page": "https://github.com/roym899/yoco",
+  "download_filename": "yoco-1.2.1.tar.gz",
+  "download_time": "2026-01-20T20:45:19.930737",
+  "package_url": "https://pypi.org/project/yoco/"
+}

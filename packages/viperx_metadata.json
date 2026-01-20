@@ -1,11 +1,11 @@
 {
   "name": "viperx",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Professional Python Project Initializer with uv, ml/dl support, and embedded config.",
   "author": "Ivann KAMDEM",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "viperx-1.1.0.tar.gz",
-  "download_time": "2026-01-20T12:53:23.024892",
+  "download_filename": "viperx-1.2.0.tar.gz",
+  "download_time": "2026-01-20T20:45:43.095174",
   "package_url": "https://pypi.org/project/viperx/"
 }

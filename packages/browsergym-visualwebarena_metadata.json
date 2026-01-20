@@ -1,0 +1,11 @@
+{
+  "name": "browsergym-visualwebarena",
+  "version": "0.14.3",
+  "summary": "VisualWebArena benchmark for BrowserGym",
+  "author": "Lawrence Jang, Maxime Gasse",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "browsergym_visualwebarena-0.14.3.tar.gz",
+  "download_time": "2026-01-20T20:45:30.850316",
+  "package_url": "https://pypi.org/project/browsergym-visualwebarena/"
+}

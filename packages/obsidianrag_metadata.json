@@ -1,0 +1,11 @@
+{
+  "name": "obsidianrag",
+  "version": "3.0.2",
+  "summary": "RAG system for querying Obsidian notes using LangGraph and local LLMs",
+  "author": "Enrique Vasallo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "obsidianrag-3.0.2.tar.gz",
+  "download_time": "2026-01-20T20:45:40.983359",
+  "package_url": "https://pypi.org/project/obsidianrag/"
+}
