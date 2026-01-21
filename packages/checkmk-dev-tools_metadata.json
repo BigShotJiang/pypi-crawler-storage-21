@@ -1,0 +1,11 @@
+{
+  "name": "checkmk-dev-tools",
+  "version": "2.0.2",
+  "summary": "Checkmk DevOps tools",
+  "author": "Frans Fürst",
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkmk_dev_tools-2.0.2.tar.gz",
+  "download_time": "2026-01-21T07:45:40.155950",
+  "package_url": "https://pypi.org/project/checkmk-dev-tools/"
+}

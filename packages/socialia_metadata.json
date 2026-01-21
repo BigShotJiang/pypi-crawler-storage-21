@@ -1,11 +1,11 @@
 {
   "name": "socialia",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Unified social media management - posting, analytics, and insights",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "socialia-0.1.0.tar.gz",
-  "download_time": "2026-01-20T23:27:00.952252",
+  "download_filename": "socialia-0.1.1.tar.gz",
+  "download_time": "2026-01-21T07:45:19.090194",
   "package_url": "https://pypi.org/project/socialia/"
 }

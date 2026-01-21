@@ -1,0 +1,11 @@
+{
+  "name": "xiaomi-ble",
+  "version": "1.6.0",
+  "summary": "Manage Xiaomi BLE devices",
+  "author": "John Carr",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xiaomi_ble-1.6.0.tar.gz",
+  "download_time": "2026-01-21T07:45:29.941958",
+  "package_url": "https://pypi.org/project/xiaomi-ble/"
+}

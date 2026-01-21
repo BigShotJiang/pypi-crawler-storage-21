@@ -1,11 +1,11 @@
 {
   "name": "rlab-runtime",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Platform for digital twin robotics and mechatronics systems",
   "author": "RosVersity Team",
   "license": "MIT",
   "home_page": "https://github.com/rosversity/rlab",
-  "download_filename": "rlab_runtime-0.1.4.tar.gz",
-  "download_time": "2026-01-20T18:39:15.885969",
+  "download_filename": "rlab_runtime-0.1.5.tar.gz",
+  "download_time": "2026-01-21T07:45:28.407050",
   "package_url": "https://pypi.org/project/rlab-runtime/"
 }

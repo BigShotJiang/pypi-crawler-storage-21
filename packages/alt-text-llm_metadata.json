@@ -1,0 +1,11 @@
+{
+  "name": "alt-text-llm",
+  "version": "1.2",
+  "summary": "AI-powered accessibility text generation and labeling tools for markdown content",
+  "author": "TurnTrout",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alt_text_llm-1.2.tar.gz",
+  "download_time": "2026-01-21T07:45:44.299440",
+  "package_url": "https://pypi.org/project/alt-text-llm/"
+}

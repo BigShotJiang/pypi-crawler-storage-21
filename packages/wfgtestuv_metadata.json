@@ -1,11 +1,11 @@
 {
   "name": "wfgtestuv",
-  "version": "1.2.6",
+  "version": "1.2.8",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wfgtestuv-1.2.6.tar.gz",
-  "download_time": "2026-01-21T03:46:44.379021",
+  "download_filename": "wfgtestuv-1.2.8.tar.gz",
+  "download_time": "2026-01-21T07:45:12.578391",
   "package_url": "https://pypi.org/project/wfgtestuv/"
 }

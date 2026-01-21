@@ -1,11 +1,11 @@
 {
   "name": "musicpackbuilder",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Create Minecraft music disc resource packs from audio files.",
   "author": "Lochana",
   "license": null,
   "home_page": null,
-  "download_filename": "musicpackbuilder-1.0.0.tar.gz",
-  "download_time": "2026-01-21T07:13:41.590169",
+  "download_filename": "musicpackbuilder-2.0.0.tar.gz",
+  "download_time": "2026-01-21T07:45:39.643418",
   "package_url": "https://pypi.org/project/musicpackbuilder/"
 }

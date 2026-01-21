@@ -1,0 +1,11 @@
+{
+  "name": "ansys-sound-core",
+  "version": "0.3.0",
+  "summary": "A Python wrapper for Ansys DPF Sound.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_sound_core-0.3.0.tar.gz",
+  "download_time": "2026-01-21T07:45:42.767038",
+  "package_url": "https://pypi.org/project/ansys-sound-core/"
+}
