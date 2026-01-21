@@ -1,0 +1,11 @@
+{
+  "name": "pyarrow-sender",
+  "version": "0.4.1",
+  "summary": "Dora pyarrow Sender",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyarrow_sender-0.4.1.tar.gz",
+  "download_time": "2026-01-21T19:20:11.829160",
+  "package_url": "https://pypi.org/project/pyarrow-sender/"
+}

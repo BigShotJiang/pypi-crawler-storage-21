@@ -1,0 +1,11 @@
+{
+  "name": "musketeer",
+  "version": "1.10.1",
+  "summary": "A tool for fitting data from titration experiments.",
+  "author": "Daniil Soloviev",
+  "license": "MIT",
+  "home_page": "https://github.com/daniilS/Musketeer",
+  "download_filename": "musketeer-1.10.1.tar.gz",
+  "download_time": "2026-01-21T19:20:08.054216",
+  "package_url": "https://pypi.org/project/musketeer/"
+}

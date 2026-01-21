@@ -1,0 +1,11 @@
+{
+  "name": "dora-yolo",
+  "version": "0.4.1",
+  "summary": "Dora Node for object detection with dora YOLOv8",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dora_yolo-0.4.1.tar.gz",
+  "download_time": "2026-01-21T19:20:09.141368",
+  "package_url": "https://pypi.org/project/dora-yolo/"
+}

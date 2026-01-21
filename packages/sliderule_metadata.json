@@ -1,11 +1,11 @@
 {
   "name": "sliderule",
-  "version": "5.0.2",
+  "version": "5.0.4",
   "summary": "Python client for interacting with sliderule server",
   "author": "SlideRule Developers",
   "license": "BSD 3-Clause",
   "home_page": "https://github.com/SlideRuleEarth/sliderule/",
-  "download_filename": "sliderule-5.0.2.tar.gz",
-  "download_time": "2026-01-20T21:03:21.499078",
+  "download_filename": "sliderule-5.0.4.tar.gz",
+  "download_time": "2026-01-21T19:20:08.586469",
   "package_url": "https://pypi.org/project/sliderule/"
 }

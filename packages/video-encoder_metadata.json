@@ -1,0 +1,11 @@
+{
+  "name": "video-encoder",
+  "version": "0.4.1",
+  "summary": "Dora Node for video encoding (LeRobot compatible).",
+  "author": "Hennzau",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_encoder-0.4.1.tar.gz",
+  "download_time": "2026-01-21T19:20:07.499415",
+  "package_url": "https://pypi.org/project/video-encoder/"
+}

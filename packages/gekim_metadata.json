@@ -1,11 +1,11 @@
 {
   "name": "gekim",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "summary": "Generalized Kinetic Modeler: A Python package for modeling arbitrary kinetic schemes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gekim-0.7.7.tar.gz",
-  "download_time": "2026-01-20T18:39:17.419485",
+  "download_filename": "gekim-0.7.8.tar.gz",
+  "download_time": "2026-01-21T19:19:26.575450",
   "package_url": "https://pypi.org/project/gekim/"
 }
