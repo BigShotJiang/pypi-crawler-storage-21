@@ -1,0 +1,11 @@
+{
+  "name": "sardana-nxsrecorder",
+  "version": "3.32.0",
+  "summary": "NeXus Sardana Scan Recorder",
+  "author": "Jan Kotanski",
+  "license": "GNU GENERAL PUBLIC LICENSE v3",
+  "home_page": "https://github.com/nexdatas/sardana-nxs-filerecorder/",
+  "download_filename": "sardana_nxsrecorder-3.32.0-py3-none-any.whl",
+  "download_time": "2026-01-21T12:01:15.160663",
+  "package_url": "https://pypi.org/project/sardana-nxsrecorder/"
+}

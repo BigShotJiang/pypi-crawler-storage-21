@@ -1,11 +1,11 @@
 {
   "name": "topsis-arihan-102303750",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "TOPSIS implementation as a Python package",
   "author": "Arihan Andotra",
   "license": null,
   "home_page": null,
-  "download_filename": "topsis_arihan_102303750-0.0.4.tar.gz",
-  "download_time": "2026-01-21T11:38:01.066313",
+  "download_filename": "topsis_arihan_102303750-0.0.5.tar.gz",
+  "download_time": "2026-01-21T12:01:04.878003",
   "package_url": "https://pypi.org/project/topsis-arihan-102303750/"
 }

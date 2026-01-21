@@ -1,0 +1,11 @@
+{
+  "name": "axis3",
+  "version": "1.0.0",
+  "summary": "A powerful Python game engine with comprehensive math library and render pipeline",
+  "author": "Core Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/core",
+  "download_filename": "axis3-1.0.0.tar.gz",
+  "download_time": "2026-01-21T12:00:53.014421",
+  "package_url": "https://pypi.org/project/axis3/"
+}

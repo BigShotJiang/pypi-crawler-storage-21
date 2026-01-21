@@ -1,0 +1,11 @@
+{
+  "name": "securityreporter",
+  "version": "1.4.0",
+  "summary": "A Python wrapper for the Reporter API.",
+  "author": "Alexander Krigsman",
+  "license": null,
+  "home_page": "https://securityreporter.app/",
+  "download_filename": "securityreporter-1.4.0.tar.gz",
+  "download_time": "2026-01-21T12:00:46.483911",
+  "package_url": "https://pypi.org/project/securityreporter/"
+}

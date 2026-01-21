@@ -1,11 +1,11 @@
 {
   "name": "bunny2fmc",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "summary": "Sync BunnyCDN edge IPs to Cisco FMC Dynamic Objects with secure credential management and scheduling",
   "author": "Kasper Elsborg -Wingmen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bunny2fmc-1.0.9.tar.gz",
-  "download_time": "2026-01-21T09:17:57.796460",
+  "download_filename": "bunny2fmc-1.1.0.tar.gz",
+  "download_time": "2026-01-21T12:00:38.608442",
   "package_url": "https://pypi.org/project/bunny2fmc/"
 }

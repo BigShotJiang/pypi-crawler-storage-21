@@ -1,0 +1,11 @@
+{
+  "name": "truthbrush",
+  "version": "0.2.4",
+  "summary": "API client for Truth Social",
+  "author": "R. Miles McCain",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "truthbrush-0.2.4.tar.gz",
+  "download_time": "2026-01-21T12:00:44.943890",
+  "package_url": "https://pypi.org/project/truthbrush/"
+}

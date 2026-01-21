@@ -1,0 +1,11 @@
+{
+  "name": "shuttlet_nano_banana_mcp",
+  "version": "0.1.2",
+  "summary": "Nano-Banana MCP Server - 基于 gemini-2.5-flash-image-preview 的画图 API",
+  "author": "entelin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shuttlet_nano_banana_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-21T12:00:58.725247",
+  "package_url": "https://pypi.org/project/shuttlet_nano_banana_mcp/"
+}

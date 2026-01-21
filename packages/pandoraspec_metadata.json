@@ -1,11 +1,11 @@
 {
   "name": "pandoraspec",
-  "version": "0.2.11",
+  "version": "0.3.0",
   "summary": "DORA Compliance Auditor for OpenAPI Specs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pandoraspec-0.2.11.tar.gz",
-  "download_time": "2026-01-21T09:55:43.882706",
+  "download_filename": "pandoraspec-0.3.0.tar.gz",
+  "download_time": "2026-01-21T12:01:07.470960",
   "package_url": "https://pypi.org/project/pandoraspec/"
 }

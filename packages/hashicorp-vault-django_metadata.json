@@ -1,0 +1,11 @@
+{
+  "name": "hashicorp-vault-django",
+  "version": "0.0.8.post1",
+  "summary": "A Django app to manage the application secrets using hashicorp.",
+  "author": "icedreamer-praveen",
+  "license": "MIT License",
+  "home_page": "https://github.com/icedreamer-praveen/hashicorp-vault",
+  "download_filename": "hashicorp_vault_django-0.0.8.post1.tar.gz",
+  "download_time": "2026-01-21T12:00:56.145037",
+  "package_url": "https://pypi.org/project/hashicorp-vault-django/"
+}
