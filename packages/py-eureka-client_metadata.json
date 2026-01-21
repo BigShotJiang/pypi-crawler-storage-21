@@ -1,0 +1,11 @@
+{
+  "name": "py-eureka-client",
+  "version": "0.13.3",
+  "summary": "A eureka client written in python. Support registering your python component to Eureka Server, as well as calling remote services by pulling the the Eureka registry. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_eureka_client-0.13.3.tar.gz",
+  "download_time": "2026-01-21T06:44:00.494230",
+  "package_url": "https://pypi.org/project/py-eureka-client/"
+}

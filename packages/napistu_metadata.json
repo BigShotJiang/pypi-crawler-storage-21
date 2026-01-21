@@ -1,0 +1,11 @@
+{
+  "name": "napistu",
+  "version": "0.8.9",
+  "summary": "Connecting high-dimensional data to curated pathways",
+  "author": "Sean Hackett",
+  "license": null,
+  "home_page": "https://github.com/napistu/napistu-py",
+  "download_filename": "napistu-0.8.9.tar.gz",
+  "download_time": "2026-01-21T06:43:44.820149",
+  "package_url": "https://pypi.org/project/napistu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zeroentropy",
+  "version": "0.1.0a8",
+  "summary": "The official Python library for the ZeroEntropy API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zeroentropy-0.1.0a8.tar.gz",
+  "download_time": "2026-01-21T06:43:43.037982",
+  "package_url": "https://pypi.org/project/zeroentropy/"
+}

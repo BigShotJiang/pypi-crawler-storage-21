@@ -1,0 +1,11 @@
+{
+  "name": "localuf",
+  "version": "3.4.3",
+  "summary": "A Python package to simulate and visualise Union-Find-related decoders for CSS codes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "localuf-3.4.3.tar.gz",
+  "download_time": "2026-01-21T06:43:57.793000",
+  "package_url": "https://pypi.org/project/localuf/"
+}
