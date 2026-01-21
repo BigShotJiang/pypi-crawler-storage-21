@@ -1,11 +1,11 @@
 {
   "name": "chonkie-core",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "The fastest semantic text chunking library",
   "author": "Bhavnick Minhas",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "chonkie_core-0.7.0.tar.gz",
-  "download_time": "2026-01-21T04:35:37.589129",
+  "download_filename": "chonkie_core-0.8.0.tar.gz",
+  "download_time": "2026-01-21T05:21:38.957510",
   "package_url": "https://pypi.org/project/chonkie-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ez-a-sync",
+  "version": "0.33.12",
+  "summary": "A library that makes it easy to define objects that can be used for both sync and async use cases.",
+  "author": "BobTheBuidler",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/a-sync",
+  "download_filename": "ez_a_sync-0.33.12-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-21T05:21:34.547623",
+  "package_url": "https://pypi.org/project/ez-a-sync/"
+}

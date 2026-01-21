@@ -1,0 +1,11 @@
+{
+  "name": "gemmology-cdl-lsp",
+  "version": "1.0.0",
+  "summary": "Language Server Protocol implementation for Crystal Description Language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemmology_cdl_lsp-1.0.0.tar.gz",
+  "download_time": "2026-01-21T05:21:37.879332",
+  "package_url": "https://pypi.org/project/gemmology-cdl-lsp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "topsis-nandita-102303178",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "TOPSIS implementation as a Python package",
   "author": "Nandita",
   "license": null,
   "home_page": null,
-  "download_filename": "topsis_nandita_102303178-0.0.1.tar.gz",
-  "download_time": "2026-01-21T04:35:10.909115",
+  "download_filename": "topsis_nandita_102303178-0.0.2.tar.gz",
+  "download_time": "2026-01-21T05:21:28.334531",
   "package_url": "https://pypi.org/project/topsis-nandita-102303178/"
 }

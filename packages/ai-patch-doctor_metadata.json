@@ -1,0 +1,11 @@
+{
+  "name": "ai-patch-doctor",
+  "version": "0.1.4",
+  "summary": "Fix-first incident patcher for AI API issues - diagnose streaming, retries, cost, and traceability problems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_patch_doctor-0.1.4.tar.gz",
+  "download_time": "2026-01-21T05:21:02.241722",
+  "package_url": "https://pypi.org/project/ai-patch-doctor/"
+}
