@@ -1,0 +1,11 @@
+{
+  "name": "cfclient",
+  "version": "2025.12.1",
+  "summary": "Crazyflie PC client",
+  "author": null,
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "cfclient-2025.12.1.tar.gz",
+  "download_time": "2026-01-21T13:48:08.696591",
+  "package_url": "https://pypi.org/project/cfclient/"
+}

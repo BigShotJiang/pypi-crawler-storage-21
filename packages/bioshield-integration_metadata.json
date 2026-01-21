@@ -1,0 +1,11 @@
+{
+  "name": "bioshield-integration",
+  "version": "3.2.1",
+  "summary": "BioShield Integration: Unified Intelligence Framework with Enhanced Pathogen Risk Assessment",
+  "author": "Emerlad Compass",
+  "license": "MIT",
+  "home_page": "https://github.com/emerladcompass/BioShield-Integration",
+  "download_filename": "bioshield_integration-3.2.1.tar.gz",
+  "download_time": "2026-01-21T13:48:11.316875",
+  "package_url": "https://pypi.org/project/bioshield-integration/"
+}

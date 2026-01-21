@@ -1,11 +1,11 @@
 {
   "name": "cnpj-processor",
-  "version": "3.7.0",
+  "version": "4.0.0",
   "summary": "Sistema de Processamento de Dados CNPJ da Receita Federal do Brasil",
-  "author": "Wesley Modanez Freitas",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/wmodanez/cnpj",
-  "download_filename": "cnpj_processor-3.7.0.tar.gz",
-  "download_time": "2026-01-21T11:38:20.108671",
+  "home_page": null,
+  "download_filename": "cnpj_processor-4.0.0.tar.gz",
+  "download_time": "2026-01-21T13:48:34.341777",
   "package_url": "https://pypi.org/project/cnpj-processor/"
 }

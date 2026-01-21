@@ -1,0 +1,11 @@
+{
+  "name": "agent-reasoning",
+  "version": "1.0.2",
+  "summary": "Transform LLMs into robust problem-solving agents with advanced reasoning strategies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_reasoning-1.0.2.tar.gz",
+  "download_time": "2026-01-21T13:48:29.069826",
+  "package_url": "https://pypi.org/project/agent-reasoning/"
+}

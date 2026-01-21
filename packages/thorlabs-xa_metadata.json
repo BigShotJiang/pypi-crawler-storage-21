@@ -1,0 +1,11 @@
+{
+  "name": "thorlabs-xa",
+  "version": "1.0.0.26681.dev0",
+  "summary": "Python wrapper of the Thorlabs  XA SDK",
+  "author": "Thorlabs",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "thorlabs_xa-1.0.0.26681.dev0.tar.gz",
+  "download_time": "2026-01-21T13:48:45.355137",
+  "package_url": "https://pypi.org/project/thorlabs-xa/"
+}

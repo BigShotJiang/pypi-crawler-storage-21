@@ -1,0 +1,11 @@
+{
+  "name": "alchemyst-langchain",
+  "version": "0.1.0",
+  "summary": "Persistent memory integration for LangChain powered by Alchemyst AI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alchemyst_langchain-0.1.0.tar.gz",
+  "download_time": "2026-01-21T13:48:19.123749",
+  "package_url": "https://pypi.org/project/alchemyst-langchain/"
+}

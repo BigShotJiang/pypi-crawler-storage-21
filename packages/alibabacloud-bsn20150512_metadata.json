@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-bsn20150512",
+  "version": "1.0.0",
+  "summary": "Alibaba Cloud Bsn (20150512) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_bsn20150512-1.0.0.tar.gz",
+  "download_time": "2026-01-21T13:48:39.585641",
+  "package_url": "https://pypi.org/project/alibabacloud-bsn20150512/"
+}

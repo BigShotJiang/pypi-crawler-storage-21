@@ -1,0 +1,11 @@
+{
+  "name": "erbs",
+  "version": "0.2.0",
+  "summary": "Enhanced sampling in the representation space of atomistic neural networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "erbs-0.2.0.tar.gz",
+  "download_time": "2026-01-21T13:48:32.251140",
+  "package_url": "https://pypi.org/project/erbs/"
+}

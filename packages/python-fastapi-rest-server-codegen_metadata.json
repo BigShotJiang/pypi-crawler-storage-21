@@ -1,0 +1,11 @@
+{
+  "name": "python-fastapi-rest-server-codegen",
+  "version": "1.7.6",
+  "summary": "Python rest server codegen for Le Comptoir Des Pharmacies",
+  "author": "Le Comptoir Des Pharmacies",
+  "license": "Apache-2.0",
+  "home_page": "https://bitbucket.org/lecomptoirdespharmacies/lcdp-openapi-codegen",
+  "download_filename": "python_fastapi_rest_server_codegen-1.7.6.tar.gz",
+  "download_time": "2026-01-21T13:48:50.105316",
+  "package_url": "https://pypi.org/project/python-fastapi-rest-server-codegen/"
+}
