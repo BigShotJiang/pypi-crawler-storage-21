@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-robotlog2rqm",
+  "version": "1.7.0",
+  "summary": "Imports robot result(s) to IBM Rational Quality Manager (RQM)",
+  "author": "Tran Duy Ngoan",
+  "license": null,
+  "home_page": "https://github.com/test-fullautomation/robotframework-robotlog2rqm",
+  "download_filename": "robotframework_robotlog2rqm-1.7.0.tar.gz",
+  "download_time": "2026-01-21T08:44:36.332854",
+  "package_url": "https://pypi.org/project/robotframework-robotlog2rqm/"
+}

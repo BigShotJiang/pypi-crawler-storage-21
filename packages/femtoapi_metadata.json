@@ -1,0 +1,11 @@
+{
+  "name": "femtoapi",
+  "version": "1.0.1",
+  "summary": "Python API for MESc",
+  "author": "Femtonics Ltd.",
+  "license": null,
+  "home_page": "https://femtonics.eu",
+  "download_filename": "femtoapi-1.0.1-cp310-none-win_amd64.whl",
+  "download_time": "2026-01-21T08:45:07.168415",
+  "package_url": "https://pypi.org/project/femtoapi/"
+}

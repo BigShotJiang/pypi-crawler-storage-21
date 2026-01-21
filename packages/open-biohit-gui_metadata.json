@@ -1,0 +1,11 @@
+{
+  "name": "open-biohit-gui",
+  "version": "1.0.4",
+  "summary": "Designed to be used with pipettor_package following similar structure to open-biohit",
+  "author": "Advait Lath",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_biohit_gui-1.0.4.tar.gz",
+  "download_time": "2026-01-21T08:45:00.892116",
+  "package_url": "https://pypi.org/project/open-biohit-gui/"
+}

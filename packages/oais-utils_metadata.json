@@ -1,0 +1,11 @@
+{
+  "name": "oais-utils",
+  "version": "0.3.1",
+  "summary": "OAIS utilities",
+  "author": "CERN Digital Memory",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.cern.ch/digitalmemory/utils",
+  "download_filename": "oais_utils-0.3.1.tar.gz",
+  "download_time": "2026-01-21T08:44:26.973173",
+  "package_url": "https://pypi.org/project/oais-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "context-engineering-mcp-slicenfer",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server for Context Engineering - file system as external memory for AI agents",
+  "author": "Context Engineering Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_engineering_mcp_slicenfer-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-21T08:45:05.608611",
+  "package_url": "https://pypi.org/project/context-engineering-mcp-slicenfer/"
+}

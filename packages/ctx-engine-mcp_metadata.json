@@ -1,0 +1,11 @@
+{
+  "name": "ctx-engine-mcp",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server for Context Engineering - file system as external memory for AI agents",
+  "author": "Context Engineering Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctx_engine_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-21T08:44:58.801895",
+  "package_url": "https://pypi.org/project/ctx-engine-mcp/"
+}

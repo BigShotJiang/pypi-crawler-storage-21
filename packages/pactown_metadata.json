@@ -1,11 +1,11 @@
 {
   "name": "pactown",
-  "version": "0.1.94",
+  "version": "0.1.95",
   "summary": "Decentralized Service Ecosystem Orchestrator - Build interconnected microservices from Markdown using markpact",
   "author": "wronai",
   "license": null,
   "home_page": null,
-  "download_filename": "pactown-0.1.94.tar.gz",
-  "download_time": "2026-01-20T21:36:26.446729",
+  "download_filename": "pactown-0.1.95.tar.gz",
+  "download_time": "2026-01-21T08:44:56.177927",
   "package_url": "https://pypi.org/project/pactown/"
 }

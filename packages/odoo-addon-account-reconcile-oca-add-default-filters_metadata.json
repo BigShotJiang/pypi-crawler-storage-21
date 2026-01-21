@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-reconcile-oca-add-default-filters",
+  "version": "16.0.1.0.0.2",
+  "summary": "Add default filters in Reconcile tab when the bank statement line as a partner",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-reconcile",
+  "download_filename": "odoo_addon_account_reconcile_oca_add_default_filters-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-21T08:44:54.614540",
+  "package_url": "https://pypi.org/project/odoo-addon-account-reconcile-oca-add-default-filters/"
+}

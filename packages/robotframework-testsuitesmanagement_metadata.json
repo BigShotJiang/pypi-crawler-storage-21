@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-testsuitesmanagement",
+  "version": "0.9.1",
+  "summary": "Functionality to manage RobotFramework testsuites",
+  "author": "Mai Dinh Nam Son",
+  "license": null,
+  "home_page": "https://github.com/test-fullautomation/robotframework-testsuitesmanagement",
+  "download_filename": "robotframework_testsuitesmanagement-0.9.1.tar.gz",
+  "download_time": "2026-01-21T08:44:42.126498",
+  "package_url": "https://pypi.org/project/robotframework-testsuitesmanagement/"
+}

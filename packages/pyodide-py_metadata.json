@@ -1,0 +1,11 @@
+{
+  "name": "pyodide-py",
+  "version": "0.29.2",
+  "summary": "A Python package providing core interpreter functionality for Pyodide",
+  "author": "Pyodide developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyodide_py-0.29.2.tar.gz",
+  "download_time": "2026-01-21T08:44:27.494427",
+  "package_url": "https://pypi.org/project/pyodide-py/"
+}

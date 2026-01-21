@@ -1,0 +1,11 @@
+{
+  "name": "octopus-sensing-processing",
+  "version": "1.0.5",
+  "summary": "Web base data processing for https://octopus-sensing.nastaran-saffar.me",
+  "author": "Nastaran Saffaryazdi",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/octopus-sensing/octopus-sensing-processing",
+  "download_filename": "octopus_sensing_processing-1.0.5.tar.gz",
+  "download_time": "2026-01-21T08:45:09.302356",
+  "package_url": "https://pypi.org/project/octopus-sensing-processing/"
+}

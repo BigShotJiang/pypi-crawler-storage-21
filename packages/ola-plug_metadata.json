@@ -1,0 +1,11 @@
+{
+  "name": "ola-plug",
+  "version": "1.0.0",
+  "summary": "OLA Plug DLL Helper - Python wrapper for OLAPlug DLL",
+  "author": "OLA Plug Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ola_plug-1.0.0.tar.gz",
+  "download_time": "2026-01-21T08:44:49.931486",
+  "package_url": "https://pypi.org/project/ola-plug/"
+}

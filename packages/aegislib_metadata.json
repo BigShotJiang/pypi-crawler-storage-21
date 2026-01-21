@@ -1,0 +1,11 @@
+{
+  "name": "aegislib",
+  "version": "0.1.4",
+  "summary": "Aegis Python SDK - Secure AI agents tool guard integration",
+  "author": "Siddhartha Satyakama",
+  "license": "MIT",
+  "home_page": "https://github.com/mrsidrdx/aegis-python-sdk",
+  "download_filename": "aegislib-0.1.4.tar.gz",
+  "download_time": "2026-01-21T08:44:33.666680",
+  "package_url": "https://pypi.org/project/aegislib/"
+}

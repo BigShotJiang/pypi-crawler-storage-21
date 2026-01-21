@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-redner",
+  "version": "19.0.1.0.1",
+  "summary": "Odoo addon to use redner (producer of reports and emails)",
+  "author": "XCG SAS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addon_redner-19.0.1.0.1.tar.gz",
+  "download_time": "2026-01-21T08:45:00.372582",
+  "package_url": "https://pypi.org/project/odoo-addon-redner/"
+}
