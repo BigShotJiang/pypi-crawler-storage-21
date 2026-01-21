@@ -1,0 +1,11 @@
+{
+  "name": "pshield",
+  "version": "1.0.0",
+  "summary": "A library to protect your prompts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pshield-1.0.0.tar.gz",
+  "download_time": "2026-01-21T12:53:39.823354",
+  "package_url": "https://pypi.org/project/pshield/"
+}

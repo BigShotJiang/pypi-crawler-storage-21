@@ -1,0 +1,11 @@
+{
+  "name": "bmb",
+  "version": "1.0.0",
+  "summary": "BMB - Backend Framework utilisant BMDB ORM",
+  "author": "Marouan Bouchettoy",
+  "license": "MIT",
+  "home_page": "https://github.com/BM-Framework/bmb",
+  "download_filename": "bmb-1.0.0.tar.gz",
+  "download_time": "2026-01-21T12:54:12.735012",
+  "package_url": "https://pypi.org/project/bmb/"
+}
