@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-qtexpert",
+  "version": "0.1.1",
+  "summary": "A unified Robot Framework library for testing Qt applications via Agent or Accessibility APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_qtexpert-0.1.1.tar.gz",
+  "download_time": "2026-01-21T22:55:16.183435",
+  "package_url": "https://pypi.org/project/robotframework-qtexpert/"
+}

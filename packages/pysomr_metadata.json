@@ -1,0 +1,11 @@
+{
+  "name": "pysomr",
+  "version": "1.48.0a1",
+  "summary": "Python Wrapper for SoMR API",
+  "author": "black-sliver",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysomr-1.48.0a1.tar.gz",
+  "download_time": "2026-01-21T22:55:26.332224",
+  "package_url": "https://pypi.org/project/pysomr/"
+}
