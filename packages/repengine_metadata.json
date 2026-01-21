@@ -1,0 +1,11 @@
+{
+  "name": "repengine",
+  "version": "2.3.7",
+  "summary": "Package for straight PDF report generation and HTML Based report generation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "repengine-2.3.7.tar.gz",
+  "download_time": "2026-01-21T20:34:12.924294",
+  "package_url": "https://pypi.org/project/repengine/"
+}

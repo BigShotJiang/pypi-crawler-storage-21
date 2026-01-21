@@ -1,0 +1,11 @@
+{
+  "name": "hUnlic",
+  "version": "1.5.0",
+  "summary": "Unpack executables protected with Themida/WinLicense 2.x and 3.x",
+  "author": "hQat",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hunlic-1.5.0.tar.gz",
+  "download_time": "2026-01-21T20:34:18.385765",
+  "package_url": "https://pypi.org/project/hUnlic/"
+}

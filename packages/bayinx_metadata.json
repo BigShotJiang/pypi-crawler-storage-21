@@ -1,11 +1,11 @@
 {
   "name": "bayinx",
-  "version": "0.6.3",
+  "version": "0.6.6",
   "summary": "Bayesian Inference with JAX",
   "author": "Todd Pocuca",
   "license": null,
   "home_page": null,
-  "download_filename": "bayinx-0.6.3.tar.gz",
-  "download_time": "2026-01-20T05:53:30.923773",
+  "download_filename": "bayinx-0.6.6.tar.gz",
+  "download_time": "2026-01-21T20:34:17.223479",
   "package_url": "https://pypi.org/project/bayinx/"
 }

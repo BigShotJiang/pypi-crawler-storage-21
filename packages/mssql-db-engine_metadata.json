@@ -1,0 +1,11 @@
+{
+  "name": "mssql-db-engine",
+  "version": "2.5.0",
+  "summary": "Package for seamless communication with MS-SQL Server DB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mssql_db_engine-2.5.0.tar.gz",
+  "download_time": "2026-01-21T20:33:55.848230",
+  "package_url": "https://pypi.org/project/mssql-db-engine/"
+}

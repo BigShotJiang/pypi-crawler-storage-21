@@ -1,0 +1,11 @@
+{
+  "name": "simphyni",
+  "version": "1.0.2",
+  "summary": "SimPhyni: a tool for phylogenetic trait simulation and inference.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simphyni-1.0.2.tar.gz",
+  "download_time": "2026-01-21T20:33:55.273226",
+  "package_url": "https://pypi.org/project/simphyni/"
+}

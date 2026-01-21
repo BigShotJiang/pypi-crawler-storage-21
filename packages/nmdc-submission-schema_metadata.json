@@ -1,0 +1,11 @@
+{
+  "name": "nmdc-submission-schema",
+  "version": "11.15.0",
+  "summary": "The NMDC submission schema",
+  "author": "Mark Andrew Miller",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nmdc_submission_schema-11.15.0.tar.gz",
+  "download_time": "2026-01-21T20:34:12.347199",
+  "package_url": "https://pypi.org/project/nmdc-submission-schema/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-sh-gitlab-ci",
+  "version": "1.0.18",
+  "summary": "Simplify and automate Odoo.sh deployment using GitLab and GitHub.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_sh_gitlab_ci-1.0.18.tar.gz",
+  "download_time": "2026-01-21T20:34:05.162649",
+  "package_url": "https://pypi.org/project/odoo-sh-gitlab-ci/"
+}
