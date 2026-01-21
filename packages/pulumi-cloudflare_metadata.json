@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-cloudflare",
+  "version": "6.12.0",
+  "summary": "A Pulumi package for creating and managing Cloudflare cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_cloudflare-6.12.0.tar.gz",
+  "download_time": "2026-01-21T05:53:29.585753",
+  "package_url": "https://pypi.org/project/pulumi-cloudflare/"
+}

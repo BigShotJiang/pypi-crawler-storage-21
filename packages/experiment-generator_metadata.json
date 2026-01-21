@@ -1,0 +1,11 @@
+{
+  "name": "experiment-generator",
+  "version": "1.0.0",
+  "summary": "A tool to generate and manage parameter sensitivity experiments.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "experiment_generator-1.0.0.tar.gz",
+  "download_time": "2026-01-21T05:53:13.610500",
+  "package_url": "https://pypi.org/project/experiment-generator/"
+}

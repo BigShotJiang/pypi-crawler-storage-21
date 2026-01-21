@@ -1,11 +1,11 @@
 {
   "name": "nc1709",
-  "version": "3.0.29",
+  "version": "3.0.30",
   "summary": "AI coding assistant with fine-tuned tool calling - Your code comes to life",
   "author": "Lafzusa Corp",
   "license": null,
   "home_page": "https://github.com/lafzusa/nc1709",
-  "download_filename": "nc1709-3.0.29.tar.gz",
-  "download_time": "2026-01-21T05:21:23.522860",
+  "download_filename": "nc1709-3.0.30.tar.gz",
+  "download_time": "2026-01-21T05:53:25.441969",
   "package_url": "https://pypi.org/project/nc1709/"
 }

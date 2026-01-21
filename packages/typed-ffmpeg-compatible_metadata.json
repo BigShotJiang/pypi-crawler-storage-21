@@ -1,0 +1,11 @@
+{
+  "name": "typed-ffmpeg-compatible",
+  "version": "3.11",
+  "summary": "Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_ffmpeg_compatible-3.11.tar.gz",
+  "download_time": "2026-01-21T05:53:00.610858",
+  "package_url": "https://pypi.org/project/typed-ffmpeg-compatible/"
+}

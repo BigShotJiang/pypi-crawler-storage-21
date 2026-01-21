@@ -1,11 +1,11 @@
 {
   "name": "llmops-observability",
-  "version": "12.0.0",
+  "version": "13.0.0",
   "summary": "LLMOps Observability SDK with direct Langfuse integration and SQS event streaming",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmops_observability-12.0.0.tar.gz",
-  "download_time": "2026-01-20T13:49:21.981610",
+  "download_filename": "llmops_observability-13.0.0.tar.gz",
+  "download_time": "2026-01-21T05:53:11.034012",
   "package_url": "https://pypi.org/project/llmops-observability/"
 }
