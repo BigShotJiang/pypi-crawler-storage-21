@@ -1,0 +1,11 @@
+{
+  "name": "levseq",
+  "version": "1.5",
+  "summary": null,
+  "author": "Yueming Long, Ariane Mora, Francesca-Zhoufan Li, Emre Gursoy",
+  "license": "GPL3",
+  "home_page": "https://github.com/fhalab/levseq/",
+  "download_filename": "levseq-1.5.tar.gz",
+  "download_time": "2026-01-21T22:27:29.881018",
+  "package_url": "https://pypi.org/project/levseq/"
+}

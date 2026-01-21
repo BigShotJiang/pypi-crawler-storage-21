@@ -1,0 +1,11 @@
+{
+  "name": "simple-alto-parser",
+  "version": "0.0.22",
+  "summary": "A python module to read and parse ALTO files",
+  "author": "Sorin Marti, Lea Kasper",
+  "license": "GPLv3",
+  "home_page": "https://simple-alto-parser.readthedocs.io/en/latest/",
+  "download_filename": "simple_alto_parser-0.0.22.tar.gz",
+  "download_time": "2026-01-21T22:27:29.296610",
+  "package_url": "https://pypi.org/project/simple-alto-parser/"
+}

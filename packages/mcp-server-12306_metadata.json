@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-12306",
-  "version": "0.1.9",
+  "version": "0.2.2",
   "summary": "MCP服务器用于12306车票查询",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_12306-0.1.9.tar.gz",
-  "download_time": "2026-01-21T19:51:17.215002",
+  "download_filename": "mcp_server_12306-0.2.2.tar.gz",
+  "download_time": "2026-01-21T22:27:40.096576",
   "package_url": "https://pypi.org/project/mcp-server-12306/"
 }

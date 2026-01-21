@@ -1,0 +1,11 @@
+{
+  "name": "django-rule-engine",
+  "version": "1.0.0",
+  "summary": "Django field and widget for rule-engine with visual editor",
+  "author": "Kelson da Costa Medeiros",
+  "license": "MIT",
+  "home_page": "https://github.com/kelsoncm/django-rule-engine",
+  "download_filename": "django_rule_engine-1.0.0.tar.gz",
+  "download_time": "2026-01-21T22:27:37.192666",
+  "package_url": "https://pypi.org/project/django-rule-engine/"
+}

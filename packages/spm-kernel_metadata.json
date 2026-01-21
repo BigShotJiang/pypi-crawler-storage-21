@@ -1,0 +1,11 @@
+{
+  "name": "spm-kernel",
+  "version": "1.0.6",
+  "summary": "Jupyter kernel for Salford Predictive Modeler (SPM)",
+  "author": "John L. Ries",
+  "license": "GPLv3",
+  "home_page": "https://github.com/jlries61/spm_kernel",
+  "download_filename": "spm_kernel-1.0.6.tar.gz",
+  "download_time": "2026-01-21T22:27:16.771928",
+  "package_url": "https://pypi.org/project/spm-kernel/"
+}

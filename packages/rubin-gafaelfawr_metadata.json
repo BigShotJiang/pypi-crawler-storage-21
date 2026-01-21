@@ -1,0 +1,11 @@
+{
+  "name": "rubin-gafaelfawr",
+  "version": "15.2.1",
+  "summary": "Client for Gafaelfawr authentication and identity service.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubin_gafaelfawr-15.2.1.tar.gz",
+  "download_time": "2026-01-21T22:27:33.825097",
+  "package_url": "https://pypi.org/project/rubin-gafaelfawr/"
+}

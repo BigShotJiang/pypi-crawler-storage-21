@@ -1,11 +1,11 @@
 {
   "name": "mem-common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Shared configuration, models, and database utilities for memrun",
   "author": "Julian Mulla",
   "license": null,
   "home_page": null,
-  "download_filename": "mem_common-0.1.0.tar.gz",
-  "download_time": "2026-01-21T15:50:32.204843",
+  "download_filename": "mem_common-0.1.1.tar.gz",
+  "download_time": "2026-01-21T22:27:20.373469",
   "package_url": "https://pypi.org/project/mem-common/"
 }

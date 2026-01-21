@@ -1,0 +1,11 @@
+{
+  "name": "unifi-official-api",
+  "version": "1.1.0",
+  "summary": "Async Python library for the official UniFi Network and Protect APIs",
+  "author": "Ruaan Deysel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unifi_official_api-1.1.0.tar.gz",
+  "download_time": "2026-01-21T22:27:30.990743",
+  "package_url": "https://pypi.org/project/unifi-official-api/"
+}
