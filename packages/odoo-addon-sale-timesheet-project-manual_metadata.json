@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-timesheet-project-manual",
+  "version": "16.0.1.0.0.5",
+  "summary": "Allows to create the project/tasks before the sale confirmation",
+  "author": "ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_timesheet_project_manual-16.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2026-01-21T04:35:41.187181",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-timesheet-project-manual/"
+}

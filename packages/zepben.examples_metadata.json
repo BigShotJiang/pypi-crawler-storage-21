@@ -1,0 +1,11 @@
+{
+  "name": "zepben.examples",
+  "version": "0.6.0",
+  "summary": "Module containing examples for interacting with Zepben's platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zepben_examples-0.6.0.tar.gz",
+  "download_time": "2026-01-21T04:35:35.986943",
+  "package_url": "https://pypi.org/project/zepben.examples/"
+}

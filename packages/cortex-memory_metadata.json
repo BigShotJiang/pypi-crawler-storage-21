@@ -1,0 +1,11 @@
+{
+  "name": "cortex-memory",
+  "version": "0.33.0",
+  "summary": "AI agent memory SDK built on Convex - ACID storage, vector search, and conversation management",
+  "author": "Saint Nick LLC",
+  "license": "# Functional Source License, Version 1.1, Apache 2.0 Future License\n        \n        ## Abbreviation\n        \n        FSL-1.1-Apache-2.0\n        \n        ## Notice\n        \n        Copyright 2025 Nicholas Geil / Saint Nick LLC\n        \n        ---\n        \n        This package is part of the Cortex Memory project and is licensed under the same terms.\n        \n        See the main LICENSE file at: ../LICENSE.md\n        ",
+  "home_page": "https://github.com/SaintNick1214/Project-Cortex",
+  "download_filename": "cortex_memory-0.33.0.tar.gz",
+  "download_time": "2026-01-21T04:35:32.696389",
+  "package_url": "https://pypi.org/project/cortex-memory/"
+}

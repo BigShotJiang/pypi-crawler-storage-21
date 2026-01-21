@@ -1,0 +1,11 @@
+{
+  "name": "sensor-sdk",
+  "version": "0.0.37",
+  "summary": "Python sdk for Synchroni",
+  "author": "Martin Ye",
+  "license": null,
+  "home_page": "https://github.com/oymotion/SynchroniSDKPython",
+  "download_filename": "sensor_sdk-0.0.37.tar.gz",
+  "download_time": "2026-01-21T04:35:49.276081",
+  "package_url": "https://pypi.org/project/sensor-sdk/"
+}

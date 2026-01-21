@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-agent-asana",
+  "version": "0.19.52",
+  "summary": "Airbyte Asana Connector for AI platforms",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "airbyte_agent_asana-0.19.52.tar.gz",
+  "download_time": "2026-01-21T04:35:30.075399",
+  "package_url": "https://pypi.org/project/airbyte-agent-asana/"
+}

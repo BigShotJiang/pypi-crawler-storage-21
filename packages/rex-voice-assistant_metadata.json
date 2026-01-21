@@ -1,0 +1,11 @@
+{
+  "name": "rex-voice-assistant",
+  "version": "0.2.1",
+  "summary": "Offline voice assistant for controlling YouTube Music Desktop and Spotify",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rex_voice_assistant-0.2.1.tar.gz",
+  "download_time": "2026-01-21T04:35:21.628062",
+  "package_url": "https://pypi.org/project/rex-voice-assistant/"
+}

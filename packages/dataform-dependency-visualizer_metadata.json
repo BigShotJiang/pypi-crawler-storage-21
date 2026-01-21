@@ -1,0 +1,11 @@
+{
+  "name": "dataform-dependency-visualizer",
+  "version": "0.2.4",
+  "summary": "Visualize Dataform table dependencies as interactive SVG diagrams",
+  "author": "Thamo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataform_dependency_visualizer-0.2.4.tar.gz",
+  "download_time": "2026-01-21T04:35:17.979982",
+  "package_url": "https://pypi.org/project/dataform-dependency-visualizer/"
+}
