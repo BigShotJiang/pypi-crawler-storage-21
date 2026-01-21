@@ -1,11 +1,11 @@
 {
   "name": "fluxpy-ui",
-  "version": "3.3.0",
+  "version": "3.4.1",
   "summary": "The Ultimate Universal Python UI Framework for Desktop, Web, and Mobile",
   "author": "FluxPy Team",
   "license": null,
   "home_page": null,
-  "download_filename": "fluxpy_ui-3.3.0.tar.gz",
-  "download_time": "2026-01-21T14:33:19.848461",
+  "download_filename": "fluxpy_ui-3.4.1.tar.gz",
+  "download_time": "2026-01-21T15:05:04.111389",
   "package_url": "https://pypi.org/project/fluxpy-ui/"
 }

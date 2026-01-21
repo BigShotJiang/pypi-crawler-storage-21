@@ -1,0 +1,11 @@
+{
+  "name": "mtproto-mitm",
+  "version": "0.2.3",
+  "summary": "Telegram mtproto mitm server.",
+  "author": "RuslanUC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtproto_mitm-0.2.3.tar.gz",
+  "download_time": "2026-01-21T15:04:39.526137",
+  "package_url": "https://pypi.org/project/mtproto-mitm/"
+}

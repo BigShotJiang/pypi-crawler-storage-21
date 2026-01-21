@@ -1,0 +1,11 @@
+{
+  "name": "pybeamline-real-sources",
+  "version": "0.1.0",
+  "summary": "Real stream sources for pyBeamline",
+  "author": "Andrea Burattin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybeamline_real_sources-0.1.0.tar.gz",
+  "download_time": "2026-01-21T15:04:42.696236",
+  "package_url": "https://pypi.org/project/pybeamline-real-sources/"
+}

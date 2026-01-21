@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-bitmap-font",
+  "version": "2.3.3",
+  "summary": "Loads bitmap fonts into CircuitPython displayio.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_bitmap_font-2.3.3.tar.gz",
+  "download_time": "2026-01-21T15:04:34.666844",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-bitmap-font/"
+}

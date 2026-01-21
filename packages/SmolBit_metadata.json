@@ -1,11 +1,11 @@
 {
   "name": "SmolBit",
-  "version": "2.0.4",
+  "version": "2.0.4.post3",
   "summary": "A tiny little programming language made with python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smolbit-2.0.4.tar.gz",
-  "download_time": "2026-01-21T08:44:29.884559",
+  "download_filename": "smolbit-2.0.4.post3.tar.gz",
+  "download_time": "2026-01-21T15:04:53.631079",
   "package_url": "https://pypi.org/project/SmolBit/"
 }

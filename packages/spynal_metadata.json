@@ -1,0 +1,11 @@
+{
+  "name": "spynal",
+  "version": "0.1.5",
+  "summary": "Simple Python Neural Analysis Library",
+  "author": "['Scott Brincat', 'John Tauber']",
+  "license": "LICENSE",
+  "home_page": "https://github.com/sbrincat/spynal.git",
+  "download_filename": "spynal-0.1.5.tar.gz",
+  "download_time": "2026-01-21T15:04:36.277119",
+  "package_url": "https://pypi.org/project/spynal/"
+}

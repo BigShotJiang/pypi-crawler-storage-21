@@ -1,0 +1,11 @@
+{
+  "name": "linthis",
+  "version": "0.0.12",
+  "summary": "A fast, cross-platform multi-language linter and formatter",
+  "author": "zhlinh",
+  "license": "MIT",
+  "home_page": "https://github.com/zhlinh/linthis",
+  "download_filename": "linthis-0.0.12.tar.gz",
+  "download_time": "2026-01-21T15:04:31.967007",
+  "package_url": "https://pypi.org/project/linthis/"
+}

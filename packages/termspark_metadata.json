@@ -1,0 +1,11 @@
+{
+  "name": "termspark",
+  "version": "3.0.0",
+  "summary": "Takes control of terminal",
+  "author": "Faissal Wahabali",
+  "license": "MIT",
+  "home_page": "https://github.com/faissaloux/termspark",
+  "download_filename": "termspark-3.0.0-py3-none-any.whl",
+  "download_time": "2026-01-21T15:04:26.534108",
+  "package_url": "https://pypi.org/project/termspark/"
+}

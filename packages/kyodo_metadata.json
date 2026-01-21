@@ -1,0 +1,11 @@
+{
+  "name": "kyodo",
+  "version": "0.9.3.5",
+  "summary": "Library for creating kyodo bots and scripts.",
+  "author": "alx0rr",
+  "license": "MIT",
+  "home_page": "https://github.com/alx0rr/kyodo",
+  "download_filename": "kyodo-0.9.3.5.tar.gz",
+  "download_time": "2026-01-21T15:04:19.715372",
+  "package_url": "https://pypi.org/project/kyodo/"
+}

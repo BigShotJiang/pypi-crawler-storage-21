@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-slack",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Airbyte Slack Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_slack-0.1.9.tar.gz",
-  "download_time": "2026-01-21T01:53:32.851504",
+  "download_filename": "airbyte_agent_slack-0.1.10.tar.gz",
+  "download_time": "2026-01-21T15:04:49.803351",
   "package_url": "https://pypi.org/project/airbyte-agent-slack/"
 }

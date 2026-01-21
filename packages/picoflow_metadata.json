@@ -1,11 +1,11 @@
 {
   "name": "picoflow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Simple, flexible AI agent framework with a small DSL and explicit state",
   "author": "PicoFlow Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "picoflow-0.1.0.tar.gz",
-  "download_time": "2026-01-21T05:21:26.210769",
+  "download_filename": "picoflow-0.1.1.tar.gz",
+  "download_time": "2026-01-21T15:04:58.062366",
   "package_url": "https://pypi.org/project/picoflow/"
 }
