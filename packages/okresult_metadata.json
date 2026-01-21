@@ -1,0 +1,11 @@
+{
+  "name": "okresult",
+  "version": "0.4.0",
+  "summary": "A lightweight Result type for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "okresult-0.4.0.tar.gz",
+  "download_time": "2026-01-21T19:51:46.105933",
+  "package_url": "https://pypi.org/project/okresult/"
+}

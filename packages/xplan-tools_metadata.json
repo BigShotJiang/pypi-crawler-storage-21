@@ -1,0 +1,11 @@
+{
+  "name": "xplan-tools",
+  "version": "1.13.0",
+  "summary": "Manage XPlanung data",
+  "author": "Tobias Kraft",
+  "license": "EUPL-1.2-or-later",
+  "home_page": null,
+  "download_filename": "xplan_tools-1.13.0.tar.gz",
+  "download_time": "2026-01-21T19:51:07.852631",
+  "package_url": "https://pypi.org/project/xplan-tools/"
+}

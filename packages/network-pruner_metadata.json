@@ -1,11 +1,11 @@
 {
   "name": "network-pruner",
-  "version": "2.13",
+  "version": "2.16",
   "summary": null,
   "author": "Chenqing Lin",
   "license": null,
   "home_page": null,
-  "download_filename": "network_pruner-2.13.tar.gz",
-  "download_time": "2026-01-21T16:56:10.359512",
+  "download_filename": "network_pruner-2.16.tar.gz",
+  "download_time": "2026-01-21T19:51:12.592138",
   "package_url": "https://pypi.org/project/network-pruner/"
 }

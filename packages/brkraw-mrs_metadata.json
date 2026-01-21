@@ -1,11 +1,11 @@
 {
   "name": "brkraw-mrs",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "BrkRaw converter hook for Bruker PRESS SVS NIfTI-MRS outputs (ported from spec2nii)",
   "author": "BrkRaw contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brkraw_mrs-0.2.2.tar.gz",
-  "download_time": "2026-01-21T17:56:20.295457",
+  "download_filename": "brkraw_mrs-0.2.3.tar.gz",
+  "download_time": "2026-01-21T19:51:27.608454",
   "package_url": "https://pypi.org/project/brkraw-mrs/"
 }

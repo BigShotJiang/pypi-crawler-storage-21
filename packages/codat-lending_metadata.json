@@ -1,0 +1,11 @@
+{
+  "name": "codat-lending",
+  "version": "10.2.0",
+  "summary": "Make credit decisions backed by enhanced financials, metrics, reports, and data integrity features.",
+  "author": "Speakeasy",
+  "license": null,
+  "home_page": "https://github.com/codatio/client-sdk-python.git",
+  "download_filename": "codat_lending-10.2.0.tar.gz",
+  "download_time": "2026-01-21T19:51:51.012506",
+  "package_url": "https://pypi.org/project/codat-lending/"
+}

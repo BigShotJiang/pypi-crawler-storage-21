@@ -1,11 +1,11 @@
 {
   "name": "ibm-mdm-mcp-server",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "summary": "A Model Context Protocol (MCP) server for IBM Master Data Management (MDM) services",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ibm_mdm_mcp_server-1.0.4.tar.gz",
-  "download_time": "2026-01-21T18:44:41.978042",
+  "download_filename": "ibm_mdm_mcp_server-1.0.8.tar.gz",
+  "download_time": "2026-01-21T19:51:14.127170",
   "package_url": "https://pypi.org/project/ibm-mdm-mcp-server/"
 }

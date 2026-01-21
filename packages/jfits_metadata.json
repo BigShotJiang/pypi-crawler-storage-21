@@ -1,0 +1,11 @@
+{
+  "name": "jfits",
+  "version": "1.0.0",
+  "summary": "Interactive numpy array and FITS image viewer with WCS support and centroiding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jfits-1.0.0.tar.gz",
+  "download_time": "2026-01-21T19:51:28.154798",
+  "package_url": "https://pypi.org/project/jfits/"
+}
