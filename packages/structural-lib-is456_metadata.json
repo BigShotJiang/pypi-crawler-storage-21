@@ -1,0 +1,11 @@
+{
+  "name": "structural-lib-is456",
+  "version": "0.19.0",
+  "summary": "IS 456 RC Beam Design Library (flexure, shear, ductile detailing, DXF export for RC beams)",
+  "author": "Pravin Surawase",
+  "license": null,
+  "home_page": null,
+  "download_filename": "structural_lib_is456-0.19.0.tar.gz",
+  "download_time": "2026-01-21T16:56:03.622233",
+  "package_url": "https://pypi.org/project/structural-lib-is456/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "obliviouspy-HSS",
+  "version": "1.0.0",
+  "summary": "A Python library implementing the Homomorphic Secret Sharing, applied for Oblivious Linear Evaluation (OLE), Vector-OLE and NxOLE",
+  "author": "Davide Cerutti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "obliviouspy_hss-1.0.0.tar.gz",
+  "download_time": "2026-01-21T16:56:03.039874",
+  "package_url": "https://pypi.org/project/obliviouspy-HSS/"
+}

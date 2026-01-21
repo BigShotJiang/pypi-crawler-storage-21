@@ -1,0 +1,11 @@
+{
+  "name": "tkmilan",
+  "version": "0.59",
+  "summary": "tkinter's evil twin",
+  "author": "Powertools Technologies",
+  "license": null,
+  "home_page": "https://support.powertools-tech.com/PowertoolsTech/tkmilan",
+  "download_filename": "tkmilan-0.59.tar.gz",
+  "download_time": "2026-01-21T16:55:36.402346",
+  "package_url": "https://pypi.org/project/tkmilan/"
+}

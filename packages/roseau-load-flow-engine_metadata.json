@@ -1,0 +1,11 @@
+{
+  "name": "roseau-load-flow-engine",
+  "version": "0.19.0",
+  "summary": "Highly capable load flow solver engine (single-phase and three-phase)",
+  "author": "Victor Gouin",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "roseau_load_flow_engine-0.19.0-cp312-abi3-macosx_14_0_arm64.whl",
+  "download_time": "2026-01-21T16:55:58.323712",
+  "package_url": "https://pypi.org/project/roseau-load-flow-engine/"
+}

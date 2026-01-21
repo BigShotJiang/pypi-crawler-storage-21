@@ -1,0 +1,11 @@
+{
+  "name": "dbt-protos",
+  "version": "1.0.422",
+  "summary": "Public proto bindings for dbt",
+  "author": "dbt Labs, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dbt-labs/proto-python-public",
+  "download_filename": "dbt_protos-1.0.422.tar.gz",
+  "download_time": "2026-01-21T16:55:49.052363",
+  "package_url": "https://pypi.org/project/dbt-protos/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hcom",
+  "version": "0.6.12",
+  "summary": "Realtime messaging and context sharing for AI coding agents (Claude Code, Gemini CLI, Codex)",
+  "author": "aannoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hcom-0.6.12.tar.gz",
+  "download_time": "2026-01-21T16:56:00.726015",
+  "package_url": "https://pypi.org/project/hcom/"
+}

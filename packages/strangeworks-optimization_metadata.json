@@ -1,0 +1,11 @@
+{
+  "name": "strangeworks-optimization",
+  "version": "0.2.44",
+  "summary": "This SDK extends the Strangeworks SDK to provide access to the Strangeworks Optimization API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strangeworks_optimization-0.2.44.tar.gz",
+  "download_time": "2026-01-21T16:56:34.027893",
+  "package_url": "https://pypi.org/project/strangeworks-optimization/"
+}

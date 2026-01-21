@@ -1,0 +1,11 @@
+{
+  "name": "portal-visualization",
+  "version": "0.4.22",
+  "summary": "Given HuBMAP Dataset JSON, creates a Vitessce configuration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "portal_visualization-0.4.22.tar.gz",
+  "download_time": "2026-01-21T16:56:01.882884",
+  "package_url": "https://pypi.org/project/portal-visualization/"
+}

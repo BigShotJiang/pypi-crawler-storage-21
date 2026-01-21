@@ -1,0 +1,11 @@
+{
+  "name": "georgian-hyphenation",
+  "version": "2.0.0",
+  "summary": "Georgian Language Hyphenation Library v2.0 - Academic Logic",
+  "author": "Guram Zhgamadze",
+  "license": "MIT",
+  "home_page": "https://github.com/guramzhgamadze/georgian-hyphenation",
+  "download_filename": "georgian_hyphenation-2.0.0.tar.gz",
+  "download_time": "2026-01-21T16:56:25.751000",
+  "package_url": "https://pypi.org/project/georgian-hyphenation/"
+}
