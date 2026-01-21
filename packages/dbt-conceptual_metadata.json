@@ -1,11 +1,11 @@
 {
   "name": "dbt-conceptual",
-  "version": "0.5.0",
+  "version": "0.5.3",
   "summary": "Bridge the gap between conceptual models and your lakehouse",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_conceptual-0.5.0.tar.gz",
-  "download_time": "2026-01-21T08:45:06.130150",
+  "download_filename": "dbt_conceptual-0.5.3.tar.gz",
+  "download_time": "2026-01-21T11:02:28.195531",
   "package_url": "https://pypi.org/project/dbt-conceptual/"
 }

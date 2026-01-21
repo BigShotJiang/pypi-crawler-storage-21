@@ -1,0 +1,11 @@
+{
+  "name": "gcp-cli-ai",
+  "version": "0.2.0",
+  "summary": "AI-powered CLI for executing GCP commands using natural language",
+  "author": "Govind",
+  "license": "MIT",
+  "home_page": "https://github.com/Cgraj07/gcp-cli",
+  "download_filename": "gcp_cli_ai-0.2.0.tar.gz",
+  "download_time": "2026-01-21T11:02:55.152166",
+  "package_url": "https://pypi.org/project/gcp-cli-ai/"
+}

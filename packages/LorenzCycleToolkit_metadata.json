@@ -1,0 +1,11 @@
+{
+  "name": "LorenzCycleToolkit",
+  "version": "1.1.2",
+  "summary": "A toolkit for calculating the Lorenz Energy Cycle in atmospheric systems",
+  "author": "Danilo Couto de Souza",
+  "license": null,
+  "home_page": "https://github.com/daniloceano/LorenzCycleToolkit",
+  "download_filename": "lorenzcycletoolkit-1.1.2.tar.gz",
+  "download_time": "2026-01-21T11:02:48.712781",
+  "package_url": "https://pypi.org/project/LorenzCycleToolkit/"
+}

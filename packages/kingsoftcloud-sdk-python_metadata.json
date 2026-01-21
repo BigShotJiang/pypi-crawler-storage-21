@@ -1,0 +1,11 @@
+{
+  "name": "kingsoftcloud-sdk-python",
+  "version": "1.5.8.47",
+  "summary": "Kingsoft Cloud SDK for Python",
+  "author": "Kingsoft Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ksyun/ksyun-sdk-python",
+  "download_filename": "kingsoftcloud_sdk_python-1.5.8.47.tar.gz",
+  "download_time": "2026-01-21T11:02:20.700826",
+  "package_url": "https://pypi.org/project/kingsoftcloud-sdk-python/"
+}

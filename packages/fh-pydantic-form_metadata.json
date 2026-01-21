@@ -1,0 +1,11 @@
+{
+  "name": "fh-pydantic-form",
+  "version": "0.3.18",
+  "summary": "a library to turn any pydantic BaseModel object into a fasthtml/monsterui input form",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fh_pydantic_form-0.3.18.tar.gz",
+  "download_time": "2026-01-21T11:02:46.607241",
+  "package_url": "https://pypi.org/project/fh-pydantic-form/"
+}

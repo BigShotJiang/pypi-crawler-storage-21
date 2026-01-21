@@ -1,11 +1,11 @@
 {
   "name": "html-transpose",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Python wrapper for html_transpose - a Rust library for transposing HTML tables",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "html_transpose-0.0.6.tar.gz",
-  "download_time": "2026-01-21T07:59:57.290403",
+  "download_filename": "html_transpose-0.0.8.tar.gz",
+  "download_time": "2026-01-21T11:02:46.057094",
   "package_url": "https://pypi.org/project/html-transpose/"
 }

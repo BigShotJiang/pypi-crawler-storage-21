@@ -1,0 +1,11 @@
+{
+  "name": "veloxloop",
+  "version": "0.2.0",
+  "summary": "A modern, high-performance asyncio event loop implementation written from scratch in Rust",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "veloxloop-0.2.0.tar.gz",
+  "download_time": "2026-01-21T11:02:30.900875",
+  "package_url": "https://pypi.org/project/veloxloop/"
+}

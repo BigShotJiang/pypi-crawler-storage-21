@@ -1,11 +1,11 @@
 {
   "name": "factpages-py",
-  "version": "0.1.21",
+  "version": "0.1.23",
   "summary": "Python library for Norwegian Petroleum Factpages data",
   "author": "Norwegian Petroleum Data Community",
   "license": null,
   "home_page": null,
-  "download_filename": "factpages_py-0.1.21.tar.gz",
-  "download_time": "2026-01-20T15:03:45.332192",
+  "download_filename": "factpages_py-0.1.23.tar.gz",
+  "download_time": "2026-01-21T11:02:18.011572",
   "package_url": "https://pypi.org/project/factpages-py/"
 }

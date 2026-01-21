@@ -1,11 +1,11 @@
 {
   "name": "xenfra-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Xenfra Model Context Protocol (MCP) Server - Deploy to DigitalOcean with AI-powered diagnosis.",
   "author": "xenfra-cloud",
   "license": null,
   "home_page": null,
-  "download_filename": "xenfra_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-01-20T22:28:19.334652",
+  "download_filename": "xenfra_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-01-21T11:02:26.565045",
   "package_url": "https://pypi.org/project/xenfra-mcp-server/"
 }

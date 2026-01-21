@@ -1,0 +1,11 @@
+{
+  "name": "pylogininglogs",
+  "version": "0.1.4",
+  "summary": "A custom logging library wrapper with convenient defaults",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pylogininglogs",
+  "download_filename": "pylogininglogs-0.1.4.tar.gz",
+  "download_time": "2026-01-21T11:02:47.658847",
+  "package_url": "https://pypi.org/project/pylogininglogs/"
+}
