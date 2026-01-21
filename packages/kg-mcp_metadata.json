@@ -1,11 +1,11 @@
 {
   "name": "kg-mcp",
-  "version": "0.1.7",
+  "version": "0.1.10",
   "summary": "Memory/Knowledge Graph MCP Server for IDE Assistants - Persistent context and knowledge for AI coding agents",
   "author": "Davide Leopardi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kg_mcp-0.1.7.tar.gz",
-  "download_time": "2026-01-21T13:48:36.454424",
+  "download_filename": "kg_mcp-0.1.10.tar.gz",
+  "download_time": "2026-01-21T15:50:12.091169",
   "package_url": "https://pypi.org/project/kg-mcp/"
 }

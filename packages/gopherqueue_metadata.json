@@ -1,0 +1,11 @@
+{
+  "name": "gopherqueue",
+  "version": "1.0.0",
+  "summary": "Python SDK for GopherQueue - Enterprise-grade background job processing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gopherqueue-1.0.0.tar.gz",
+  "download_time": "2026-01-21T15:50:24.064748",
+  "package_url": "https://pypi.org/project/gopherqueue/"
+}

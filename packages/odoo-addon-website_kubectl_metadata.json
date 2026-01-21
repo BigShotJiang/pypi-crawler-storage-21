@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website_kubectl",
+  "version": "18.0.1.0.0",
+  "summary": "Present Kuberentes clusters on website.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_website_kubectl-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-21T15:50:21.326458",
+  "package_url": "https://pypi.org/project/odoo-addon-website_kubectl/"
+}

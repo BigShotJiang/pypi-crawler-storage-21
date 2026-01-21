@@ -1,0 +1,11 @@
+{
+  "name": "gavel",
+  "version": "0.1.8",
+  "summary": "A toolset for prover independent premise selection. Template generated with cookiecutter-pylibrary.",
+  "author": "Martin Glauer",
+  "license": "AGPL",
+  "home_page": "https://github.com/gavel-tool/python-gavel",
+  "download_filename": "gavel-0.1.8.tar.gz",
+  "download_time": "2026-01-21T15:50:37.495384",
+  "package_url": "https://pypi.org/project/gavel/"
+}

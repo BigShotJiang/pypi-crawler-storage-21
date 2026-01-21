@@ -1,0 +1,11 @@
+{
+  "name": "dash-ag-grid",
+  "version": "33.3.3",
+  "summary": "Dash wrapper around AG Grid, the best interactive data grid for the web.",
+  "author": "Plotly <chris@plot.ly>",
+  "license": "MIT",
+  "home_page": "https://dash.plotly.com/dash-ag-grid",
+  "download_filename": "dash_ag_grid-33.3.3.tar.gz",
+  "download_time": "2026-01-21T15:49:57.893954",
+  "package_url": "https://pypi.org/project/dash-ag-grid/"
+}
