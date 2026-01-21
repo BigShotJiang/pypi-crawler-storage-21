@@ -1,32 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-21T07:45:55.161643
-- **Total Packages**: 86
-- **Total Size**: 57.92 MB
+- **Download Time**: 2026-01-21T08:00:29.536155
+- **Total Packages**: 80
+- **Total Size**: 18.19 MB
 
 ## Packages List
+- tdfs4ds
+- strapalchemy
+- power-grid-model-io
+- airsmodel
+- efts-io
+- pytest-neon
+- metabolights-utils
+- unifi-network-maps
+- huibiao-framework
+- dts-dance
+- cribl-control-plane
+- parlant-alice
+- iflow-mcp_sachin-crypto_pokemon
+- hsi-preprocessing-toolkit
+- thirteen-gpu
+- wildberries-sdk
+- ansys-api-discovery
+- dslighting
+- laia-gen-lib
+- chonkie-core
+- sudosu
+- pulumiverse-talos
+- cua-computer-server
+- pytest-llm-report
+- html-transpose
+- celesto
+- antchain-intellicar
+- llms-py
+- odoo-addon-base-warn-option
+- obra
+- spellcheckpy
+- aiomtec2mqtt
+- agent-cli
+- CubeRaspberryLib3
+- droidrun
+- febbox
+- Velocicode
+- iflow-mcp_kryzo_mcp-bibliotheque_nationale_de_france
+- unlockedpd
 - pulumi-volcenginecc
 - favro-mcp
-- spellcheckpy
 - persona-dsl
 - map-with-tree
 - py-node-manager
 - mdsvg2png
 - wfgtestuv
-- thirteen-gpu
 - keble-helpers
 - quantrs2
 - memboost
-- dslighting
 - vfq-cdp-operators
-- aiomtec2mqtt
 - evolve-sdk
 - liger-kernel-nightly
 - pyxecm
 - socialia
 - groknroll
-- unlockedpd
 - memplug
 - mlrun
 - apic0nnect0r
@@ -43,7 +77,6 @@
 - lunalib
 - preownedgpt
 - rlab-runtime
-- CubeRaspberryLib3
 - pandoraspec
 - xiaomi-ble
 - llama-cpp-py-sync
@@ -53,42 +86,3 @@
 - snapmem
 - TRSFX
 - aiptx
-- olbrain-python-sdk
-- vibetuner
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- feldera
-- pixell-sdk
-- structai
-- pych9329-hid
-- pulumi-azure
-- musicpackbuilder
-- checkmk-dev-tools
-- raglineage
-- pulumiverse-talos
-- rag-agent-sdk
-- kurra
-- ansys-sound-core
-- pantoqa-bridge
-- evse-hub
-- alt-text-llm
-- PyHardLinkBackup
-- feathermem
-- iamt
-- html-transpose
-- visionsdk
-- k2pipe
-- quantum-code
-- agent-types
-- markd2pdf
-- jleechanorg-pr-automation
-- text-utils-aditi
-- tinymem
-- iflow-mcp_niutrans_mcp-translation-text
-- circular-optimizer
-- nys-client
-- nys-schemas
-- ftllexengine
-- yta-math-graphic
-- bhp-pro
-- appium-utility

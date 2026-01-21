@@ -1,0 +1,11 @@
+{
+  "name": "febbox",
+  "version": "1.0.1",
+  "summary": "CLI tool to upload files and directories to FebBox with resume capability and parallel uploads",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "febbox-1.0.1.tar.gz",
+  "download_time": "2026-01-21T08:00:05.438211",
+  "package_url": "https://pypi.org/project/febbox/"
+}

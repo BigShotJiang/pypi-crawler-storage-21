@@ -1,11 +1,11 @@
 {
   "name": "unlockedpd",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Transparent pandas performance optimization via Numba-accelerated parallel operations",
   "author": "unlockedpd contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "unlockedpd-0.2.2.tar.gz",
-  "download_time": "2026-01-21T07:45:20.112507",
+  "download_filename": "unlockedpd-0.2.3.tar.gz",
+  "download_time": "2026-01-21T08:00:07.160433",
   "package_url": "https://pypi.org/project/unlockedpd/"
 }

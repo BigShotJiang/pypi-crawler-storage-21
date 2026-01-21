@@ -1,0 +1,11 @@
+{
+  "name": "pytest-llm-report",
+  "version": "0.2.1",
+  "summary": "Human-friendly pytest test reports with optional LLM annotations",
+  "author": "pytest-llm-report contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_llm_report-0.2.1.tar.gz",
+  "download_time": "2026-01-21T07:59:56.657462",
+  "package_url": "https://pypi.org/project/pytest-llm-report/"
+}
