@@ -1,11 +1,11 @@
 {
   "name": "persona-dsl",
-  "version": "26.1.21.39",
+  "version": "26.1.21.45",
   "summary": "Persona DSL - Framework for implementing Screenplay pattern in Python tests",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "persona_dsl-26.1.21.39.tar.gz",
-  "download_time": "2026-01-21T11:02:18.563139",
+  "download_filename": "persona_dsl-26.1.21.45.tar.gz",
+  "download_time": "2026-01-21T11:38:23.755922",
   "package_url": "https://pypi.org/project/persona-dsl/"
 }

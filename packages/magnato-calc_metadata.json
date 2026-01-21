@@ -1,11 +1,11 @@
 {
   "name": "magnato-calc",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "a simple calculator have multi options",
-  "author": "Neeraj Kr",
+  "author": "NeerajKr",
   "license": null,
   "home_page": null,
-  "download_filename": "magnato_calc-0.1.0.tar.gz",
-  "download_time": "2026-01-21T11:02:20.164647",
+  "download_filename": "magnato_calc-0.1.2.tar.gz",
+  "download_time": "2026-01-21T11:38:16.528966",
   "package_url": "https://pypi.org/project/magnato-calc/"
 }

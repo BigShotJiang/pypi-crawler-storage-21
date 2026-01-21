@@ -1,11 +1,11 @@
 {
   "name": "momo-writer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "一个沉浸式的命令行小说写作工具 (A text-immersive CLI novel writing tool)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "momo_writer-0.1.0.tar.gz",
-  "download_time": "2026-01-20T11:28:45.751128",
+  "download_filename": "momo_writer-0.1.1.tar.gz",
+  "download_time": "2026-01-21T11:37:52.804147",
   "package_url": "https://pypi.org/project/momo-writer/"
 }

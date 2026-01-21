@@ -1,0 +1,11 @@
+{
+  "name": "line-bot-sdk",
+  "version": "3.22.0",
+  "summary": "LINE Messaging API SDK for Python",
+  "author": "RyosukeHasebe",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/line/line-bot-sdk-python",
+  "download_filename": "line_bot_sdk-3.22.0.tar.gz",
+  "download_time": "2026-01-21T11:38:11.580054",
+  "package_url": "https://pypi.org/project/line-bot-sdk/"
+}

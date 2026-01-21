@@ -1,11 +1,11 @@
 {
   "name": "fluxpy-ui",
-  "version": "1.0.0",
-  "summary": "A professional and modern desktop UI library for Python",
+  "version": "2.0.5",
+  "summary": "An enterprise-grade modern desktop UI and Game framework for Python",
   "author": "FluxPy Team",
   "license": null,
-  "home_page": "https://github.com/yourusername/fluxpy",
-  "download_filename": "fluxpy_ui-1.0.0-py3-none-any.whl",
-  "download_time": "2026-01-21T09:55:50.472664",
+  "home_page": null,
+  "download_filename": "fluxpy_ui-2.0.5-py3-none-any.whl",
+  "download_time": "2026-01-21T11:38:19.596607",
   "package_url": "https://pypi.org/project/fluxpy-ui/"
 }

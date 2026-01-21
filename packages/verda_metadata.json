@@ -1,0 +1,11 @@
+{
+  "name": "verda",
+  "version": "1.19.0",
+  "summary": "Official Python SDK for Verda (formerly DataCrunch) Public API",
+  "author": "Verda Cloud Oy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "verda-1.19.0.tar.gz",
+  "download_time": "2026-01-21T11:37:55.357045",
+  "package_url": "https://pypi.org/project/verda/"
+}

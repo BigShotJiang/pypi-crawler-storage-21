@@ -1,0 +1,11 @@
+{
+  "name": "pkboost",
+  "version": "2.2.0",
+  "summary": "Gradient boosting that adapts to concept drift in imbalanced data",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Pushp-Kharat1/pkboost",
+  "download_filename": "pkboost-2.2.0.tar.gz",
+  "download_time": "2026-01-21T11:38:11.066124",
+  "package_url": "https://pypi.org/project/pkboost/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ose-cli",
+  "version": "0.2.5",
+  "summary": "CLI for OntoSpreadEd - Ontology spreadsheet editor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ose_cli-0.2.5.tar.gz",
+  "download_time": "2026-01-21T11:38:00.039050",
+  "package_url": "https://pypi.org/project/ose-cli/"
+}

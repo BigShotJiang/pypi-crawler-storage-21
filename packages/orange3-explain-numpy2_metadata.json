@@ -1,0 +1,11 @@
+{
+  "name": "orange3-explain-numpy2",
+  "version": "0.6.10",
+  "summary": "Orange3 add-on for explanatory AI",
+  "author": null,
+  "license": "GPL3+",
+  "home_page": "https://orangedatamining.com/download",
+  "download_filename": "orange3_explain_numpy2-0.6.10.tar.gz",
+  "download_time": "2026-01-21T11:38:04.732447",
+  "package_url": "https://pypi.org/project/orange3-explain-numpy2/"
+}

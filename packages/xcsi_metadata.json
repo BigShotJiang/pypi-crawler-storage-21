@@ -1,0 +1,11 @@
+{
+  "name": "xcsi",
+  "version": "0.0.5",
+  "summary": "Build finite element models for OpenSees and Xara from CSiBridge and SAP2000 input files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xcsi-0.0.5.tar.gz",
+  "download_time": "2026-01-21T11:38:09.434357",
+  "package_url": "https://pypi.org/project/xcsi/"
+}

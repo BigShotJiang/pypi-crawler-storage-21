@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "2.6.14",
-  "summary": "DSLighting 2.6.14 - Fix MLE-Bench import path and use English comments for international standards",
+  "version": "2.6.21",
+  "summary": "DSLighting 2.6.17 - Use English comments and logs for international standards",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/usail-hkust/dslighting",
-  "download_filename": "dslighting-2.6.14.tar.gz",
-  "download_time": "2026-01-21T07:59:52.956391",
+  "download_filename": "dslighting-2.6.21.tar.gz",
+  "download_time": "2026-01-21T11:37:41.337388",
   "package_url": "https://pypi.org/project/dslighting/"
 }

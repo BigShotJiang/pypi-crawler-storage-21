@@ -1,0 +1,11 @@
+{
+  "name": "git-sanity",
+  "version": "3.0.2",
+  "summary": "Manage multiple git repos with sanity",
+  "author": "yuqiaoyu",
+  "license": "MIT",
+  "home_page": "https://github.com/yuqiaoyu/git-sanity",
+  "download_filename": "git_sanity-3.0.2-py3-none-any.whl",
+  "download_time": "2026-01-21T11:38:24.780364",
+  "package_url": "https://pypi.org/project/git-sanity/"
+}
