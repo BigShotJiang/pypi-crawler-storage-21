@@ -1,0 +1,11 @@
+{
+  "name": "remotivelabs-cli",
+  "version": "0.6.2",
+  "summary": "CLI for operating RemotiveCloud and RemotiveBroker",
+  "author": "Remotivelabs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "remotivelabs_cli-0.6.2.tar.gz",
+  "download_time": "2026-01-21T10:31:41.650155",
+  "package_url": "https://pypi.org/project/remotivelabs-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ambr",
+  "version": "0.1.0",
+  "summary": "Agent-Based Modeling Environment for Research",
+  "author": "AMBER Team",
+  "license": null,
+  "home_page": "https://github.com/amber-team/amber",
+  "download_filename": "ambr-0.1.0.tar.gz",
+  "download_time": "2026-01-21T10:31:47.259009",
+  "package_url": "https://pypi.org/project/ambr/"
+}
