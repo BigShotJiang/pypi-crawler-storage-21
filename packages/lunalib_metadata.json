@@ -1,11 +1,11 @@
 {
   "name": "lunalib",
-  "version": "2.0.8",
+  "version": "2.1.1",
   "summary": "Cryptocurrency Ecosystem library (LunaLib) by Sanny and Ling Lin",
   "author": null,
   "license": null,
   "home_page": "https://github.com/taellinglin/LunaLib",
-  "download_filename": "lunalib-2.0.8.tar.gz",
-  "download_time": "2026-01-20T06:38:29.680107",
+  "download_filename": "lunalib-2.1.1.tar.gz",
+  "download_time": "2026-01-21T03:46:25.296913",
   "package_url": "https://pypi.org/project/lunalib/"
 }

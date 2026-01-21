@@ -1,0 +1,11 @@
+{
+  "name": "task-schedule",
+  "version": "1.0.0",
+  "summary": "A simple and powerful task scheduling framework with web UI",
+  "author": "Task Schedule",
+  "license": "MIT",
+  "home_page": "https://github.com/example/task_schedule",
+  "download_filename": "task_schedule-1.0.0.tar.gz",
+  "download_time": "2026-01-21T03:46:49.651887",
+  "package_url": "https://pypi.org/project/task-schedule/"
+}

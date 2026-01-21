@@ -1,0 +1,11 @@
+{
+  "name": "cleantam",
+  "version": "0.1.1",
+  "summary": "Una extensión de Pandas para limpiar datos con formato latinoamericano",
+  "author": "Federico Gabriel Gutierrez",
+  "license": null,
+  "home_page": "https://github.com/fedco-gtz/cleantam",
+  "download_filename": "cleantam-0.1.1.tar.gz",
+  "download_time": "2026-01-21T03:46:46.144829",
+  "package_url": "https://pypi.org/project/cleantam/"
+}

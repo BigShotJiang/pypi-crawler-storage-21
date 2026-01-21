@@ -1,0 +1,11 @@
+{
+  "name": "django-trim",
+  "version": "0.4.4",
+  "summary": "Django trim is a facade to the common features of Django providing a layer of sugar for all those daily components.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_trim-0.4.4.tar.gz",
+  "download_time": "2026-01-21T03:46:47.313570",
+  "package_url": "https://pypi.org/project/django-trim/"
+}
