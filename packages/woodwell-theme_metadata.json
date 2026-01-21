@@ -1,0 +1,11 @@
+{
+  "name": "woodwell-theme",
+  "version": "0.1.0",
+  "summary": "Reusable Matplotlib theme for Woodwell Climate Research Center",
+  "author": "jakidxav",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "woodwell_theme-0.1.0.tar.gz",
+  "download_time": "2026-01-21T21:50:34.434882",
+  "package_url": "https://pypi.org/project/woodwell-theme/"
+}

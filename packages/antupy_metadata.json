@@ -1,0 +1,11 @@
+{
+  "name": "antupy",
+  "version": "0.5.0",
+  "summary": "Toolkit for energy engineering",
+  "author": "David Saldivia",
+  "license": "MIT",
+  "home_page": "https://github.com/DavidSaldivia/antupy",
+  "download_filename": "antupy-0.5.0.tar.gz",
+  "download_time": "2026-01-21T21:50:00.177522",
+  "package_url": "https://pypi.org/project/antupy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mongo-schematic",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "MongoSchematic CLI for MongoDB schema analysis, drift detection, and migrations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mongo_schematic-0.1.1.tar.gz",
-  "download_time": "2026-01-20T20:45:14.025987",
+  "download_filename": "mongo_schematic-0.1.3.tar.gz",
+  "download_time": "2026-01-21T21:50:41.074598",
   "package_url": "https://pypi.org/project/mongo-schematic/"
 }

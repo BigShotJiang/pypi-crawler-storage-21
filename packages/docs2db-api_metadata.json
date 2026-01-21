@@ -1,0 +1,11 @@
+{
+  "name": "docs2db-api",
+  "version": "0.3.1",
+  "summary": "Query Docs2DB RAG databases with hybrid search and reranking",
+  "author": "Ellis Low",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "docs2db_api-0.3.1.tar.gz",
+  "download_time": "2026-01-21T21:50:22.870900",
+  "package_url": "https://pypi.org/project/docs2db-api/"
+}

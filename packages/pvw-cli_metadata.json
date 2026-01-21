@@ -1,11 +1,11 @@
 {
   "name": "pvw-cli",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "summary": "Microsoft Purview CLI with comprehensive automation capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pvw_cli-1.5.7.tar.gz",
-  "download_time": "2026-01-21T21:04:16.344120",
+  "download_filename": "pvw_cli-1.5.8.tar.gz",
+  "download_time": "2026-01-21T21:50:25.571625",
   "package_url": "https://pypi.org/project/pvw-cli/"
 }

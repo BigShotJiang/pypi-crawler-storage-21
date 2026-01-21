@@ -1,11 +1,11 @@
 {
   "name": "kubectl-mcp-tool",
-  "version": "1.6.0",
+  "version": "1.8.0",
   "summary": "A Model Context Protocol (MCP) server for Kubernetes",
   "author": "Rohit Ghumare",
   "license": null,
   "home_page": "https://github.com/rohitg00/kubectl-mcp-server",
-  "download_filename": "kubectl_mcp_tool-1.6.0.tar.gz",
-  "download_time": "2026-01-21T20:34:02.755981",
+  "download_filename": "kubectl_mcp_tool-1.8.0.tar.gz",
+  "download_time": "2026-01-21T21:50:42.614381",
   "package_url": "https://pypi.org/project/kubectl-mcp-tool/"
 }
