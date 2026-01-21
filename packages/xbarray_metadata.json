@@ -1,0 +1,11 @@
+{
+  "name": "xbarray",
+  "version": "0.0.1a13",
+  "summary": "Cross-backend Python array library based on the Array API Standard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xbarray-0.0.1a13.tar.gz",
+  "download_time": "2026-01-21T18:44:49.503166",
+  "package_url": "https://pypi.org/project/xbarray/"
+}

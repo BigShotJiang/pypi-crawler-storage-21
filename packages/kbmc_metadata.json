@@ -1,0 +1,11 @@
+{
+  "name": "kbmc",
+  "version": "3.0.43",
+  "summary": "Kage's Intelgent BMC handler",
+  "author": "Kage Park",
+  "license": "MIT",
+  "home_page": "https://github.com/kagepark/kBmc",
+  "download_filename": "kbmc-3.0.43.tar.gz",
+  "download_time": "2026-01-21T18:44:47.374191",
+  "package_url": "https://pypi.org/project/kbmc/"
+}

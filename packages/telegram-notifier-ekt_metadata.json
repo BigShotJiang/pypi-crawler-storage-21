@@ -1,0 +1,11 @@
+{
+  "name": "telegram-notifier-ekt",
+  "version": "1.0.4",
+  "summary": "Paquete reutilizable para enviar notificaciones por Telegram",
+  "author": "roan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "telegram_notifier_ekt-1.0.4.tar.gz",
+  "download_time": "2026-01-21T18:44:47.902008",
+  "package_url": "https://pypi.org/project/telegram-notifier-ekt/"
+}

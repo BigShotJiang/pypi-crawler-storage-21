@@ -1,0 +1,11 @@
+{
+  "name": "cmdexy",
+  "version": "1.0.0",
+  "summary": "AI-powered CLI assistant with automatic error recovery and code fixing.",
+  "author": "Akhilesh S",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmdexy-1.0.0.tar.gz",
+  "download_time": "2026-01-21T18:44:34.439202",
+  "package_url": "https://pypi.org/project/cmdexy/"
+}

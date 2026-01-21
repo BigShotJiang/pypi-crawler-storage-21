@@ -1,0 +1,11 @@
+{
+  "name": "spitch",
+  "version": "1.44.0",
+  "summary": "The official Python library for the spitch API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "spitch-1.44.0.tar.gz",
+  "download_time": "2026-01-21T18:45:20.588252",
+  "package_url": "https://pypi.org/project/spitch/"
+}

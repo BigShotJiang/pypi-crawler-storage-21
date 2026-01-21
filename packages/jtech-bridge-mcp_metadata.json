@@ -1,0 +1,11 @@
+{
+  "name": "jtech-bridge-mcp",
+  "version": "1.0.0",
+  "summary": "Jtech MCP Server for IDE synchronization - Bridge between Backend and Frontend development",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jtech_bridge_mcp-1.0.0.tar.gz",
+  "download_time": "2026-01-21T18:44:53.817267",
+  "package_url": "https://pypi.org/project/jtech-bridge-mcp/"
+}

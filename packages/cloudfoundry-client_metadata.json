@@ -1,0 +1,11 @@
+{
+  "name": "cloudfoundry-client",
+  "version": "1.40.2",
+  "summary": "A client library for CloudFoundry",
+  "author": "Benjamin Einaudi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudfoundry_client-1.40.2.tar.gz",
+  "download_time": "2026-01-21T18:45:19.506626",
+  "package_url": "https://pypi.org/project/cloudfoundry-client/"
+}
