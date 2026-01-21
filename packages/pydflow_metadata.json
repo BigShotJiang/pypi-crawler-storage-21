@@ -1,0 +1,11 @@
+{
+  "name": "pydflow",
+  "version": "1.8.133",
+  "summary": "Dflow is a Python framework for constructing scientific computing workflows employing Argo Workflows as the workflow engine.",
+  "author": "Xinzijian Liu",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/deepmodeling/dflow",
+  "download_filename": "pydflow-1.8.133.tar.gz",
+  "download_time": "2026-01-21T07:13:40.562335",
+  "package_url": "https://pypi.org/project/pydflow/"
+}

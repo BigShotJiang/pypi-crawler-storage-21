@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "2.6.7",
-  "summary": "DSLighting 2.6.7 - Enhancement: BaseWorkflowFactory auto-grading infrastructure (automatic scoring via benchmark.grade(), reduces user barrier)",
+  "version": "2.6.8",
+  "summary": "DSLighting 2.6.8 - Enhancement: Simplify workflow interface - remove output_path parameter (auto-detected from io_instructions)",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/usail-hkust/dslighting",
-  "download_filename": "dslighting-2.6.7.tar.gz",
-  "download_time": "2026-01-21T05:52:57.472420",
+  "download_filename": "dslighting-2.6.8.tar.gz",
+  "download_time": "2026-01-21T07:13:35.369543",
   "package_url": "https://pypi.org/project/dslighting/"
 }

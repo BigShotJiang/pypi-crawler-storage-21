@@ -1,0 +1,11 @@
+{
+  "name": "backup_warden",
+  "version": "1.0.15",
+  "summary": "Streamline your backup management with ease and simplicity",
+  "author": "Charles Thompson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "backup_warden-1.0.15.tar.gz",
+  "download_time": "2026-01-21T07:13:57.912899",
+  "package_url": "https://pypi.org/project/backup_warden/"
+}

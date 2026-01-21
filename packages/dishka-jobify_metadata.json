@@ -1,0 +1,11 @@
+{
+  "name": "dishka-jobify",
+  "version": "0.0.1",
+  "summary": "Integration package for Dishka DI and Jobify framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dishka_jobify-0.0.1.tar.gz",
+  "download_time": "2026-01-21T07:13:38.445940",
+  "package_url": "https://pypi.org/project/dishka-jobify/"
+}

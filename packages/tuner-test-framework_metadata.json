@@ -1,0 +1,11 @@
+{
+  "name": "tuner-test-framework",
+  "version": "1.0.0",
+  "summary": "整合接口和UI自动化测试能力的测试框架",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuner_test_framework-1.0.0.tar.gz",
+  "download_time": "2026-01-21T07:13:33.696395",
+  "package_url": "https://pypi.org/project/tuner-test-framework/"
+}

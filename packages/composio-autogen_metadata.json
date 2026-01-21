@@ -1,0 +1,11 @@
+{
+  "name": "composio-autogen",
+  "version": "0.10.9",
+  "summary": "Use Composio to get an array of tools with your autogen agent.",
+  "author": "Composio",
+  "license": null,
+  "home_page": "https://github.com/ComposioHQ/composio",
+  "download_filename": "composio_autogen-0.10.9.tar.gz",
+  "download_time": "2026-01-21T07:14:09.309337",
+  "package_url": "https://pypi.org/project/composio-autogen/"
+}

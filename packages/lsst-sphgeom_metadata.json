@@ -1,0 +1,11 @@
+{
+  "name": "lsst-sphgeom",
+  "version": "29.2025.4400",
+  "summary": "A spherical geometry library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsst_sphgeom-29.2025.4400.tar.gz",
+  "download_time": "2026-01-21T07:14:10.961905",
+  "package_url": "https://pypi.org/project/lsst-sphgeom/"
+}

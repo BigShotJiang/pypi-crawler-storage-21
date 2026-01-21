@@ -1,0 +1,11 @@
+{
+  "name": "macrocycle",
+  "version": "0.2.0",
+  "summary": "Ritualized AI agent workflows - multi-pass prompt pipelines for Cursor and beyond",
+  "author": "Milan Pecov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "macrocycle-0.2.0.tar.gz",
+  "download_time": "2026-01-21T07:13:37.931317",
+  "package_url": "https://pypi.org/project/macrocycle/"
+}
