@@ -1,11 +1,11 @@
 {
   "name": "pubtools-pulplib",
-  "version": "2.43.1",
+  "version": "2.43.2",
   "summary": "A Pulp library for publishing tools",
   "author": null,
   "license": "GNU General Public License",
   "home_page": "https://github.com/release-engineering/pubtools-pulplib",
-  "download_filename": "pubtools_pulplib-2.43.1-py3-none-any.whl",
-  "download_time": "2026-01-21T12:00:49.870677",
+  "download_filename": "pubtools_pulplib-2.43.2.tar.gz",
+  "download_time": "2026-01-21T14:32:55.911792",
   "package_url": "https://pypi.org/project/pubtools-pulplib/"
 }
