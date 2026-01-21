@@ -1,0 +1,11 @@
+{
+  "name": "rlinks",
+  "version": "1.0.3",
+  "summary": "RLink is a lightweight, high-performance communication layer specifically designed for distributed reinforcement learning systems.",
+  "author": "matrix97317",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/matrix97317/RLink.git",
+  "download_filename": "rlinks-1.0.3.tar.gz",
+  "download_time": "2026-01-21T01:53:23.327421",
+  "package_url": "https://pypi.org/project/rlinks/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "yutori-mcp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "MCP server for Yutori - web monitoring and browsing automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yutori_mcp-0.1.2.tar.gz",
-  "download_time": "2026-01-19T19:30:48.270007",
+  "download_filename": "yutori_mcp-0.1.4.tar.gz",
+  "download_time": "2026-01-21T01:53:38.017153",
   "package_url": "https://pypi.org/project/yutori-mcp/"
 }

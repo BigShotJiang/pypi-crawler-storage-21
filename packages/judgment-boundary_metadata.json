@@ -1,0 +1,11 @@
+{
+  "name": "judgment-boundary",
+  "version": "0.4.3",
+  "summary": "A Responsibility Layer for Automated Systems",
+  "author": "Judgment Boundary Project",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "judgment_boundary-0.4.3.tar.gz",
+  "download_time": "2026-01-21T01:53:13.235022",
+  "package_url": "https://pypi.org/project/judgment-boundary/"
+}

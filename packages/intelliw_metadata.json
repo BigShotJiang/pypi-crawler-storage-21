@@ -1,0 +1,11 @@
+{
+  "name": "intelliw",
+  "version": "2.2.7",
+  "summary": "An easy to start Intelligent Workshop Algorithm Framework",
+  "author": "yonyou",
+  "license": null,
+  "home_page": "http://git.yonyou.com/iuapaipaas/iw-algo-fx",
+  "download_filename": "intelliw-2.2.7-py3-none-any.whl",
+  "download_time": "2026-01-21T01:53:10.668279",
+  "package_url": "https://pypi.org/project/intelliw/"
+}

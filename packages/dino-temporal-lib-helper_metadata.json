@@ -1,0 +1,11 @@
+{
+  "name": "dino-temporal-lib-helper",
+  "version": "0.2.0",
+  "summary": "Utilities for RabbitMQ consumer/publisher and Postgres lock patterns.",
+  "author": "Dino Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "dino_temporal_lib_helper-0.2.0.tar.gz",
+  "download_time": "2026-01-21T01:53:33.380417",
+  "package_url": "https://pypi.org/project/dino-temporal-lib-helper/"
+}

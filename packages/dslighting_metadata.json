@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "2.5.2",
-  "summary": "DSLighting 2.5.2 - Fix: Correct MLE-Bench import paths for PyPI (benchmarks.mlebench)",
+  "version": "2.5.7",
+  "summary": "DSLighting 2.5.7 - Fix: Generic path resolution for grading (strips task_id prefix)",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/usail-hkust/dslighting",
-  "download_filename": "dslighting-2.5.2.tar.gz",
-  "download_time": "2026-01-20T15:48:26.473810",
+  "download_filename": "dslighting-2.5.7.tar.gz",
+  "download_time": "2026-01-21T01:53:09.103072",
   "package_url": "https://pypi.org/project/dslighting/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pytas",
+  "version": "1.2.4",
+  "summary": "A python, matplotlib, and QT based GUI for transient absorption processing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytas-1.2.4.tar.gz",
+  "download_time": "2026-01-21T01:53:15.292086",
+  "package_url": "https://pypi.org/project/pytas/"
+}

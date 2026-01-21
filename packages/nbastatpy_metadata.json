@@ -1,0 +1,11 @@
+{
+  "name": "nbastatpy",
+  "version": "0.4.1",
+  "summary": "An easy-to-use wrapper for nba_api to easily find data for a player, game, team, or season",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nbastatpy-0.4.1.tar.gz",
+  "download_time": "2026-01-21T01:53:03.229654",
+  "package_url": "https://pypi.org/project/nbastatpy/"
+}

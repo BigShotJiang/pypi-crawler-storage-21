@@ -1,0 +1,11 @@
+{
+  "name": "oxiz",
+  "version": "0.2.0",
+  "summary": "Python bindings for OxiZ SMT Solver",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "oxiz-0.2.0.tar.gz",
+  "download_time": "2026-01-21T01:53:24.358219",
+  "package_url": "https://pypi.org/project/oxiz/"
+}

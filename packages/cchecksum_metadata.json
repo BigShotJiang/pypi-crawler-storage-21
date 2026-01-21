@@ -1,0 +1,11 @@
+{
+  "name": "cchecksum",
+  "version": "0.4.0",
+  "summary": "An ~18x faster drop-in replacement for eth_utils.to_checksum_address. Raises the exact same Exceptions. Implemented in C.",
+  "author": "BobTheBuidler",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/cchecksum",
+  "download_filename": "cchecksum-0.4.0.tar.gz",
+  "download_time": "2026-01-21T01:53:02.195548",
+  "package_url": "https://pypi.org/project/cchecksum/"
+}

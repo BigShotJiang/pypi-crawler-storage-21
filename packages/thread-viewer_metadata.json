@@ -1,0 +1,11 @@
+{
+  "name": "thread-viewer",
+  "version": "1.1.1",
+  "summary": "A lightweight terminal UI for visualizing thread pool activity in real time.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "thread_viewer-1.1.1.tar.gz",
+  "download_time": "2026-01-21T01:53:10.135731",
+  "package_url": "https://pypi.org/project/thread-viewer/"
+}
