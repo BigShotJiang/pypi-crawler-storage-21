@@ -1,0 +1,11 @@
+{
+  "name": "polars-backtest",
+  "version": "0.1.5",
+  "summary": "Polars extension for portfolio backtesting",
+  "author": null,
+  "license": "PolyForm Noncommercial 1.0.0",
+  "home_page": null,
+  "download_filename": "polars_backtest-0.1.5.tar.gz",
+  "download_time": "2026-01-21T09:18:17.169851",
+  "package_url": "https://pypi.org/project/polars-backtest/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openfisca-nouvelle-caledonie",
-  "version": "18.0.2",
+  "version": "19.0.0",
   "summary": "OpenFisca Rules as Code model for Nouvelle Calédonie.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openfisca_nouvelle_caledonie-18.0.2.tar.gz",
-  "download_time": "2026-01-19T20:26:31.833048",
+  "download_filename": "openfisca_nouvelle_caledonie-19.0.0.tar.gz",
+  "download_time": "2026-01-21T09:18:17.689672",
   "package_url": "https://pypi.org/project/openfisca-nouvelle-caledonie/"
 }

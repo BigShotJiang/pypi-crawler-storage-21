@@ -1,0 +1,11 @@
+{
+  "name": "nacos-client-gd",
+  "version": "0.1.0",
+  "summary": "自定义的Nacos 3.1.0客户端库，支持配置查询/修改、服务实例查询",
+  "author": "baoqian",
+  "license": null,
+  "home_page": "https://github.com/baoqian188_baoqian/nacos-client-custom",
+  "download_filename": "nacos_client_gd-0.1.0.tar.gz",
+  "download_time": "2026-01-21T09:18:08.243444",
+  "package_url": "https://pypi.org/project/nacos-client-gd/"
+}

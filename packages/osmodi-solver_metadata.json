@@ -1,0 +1,11 @@
+{
+  "name": "osmodi-solver",
+  "version": "0.1.0",
+  "summary": "GPU-accelerated Poisson solver for ODI/MODI pressure integration",
+  "author": "Sohail",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osmodi_solver-0.1.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-01-21T09:18:04.098739",
+  "package_url": "https://pypi.org/project/osmodi-solver/"
+}

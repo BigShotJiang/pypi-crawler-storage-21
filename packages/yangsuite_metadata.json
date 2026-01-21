@@ -1,0 +1,11 @@
+{
+  "name": "yangsuite",
+  "version": "3.0.9",
+  "summary": "YANG module tooling (RFC 7950).",
+  "author": "YANG Suite development team",
+  "license": "Cisco General Terms",
+  "home_page": "https://developer.cisco.com",
+  "download_filename": "yangsuite-3.0.9-py3-none-any.whl",
+  "download_time": "2026-01-21T09:17:45.950437",
+  "package_url": "https://pypi.org/project/yangsuite/"
+}

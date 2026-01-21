@@ -1,0 +1,11 @@
+{
+  "name": "qualesim-sisq",
+  "version": "1.1.0",
+  "summary": "QuaLeSim frontend for SISQ.",
+  "author": "Dingdong Liu",
+  "license": "GPLv3",
+  "home_page": "https://gitee.com/hpcl_quanta/dqcsim-sisq.git",
+  "download_filename": "qualesim_sisq-1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-21T09:18:02.518814",
+  "package_url": "https://pypi.org/project/qualesim-sisq/"
+}

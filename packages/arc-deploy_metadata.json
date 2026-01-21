@@ -1,11 +1,11 @@
 {
   "name": "arc-deploy",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Unified deployment CLI tool for Docker Swarm with monorepo support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arc_deploy-0.1.10.tar.gz",
-  "download_time": "2026-01-21T07:45:32.522235",
+  "download_filename": "arc_deploy-0.1.11.tar.gz",
+  "download_time": "2026-01-21T09:17:45.333583",
   "package_url": "https://pypi.org/project/arc-deploy/"
 }

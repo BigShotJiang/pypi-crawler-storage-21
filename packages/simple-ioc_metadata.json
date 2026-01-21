@@ -1,0 +1,11 @@
+{
+  "name": "simple-ioc",
+  "version": "3.1",
+  "summary": "A lightweight library with an implementation of IoC",
+  "author": "Isagri S.L.U.",
+  "license": "GPLv3",
+  "home_page": "https://github.com/agroptima/simple-ioc",
+  "download_filename": "simple_ioc-3.1.tar.gz",
+  "download_time": "2026-01-21T09:18:14.012539",
+  "package_url": "https://pypi.org/project/simple-ioc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hotsos",
+  "version": "1.20.post61",
+  "summary": "Software analysis toolkit. Define checks in high-level language and leverage library to perform analysis of common Cloud applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hotsos-1.20.post61.tar.gz",
+  "download_time": "2026-01-21T09:18:15.086878",
+  "package_url": "https://pypi.org/project/hotsos/"
+}
