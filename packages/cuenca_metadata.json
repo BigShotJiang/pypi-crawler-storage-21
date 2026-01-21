@@ -1,0 +1,11 @@
+{
+  "name": "cuenca",
+  "version": "2.1.15",
+  "summary": "Cuenca API Client",
+  "author": "Cuenca",
+  "license": null,
+  "home_page": "https://github.com/cuenca-mx/cuenca-python",
+  "download_filename": "cuenca-2.1.15.tar.gz",
+  "download_time": "2026-01-21T23:51:27.405422",
+  "package_url": "https://pypi.org/project/cuenca/"
+}

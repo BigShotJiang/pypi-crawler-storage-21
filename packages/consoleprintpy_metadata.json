@@ -1,0 +1,11 @@
+{
+  "name": "consoleprintpy",
+  "version": "0.1.1",
+  "summary": "JS-like console logging for Python with colors and styles",
+  "author": "Yurigabriel6",
+  "license": null,
+  "home_page": null,
+  "download_filename": "consoleprintpy-0.1.1.tar.gz",
+  "download_time": "2026-01-21T23:50:45.386685",
+  "package_url": "https://pypi.org/project/consoleprintpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diary-md",
+  "version": "0.1.1",
+  "summary": "Tools for managing markdown-based diary entries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diary_md-0.1.1.tar.gz",
+  "download_time": "2026-01-21T23:51:22.723094",
+  "package_url": "https://pypi.org/project/diary-md/"
+}

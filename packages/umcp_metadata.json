@@ -1,0 +1,11 @@
+{
+  "name": "umcp",
+  "version": "1.4.0",
+  "summary": "Universal Measurement Contract Protocol (UMCP): Interconnected contract-first validation framework with GCD and RCFT. Core Axiom: What Returns Through Collapse Is Real. Features bidirectional cross-references, closure registries, and full reproducibility.",
+  "author": "Clement Paulus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "umcp-1.4.0.tar.gz",
+  "download_time": "2026-01-21T23:51:02.746102",
+  "package_url": "https://pypi.org/project/umcp/"
+}

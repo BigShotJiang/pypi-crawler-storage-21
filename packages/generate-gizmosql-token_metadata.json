@@ -1,0 +1,11 @@
+{
+  "name": "generate-gizmosql-token",
+  "version": "0.0.12",
+  "summary": "A package which generates a GizmoSQL token (JWT) for auth testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "generate_gizmosql_token-0.0.12.tar.gz",
+  "download_time": "2026-01-21T23:50:57.528348",
+  "package_url": "https://pypi.org/project/generate-gizmosql-token/"
+}

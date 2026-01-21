@@ -1,11 +1,11 @@
 {
   "name": "jax-envelope",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A JAX-native environment interface with powerful wrappers and adapters for popular RL environment suites",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jax_envelope-0.1.0.tar.gz",
-  "download_time": "2026-01-21T22:27:37.744998",
+  "download_filename": "jax_envelope-0.1.1.tar.gz",
+  "download_time": "2026-01-21T23:51:15.249013",
   "package_url": "https://pypi.org/project/jax-envelope/"
 }

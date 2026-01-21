@@ -1,11 +1,11 @@
 {
   "name": "snail-orbit-client",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "Type-safe Python client for Snail Orbit project management system with read operations and issue management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snail_orbit_client-0.11.0-py3-none-any.whl",
-  "download_time": "2026-01-20T05:17:56.599165",
+  "download_filename": "snail_orbit_client-0.11.1-py3-none-any.whl",
+  "download_time": "2026-01-21T23:50:51.268593",
   "package_url": "https://pypi.org/project/snail-orbit-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pySMARTS",
+  "version": "0.0.2",
+  "summary": "Python wrapper for SMARTS2, Simple Model of the Atmospheric Radiative Transfer of Sunshine",
+  "author": "Silvana Ovaitt",
+  "license": "BSD-3",
+  "home_page": "https://github.com/NREL/pySMARTS",
+  "download_filename": "pysmarts-0.0.2.tar.gz",
+  "download_time": "2026-01-21T23:50:58.039272",
+  "package_url": "https://pypi.org/project/pySMARTS/"
+}
