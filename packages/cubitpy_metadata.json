@@ -1,0 +1,11 @@
+{
+  "name": "cubitpy",
+  "version": "0.1.1",
+  "summary": "CubitPy: Utility functions and 4C related functionality for the Cubit and Coreform python interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cubitpy-0.1.1.tar.gz",
+  "download_time": "2026-01-21T09:56:19.815739",
+  "package_url": "https://pypi.org/project/cubitpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ddoscoo20200101",
+  "version": "3.2.2",
+  "summary": "Alibaba Cloud ddoscoo (20200101) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ddoscoo20200101-3.2.2.tar.gz",
+  "download_time": "2026-01-21T09:56:17.753096",
+  "package_url": "https://pypi.org/project/alibabacloud-ddoscoo20200101/"
+}

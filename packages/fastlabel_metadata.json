@@ -1,0 +1,11 @@
+{
+  "name": "fastlabel",
+  "version": "0.19.10",
+  "summary": "The official Python SDK for FastLabel API, the Data Platform for AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastlabel-0.19.10.tar.gz",
+  "download_time": "2026-01-21T09:56:27.251349",
+  "package_url": "https://pypi.org/project/fastlabel/"
+}

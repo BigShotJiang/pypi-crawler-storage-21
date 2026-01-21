@@ -1,0 +1,11 @@
+{
+  "name": "pyzlbus2",
+  "version": "0.1.8",
+  "summary": "ZeroLab Bus API for Python",
+  "author": "ZeroLab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyzlbus2-0.1.8-py3-none-any.whl",
+  "download_time": "2026-01-21T09:55:48.877677",
+  "package_url": "https://pypi.org/project/pyzlbus2/"
+}

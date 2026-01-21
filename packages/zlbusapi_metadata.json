@@ -1,0 +1,11 @@
+{
+  "name": "zlbusapi",
+  "version": "0.5.7",
+  "summary": "ZeroLab Bus API for Python",
+  "author": "ZeroLab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zlbusapi-0.5.7-py3-none-any.whl",
+  "download_time": "2026-01-21T09:56:06.163570",
+  "package_url": "https://pypi.org/project/zlbusapi/"
+}
