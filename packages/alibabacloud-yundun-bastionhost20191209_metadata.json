@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-yundun-bastionhost20191209",
+  "version": "1.4.2",
+  "summary": "Alibaba Cloud Yundun-bastionhost (20191209) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_yundun_bastionhost20191209-1.4.2.tar.gz",
+  "download_time": "2026-01-21T17:56:18.171292",
+  "package_url": "https://pypi.org/project/alibabacloud-yundun-bastionhost20191209/"
+}

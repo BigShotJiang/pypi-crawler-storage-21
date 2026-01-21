@@ -1,0 +1,11 @@
+{
+  "name": "explodethosebits",
+  "version": "0.2.8",
+  "summary": "ExplodeThoseBits - CUDA-accelerated exhaustive bit tree analysis",
+  "author": "Odin Glynn-Martin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "explodethosebits-0.2.8.tar.gz",
+  "download_time": "2026-01-21T17:55:47.891208",
+  "package_url": "https://pypi.org/project/explodethosebits/"
+}

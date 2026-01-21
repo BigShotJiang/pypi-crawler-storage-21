@@ -1,11 +1,11 @@
 {
   "name": "vnai",
-  "version": "2.3.6",
+  "version": "2.3.9",
   "summary": "Vnstock Analytics Interface",
   "author": null,
   "license": "proprietary",
   "home_page": null,
-  "download_filename": "vnai-2.3.6.tar.gz",
-  "download_time": "2026-01-21T14:33:35.807853",
+  "download_filename": "vnai-2.3.9.tar.gz",
+  "download_time": "2026-01-21T17:56:01.416531",
   "package_url": "https://pypi.org/project/vnai/"
 }

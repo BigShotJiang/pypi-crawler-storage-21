@@ -1,0 +1,11 @@
+{
+  "name": "nzshm-hazlab",
+  "version": "0.1.1",
+  "summary": "A laboratory for exploring hazard models",
+  "author": "Chris DiCaprio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nzshm_hazlab-0.1.1.tar.gz",
+  "download_time": "2026-01-21T17:56:03.017338",
+  "package_url": "https://pypi.org/project/nzshm-hazlab/"
+}

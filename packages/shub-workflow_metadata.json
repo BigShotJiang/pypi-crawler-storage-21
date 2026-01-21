@@ -1,0 +1,11 @@
+{
+  "name": "shub-workflow",
+  "version": "1.14.31.1",
+  "summary": "Workflow manager for Zyte ScrapyCloud tasks.",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/scrapinghub/shub-workflow",
+  "download_filename": "shub_workflow-1.14.31.1.tar.gz",
+  "download_time": "2026-01-21T17:55:48.919009",
+  "package_url": "https://pypi.org/project/shub-workflow/"
+}

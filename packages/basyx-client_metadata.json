@@ -1,0 +1,11 @@
+{
+  "name": "basyx-client",
+  "version": "0.1.4",
+  "summary": "High-level HTTP client for the AAS Part 2 API v3.x",
+  "author": "BaSyx Community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "basyx_client-0.1.4.tar.gz",
+  "download_time": "2026-01-21T17:56:32.331017",
+  "package_url": "https://pypi.org/project/basyx-client/"
+}

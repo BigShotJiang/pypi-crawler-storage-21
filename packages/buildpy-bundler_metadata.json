@@ -1,11 +1,11 @@
 {
   "name": "buildpy-bundler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Build a minimal, bespoke CPython runtime from source with size reduction, static linking, and a zipped standard library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buildpy_bundler-0.1.0.tar.gz",
-  "download_time": "2026-01-21T11:38:21.683442",
+  "download_filename": "buildpy_bundler-0.1.1.tar.gz",
+  "download_time": "2026-01-21T17:56:04.574539",
   "package_url": "https://pypi.org/project/buildpy-bundler/"
 }

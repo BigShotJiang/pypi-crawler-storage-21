@@ -1,0 +1,11 @@
+{
+  "name": "flyteplugins-ray",
+  "version": "2.0.0b49",
+  "summary": "Ray plugin for flyte",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flyteplugins_ray-2.0.0b49-py3-none-any.whl",
+  "download_time": "2026-01-21T17:55:56.188711",
+  "package_url": "https://pypi.org/project/flyteplugins-ray/"
+}

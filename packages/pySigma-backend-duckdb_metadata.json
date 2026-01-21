@@ -1,0 +1,11 @@
+{
+  "name": "pySigma-backend-duckdb",
+  "version": "0.1.2",
+  "summary": "pySigma DuckDB backend for local Sigma rule validation against JSON logs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysigma_backend_duckdb-0.1.2.tar.gz",
+  "download_time": "2026-01-21T17:55:57.220495",
+  "package_url": "https://pypi.org/project/pySigma-backend-duckdb/"
+}

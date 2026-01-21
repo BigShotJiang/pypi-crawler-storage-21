@@ -1,0 +1,11 @@
+{
+  "name": "aloeschema",
+  "version": "0.1.0",
+  "summary": "AloeSchema is a simple schema.org accessor and validator that allows custom types and properties",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aloeschema-0.1.0.tar.gz",
+  "download_time": "2026-01-21T17:56:16.074078",
+  "package_url": "https://pypi.org/project/aloeschema/"
+}
