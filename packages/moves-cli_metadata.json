@@ -1,0 +1,11 @@
+{
+  "name": "moves-cli",
+  "version": "0.3.1",
+  "summary": "Presentation control, reimagined.",
+  "author": "mdonmez",
+  "license": "GNU General Public License v3.0",
+  "home_page": null,
+  "download_filename": "moves_cli-0.3.1.tar.gz",
+  "download_time": "2026-01-21T23:28:06.329392",
+  "package_url": "https://pypi.org/project/moves-cli/"
+}

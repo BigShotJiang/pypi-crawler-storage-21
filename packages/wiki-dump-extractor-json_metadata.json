@@ -1,0 +1,11 @@
+{
+  "name": "wiki-dump-extractor-json",
+  "version": "1.0.3",
+  "summary": "An efficient Wikipedia XML dump extractor which converts each page to JSON.",
+  "author": "ekcbw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wiki_dump_extractor_json-1.0.3.tar.gz",
+  "download_time": "2026-01-21T23:28:08.195407",
+  "package_url": "https://pypi.org/project/wiki-dump-extractor-json/"
+}

@@ -1,8 +1,17 @@
 {
-  "download_time": "2026-01-21T22:55:47.263488",
+  "download_time": "2026-01-21T23:28:59.761320",
   "total_packages_downloaded": 88,
-  "total_size_mb": 42.06,
+  "total_size_mb": 4.01,
   "packages": [
+    "py-grama",
+    "moves-cli",
+    "readsql",
+    "wiki-dump-extractor-json",
+    "vector-inspector",
+    "pedre",
+    "satori-ci",
+    "verity-audit",
+    "cade-cli",
     "ai-skillforge",
     "continual-foragax",
     "openhands-tools",
@@ -81,15 +90,6 @@
     "yallhap",
     "flet-desktop-light",
     "lazyscribe-arrow",
-    "lazyscribe-joblib",
-    "flet-desktop",
-    "libcbm",
-    "flet-cli",
-    "flet",
-    "unishell",
-    "ai-agent-rules",
-    "lazyscribe-onnx",
-    "meta-edc",
-    "feagi-bv"
+    "lazyscribe-joblib"
   ]
 }

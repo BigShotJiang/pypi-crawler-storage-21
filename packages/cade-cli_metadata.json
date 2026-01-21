@@ -1,0 +1,11 @@
+{
+  "name": "cade-cli",
+  "version": "0.3.3",
+  "summary": "Cade - The CLI Agent from Arcade.dev",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cade_cli-0.3.3.tar.gz",
+  "download_time": "2026-01-21T23:28:11.459582",
+  "package_url": "https://pypi.org/project/cade-cli/"
+}

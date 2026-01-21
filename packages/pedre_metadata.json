@@ -1,0 +1,11 @@
+{
+  "name": "pedre",
+  "version": "0.0.4",
+  "summary": "A Python RPG framework built on Arcade with seamless Tiled map editor integration",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pedre-0.0.4.tar.gz",
+  "download_time": "2026-01-21T23:28:09.492535",
+  "package_url": "https://pypi.org/project/pedre/"
+}

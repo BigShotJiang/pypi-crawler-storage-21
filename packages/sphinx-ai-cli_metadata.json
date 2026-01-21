@@ -1,11 +1,11 @@
 {
   "name": "sphinx-ai-cli",
-  "version": "0.9.12",
+  "version": "0.9.13",
   "summary": "CLI for Sphinx AI",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "sphinx_ai_cli-0.9.12.tar.gz",
-  "download_time": "2026-01-21T22:55:14.643823",
+  "download_filename": "sphinx_ai_cli-0.9.13.tar.gz",
+  "download_time": "2026-01-21T23:28:29.126812",
   "package_url": "https://pypi.org/project/sphinx-ai-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "py-grama",
+  "version": "0.3.8",
+  "summary": "A grammar of model analysis",
+  "author": "Zachary del Rosario",
+  "license": "MIT",
+  "home_page": "https://github.com/zdelrosario/py_grama",
+  "download_filename": "py_grama-0.3.8.tar.gz",
+  "download_time": "2026-01-21T23:28:05.685397",
+  "package_url": "https://pypi.org/project/py-grama/"
+}
