@@ -1,11 +1,11 @@
 {
   "name": "memrun",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Serverless data platform SDK and CLI for Hetzner Cloud",
   "author": "Julian Mulla",
   "license": null,
   "home_page": null,
-  "download_filename": "memrun-0.1.0.tar.gz",
-  "download_time": "2026-01-21T15:50:31.136432",
+  "download_filename": "memrun-0.1.2.tar.gz",
+  "download_time": "2026-01-21T21:04:28.604974",
   "package_url": "https://pypi.org/project/memrun/"
 }

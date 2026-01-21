@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-config",
+  "version": "1.42.32",
+  "summary": "Type annotations for boto3 ConfigService 1.42.32 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_boto3_config-1.42.32.tar.gz",
+  "download_time": "2026-01-21T21:04:46.530256",
+  "package_url": "https://pypi.org/project/types-boto3-config/"
+}

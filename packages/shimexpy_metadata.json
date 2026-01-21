@@ -1,0 +1,11 @@
+{
+  "name": "shimexpy",
+  "version": "0.1.0",
+  "summary": "Spatial Harmonic Imaging and mesh-based X-ray multicontrast imaging in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shimexpy-0.1.0.tar.gz",
+  "download_time": "2026-01-21T21:04:18.489454",
+  "package_url": "https://pypi.org/project/shimexpy/"
+}

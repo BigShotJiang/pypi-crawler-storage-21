@@ -1,0 +1,11 @@
+{
+  "name": "TARDIS-Spectrum-Filtering",
+  "version": "1.0",
+  "summary": null,
+  "author": "Clyde Watson",
+  "license": null,
+  "home_page": "https://github.com/ClydeME/spectra_filtering",
+  "download_filename": "tardis_spectrum_filtering-1.0.tar.gz",
+  "download_time": "2026-01-21T21:04:29.119460",
+  "package_url": "https://pypi.org/project/TARDIS-Spectrum-Filtering/"
+}

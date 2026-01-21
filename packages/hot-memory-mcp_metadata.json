@@ -1,11 +1,11 @@
 {
   "name": "hot-memory-mcp",
-  "version": "0.4.0",
+  "version": "0.4.4",
   "summary": "Engram-inspired memory MCP server with hot cache and pattern mining",
   "author": "Memory MCP Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "hot_memory_mcp-0.4.0.tar.gz",
-  "download_time": "2026-01-21T03:46:03.567729",
+  "download_filename": "hot_memory_mcp-0.4.4.tar.gz",
+  "download_time": "2026-01-21T21:04:49.733023",
   "package_url": "https://pypi.org/project/hot-memory-mcp/"
 }
