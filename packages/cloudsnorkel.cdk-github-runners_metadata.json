@@ -1,11 +1,11 @@
 {
   "name": "cloudsnorkel.cdk-github-runners",
-  "version": "0.14.21",
+  "version": "0.14.22",
   "summary": "CDK construct to create GitHub Actions self-hosted runners. Creates ephemeral runners on demand. Easy to deploy and highly customizable.",
   "author": "Amir Szekely<amir@cloudsnorkel.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/CloudSnorkel/cdk-github-runners.git",
-  "download_filename": "cloudsnorkel_cdk_github_runners-0.14.21.tar.gz",
-  "download_time": "2026-01-19T23:22:24.502487",
+  "download_filename": "cloudsnorkel_cdk_github_runners-0.14.22.tar.gz",
+  "download_time": "2026-01-22T12:54:09.228125",
   "package_url": "https://pypi.org/project/cloudsnorkel.cdk-github-runners/"
 }

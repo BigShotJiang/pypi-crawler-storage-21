@@ -1,0 +1,11 @@
+{
+  "name": "pyntcli",
+  "version": "0.1.123",
+  "summary": "Command line utility to handle all of Pynt's different integrations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyntcli-0.1.123-py3-none-any.whl",
+  "download_time": "2026-01-22T12:53:54.962277",
+  "package_url": "https://pypi.org/project/pyntcli/"
+}

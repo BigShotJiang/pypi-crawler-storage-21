@@ -1,0 +1,11 @@
+{
+  "name": "clims",
+  "version": "0.7.5",
+  "summary": "Command-Line Interface for Materials Simulations",
+  "author": "FHI-aims developers",
+  "license": "LGPLv2.1+",
+  "home_page": "https://gitlab.com/FHI-aims-club/utilities/clims",
+  "download_filename": "clims-0.7.5.tar.gz",
+  "download_time": "2026-01-22T12:53:56.115248",
+  "package_url": "https://pypi.org/project/clims/"
+}

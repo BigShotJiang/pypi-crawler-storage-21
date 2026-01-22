@@ -1,0 +1,11 @@
+{
+  "name": "icloud-recovery",
+  "version": "0.1.2",
+  "summary": "iCloud recovery and device management library for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "icloud_recovery-0.1.2.tar.gz",
+  "download_time": "2026-01-22T12:53:52.644423",
+  "package_url": "https://pypi.org/project/icloud-recovery/"
+}

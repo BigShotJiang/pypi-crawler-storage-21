@@ -1,11 +1,11 @@
 {
   "name": "cybertron-spark",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Automação do Zendesk com Selenium, Zenpy e integração Cybertron",
   "author": "Gustavo Sartorio",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cybertron_spark-0.1.3.tar.gz",
-  "download_time": "2026-01-20T11:29:06.457321",
+  "download_filename": "cybertron_spark-0.1.4.tar.gz",
+  "download_time": "2026-01-22T12:54:22.362450",
   "package_url": "https://pypi.org/project/cybertron-spark/"
 }

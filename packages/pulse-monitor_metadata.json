@@ -1,0 +1,11 @@
+{
+  "name": "pulse-monitor",
+  "version": "0.3.0",
+  "summary": "A cinematic terminal-based system monitor with Direct OS optimization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pulse_monitor-0.3.0.tar.gz",
+  "download_time": "2026-01-22T12:53:52.069882",
+  "package_url": "https://pypi.org/project/pulse-monitor/"
+}
