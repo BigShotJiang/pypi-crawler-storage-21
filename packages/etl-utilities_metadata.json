@@ -1,11 +1,11 @@
 {
   "name": "etl-utilities",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "summary": "This repository provides a collection of utility functions and classes for data cleaning, SQL query generation, and data analysis. The code is written in Python and uses libraries such as `pandas`, `numpy`, and `dateutil`.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "etl_utilities-1.1.11.tar.gz",
-  "download_time": "2026-01-21T17:56:12.968101",
+  "download_filename": "etl_utilities-1.1.12.tar.gz",
+  "download_time": "2026-01-22T15:04:30.957869",
   "package_url": "https://pypi.org/project/etl-utilities/"
 }

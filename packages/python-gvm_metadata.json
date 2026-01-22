@@ -1,0 +1,11 @@
+{
+  "name": "python-gvm",
+  "version": "26.9.1",
+  "summary": "Library to communicate with remote servers over GMP or OSP",
+  "author": "Greenbone AG",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "python_gvm-26.9.1.tar.gz",
+  "download_time": "2026-01-22T15:03:59.846137",
+  "package_url": "https://pypi.org/project/python-gvm/"
+}

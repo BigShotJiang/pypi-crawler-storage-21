@@ -1,11 +1,11 @@
 {
   "name": "aio-fairshare",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Async fair-share semaphore for multi-tenant resource management",
-  "author": null,
-  "license": null,
+  "author": "Rodion Prodaivoda",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "aio_fairshare-0.1.0.tar.gz",
-  "download_time": "2026-01-21T13:48:40.104754",
+  "download_filename": "aio_fairshare-0.2.0.tar.gz",
+  "download_time": "2026-01-22T15:04:11.262508",
   "package_url": "https://pypi.org/project/aio-fairshare/"
 }

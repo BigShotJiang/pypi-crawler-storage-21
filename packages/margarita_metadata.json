@@ -1,0 +1,11 @@
+{
+  "name": "margarita",
+  "version": "0.1.0",
+  "summary": "A lightweight markup language and Python library for writing, composing, and rendering structured LLM prompts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "margarita-0.1.0.tar.gz",
+  "download_time": "2026-01-22T15:04:13.838183",
+  "package_url": "https://pypi.org/project/margarita/"
+}

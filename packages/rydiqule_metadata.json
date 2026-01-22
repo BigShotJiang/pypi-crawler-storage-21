@@ -1,0 +1,11 @@
+{
+  "name": "rydiqule",
+  "version": "2.1.2",
+  "summary": "Rydberg Sensor Interactive Quantum Physics Module",
+  "author": "ARL and NAWCWD",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rydiqule-2.1.2.tar.gz",
+  "download_time": "2026-01-22T15:04:44.013927",
+  "package_url": "https://pypi.org/project/rydiqule/"
+}

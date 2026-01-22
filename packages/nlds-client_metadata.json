@@ -1,0 +1,11 @@
+{
+  "name": "nlds-client",
+  "version": "1.0.17",
+  "summary": "Client library and command line tool for the Near Line Data Store (NLDS).",
+  "author": "Neil Massey",
+  "license": null,
+  "home_page": "http://www.ceda.ac.uk/",
+  "download_filename": "nlds_client-1.0.17.tar.gz",
+  "download_time": "2026-01-22T15:04:05.562527",
+  "package_url": "https://pypi.org/project/nlds-client/"
+}

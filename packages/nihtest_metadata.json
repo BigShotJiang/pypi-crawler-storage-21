@@ -1,0 +1,11 @@
+{
+  "name": "nihtest",
+  "version": "1.10.1",
+  "summary": "A testing tool for command line utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nihtest-1.10.1.tar.gz",
+  "download_time": "2026-01-22T15:04:36.707325",
+  "package_url": "https://pypi.org/project/nihtest/"
+}

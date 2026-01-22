@@ -1,0 +1,11 @@
+{
+  "name": "llmterface",
+  "version": "0.2.2",
+  "summary": "Intentionally Simple. Generic LLM interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmterface-0.2.2.tar.gz",
+  "download_time": "2026-01-22T15:04:15.393228",
+  "package_url": "https://pypi.org/project/llmterface/"
+}

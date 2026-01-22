@@ -1,0 +1,11 @@
+{
+  "name": "abn-lookup-service",
+  "version": "0.1.1",
+  "summary": "A python client to interact with ABN Lookup services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abn_lookup_service-0.1.1.tar.gz",
+  "download_time": "2026-01-22T15:04:01.963045",
+  "package_url": "https://pypi.org/project/abn-lookup-service/"
+}
