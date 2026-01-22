@@ -1,0 +1,11 @@
+{
+  "name": "fcmaes",
+  "version": "1.6.12",
+  "summary": "A Python 3 gradient-free optimization library.",
+  "author": "Dietmar Wolz",
+  "license": "MIT",
+  "home_page": "https://github.com/dietmarwo/fast-cma-es",
+  "download_filename": "fcmaes-1.6.12.tar.gz",
+  "download_time": "2026-01-22T17:17:33.521778",
+  "package_url": "https://pypi.org/project/fcmaes/"
+}

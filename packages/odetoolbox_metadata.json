@@ -1,0 +1,11 @@
+{
+  "name": "odetoolbox",
+  "version": "2.5.12",
+  "summary": "ODE-toolbox: Automatic selection and generation of integration schemes for systems of ordinary differential equations",
+  "author": "The NEST Initiative",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://github.com/nest/ode-toolbox",
+  "download_filename": "odetoolbox-2.5.12.tar.gz",
+  "download_time": "2026-01-22T17:17:22.434732",
+  "package_url": "https://pypi.org/project/odetoolbox/"
+}

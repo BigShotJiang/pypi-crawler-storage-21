@@ -1,11 +1,11 @@
 {
   "name": "vector-inspector",
-  "version": "0.2.4.3",
+  "version": "0.2.6",
   "summary": "A comprehensive desktop application for visualizing, querying, and managing vector database data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vector_inspector-0.2.4.3.tar.gz",
-  "download_time": "2026-01-21T23:28:08.843165",
+  "download_filename": "vector_inspector-0.2.6.tar.gz",
+  "download_time": "2026-01-22T17:17:42.874579",
   "package_url": "https://pypi.org/project/vector-inspector/"
 }

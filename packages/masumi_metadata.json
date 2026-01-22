@@ -1,0 +1,11 @@
+{
+  "name": "masumi",
+  "version": "1.0.0",
+  "summary": "Masumi Payment Module for Cardano blockchain integration",
+  "author": "Patrick Tobler",
+  "license": null,
+  "home_page": "https://github.com/masumi-network/masumi",
+  "download_filename": "masumi-1.0.0.tar.gz",
+  "download_time": "2026-01-22T17:16:59.531757",
+  "package_url": "https://pypi.org/project/masumi/"
+}

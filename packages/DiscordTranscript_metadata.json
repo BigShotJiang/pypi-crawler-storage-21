@@ -1,0 +1,11 @@
+{
+  "name": "DiscordTranscript",
+  "version": "1.3.0",
+  "summary": "A Discord chat exporter that is easy to use and customizable. // Un exporteur de chat Discord facile à utiliser et personnalisable.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discordtranscript-1.3.0.tar.gz",
+  "download_time": "2026-01-22T17:17:23.465507",
+  "package_url": "https://pypi.org/project/DiscordTranscript/"
+}

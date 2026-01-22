@@ -1,0 +1,11 @@
+{
+  "name": "cc-ai-tracker",
+  "version": "0.2.0",
+  "summary": "Track AI-generated vs human-made code changes in git repos",
+  "author": "desplega-ai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cc_ai_tracker-0.2.0.tar.gz",
+  "download_time": "2026-01-22T17:17:03.623123",
+  "package_url": "https://pypi.org/project/cc-ai-tracker/"
+}

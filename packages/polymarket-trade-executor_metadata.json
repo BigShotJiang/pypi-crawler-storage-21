@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-trade-executor",
+  "version": "0.1.2",
+  "summary": "Trade executor for Polymarket CLOB API - supports orders, split, merge, redeem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polymarket_trade_executor-0.1.2.tar.gz",
+  "download_time": "2026-01-22T17:16:55.434340",
+  "package_url": "https://pypi.org/project/polymarket-trade-executor/"
+}

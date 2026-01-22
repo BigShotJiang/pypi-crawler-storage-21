@@ -1,0 +1,11 @@
+{
+  "name": "ensembledata",
+  "version": "0.2.11",
+  "summary": "Python bindings for the EnsembleData API",
+  "author": null,
+  "license": "LICENCE",
+  "home_page": null,
+  "download_filename": "ensembledata-0.2.11.tar.gz",
+  "download_time": "2026-01-22T17:17:40.825613",
+  "package_url": "https://pypi.org/project/ensembledata/"
+}

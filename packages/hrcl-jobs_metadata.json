@@ -1,0 +1,11 @@
+{
+  "name": "hrcl-jobs",
+  "version": "1.8.2",
+  "summary": "Runs python functions on worker threads with main thread communicating with sql/postgresql db",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hrcl_jobs-1.8.2.tar.gz",
+  "download_time": "2026-01-22T17:17:32.454945",
+  "package_url": "https://pypi.org/project/hrcl-jobs/"
+}

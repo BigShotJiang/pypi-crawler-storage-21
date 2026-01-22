@@ -1,0 +1,11 @@
+{
+  "name": "StreamingCommunity",
+  "version": "1.0.3",
+  "summary": "Download content from streaming platforms",
+  "author": "Arrowar",
+  "license": null,
+  "home_page": "https://github.com/Arrowar/StreamingCommunity",
+  "download_filename": "streamingcommunity-1.0.3.tar.gz",
+  "download_time": "2026-01-22T17:17:00.044853",
+  "package_url": "https://pypi.org/project/StreamingCommunity/"
+}

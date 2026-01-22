@@ -1,0 +1,11 @@
+{
+  "name": "dataset-profiler",
+  "version": "2.1.0",
+  "summary": "Data profiling tool for CSV and Excel files with cross-table relationship detection",
+  "author": "HelloPareto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dataset_profiler-2.1.0.tar.gz",
+  "download_time": "2026-01-22T17:16:54.919715",
+  "package_url": "https://pypi.org/project/dataset-profiler/"
+}

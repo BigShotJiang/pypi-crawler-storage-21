@@ -1,0 +1,11 @@
+{
+  "name": "datasette-llm",
+  "version": "0.1a0",
+  "summary": "LLM integration for Datasette",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_llm-0.1a0.tar.gz",
+  "download_time": "2026-01-22T17:17:10.498599",
+  "package_url": "https://pypi.org/project/datasette-llm/"
+}
