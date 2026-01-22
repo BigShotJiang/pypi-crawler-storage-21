@@ -1,0 +1,11 @@
+{
+  "name": "fair",
+  "version": "2.2.4",
+  "summary": "Finite-amplitude Impulse Response (FaIR) simple climate model",
+  "author": "Chris Smith, Nicholas Leach, Stuart Jenkins, Richard Millar, Zeb Nicholls, Myles Allen",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/OMS-NetZero/FAIR",
+  "download_filename": "fair-2.2.4.tar.gz",
+  "download_time": "2026-01-22T18:36:38.432793",
+  "package_url": "https://pypi.org/project/fair/"
+}

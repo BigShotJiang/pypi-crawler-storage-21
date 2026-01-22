@@ -1,0 +1,11 @@
+{
+  "name": "gitlab2md",
+  "version": "0.1.0",
+  "summary": "Convert GitLab profile data to Markdown for LLM analysis",
+  "author": null,
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "gitlab2md-0.1.0.tar.gz",
+  "download_time": "2026-01-22T18:36:39.083433",
+  "package_url": "https://pypi.org/project/gitlab2md/"
+}

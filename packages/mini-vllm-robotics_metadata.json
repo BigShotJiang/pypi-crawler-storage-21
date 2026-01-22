@@ -1,0 +1,11 @@
+{
+  "name": "mini-vllm-robotics",
+  "version": "0.1.1",
+  "summary": "Portable LLM inference engine for robotics - Token-Routed MoE only",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mini_vllm_robotics-0.1.1.tar.gz",
+  "download_time": "2026-01-22T18:36:26.791670",
+  "package_url": "https://pypi.org/project/mini-vllm-robotics/"
+}
