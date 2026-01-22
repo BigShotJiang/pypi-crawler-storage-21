@@ -1,0 +1,11 @@
+{
+  "name": "PennyLane-qiskit",
+  "version": "0.44.1",
+  "summary": "PennyLane plugin for Qiskit",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/XanaduAI/pennylane-qiskit",
+  "download_filename": "pennylane_qiskit-0.44.1-py3-none-any.whl",
+  "download_time": "2026-01-22T23:45:53.615072",
+  "package_url": "https://pypi.org/project/PennyLane-qiskit/"
+}

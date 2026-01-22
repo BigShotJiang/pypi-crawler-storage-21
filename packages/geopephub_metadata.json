@@ -1,0 +1,11 @@
+{
+  "name": "geopephub",
+  "version": "0.1.1",
+  "summary": "Pipeline for processing GEO data and uploading it to the PEPHub",
+  "author": "Oleksandr Khoroshevskyi",
+  "license": "BSD-2-Clause license",
+  "home_page": null,
+  "download_filename": "geopephub-0.1.1.tar.gz",
+  "download_time": "2026-01-22T23:45:51.664344",
+  "package_url": "https://pypi.org/project/geopephub/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rsadpy",
-  "version": "0.9.3",
+  "version": "0.10.0",
   "summary": "Robust Angular Diameters in Python: an angular diameter fitting routine for multi-wavelength interferometric data",
   "author": "Ashley Elliott",
   "license": "GPL-3.0",
   "home_page": "https://github.com/spaceashley/radpy.git",
-  "download_filename": "rsadpy-0.9.3.tar.gz",
-  "download_time": "2026-01-21T22:55:15.156967",
+  "download_filename": "rsadpy-0.10.0.tar.gz",
+  "download_time": "2026-01-22T23:45:06.716270",
   "package_url": "https://pypi.org/project/rsadpy/"
 }

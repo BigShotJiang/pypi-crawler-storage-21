@@ -1,0 +1,11 @@
+{
+  "name": "leancert",
+  "version": "0.3.0",
+  "summary": "Formal verification for numerical Python code - powered by Lean4",
+  "author": "LeanCert Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "leancert-0.3.0.tar.gz",
+  "download_time": "2026-01-22T23:45:12.456229",
+  "package_url": "https://pypi.org/project/leancert/"
+}

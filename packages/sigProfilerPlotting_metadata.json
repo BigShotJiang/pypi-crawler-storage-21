@@ -1,0 +1,11 @@
+{
+  "name": "sigProfilerPlotting",
+  "version": "1.4.3",
+  "summary": "SigProfiler plotting tool",
+  "author": "Erik Bergstrom",
+  "license": "UCSD",
+  "home_page": "https://github.com/alexandrovlab/SigProfilerPlotting",
+  "download_filename": "sigprofilerplotting-1.4.3.tar.gz",
+  "download_time": "2026-01-22T23:46:05.171695",
+  "package_url": "https://pypi.org/project/sigProfilerPlotting/"
+}
