@@ -1,11 +1,11 @@
 {
   "name": "ncolor",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "label matrix coloring algorithm",
   "author": "Kevin Cutler",
   "license": "BSD",
   "home_page": "https://github.com/kevinjohncutler/ncolor",
-  "download_filename": "ncolor-1.5.2.tar.gz",
-  "download_time": "2026-01-21T08:44:45.253075",
+  "download_filename": "ncolor-1.5.3.tar.gz",
+  "download_time": "2026-01-22T05:56:09.673337",
   "package_url": "https://pypi.org/project/ncolor/"
 }

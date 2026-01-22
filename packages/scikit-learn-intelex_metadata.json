@@ -1,0 +1,11 @@
+{
+  "name": "scikit-learn-intelex",
+  "version": "2025.10.1",
+  "summary": "Intel® Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application.",
+  "author": "Intel Corporation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/intel/scikit-learn-intelex",
+  "download_filename": "scikit_learn_intelex-2025.10.1-py310-none-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-22T05:56:21.623179",
+  "package_url": "https://pypi.org/project/scikit-learn-intelex/"
+}

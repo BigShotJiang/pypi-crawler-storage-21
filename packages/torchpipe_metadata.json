@@ -1,0 +1,11 @@
+{
+  "name": "torchpipe",
+  "version": "0.1.20",
+  "summary": "Serving inside Pytorch",
+  "author": "torchpipe team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "torchpipe-0.1.20-py3-none-any.whl",
+  "download_time": "2026-01-22T05:56:21.073512",
+  "package_url": "https://pypi.org/project/torchpipe/"
+}

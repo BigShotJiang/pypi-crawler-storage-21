@@ -1,0 +1,11 @@
+{
+  "name": "human-attestation",
+  "version": "0.3.0",
+  "summary": "Official SDK for HAP (Human Attestation Protocol) - cryptographic proof of verified human effort",
+  "author": "BlueScroll Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "human_attestation-0.3.0.tar.gz",
+  "download_time": "2026-01-22T05:55:56.518123",
+  "package_url": "https://pypi.org/project/human-attestation/"
+}

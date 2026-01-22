@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-agents",
+  "version": "0.1.2",
+  "summary": "Multi-agent orchestration CLI for Hanzo AI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hanzo_agents-0.1.2.tar.gz",
+  "download_time": "2026-01-22T05:55:58.619313",
+  "package_url": "https://pypi.org/project/hanzo-agents/"
+}

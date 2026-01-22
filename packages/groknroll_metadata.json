@@ -1,11 +1,11 @@
 {
   "name": "groknroll",
-  "version": "2.2.31",
+  "version": "2.2.33",
   "summary": "groknroll - CLI coding agent with unlimited context via Recursive Language Models (RLM). Local, unlimited context, autonomous.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "groknroll-2.2.31.tar.gz",
-  "download_time": "2026-01-22T05:30:35.237408",
+  "download_filename": "groknroll-2.2.33.tar.gz",
+  "download_time": "2026-01-22T05:55:54.844077",
   "package_url": "https://pypi.org/project/groknroll/"
 }

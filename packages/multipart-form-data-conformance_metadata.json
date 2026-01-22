@@ -1,0 +1,11 @@
+{
+  "name": "multipart-form-data-conformance",
+  "version": "0.1a0",
+  "summary": "Language-independent conformance test suite for multipart/form-data parsing and generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multipart_form_data_conformance-0.1a0.tar.gz",
+  "download_time": "2026-01-22T05:56:13.827520",
+  "package_url": "https://pypi.org/project/multipart-form-data-conformance/"
+}

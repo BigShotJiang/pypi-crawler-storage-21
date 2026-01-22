@@ -1,11 +1,11 @@
 {
   "name": "sqlsaber",
-  "version": "0.49.1",
+  "version": "0.50.0",
   "summary": "SQLsaber - Open-source agentic SQL assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlsaber-0.49.1.tar.gz",
-  "download_time": "2026-01-20T23:46:17.186003",
+  "download_filename": "sqlsaber-0.50.0.tar.gz",
+  "download_time": "2026-01-22T05:56:08.123379",
   "package_url": "https://pypi.org/project/sqlsaber/"
 }
