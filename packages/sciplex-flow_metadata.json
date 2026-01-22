@@ -1,0 +1,11 @@
+{
+  "name": "sciplex-flow",
+  "version": "0.1.5",
+  "summary": "Local web app for Sciplex visual programming - node-based data science workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sciplex_flow-0.1.5.tar.gz",
+  "download_time": "2026-01-22T11:48:10.372985",
+  "package_url": "https://pypi.org/project/sciplex-flow/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gooddata-pandas",
-  "version": "1.57.0",
+  "version": "1.58.0",
   "summary": "GoodData Cloud to pandas",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gooddata_pandas-1.57.0.tar.gz",
-  "download_time": "2026-01-21T16:56:21.197510",
+  "download_filename": "gooddata_pandas-1.58.0.tar.gz",
+  "download_time": "2026-01-22T11:47:53.779138",
   "package_url": "https://pypi.org/project/gooddata-pandas/"
 }

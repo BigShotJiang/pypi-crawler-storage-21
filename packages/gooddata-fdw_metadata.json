@@ -1,11 +1,11 @@
 {
   "name": "gooddata-fdw",
-  "version": "1.57.0",
+  "version": "1.58.0",
   "summary": "GoodData Cloud Foreign Data Wrapper For PostgreSQL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gooddata_fdw-1.57.0.tar.gz",
-  "download_time": "2026-01-21T16:56:19.939121",
+  "download_filename": "gooddata_fdw-1.58.0.tar.gz",
+  "download_time": "2026-01-22T11:47:54.804548",
   "package_url": "https://pypi.org/project/gooddata-fdw/"
 }

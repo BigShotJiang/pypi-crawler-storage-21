@@ -1,0 +1,11 @@
+{
+  "name": "cocode-mcp",
+  "version": "0.1.0",
+  "summary": "High-performance MCP server for semantic codebase search with hybrid retrieval (vector + BM25 + symbol search)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cocode_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-22T11:48:19.147737",
+  "package_url": "https://pypi.org/project/cocode-mcp/"
+}

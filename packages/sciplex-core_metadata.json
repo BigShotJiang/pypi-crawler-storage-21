@@ -1,0 +1,11 @@
+{
+  "name": "sciplex-core",
+  "version": "0.1.2",
+  "summary": "Core logic for Sciplex visual programming - models, controllers, and utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sciplex_core-0.1.2.tar.gz",
+  "download_time": "2026-01-22T11:48:28.994714",
+  "package_url": "https://pypi.org/project/sciplex-core/"
+}

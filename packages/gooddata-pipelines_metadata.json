@@ -1,11 +1,11 @@
 {
   "name": "gooddata-pipelines",
-  "version": "1.57.0",
+  "version": "1.58.0",
   "summary": "GoodData Cloud lifecycle automation pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gooddata_pipelines-1.57.0.tar.gz",
-  "download_time": "2026-01-21T16:56:17.020629",
+  "download_filename": "gooddata_pipelines-1.58.0.tar.gz",
+  "download_time": "2026-01-22T11:47:54.290567",
   "package_url": "https://pypi.org/project/gooddata-pipelines/"
 }

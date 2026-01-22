@@ -1,0 +1,11 @@
+{
+  "name": "arrow-wrangler",
+  "version": "1.0.0",
+  "summary": "Standardise data manipulation with pyarrow datasets",
+  "author": "William Lee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arrow_wrangler-1.0.0.tar.gz",
+  "download_time": "2026-01-22T11:48:00.431672",
+  "package_url": "https://pypi.org/project/arrow-wrangler/"
+}

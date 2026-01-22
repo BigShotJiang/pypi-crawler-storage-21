@@ -1,11 +1,11 @@
 {
   "name": "gooddata-sdk",
-  "version": "1.57.0",
+  "version": "1.58.0",
   "summary": "GoodData Cloud Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gooddata_sdk-1.57.0.tar.gz",
-  "download_time": "2026-01-21T16:56:18.200447",
+  "download_filename": "gooddata_sdk-1.58.0.tar.gz",
+  "download_time": "2026-01-22T11:47:52.741192",
   "package_url": "https://pypi.org/project/gooddata-sdk/"
 }
