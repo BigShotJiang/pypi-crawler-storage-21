@@ -1,0 +1,11 @@
+{
+  "name": "RadEval",
+  "version": "0.0.6",
+  "summary": "All-in-one metrics for evaluating AI-generated radiology text",
+  "author": "Jean-Benoit Delbrouck, Justin Xu, Xi Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/jbdel/RadEval",
+  "download_filename": "radeval-0.0.6.tar.gz",
+  "download_time": "2026-01-22T23:57:07.511128",
+  "package_url": "https://pypi.org/project/RadEval/"
+}

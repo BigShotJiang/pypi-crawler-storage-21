@@ -1,0 +1,11 @@
+{
+  "name": "qualtran",
+  "version": "0.7.0",
+  "summary": "Software for fault-tolerant quantum algorithms research.",
+  "author": "Google Quantum AI",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "qualtran-0.7.0.tar.gz",
+  "download_time": "2026-01-22T23:57:10.251075",
+  "package_url": "https://pypi.org/project/qualtran/"
+}
