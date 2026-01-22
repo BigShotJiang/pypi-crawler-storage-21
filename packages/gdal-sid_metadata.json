@@ -1,0 +1,11 @@
+{
+  "name": "gdal-sid",
+  "version": "3.10.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/talos-gis/gdal-sid",
+  "download_filename": "gdal_sid-3.10.0-py3-none-win32.whl",
+  "download_time": "2026-01-22T11:27:36.150414",
+  "package_url": "https://pypi.org/project/gdal-sid/"
+}

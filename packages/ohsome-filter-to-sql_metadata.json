@@ -1,0 +1,11 @@
+{
+  "name": "ohsome-filter-to-sql",
+  "version": "0.4.0",
+  "summary": "Translate ohsome API filter to SQL WHERE clause ready to be used with ohsomeDB",
+  "author": "HeiGIT ohsome team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ohsome_filter_to_sql-0.4.0.tar.gz",
+  "download_time": "2026-01-22T11:27:50.583030",
+  "package_url": "https://pypi.org/project/ohsome-filter-to-sql/"
+}

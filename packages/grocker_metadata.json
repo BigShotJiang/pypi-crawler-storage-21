@@ -1,0 +1,11 @@
+{
+  "name": "grocker",
+  "version": "8.3",
+  "summary": "Docker image builder",
+  "author": "Polyconseil",
+  "license": "BSD 3-Clause License",
+  "home_page": "http://github.com/polyconseil/grocker",
+  "download_filename": "grocker-8.3.tar.gz",
+  "download_time": "2026-01-22T11:27:26.790162",
+  "package_url": "https://pypi.org/project/grocker/"
+}

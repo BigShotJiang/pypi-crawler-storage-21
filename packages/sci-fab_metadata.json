@@ -1,0 +1,11 @@
+{
+  "name": "sci-fab",
+  "version": "2.0.1",
+  "summary": "Build system for scientific software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sci_fab-2.0.1.tar.gz",
+  "download_time": "2026-01-22T11:27:57.587104",
+  "package_url": "https://pypi.org/project/sci-fab/"
+}

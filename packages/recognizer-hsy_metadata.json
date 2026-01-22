@@ -1,0 +1,11 @@
+{
+  "name": "recognizer-hsy",
+  "version": "1.4.0",
+  "summary": "🦉Gracefully face reCAPTCHA challenge with ultralytics YOLO11-seg, CLIPs VIT-B/16 and CLIP-Seg/RD64. Implemented in playwright or an easy-to-use API.",
+  "author": "Vinyzu",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/Vinyzu/recognizer",
+  "download_filename": "recognizer_hsy-1.4.0.tar.gz",
+  "download_time": "2026-01-22T11:27:49.291800",
+  "package_url": "https://pypi.org/project/recognizer-hsy/"
+}

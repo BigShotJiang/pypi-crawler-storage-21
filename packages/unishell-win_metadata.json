@@ -1,11 +1,11 @@
 {
   "name": "unishell-win",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "summary": "Core cross-platform Python library for filesystem operations",
   "author": "GimpNiK",
   "license": null,
   "home_page": null,
-  "download_filename": "unishell_win-2.3.1.tar.gz",
-  "download_time": "2026-01-21T22:55:19.514770",
+  "download_filename": "unishell_win-2.3.2.tar.gz",
+  "download_time": "2026-01-22T11:27:51.229215",
   "package_url": "https://pypi.org/project/unishell-win/"
 }

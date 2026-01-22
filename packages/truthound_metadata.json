@@ -1,11 +1,11 @@
 {
   "name": "truthound",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Zero-Configuration Data Quality Framework Powered by Polars",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "truthound-1.2.2.tar.gz",
-  "download_time": "2026-01-22T04:50:59.358399",
+  "download_filename": "truthound-1.2.3.tar.gz",
+  "download_time": "2026-01-22T11:28:11.874289",
   "package_url": "https://pypi.org/project/truthound/"
 }
