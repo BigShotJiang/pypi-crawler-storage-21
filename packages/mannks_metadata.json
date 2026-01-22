@@ -1,0 +1,11 @@
+{
+  "name": "mannks",
+  "version": "0.5.0",
+  "summary": "Non-parametric trend analysis for unequally spaced time series with censored data and large dataset support",
+  "author": "Luke Fullard",
+  "license": "MIT",
+  "home_page": "https://github.com/LukeAFullard/MannKS",
+  "download_filename": "mannks-0.5.0.tar.gz",
+  "download_time": "2026-01-22T07:57:18.261534",
+  "package_url": "https://pypi.org/project/mannks/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aintect",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": null,
   "author": "Ainul Hakim",
   "license": null,
   "home_page": null,
-  "download_filename": "aintect-1.1.1.tar.gz",
-  "download_time": "2026-01-22T07:43:39.128009",
+  "download_filename": "aintect-1.1.2.tar.gz",
+  "download_time": "2026-01-22T07:57:14.713396",
   "package_url": "https://pypi.org/project/aintect/"
 }

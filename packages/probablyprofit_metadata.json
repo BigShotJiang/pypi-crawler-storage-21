@@ -1,0 +1,11 @@
+{
+  "name": "probablyprofit",
+  "version": "1.1.0",
+  "summary": "AI-powered prediction market trading bots. Write strategy in English, let AI trade for you.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "probablyprofit-1.1.0.tar.gz",
+  "download_time": "2026-01-22T07:57:42.768467",
+  "package_url": "https://pypi.org/project/probablyprofit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyfwert",
+  "version": "0.1.0",
+  "summary": "A pattern-based password generator that creates strong, memorable passwords",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfwert-0.1.0.tar.gz",
+  "download_time": "2026-01-22T07:57:39.935658",
+  "package_url": "https://pypi.org/project/pyfwert/"
+}

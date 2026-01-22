@@ -1,0 +1,11 @@
+{
+  "name": "osducli",
+  "version": "0.0.52",
+  "summary": "OSDU command line",
+  "author": "OSDU Community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osducli-0.0.52.tar.gz",
+  "download_time": "2026-01-22T07:57:29.624467",
+  "package_url": "https://pypi.org/project/osducli/"
+}
