@@ -1,0 +1,11 @@
+{
+  "name": "regex-buddy",
+  "version": "1.0.0",
+  "summary": "Plain English to Regex - Your friendly regex helper",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/cleonard2341/regex-buddy",
+  "download_filename": "regex_buddy-1.0.0.tar.gz",
+  "download_time": "2026-01-22T19:06:19.471570",
+  "package_url": "https://pypi.org/project/regex-buddy/"
+}

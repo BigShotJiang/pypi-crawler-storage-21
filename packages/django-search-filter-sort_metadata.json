@@ -1,0 +1,11 @@
+{
+  "name": "django-search-filter-sort",
+  "version": "0.4.3",
+  "summary": "Django app designed to help with the creation of list views with full functionality for searching, filtering, and sorting.",
+  "author": "Keith Hostetler",
+  "license": "MIT License",
+  "home_page": "https://github.com/Macainian/Django-Search-Filter-Sort",
+  "download_filename": "django_search_filter_sort-0.4.3.tar.gz",
+  "download_time": "2026-01-22T19:06:06.976211",
+  "package_url": "https://pypi.org/project/django-search-filter-sort/"
+}

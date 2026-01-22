@@ -1,0 +1,11 @@
+{
+  "name": "sccs",
+  "version": "2.0.4",
+  "summary": "SkillsCommandsConfigsSync - Unified YAML-configured synchronization for Claude Code files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sccs-2.0.4.tar.gz",
+  "download_time": "2026-01-22T19:06:13.743700",
+  "package_url": "https://pypi.org/project/sccs/"
+}

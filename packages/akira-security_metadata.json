@@ -1,0 +1,11 @@
+{
+  "name": "akira-security",
+  "version": "0.1.1",
+  "summary": "Test your AI deployments against security vulnerabilities.",
+  "author": "Sarthak Munshi <s@hanshiro.dev>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "akira_security-0.1.1.tar.gz",
+  "download_time": "2026-01-22T19:05:51.815447",
+  "package_url": "https://pypi.org/project/akira-security/"
+}

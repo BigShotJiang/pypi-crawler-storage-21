@@ -1,11 +1,11 @@
 {
   "name": "PyHardLinkBackup",
-  "version": "1.7.2",
+  "version": "1.8.0",
   "summary": "HardLink/Deduplication Backups with Python",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pyhardlinkbackup-1.7.2.tar.gz",
-  "download_time": "2026-01-21T07:45:44.812891",
+  "download_filename": "pyhardlinkbackup-1.8.0.tar.gz",
+  "download_time": "2026-01-22T19:05:49.702401",
   "package_url": "https://pypi.org/project/PyHardLinkBackup/"
 }

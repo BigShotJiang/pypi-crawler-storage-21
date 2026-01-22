@@ -1,11 +1,11 @@
 {
   "name": "kalavai-client",
-  "version": "0.8.6",
+  "version": "0.8.9",
   "summary": "Client app for kalavai platform",
   "author": "Carlos Fernandez Musoles",
   "license": null,
   "home_page": null,
-  "download_filename": "kalavai_client-0.8.6.tar.gz",
-  "download_time": "2026-01-22T12:53:47.388288",
+  "download_filename": "kalavai_client-0.8.9.tar.gz",
+  "download_time": "2026-01-22T19:05:53.387099",
   "package_url": "https://pypi.org/project/kalavai-client/"
 }

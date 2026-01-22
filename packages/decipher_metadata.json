@@ -1,0 +1,11 @@
+{
+  "name": "decipher",
+  "version": "29.2.1",
+  "summary": "Package for easier access to the Decipher REST API",
+  "author": "Erwin S. Andreasen",
+  "license": "BSD",
+  "home_page": "https://www.forsta.com/platform/survey-design/",
+  "download_filename": "decipher-29.2.1.tar.gz",
+  "download_time": "2026-01-22T19:06:02.705910",
+  "package_url": "https://pypi.org/project/decipher/"
+}
