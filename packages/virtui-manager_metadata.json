@@ -1,0 +1,11 @@
+{
+  "name": "virtui-manager",
+  "version": "1.0.0",
+  "summary": "Terminal-based interface to manage virtual machines using libvirt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "virtui_manager-1.0.0.tar.gz",
+  "download_time": "2026-01-22T15:49:10.587482",
+  "package_url": "https://pypi.org/project/virtui-manager/"
+}

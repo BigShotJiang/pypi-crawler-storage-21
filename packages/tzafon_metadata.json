@@ -1,11 +1,11 @@
 {
   "name": "tzafon",
-  "version": "2.16.0",
+  "version": "2.17.0",
   "summary": "The official Python library for the computer API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tzafon-2.16.0.tar.gz",
-  "download_time": "2026-01-21T12:01:07.981783",
+  "download_filename": "tzafon-2.17.0.tar.gz",
+  "download_time": "2026-01-22T15:48:57.041918",
   "package_url": "https://pypi.org/project/tzafon/"
 }

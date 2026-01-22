@@ -1,0 +1,11 @@
+{
+  "name": "cortex-mcp",
+  "version": "1.0.0",
+  "summary": "Making AI Accountable Over Time - MCP server for persistent memory, automatic verification, and evidence-based grounding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cortex_mcp-1.0.0.tar.gz",
+  "download_time": "2026-01-22T15:48:54.346672",
+  "package_url": "https://pypi.org/project/cortex-mcp/"
+}

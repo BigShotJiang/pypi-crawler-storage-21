@@ -1,0 +1,11 @@
+{
+  "name": "polybugger-mcp",
+  "version": "1.7.0",
+  "summary": "MCP server for multi-language debugging with AI agents via DAP (Python, Go, Rust, Node.js)",
+  "author": "Amir Wilf",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polybugger_mcp-1.7.0.tar.gz",
+  "download_time": "2026-01-22T15:48:47.916302",
+  "package_url": "https://pypi.org/project/polybugger-mcp/"
+}

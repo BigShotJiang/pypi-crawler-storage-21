@@ -1,0 +1,11 @@
+{
+  "name": "uv-lens",
+  "version": "0.1.0",
+  "summary": "解析 pyproject.toml 依赖并查询最新稳定版本，输出升级建议与 uv add 命令",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_lens-0.1.0.tar.gz",
+  "download_time": "2026-01-22T15:49:17.603586",
+  "package_url": "https://pypi.org/project/uv-lens/"
+}

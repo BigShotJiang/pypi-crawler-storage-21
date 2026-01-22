@@ -1,0 +1,11 @@
+{
+  "name": "capella-ros-tools",
+  "version": "0.1.dev74",
+  "summary": "Tools for importing ROS .msg files into Capella data package and vice versa.",
+  "author": "DB InfraGO AG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "capella_ros_tools-0.1.dev74.tar.gz",
+  "download_time": "2026-01-22T15:48:46.842127",
+  "package_url": "https://pypi.org/project/capella-ros-tools/"
+}

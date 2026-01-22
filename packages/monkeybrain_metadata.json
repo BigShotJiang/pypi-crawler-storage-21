@@ -1,0 +1,11 @@
+{
+  "name": "monkeybrain",
+  "version": "0.3.1",
+  "summary": "A CLI-Tool for launching TouchDesigner projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "monkeybrain-0.3.1-py3-none-any.whl",
+  "download_time": "2026-01-22T15:48:29.821921",
+  "package_url": "https://pypi.org/project/monkeybrain/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bedsheet",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Pythonic framework for AI agents. Build single agents or multi-agent teams with streaming events, parallel execution, and full observability.",
   "author": null,
   "license": "Elastic License 2.0",
   "home_page": null,
-  "download_filename": "bedsheet-0.4.0.tar.gz",
-  "download_time": "2026-01-20T18:39:09.613760",
+  "download_filename": "bedsheet-0.4.2.tar.gz",
+  "download_time": "2026-01-22T15:48:45.761637",
   "package_url": "https://pypi.org/project/bedsheet/"
 }

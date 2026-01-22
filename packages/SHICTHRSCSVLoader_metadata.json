@@ -1,0 +1,11 @@
+{
+  "name": "SHICTHRSCSVLoader",
+  "version": "1.6.0",
+  "summary": "SHICTHRS CSV file io system",
+  "author": "SHICTHRS",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/SHICTHRS/SHICTHRS_CSVLoader",
+  "download_filename": "shicthrscsvloader-1.6.0.tar.gz",
+  "download_time": "2026-01-22T15:49:04.091762",
+  "package_url": "https://pypi.org/project/SHICTHRSCSVLoader/"
+}
