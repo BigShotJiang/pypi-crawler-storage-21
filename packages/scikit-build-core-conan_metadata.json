@@ -1,0 +1,11 @@
+{
+  "name": "scikit-build-core-conan",
+  "version": "0.9.0",
+  "summary": "A conan plugin for scikit-build-core",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scikit_build_core_conan-0.9.0.tar.gz",
+  "download_time": "2026-01-22T21:48:45.405563",
+  "package_url": "https://pypi.org/project/scikit-build-core-conan/"
+}

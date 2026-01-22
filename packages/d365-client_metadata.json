@@ -1,0 +1,11 @@
+{
+  "name": "d365-client",
+  "version": "0.0.12",
+  "summary": "Python client for interacting with D365 OData API (OData v4)",
+  "author": null,
+  "license": "UNLICENSED\n        ",
+  "home_page": null,
+  "download_filename": "d365_client-0.0.12.tar.gz",
+  "download_time": "2026-01-22T21:48:21.364423",
+  "package_url": "https://pypi.org/project/d365-client/"
+}

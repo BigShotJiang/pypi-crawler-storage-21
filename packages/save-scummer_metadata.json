@@ -1,0 +1,11 @@
+{
+  "name": "save-scummer",
+  "version": "0.1.2",
+  "summary": "A simple CLI utility to backup and restore game saves",
+  "author": "Jordan Cook",
+  "license": null,
+  "home_page": null,
+  "download_filename": "save_scummer-0.1.2.tar.gz",
+  "download_time": "2026-01-22T21:48:54.299511",
+  "package_url": "https://pypi.org/project/save-scummer/"
+}

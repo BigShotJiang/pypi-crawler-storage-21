@@ -1,0 +1,11 @@
+{
+  "name": "robocrys",
+  "version": "0.2.13",
+  "summary": "Automatic generation of crystal structure descriptions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robocrys-0.2.13.tar.gz",
+  "download_time": "2026-01-22T21:48:57.449105",
+  "package_url": "https://pypi.org/project/robocrys/"
+}

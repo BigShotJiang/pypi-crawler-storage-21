@@ -1,11 +1,11 @@
 {
   "name": "async43",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Asynchronous WHOIS client for Python using asyncio. Supports IPv6 and IP rotation.",
   "author": "Nicolas Surribas",
   "license": "MIT",
   "home_page": "https://github.com/devl00p/async43",
-  "download_filename": "async43-0.0.8.tar.gz",
-  "download_time": "2026-01-21T21:04:20.093345",
+  "download_filename": "async43-0.0.9.tar.gz",
+  "download_time": "2026-01-22T21:48:28.900691",
   "package_url": "https://pypi.org/project/async43/"
 }

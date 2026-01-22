@@ -1,0 +1,11 @@
+{
+  "name": "aws-ssm-bridge",
+  "version": "0.2.0",
+  "summary": "Python bindings for AWS Systems Manager Session Manager protocol",
+  "author": "hupe1980",
+  "license": "MIT",
+  "home_page": "https://hupe1980.github.io/aws-ssm-bridge/",
+  "download_filename": "aws_ssm_bridge-0.2.0.tar.gz",
+  "download_time": "2026-01-22T21:48:41.187492",
+  "package_url": "https://pypi.org/project/aws-ssm-bridge/"
+}
