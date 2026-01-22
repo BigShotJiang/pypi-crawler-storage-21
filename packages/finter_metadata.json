@@ -1,11 +1,11 @@
 {
   "name": "finter",
-  "version": "0.5.42",
+  "version": "0.5.43",
   "summary": "FINTER API",
   "author": "Quantit <finter_support@quantit.io>",
   "license": null,
   "home_page": "https://quantit.gitbook.io/finter/",
-  "download_filename": "finter-0.5.42-py3-none-any.whl",
-  "download_time": "2026-01-21T07:14:12.503496",
+  "download_filename": "finter-0.5.43-py3-none-any.whl",
+  "download_time": "2026-01-22T23:15:54.501153",
   "package_url": "https://pypi.org/project/finter/"
 }

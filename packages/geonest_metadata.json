@@ -1,0 +1,11 @@
+{
+  "name": "geonest",
+  "version": "0.1.0",
+  "summary": "Interactive Python Map library for GIS using ipyleaflet",
+  "author": "Ammar Yasser",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geonest-0.1.0.tar.gz",
+  "download_time": "2026-01-22T23:15:58.095678",
+  "package_url": "https://pypi.org/project/geonest/"
+}

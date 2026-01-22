@@ -1,11 +1,11 @@
 {
   "name": "claude-task-master",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Autonomous task orchestration system that keeps Claude working until a goal is achieved",
   "author": "Claude Task Master Team",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_task_master-0.1.4.tar.gz",
-  "download_time": "2026-01-20T21:52:09.131604",
+  "download_filename": "claude_task_master-0.1.5.tar.gz",
+  "download_time": "2026-01-22T23:15:21.348175",
   "package_url": "https://pypi.org/project/claude-task-master/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nbstata",
+  "version": "0.8.6",
+  "summary": "Jupyter kernel for Stata built on pystata",
+  "author": "Tim Huegerich",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/hugetim/nbstata",
+  "download_filename": "nbstata-0.8.6.tar.gz",
+  "download_time": "2026-01-22T23:15:37.869122",
+  "package_url": "https://pypi.org/project/nbstata/"
+}

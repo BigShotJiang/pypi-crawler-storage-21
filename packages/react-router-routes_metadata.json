@@ -1,0 +1,11 @@
+{
+  "name": "react-router-routes",
+  "version": "0.3.0",
+  "summary": "Generate strongly-typed Python helpers (TypedDict param classes + path/url builders) from a React Router v6+ route tree so Python code can build frontend URLs safely.",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "react_router_routes-0.3.0.tar.gz",
+  "download_time": "2026-01-22T23:15:55.525403",
+  "package_url": "https://pypi.org/project/react-router-routes/"
+}

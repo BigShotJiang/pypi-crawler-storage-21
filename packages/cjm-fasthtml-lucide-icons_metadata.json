@@ -1,0 +1,11 @@
+{
+  "name": "cjm-fasthtml-lucide-icons",
+  "version": "0.0.1",
+  "summary": "Lucide icons as FastHTML SVG components with category/tag registry and factory API.",
+  "author": "Christian J. Mills",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cj-mills/cjm-fasthtml-lucide-icons",
+  "download_filename": "cjm_fasthtml_lucide_icons-0.0.1.tar.gz",
+  "download_time": "2026-01-22T23:15:55.014002",
+  "package_url": "https://pypi.org/project/cjm-fasthtml-lucide-icons/"
+}

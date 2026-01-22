@@ -1,0 +1,11 @@
+{
+  "name": "restate-agent",
+  "version": "0.1.0",
+  "summary": "Durable Restate-backed agent wrapper with Pydantic type safety.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "restate_agent-0.1.0.tar.gz",
+  "download_time": "2026-01-22T23:15:40.509409",
+  "package_url": "https://pypi.org/project/restate-agent/"
+}

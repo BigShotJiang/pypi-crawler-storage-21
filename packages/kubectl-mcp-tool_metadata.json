@@ -1,11 +1,11 @@
 {
   "name": "kubectl-mcp-tool",
-  "version": "1.10.0",
-  "summary": "A Model Context Protocol (MCP) server for Kubernetes with 121 tools, 8 resources, and 8 prompts",
+  "version": "1.11.0",
+  "summary": "Alias package for kubectl-mcp-server (use kubectl-mcp-server instead)",
   "author": "Rohit Ghumare",
   "license": null,
   "home_page": "https://github.com/rohitg00/kubectl-mcp-server",
-  "download_filename": "kubectl_mcp_tool-1.10.0.tar.gz",
-  "download_time": "2026-01-22T10:57:32.818013",
+  "download_filename": "kubectl_mcp_tool-1.11.0.tar.gz",
+  "download_time": "2026-01-22T23:15:28.158108",
   "package_url": "https://pypi.org/project/kubectl-mcp-tool/"
 }

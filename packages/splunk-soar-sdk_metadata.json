@@ -1,0 +1,11 @@
+{
+  "name": "splunk-soar-sdk",
+  "version": "3.8.1",
+  "summary": "The official framework for developing and testing Splunk SOAR Apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splunk_soar_sdk-3.8.1.tar.gz",
+  "download_time": "2026-01-22T23:15:24.025503",
+  "package_url": "https://pypi.org/project/splunk-soar-sdk/"
+}

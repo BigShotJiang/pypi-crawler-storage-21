@@ -1,0 +1,11 @@
+{
+  "name": "fastlane-mcp",
+  "version": "0.2.0",
+  "summary": "Intelligent MCP server for iOS/Android builds with fastlane",
+  "author": "Nicholas Prokesch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastlane_mcp-0.2.0.tar.gz",
+  "download_time": "2026-01-22T23:15:12.379195",
+  "package_url": "https://pypi.org/project/fastlane-mcp/"
+}
