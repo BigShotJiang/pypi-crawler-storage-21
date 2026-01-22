@@ -1,11 +1,11 @@
 {
   "name": "rt-commission-dashboard",
-  "version": "1.2.22",
+  "version": "1.2.24",
   "summary": "Multi-tier sales & commission tracking dashboard with hierarchical affiliate networks",
   "author": null,
   "license": "Proprietary License\n        \n        Copyright (c) 2025 RealTimeX Team\n        \n        All rights reserved.\n        \n        This software and associated documentation files (the \"Software\") are the\n        proprietary and confidential information of RealTimeX Team (\"Proprietary Information\").\n        \n        You shall not:\n        - Distribute, sublicense, or sell copies of the Software\n        - Modify, reverse engineer, decompile, or disassemble the Software\n        - Remove any proprietary notices or labels from the Software\n        - Use the Software for any purpose without explicit written permission\n        \n        The Software is provided \"AS IS\", without warranty of any kind, express or\n        implied, including but not limited to the warranties of merchantability,\n        fitness for a particular purpose and noninfringement.\n        \n        For licensing inquiries, please contact: info@realtimex.ai",
   "home_page": null,
-  "download_filename": "rt_commission_dashboard-1.2.22.tar.gz",
-  "download_time": "2026-01-21T04:35:34.807922",
+  "download_filename": "rt_commission_dashboard-1.2.24.tar.gz",
+  "download_time": "2026-01-22T04:51:03.035178",
   "package_url": "https://pypi.org/project/rt-commission-dashboard/"
 }

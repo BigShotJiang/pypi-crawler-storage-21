@@ -1,11 +1,11 @@
 {
   "name": "synkro",
-  "version": "0.4.96",
+  "version": "0.5.8",
   "summary": "Framework for turning unstructured policies into training data for LLMs",
   "author": "Murtaza Meerza",
   "license": null,
   "home_page": null,
-  "download_filename": "synkro-0.4.96.tar.gz",
-  "download_time": "2026-01-22T01:54:27.860856",
+  "download_filename": "synkro-0.5.8.tar.gz",
+  "download_time": "2026-01-22T04:50:46.453420",
   "package_url": "https://pypi.org/project/synkro/"
 }

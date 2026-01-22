@@ -1,0 +1,11 @@
+{
+  "name": "iris-pse-detection",
+  "version": "1.1.2",
+  "summary": "Python port of EA's IRIS - Photosensitive epilepsy risk detection for video content",
+  "author": "IRIS-PSE-Detection contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iris_pse_detection-1.1.2.tar.gz",
+  "download_time": "2026-01-22T04:51:12.194885",
+  "package_url": "https://pypi.org/project/iris-pse-detection/"
+}

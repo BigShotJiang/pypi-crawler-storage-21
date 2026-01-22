@@ -1,0 +1,11 @@
+{
+  "name": "bluescroll-hap",
+  "version": "0.2.0",
+  "summary": "Official HAP (Human Attestation Protocol) SDK for Python",
+  "author": "BlueScroll Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bluescroll_hap-0.2.0.tar.gz",
+  "download_time": "2026-01-22T04:51:05.631066",
+  "package_url": "https://pypi.org/project/bluescroll-hap/"
+}

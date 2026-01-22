@@ -1,11 +1,11 @@
 {
   "name": "aftr",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "CLI for bootstrapping Python data projects with UV, mise, and papermill",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aftr-0.5.0.tar.gz",
-  "download_time": "2026-01-21T23:51:19.925661",
+  "download_filename": "aftr-0.6.0.tar.gz",
+  "download_time": "2026-01-22T04:50:56.699073",
   "package_url": "https://pypi.org/project/aftr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-request-bom",
+  "version": "18.0.1.0.1.2",
+  "summary": "Stock Request with BOM Integration",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-request",
+  "download_filename": "odoo_addon_stock_request_bom-18.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2026-01-22T04:51:13.219976",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-request-bom/"
+}

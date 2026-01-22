@@ -1,0 +1,11 @@
+{
+  "name": "lightweight-agent",
+  "version": "0.1.6",
+  "summary": "A lightweight LLM agent framework supporting async OpenAI and Anthropic APIs with ReAct agents, TODO-based agents, and built-in tools",
+  "author": "Lightweight Agent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lightweight_agent-0.1.6.tar.gz",
+  "download_time": "2026-01-22T04:50:45.384570",
+  "package_url": "https://pypi.org/project/lightweight-agent/"
+}

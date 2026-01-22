@@ -1,11 +1,11 @@
 {
   "name": "rockgarden",
-  "version": "0.2.6",
+  "version": "0.2.9",
   "summary": "Obsidian-compatible static site generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rockgarden-0.2.6.tar.gz",
-  "download_time": "2026-01-21T23:28:38.486696",
+  "download_filename": "rockgarden-0.2.9.tar.gz",
+  "download_time": "2026-01-22T04:50:54.645227",
   "package_url": "https://pypi.org/project/rockgarden/"
 }

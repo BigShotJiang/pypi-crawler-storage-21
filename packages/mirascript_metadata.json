@@ -1,11 +1,11 @@
 {
   "name": "mirascript",
-  "version": "1.0.0",
+  "version": "0.1.6",
   "summary": "MiraScript 的 Python 绑定允许在 Python 中使用 MiraScript 编译器。它提供了一个简单的接口来编译 MiraScript 脚本，并返回编译结果和诊断信息。",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mirascript-1.0.0.tar.gz",
-  "download_time": "2026-01-21T09:18:00.961843",
+  "download_filename": "mirascript-0.1.6.tar.gz",
+  "download_time": "2026-01-22T04:50:51.521237",
   "package_url": "https://pypi.org/project/mirascript/"
 }

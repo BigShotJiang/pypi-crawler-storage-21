@@ -1,0 +1,11 @@
+{
+  "name": "aioboto3-cm",
+  "version": "0.1.1",
+  "summary": "aioboto3 client manager. Manage aioboto3 sessions and clients without context managers (with statements).",
+  "author": "Brandon Temple Paul",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/btemplep/aioboto3-cm",
+  "download_filename": "aioboto3_cm-0.1.1.tar.gz",
+  "download_time": "2026-01-22T04:51:04.062150",
+  "package_url": "https://pypi.org/project/aioboto3-cm/"
+}

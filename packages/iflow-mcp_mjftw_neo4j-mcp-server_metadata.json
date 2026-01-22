@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mjftw_neo4j-mcp-server",
+  "version": "0.1.0",
+  "summary": "A Memory Control Protocol server implementation using Neo4j as the backend storage for knowledge graph management",
+  "author": "Merlin Webster mjftwebster@gmail.com",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mjftw_neo4j_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-22T04:51:15.824367",
+  "package_url": "https://pypi.org/project/iflow-mcp_mjftw_neo4j-mcp-server/"
+}

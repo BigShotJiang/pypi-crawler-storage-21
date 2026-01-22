@@ -1,11 +1,11 @@
 {
   "name": "autopypath",
-  "version": "0.9.1",
+  "version": "1.0.1",
   "summary": "Automatic path management for testing and development.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autopypath-0.9.1.tar.gz",
-  "download_time": "2026-01-21T18:45:09.849101",
+  "download_filename": "autopypath-1.0.1.tar.gz",
+  "download_time": "2026-01-22T04:51:09.977143",
   "package_url": "https://pypi.org/project/autopypath/"
 }
