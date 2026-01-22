@@ -1,0 +1,11 @@
+{
+  "name": "starlette-async-jinja",
+  "version": "1.13.5",
+  "summary": "An asynchronous Jinja2 template integration for Starlette and FastAPI",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "starlette_async_jinja-1.13.5.tar.gz",
+  "download_time": "2026-01-22T09:49:12.712324",
+  "package_url": "https://pypi.org/project/starlette-async-jinja/"
+}

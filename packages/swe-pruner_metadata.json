@@ -1,0 +1,11 @@
+{
+  "name": "swe-pruner",
+  "version": "0.1.0",
+  "summary": "Self-Adaptive Context Pruning for Coding Agents",
+  "author": "SwePruner Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swe_pruner-0.1.0.tar.gz",
+  "download_time": "2026-01-22T09:49:06.037524",
+  "package_url": "https://pypi.org/project/swe-pruner/"
+}

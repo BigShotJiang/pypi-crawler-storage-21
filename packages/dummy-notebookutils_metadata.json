@@ -1,0 +1,11 @@
+{
+  "name": "dummy-notebookutils",
+  "version": "1.6.3",
+  "summary": "A package that allows to use synapse mssparkutils without actual functionality. This helps to generate the build.",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-synapse-analytics",
+  "download_filename": "dummy_notebookutils-1.6.3.tar.gz",
+  "download_time": "2026-01-22T09:48:59.820050",
+  "package_url": "https://pypi.org/project/dummy-notebookutils/"
+}

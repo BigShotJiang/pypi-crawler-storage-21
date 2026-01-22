@@ -1,0 +1,11 @@
+{
+  "name": "MyoVerse",
+  "version": "2.0.0",
+  "summary": "AI toolkit for myocontrol research, processing EMG signals, kinematics, and kinetics using PyTorch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "myoverse-2.0.0.tar.gz",
+  "download_time": "2026-01-22T09:49:13.224052",
+  "package_url": "https://pypi.org/project/MyoVerse/"
+}

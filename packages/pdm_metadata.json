@@ -1,0 +1,11 @@
+{
+  "name": "pdm",
+  "version": "2.26.6",
+  "summary": "A modern Python package and dependency manager supporting the latest PEP standards",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdm-2.26.6.tar.gz",
+  "download_time": "2026-01-22T09:48:29.909853",
+  "package_url": "https://pypi.org/project/pdm/"
+}

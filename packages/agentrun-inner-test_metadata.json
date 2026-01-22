@@ -1,11 +1,11 @@
 {
   "name": "agentrun-inner-test",
-  "version": "0.0.78",
+  "version": "0.0.80",
   "summary": "Alibaba Cloud Agent Run SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentrun_inner_test-0.0.78.tar.gz",
-  "download_time": "2026-01-21T07:14:03.585122",
+  "download_filename": "agentrun_inner_test-0.0.80.tar.gz",
+  "download_time": "2026-01-22T09:49:01.931231",
   "package_url": "https://pypi.org/project/agentrun-inner-test/"
 }

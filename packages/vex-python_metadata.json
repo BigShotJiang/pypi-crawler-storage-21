@@ -1,11 +1,11 @@
 {
   "name": "vex-python",
-  "version": "0.1.40",
+  "version": "0.1.44",
   "summary": "C++ Python bindings for Vex",
   "author": "HitLab | Flanders Make",
   "license": "MIT",
   "home_page": "https://github.com/Hitlab-Howest/VEooX_plugin",
-  "download_filename": "vex_python-0.1.40-py3-none-any.whl",
-  "download_time": "2026-01-20T14:33:05.626127",
+  "download_filename": "vex_python-0.1.44-py3-none-any.whl",
+  "download_time": "2026-01-22T09:49:05.525811",
   "package_url": "https://pypi.org/project/vex-python/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "marabunta",
+  "version": "0.14.0",
+  "summary": "Migration tool for Odoo",
+  "author": "Camptocamp (Guewen Baconnier)",
+  "license": "AGPLv3+",
+  "home_page": "https://github.com/camptocamp/marabunta",
+  "download_filename": "marabunta-0.14.0.tar.gz",
+  "download_time": "2026-01-22T09:49:08.096708",
+  "package_url": "https://pypi.org/project/marabunta/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "castor-extractor",
+  "version": "0.26.9",
+  "summary": "Extract your metadata assets.",
+  "author": "Castor",
+  "license": "EULA",
+  "home_page": "https://www.castordoc.com/",
+  "download_filename": "castor_extractor-0.26.9.tar.gz",
+  "download_time": "2026-01-22T09:48:37.099141",
+  "package_url": "https://pypi.org/project/castor-extractor/"
+}

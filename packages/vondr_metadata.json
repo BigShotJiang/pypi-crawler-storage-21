@@ -1,0 +1,11 @@
+{
+  "name": "vondr",
+  "version": "0.2.1",
+  "summary": "Python client for the Vondr AI Platform.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vondr-0.2.1.tar.gz",
+  "download_time": "2026-01-22T09:48:36.068371",
+  "package_url": "https://pypi.org/project/vondr/"
+}
