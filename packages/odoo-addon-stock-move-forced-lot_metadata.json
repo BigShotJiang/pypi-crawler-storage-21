@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-forced-lot",
+  "version": "18.0.1.0.0.2",
+  "summary": "This module allows you to set a lot_id in a procurement to force the stock move generated to only reserve the selected lot.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_move_forced_lot-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-22T21:27:08.177009",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-forced-lot/"
+}

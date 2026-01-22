@@ -1,0 +1,11 @@
+{
+  "name": "a2a-redis",
+  "version": "0.2.1",
+  "summary": "Redis components for the Agent-to-Agent (A2A) Python SDK",
+  "author": "Redis, Inc., Andrew Brookins",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "a2a_redis-0.2.1.tar.gz",
+  "download_time": "2026-01-22T21:27:47.204022",
+  "package_url": "https://pypi.org/project/a2a-redis/"
+}

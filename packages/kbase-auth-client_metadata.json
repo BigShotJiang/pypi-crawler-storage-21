@@ -1,0 +1,11 @@
+{
+  "name": "kbase-auth-client",
+  "version": "0.1.2",
+  "summary": "Client for the KBase Authentication Service",
+  "author": "KBase Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kbase_auth_client-0.1.2.tar.gz",
+  "download_time": "2026-01-22T21:27:50.119288",
+  "package_url": "https://pypi.org/project/kbase-auth-client/"
+}

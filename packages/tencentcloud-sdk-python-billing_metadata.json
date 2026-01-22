@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-billing",
+  "version": "3.1.36",
+  "summary": "Tencent Cloud Billing SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_billing-3.1.36.tar.gz",
+  "download_time": "2026-01-22T21:27:31.129328",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-billing/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nardl-fourier",
+  "version": "1.0.0",
+  "summary": "Nonlinear ARDL with Fourier approximation and Bootstrap cointegration tests",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nardl_fourier-1.0.0.tar.gz",
+  "download_time": "2026-01-22T21:27:37.478002",
+  "package_url": "https://pypi.org/project/nardl-fourier/"
+}

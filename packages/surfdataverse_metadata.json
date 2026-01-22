@@ -1,0 +1,11 @@
+{
+  "name": "surfdataverse",
+  "version": "4.1.1",
+  "summary": "A Python package for ionysis Microsoft Dataverse integration",
+  "author": "ionysis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "surfdataverse-4.1.1.tar.gz",
+  "download_time": "2026-01-22T21:27:36.892406",
+  "package_url": "https://pypi.org/project/surfdataverse/"
+}

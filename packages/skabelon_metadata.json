@@ -1,0 +1,11 @@
+{
+  "name": "skabelon",
+  "version": "1.1.1",
+  "summary": "Create complex document templates using Jinja2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skabelon-1.1.1-py3-none-any.whl",
+  "download_time": "2026-01-22T21:27:19.089334",
+  "package_url": "https://pypi.org/project/skabelon/"
+}
