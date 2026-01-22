@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-22T21:49:04.613220
-- **Total Packages**: 84
-- **Total Size**: 50.98 MB
+- **Download Time**: 2026-01-22T22:26:38.075563
+- **Total Packages**: 88
+- **Total Size**: 10.06 MB
 
 ## Packages List
+- llcat
+- truss
+- agentpool
+- auto-reference-generator
+- uvpg
+- denes-embedder
+- j2gpp
+- socketwrapper
+- GuardianLayer
+- messthaler-wulff
+- glassure
+- cfn-check
+- mcp-cli-research-tools
+- calfem-python
+- aniate
+- fda-toolkit
+- superset-showtime
+- hud-python
+- synth-pdb
+- geofetch
+- fastmcp-client-demo
+- podkit
+- nous
+- qodacode
+- openresponses-python
+- outerbounds
+- mocap-settings
+- sloplog
+- havij_nutrition
+- fimama
+- ob-metaflow-stubs
+- snowflake-data-exchange-agent
+- snowflake-data-validation
+- sagemaker-core
+- rwa-calc
 - ob-metaflow-extensions
 - limber-timber
 - trame-vtklocal
@@ -23,19 +58,16 @@
 - deadline-cloud-for-houdini
 - pyhttp-util
 - deadline-cloud-for-blender
-- mcp-cli-research-tools
 - async43
 - compit-inext-api
 - spatelier
 - comfyui-nuvu
 - snowduck
-- aniate
 - PyTmcStepper
 - snippe
 - k3-cluster-cli
 - mmdc
 - synqly
-- fimama
 - py-docker-admin
 - confocal
 - pycivil
@@ -62,31 +94,3 @@
 - zhijiang
 - compit-inext-api-beta
 - pypomes-sob
-- tc-db-base
-- pycricinfo
-- magic_hour
-- acryl-datahub-cloud
-- dycw-utilities
-- ui-bridge-python
-- flashpack
-- olakai-sdk
-- save-scummer
-- arctic-training
-- gitconductor
-- anndict
-- payment-kit
-- st-page-state
-- robocrys
-- gluellm
-- agent-framework-lib
-- methodwebscan
-- jaxgb
-- sendspin
-- coralnet-toolbox
-- synthetic-image-caption-generator
-- deltachat-rpc-server
-- edalize
-- aind-clabe
-- mongo-charms-single-kernel
-- hummingbot
-- odoo-addon-stock-move-forced-lot

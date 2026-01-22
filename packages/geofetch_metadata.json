@@ -1,0 +1,11 @@
+{
+  "name": "geofetch",
+  "version": "0.12.10",
+  "summary": "Downloads data and metadata from GEO and SRA and creates standard PEPs.",
+  "author": "Oleksandr Khoroshevskyi, Nathan Sheffield, Vince Reuter, Nathan LeRoy",
+  "license": "BSD2",
+  "home_page": "https://github.com/pepkit/geofetch/",
+  "download_filename": "geofetch-0.12.10.tar.gz",
+  "download_time": "2026-01-22T22:25:57.444199",
+  "package_url": "https://pypi.org/project/geofetch/"
+}

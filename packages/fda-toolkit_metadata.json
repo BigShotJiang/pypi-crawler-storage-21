@@ -1,11 +1,11 @@
 {
   "name": "fda-toolkit",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "Financial Data Analysis toolkit — 67 production-ready Python functions for cleaning, validating & analyzing financial data with audit trails.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "fda_toolkit-0.2.6.tar.gz",
-  "download_time": "2026-01-21T01:53:02.713152",
+  "download_filename": "fda_toolkit-0.2.8.tar.gz",
+  "download_time": "2026-01-22T22:25:54.996902",
   "package_url": "https://pypi.org/project/fda-toolkit/"
 }

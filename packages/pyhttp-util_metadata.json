@@ -1,11 +1,11 @@
 {
   "name": "pyhttp-util",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "is a robust, strictly-typed Python library designed to simplify and standardize the manipulation of HTTP headers, authentication, and timeout configurations. It ensures compliance with RFC 7230 and provides a developer-friendly API for building and validating HTTP-related data structures.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyhttp_util-0.2.0.tar.gz",
-  "download_time": "2026-01-22T21:48:27.332143",
+  "download_filename": "pyhttp_util-0.2.1.tar.gz",
+  "download_time": "2026-01-22T22:26:16.956883",
   "package_url": "https://pypi.org/project/pyhttp-util/"
 }

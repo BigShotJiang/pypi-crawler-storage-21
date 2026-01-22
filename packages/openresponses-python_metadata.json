@@ -1,11 +1,11 @@
 {
   "name": "openresponses-python",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Un-Official Python SDK for the Open Responses standard",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openresponses_python-0.1.2.tar.gz",
-  "download_time": "2026-01-22T21:27:36.314728",
+  "download_filename": "openresponses_python-0.1.4.tar.gz",
+  "download_time": "2026-01-22T22:26:01.113274",
   "package_url": "https://pypi.org/project/openresponses-python/"
 }

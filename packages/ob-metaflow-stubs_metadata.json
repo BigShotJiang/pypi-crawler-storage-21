@@ -1,11 +1,11 @@
 {
   "name": "ob-metaflow-stubs",
-  "version": "6.0.12.2",
+  "version": "6.0.12.6",
   "summary": "Metaflow Stubs: Stubs for the metaflow package",
   "author": "Netflix, Outerbounds & the Metaflow Community",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "ob_metaflow_stubs-6.0.12.2.tar.gz",
-  "download_time": "2026-01-20T04:36:12.695232",
+  "download_filename": "ob_metaflow_stubs-6.0.12.6.tar.gz",
+  "download_time": "2026-01-22T22:26:05.049475",
   "package_url": "https://pypi.org/project/ob-metaflow-stubs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "calfem-python",
+  "version": "3.6.15",
+  "summary": "CALFEM for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "calfem_python-3.6.15.tar.gz",
+  "download_time": "2026-01-22T22:25:53.695267",
+  "package_url": "https://pypi.org/project/calfem-python/"
+}

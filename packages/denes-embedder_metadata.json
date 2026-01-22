@@ -1,0 +1,11 @@
+{
+  "name": "denes-embedder",
+  "version": "0.1.0",
+  "summary": "HTTP client SDK for DenesGPT embedder service",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "denes_embedder-0.1.0.tar.gz",
+  "download_time": "2026-01-22T22:25:48.479262",
+  "package_url": "https://pypi.org/project/denes-embedder/"
+}
