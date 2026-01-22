@@ -1,0 +1,11 @@
+{
+  "name": "ecutils",
+  "version": "1.1.5",
+  "summary": "Python Library for Elliptic Curve Cryptography: key exchanges (Diffie-Hellman, Massey-Omura), ECDSA signatures, and Koblitz encoding. Suitable for crypto education and secure systems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ecutils-1.1.5.tar.gz",
+  "download_time": "2026-01-22T01:54:02.364650",
+  "package_url": "https://pypi.org/project/ecutils/"
+}

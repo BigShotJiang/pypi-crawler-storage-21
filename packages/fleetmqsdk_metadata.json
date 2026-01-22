@@ -1,0 +1,11 @@
+{
+  "name": "fleetmqsdk",
+  "version": "0.0.19",
+  "summary": "A convenient SDK for FleetMQ",
+  "author": "Nicole",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fleetmqsdk-0.0.19.tar.gz",
+  "download_time": "2026-01-22T01:53:47.753350",
+  "package_url": "https://pypi.org/project/fleetmqsdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xmtp",
+  "version": "0.1.3",
+  "summary": "Unofficial Python SDK for the XMTP network.",
+  "author": "XMTP Python SDK contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmtp-0.1.3-py3-none-any.whl",
+  "download_time": "2026-01-22T01:53:42.926674",
+  "package_url": "https://pypi.org/project/xmtp/"
+}
