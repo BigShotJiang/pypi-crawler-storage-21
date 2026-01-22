@@ -1,11 +1,11 @@
 {
   "name": "tknops-llm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Precise Token Tracking SDK for tknOps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tknops_llm-0.0.3.tar.gz",
-  "download_time": "2026-01-20T18:38:56.323987",
+  "download_filename": "tknops_llm-0.0.4.tar.gz",
+  "download_time": "2026-01-22T17:48:16.575340",
   "package_url": "https://pypi.org/project/tknops-llm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "access-specifiers",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Fully featured access modifier library for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "access_specifiers-1.5.1.tar.gz",
-  "download_time": "2026-01-21T20:34:16.066596",
+  "download_filename": "access_specifiers-1.5.2.tar.gz",
+  "download_time": "2026-01-22T17:48:19.193320",
   "package_url": "https://pypi.org/project/access-specifiers/"
 }

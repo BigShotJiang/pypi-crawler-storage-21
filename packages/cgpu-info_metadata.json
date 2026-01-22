@@ -1,0 +1,11 @@
+{
+  "name": "cgpu-info",
+  "version": "0.2.1",
+  "summary": "Quick CUDA/GPU status summary for ML engineers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cgpu_info-0.2.1.tar.gz",
+  "download_time": "2026-01-22T17:47:42.811639",
+  "package_url": "https://pypi.org/project/cgpu-info/"
+}

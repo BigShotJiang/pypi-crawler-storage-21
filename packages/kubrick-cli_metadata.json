@@ -1,11 +1,11 @@
 {
   "name": "kubrick-cli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A CLI tool for AI-assisted coding using Triton LLM backend",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kubrick_cli-0.1.5.tar.gz",
-  "download_time": "2026-01-21T07:13:38.956235",
+  "download_filename": "kubrick_cli-0.1.6.tar.gz",
+  "download_time": "2026-01-22T17:47:42.292384",
   "package_url": "https://pypi.org/project/kubrick-cli/"
 }

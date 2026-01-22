@@ -1,0 +1,11 @@
+{
+  "name": "ogr2osm",
+  "version": "1.2.1",
+  "summary": "A tool for converting ogr-readable files like shapefiles into .osm or .pbf data",
+  "author": "Roel Derickx",
+  "license": "MIT License",
+  "home_page": "https://github.com/roelderickx/ogr2osm",
+  "download_filename": "ogr2osm-1.2.1.tar.gz",
+  "download_time": "2026-01-22T17:47:40.730518",
+  "package_url": "https://pypi.org/project/ogr2osm/"
+}

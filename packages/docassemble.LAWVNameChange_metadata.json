@@ -1,11 +1,11 @@
 {
   "name": "docassemble.LAWVNameChange",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "A docassemble extension.",
   "author": "Dane W. Henry, Esq.",
   "license": null,
   "home_page": "https://docassemble.org",
-  "download_filename": "docassemble_lawvnamechange-1.0.7.tar.gz",
-  "download_time": "2026-01-22T15:48:46.301008",
+  "download_filename": "docassemble_lawvnamechange-1.0.8.tar.gz",
+  "download_time": "2026-01-22T17:47:53.390456",
   "package_url": "https://pypi.org/project/docassemble.LAWVNameChange/"
 }

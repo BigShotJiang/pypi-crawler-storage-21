@@ -1,11 +1,11 @@
 {
   "name": "fastmcp",
-  "version": "2.14.3",
+  "version": "2.14.4",
   "summary": "The fast, Pythonic way to build MCP servers and clients.",
   "author": "Jeremiah Lowin",
   "license": null,
   "home_page": null,
-  "download_filename": "fastmcp-2.14.3.tar.gz",
-  "download_time": "2026-01-20T05:17:41.149311",
+  "download_filename": "fastmcp-2.14.4.tar.gz",
+  "download_time": "2026-01-22T17:48:14.436057",
   "package_url": "https://pypi.org/project/fastmcp/"
 }

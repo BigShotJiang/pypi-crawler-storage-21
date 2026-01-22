@@ -1,0 +1,11 @@
+{
+  "name": "afrocorpus",
+  "version": "0.1.1",
+  "summary": "A Python package for managing and querying African text corpora",
+  "author": "Ola ABOUBAKAR",
+  "license": "MIT",
+  "home_page": "https://github.com/avokan-air/afrocorpus",
+  "download_filename": "afrocorpus-0.1.1.tar.gz",
+  "download_time": "2026-01-22T17:48:01.813020",
+  "package_url": "https://pypi.org/project/afrocorpus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "interpretable-embeddings",
+  "version": "1.0.1",
+  "summary": "Package for creating rank-based interpretable and contextual embeddings.",
+  "author": null,
+  "license": "GPL-2.0",
+  "home_page": null,
+  "download_filename": "interpretable_embeddings-1.0.1.tar.gz",
+  "download_time": "2026-01-22T17:47:44.926317",
+  "package_url": "https://pypi.org/project/interpretable-embeddings/"
+}

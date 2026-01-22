@@ -1,0 +1,11 @@
+{
+  "name": "fraiseql",
+  "version": "1.9.16",
+  "summary": "GraphQL for the LLM era. Simple. Powerful. Rust-fast. Production-ready GraphQL API framework for PostgreSQL with CQRS, JSONB optimization, and type-safe mutations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fraiseql-1.9.16.tar.gz",
+  "download_time": "2026-01-22T17:48:20.788973",
+  "package_url": "https://pypi.org/project/fraiseql/"
+}

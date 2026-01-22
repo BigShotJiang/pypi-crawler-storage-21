@@ -1,0 +1,11 @@
+{
+  "name": "pylips",
+  "version": "0.0.17",
+  "summary": "An interface for embodied conversational interaction.",
+  "author": "Interaction Lab",
+  "license": "MIT license",
+  "home_page": "https://github.com/interaction-lab/PyLips",
+  "download_filename": "pylips-0.0.17.tar.gz",
+  "download_time": "2026-01-22T17:47:57.614447",
+  "package_url": "https://pypi.org/project/pylips/"
+}

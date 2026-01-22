@@ -1,0 +1,11 @@
+{
+  "name": "ml-peg",
+  "version": "0.2.1",
+  "summary": "ML potential usability and performance guide",
+  "author": "Elliott Kasoar, Joseph Hart, Ilyes Batatia, Alin M. Elena, Gábor Csányi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ml_peg-0.2.1.tar.gz",
+  "download_time": "2026-01-22T17:48:21.375715",
+  "package_url": "https://pypi.org/project/ml-peg/"
+}

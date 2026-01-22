@@ -1,11 +1,11 @@
 {
   "name": "kcwhttp",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "kcwhttp",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "kcwhttp-1.0.tar.gz",
-  "download_time": "2026-01-22T05:56:05.477384",
+  "download_filename": "kcwhttp-1.1.tar.gz",
+  "download_time": "2026-01-22T17:48:23.517967",
   "package_url": "https://pypi.org/project/kcwhttp/"
 }

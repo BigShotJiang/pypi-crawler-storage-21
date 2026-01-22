@@ -1,0 +1,11 @@
+{
+  "name": "travelpurpose",
+  "version": "2.0.7",
+  "summary": "Travel Purpose Prediction Library",
+  "author": "Teyfik Oz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "travelpurpose-2.0.7.tar.gz",
+  "download_time": "2026-01-22T17:47:50.662899",
+  "package_url": "https://pypi.org/project/travelpurpose/"
+}

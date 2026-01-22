@@ -1,0 +1,11 @@
+{
+  "name": "py-graph-imputation",
+  "version": "1.0.0",
+  "summary": "Graph Based Imputation",
+  "author": "Pradeep Bashyal",
+  "license": "LGPL 3.0",
+  "home_page": "https://github.com/nmdp-bioinformatics/py-grim",
+  "download_filename": "py_graph_imputation-1.0.0.tar.gz",
+  "download_time": "2026-01-22T17:47:50.141486",
+  "package_url": "https://pypi.org/project/py-graph-imputation/"
+}
