@@ -1,11 +1,11 @@
 {
   "name": "reminix-anthropic",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Reminix adapter for Anthropic - serve agents as REST APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reminix_anthropic-0.0.11.tar.gz",
-  "download_time": "2026-01-22T11:48:28.480495",
+  "download_filename": "reminix_anthropic-0.0.12.tar.gz",
+  "download_time": "2026-01-22T19:55:57.183803",
   "package_url": "https://pypi.org/project/reminix-anthropic/"
 }

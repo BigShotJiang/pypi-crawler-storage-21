@@ -1,11 +1,11 @@
 {
   "name": "libera_utils",
-  "version": "5.4.7",
+  "version": "5.4.8",
   "summary": "Utility package for Libera Science Data Processing and the Libera Science Data Center. Copyright 2022 University of Colorado.",
   "author": "Stephane Beland",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "libera_utils-5.4.7.tar.gz",
-  "download_time": "2026-01-21T23:51:13.177063",
+  "download_filename": "libera_utils-5.4.8.tar.gz",
+  "download_time": "2026-01-22T19:55:23.224158",
   "package_url": "https://pypi.org/project/libera_utils/"
 }

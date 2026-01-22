@@ -1,0 +1,11 @@
+{
+  "name": "foundry-ml",
+  "version": "1.2.2",
+  "summary": "Package to support simplified application of machine learning models to datasets in materials science",
+  "author": "Aristana Scourtas, KJ Schmidt, Isaac Darling, Aadit Ambadkar, Braeden Cullen,\n            Imogen Foster, Ribhav Bose, Zoa Katok, Ethan Truelove, Ian Foster, Ben Blaiszik",
+  "license": "MIT License",
+  "home_page": "https://github.com/MLMI2-CSSI/foundry",
+  "download_filename": "foundry_ml-1.2.2.tar.gz",
+  "download_time": "2026-01-22T19:55:36.444372",
+  "package_url": "https://pypi.org/project/foundry-ml/"
+}

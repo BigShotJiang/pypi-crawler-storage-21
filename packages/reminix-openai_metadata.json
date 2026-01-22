@@ -1,11 +1,11 @@
 {
   "name": "reminix-openai",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Reminix adapter for OpenAI - serve agents as REST APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reminix_openai-0.0.11.tar.gz",
-  "download_time": "2026-01-22T11:48:25.920802",
+  "download_filename": "reminix_openai-0.0.12.tar.gz",
+  "download_time": "2026-01-22T19:55:55.061274",
   "package_url": "https://pypi.org/project/reminix-openai/"
 }

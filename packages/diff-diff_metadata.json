@@ -1,11 +1,11 @@
 {
   "name": "diff-diff",
-  "version": "2.1.3",
+  "version": "2.1.5",
   "summary": "A library for Difference-in-Differences causal inference analysis",
   "author": "diff-diff contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "diff_diff-2.1.3.tar.gz",
-  "download_time": "2026-01-19T19:01:15.295198",
+  "download_filename": "diff_diff-2.1.5.tar.gz",
+  "download_time": "2026-01-22T19:56:01.551003",
   "package_url": "https://pypi.org/project/diff-diff/"
 }

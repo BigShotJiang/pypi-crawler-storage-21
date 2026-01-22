@@ -1,11 +1,11 @@
 {
   "name": "opticedge-cloud-utils",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Common utilities for cloud functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opticedge_cloud_utils-1.0.7.tar.gz",
-  "download_time": "2026-01-22T17:16:55.946264",
+  "download_filename": "opticedge_cloud_utils-1.0.8.tar.gz",
+  "download_time": "2026-01-22T19:55:35.862802",
   "package_url": "https://pypi.org/project/opticedge-cloud-utils/"
 }

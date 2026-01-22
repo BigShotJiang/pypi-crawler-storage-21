@@ -1,0 +1,11 @@
+{
+  "name": "conda-pack",
+  "version": "0.9.1",
+  "summary": "Package conda environments for redistribution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conda_pack-0.9.1.tar.gz",
+  "download_time": "2026-01-22T19:56:00.460638",
+  "package_url": "https://pypi.org/project/conda-pack/"
+}
