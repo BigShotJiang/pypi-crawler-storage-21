@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-department-analytic",
+  "version": "16.0.1.0.0.7",
+  "summary": "This module allows to specify analytic account on hr department",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_hr_department_analytic-16.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2026-01-22T08:38:44.287895",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-department-analytic/"
+}

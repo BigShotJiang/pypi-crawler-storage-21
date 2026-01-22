@@ -1,0 +1,11 @@
+{
+  "name": "thinking-prompt",
+  "version": "0.2.2",
+  "summary": "A prompt_toolkit extension that adds a thinking box above the prompt",
+  "author": "Andrey Shiryaev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "thinking_prompt-0.2.2.tar.gz",
+  "download_time": "2026-01-22T08:38:36.842503",
+  "package_url": "https://pypi.org/project/thinking-prompt/"
+}

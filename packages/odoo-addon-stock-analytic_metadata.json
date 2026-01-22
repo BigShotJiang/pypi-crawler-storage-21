@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-analytic",
+  "version": "18.0.1.1.0.6",
+  "summary": "Adds analytic distribution in stock move",
+  "author": "Julius Network Solutions, ClearCorp, OpenSynergy Indonesia, Hibou Corp., Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_stock_analytic-18.0.1.1.0.6-py3-none-any.whl",
+  "download_time": "2026-01-22T08:38:48.237542",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-analytic/"
+}

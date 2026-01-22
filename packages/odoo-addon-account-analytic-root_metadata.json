@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-analytic-root",
+  "version": "16.0.1.0.0.5",
+  "summary": "Compute the Root Analytic Account",
+  "author": "Coop IT Easy SC, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_account_analytic_root-16.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2026-01-22T08:38:42.051579",
+  "package_url": "https://pypi.org/project/odoo-addon-account-analytic-root/"
+}

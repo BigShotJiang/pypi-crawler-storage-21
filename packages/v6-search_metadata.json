@@ -1,0 +1,11 @@
+{
+  "name": "v6-search",
+  "version": "1.0.0",
+  "summary": "Intelligent search algorithm V6 for Elasticsearch with multi-dimensional document retrieval",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "v6_search-1.0.0.tar.gz",
+  "download_time": "2026-01-22T08:38:55.560786",
+  "package_url": "https://pypi.org/project/v6-search/"
+}

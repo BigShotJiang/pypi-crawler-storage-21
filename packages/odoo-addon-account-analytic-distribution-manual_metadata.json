@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-analytic-distribution-manual",
+  "version": "18.0.1.0.0.15",
+  "summary": "Account analytic distribution manual",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_account_analytic_distribution_manual-18.0.1.0.0.15-py3-none-any.whl",
+  "download_time": "2026-01-22T08:38:43.170426",
+  "package_url": "https://pypi.org/project/odoo-addon-account-analytic-distribution-manual/"
+}

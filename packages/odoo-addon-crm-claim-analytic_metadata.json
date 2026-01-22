@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-claim-analytic",
+  "version": "16.0.1.0.0.5",
+  "summary": "CRM Claim Analytic",
+  "author": "AvanzOSC, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_crm_claim_analytic-16.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2026-01-22T08:38:52.727896",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-claim-analytic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hope-os",
+  "version": "0.2.0",
+  "summary": "Multimodal cognitive kernel - 23 modules, vision, persistent memory, dream consolidation, 0.36ms latency",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/silentnoisehun/Hope-Os",
+  "download_filename": "hope_os-0.2.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-22T08:39:04.823899",
+  "package_url": "https://pypi.org/project/hope-os/"
+}

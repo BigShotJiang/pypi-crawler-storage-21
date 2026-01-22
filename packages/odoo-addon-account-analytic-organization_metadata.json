@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-analytic-organization",
+  "version": "17.0.1.0.0.3",
+  "summary": "Adds organization field on the partner so you can use it on your analytic",
+  "author": "Miquel Pascual, Bernat Obrador, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_account_analytic_organization-17.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-01-22T08:38:51.039295",
+  "package_url": "https://pypi.org/project/odoo-addon-account-analytic-organization/"
+}
