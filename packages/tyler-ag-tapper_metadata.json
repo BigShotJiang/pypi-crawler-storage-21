@@ -1,0 +1,11 @@
+{
+  "name": "tyler-ag-tapper",
+  "version": "0.1.0",
+  "summary": "A Python microservices framework for FastAPI with service discovery and API gateway routing",
+  "author": "Tapper Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tyler_ag_tapper-0.1.0.tar.gz",
+  "download_time": "2026-01-22T05:30:28.352811",
+  "package_url": "https://pypi.org/project/tyler-ag-tapper/"
+}

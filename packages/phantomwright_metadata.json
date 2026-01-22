@@ -1,0 +1,11 @@
+{
+  "name": "phantomwright",
+  "version": "0.1.4",
+  "summary": "Bridging playwright-core patch + extending playwright API for stealth injection & user simulation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phantomwright-0.1.4.tar.gz",
+  "download_time": "2026-01-22T05:30:39.937239",
+  "package_url": "https://pypi.org/project/phantomwright/"
+}

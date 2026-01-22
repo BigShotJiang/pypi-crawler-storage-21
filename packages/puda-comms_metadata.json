@@ -1,11 +1,11 @@
 {
   "name": "puda-comms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Communication library for the PUDA platform.",
   "author": "zhao",
   "license": null,
   "home_page": null,
-  "download_filename": "puda_comms-0.0.3.tar.gz",
-  "download_time": "2026-01-21T04:35:44.339582",
+  "download_filename": "puda_comms-0.0.4.tar.gz",
+  "download_time": "2026-01-22T05:31:07.332616",
   "package_url": "https://pypi.org/project/puda-comms/"
 }

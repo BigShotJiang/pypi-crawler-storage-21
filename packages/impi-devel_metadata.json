@@ -1,0 +1,11 @@
+{
+  "name": "impi-devel",
+  "version": "2021.17.2",
+  "summary": "Intel® MPI Library",
+  "author": "Intel Corporation",
+  "license": "Intel Simplified Software License",
+  "home_page": "https://software.intel.com/en-us/mpi-library",
+  "download_filename": "impi_devel-2021.17.2-py2.py3-none-win_amd64.whl",
+  "download_time": "2026-01-22T05:30:25.790531",
+  "package_url": "https://pypi.org/project/impi-devel/"
+}

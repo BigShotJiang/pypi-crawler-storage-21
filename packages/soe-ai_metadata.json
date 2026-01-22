@@ -1,0 +1,11 @@
+{
+  "name": "soe-ai",
+  "version": "0.1.2",
+  "summary": "Signal-driven Orchestration Engine - Agent orchestration with event-driven workflow engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "soe_ai-0.1.2.tar.gz",
+  "download_time": "2026-01-22T05:30:48.911557",
+  "package_url": "https://pypi.org/project/soe-ai/"
+}

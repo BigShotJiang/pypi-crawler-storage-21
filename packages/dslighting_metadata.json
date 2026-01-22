@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "2.6.32",
-  "summary": "DSLighting 2.6.32 - Fix keep_workspace parameter in run() method and improve grading error handling",
+  "version": "2.6.34",
+  "summary": "DSLighting 2.6.34 - Fix LiteLLM async cleanup to eliminate Event loop is closed / SSL transport errors",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/usail-hkust/dslighting",
-  "download_filename": "dslighting-2.6.32.tar.gz",
-  "download_time": "2026-01-22T04:51:11.098237",
+  "download_filename": "dslighting-2.6.34.tar.gz",
+  "download_time": "2026-01-22T05:30:39.424243",
   "package_url": "https://pypi.org/project/dslighting/"
 }

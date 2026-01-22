@@ -1,0 +1,11 @@
+{
+  "name": "tbb",
+  "version": "2022.3.0",
+  "summary": "Intel® oneAPI Threading Building Blocks (oneTBB)",
+  "author": "Intel Corporation",
+  "license": "Intel Simplified Software License",
+  "home_page": "https://github.com/oneapi-src/oneTBB",
+  "download_filename": "tbb-2022.3.0-py2.py3-none-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-22T05:30:24.696609",
+  "package_url": "https://pypi.org/project/tbb/"
+}

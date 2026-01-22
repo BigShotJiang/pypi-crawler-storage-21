@@ -1,0 +1,11 @@
+{
+  "name": "cytriangle",
+  "version": "3.0.2",
+  "summary": "Object-oriented Cython wrapper of Shewchuk's Triangle Library",
+  "author": "Maryanne Wachter",
+  "license": "LGPL 3.0",
+  "home_page": null,
+  "download_filename": "cytriangle-3.0.2-cp311-cp311-macosx_15_0_arm64.whl",
+  "download_time": "2026-01-22T05:30:36.826590",
+  "package_url": "https://pypi.org/project/cytriangle/"
+}
