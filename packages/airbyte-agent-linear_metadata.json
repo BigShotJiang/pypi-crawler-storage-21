@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-linear",
-  "version": "0.19.52",
+  "version": "0.19.53",
   "summary": "Airbyte Linear Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_linear-0.19.52.tar.gz",
-  "download_time": "2026-01-22T18:37:14.443091",
+  "download_filename": "airbyte_agent_linear-0.19.53.tar.gz",
+  "download_time": "2026-01-22T19:37:42.273337",
   "package_url": "https://pypi.org/project/airbyte-agent-linear/"
 }

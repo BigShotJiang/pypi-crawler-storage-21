@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dianjin20240628",
+  "version": "1.19.3",
+  "summary": "Alibaba Cloud DianJin (20240628) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_dianjin20240628-1.19.3.tar.gz",
+  "download_time": "2026-01-22T19:37:58.200458",
+  "package_url": "https://pypi.org/project/alibabacloud-dianjin20240628/"
+}

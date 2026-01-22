@@ -1,0 +1,11 @@
+{
+  "name": "trackma",
+  "version": "0.10.3",
+  "summary": "Open multi-site list manager",
+  "author": "z411",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://z411.github.io/trackma/",
+  "download_filename": "trackma-0.10.3.tar.gz",
+  "download_time": "2026-01-22T19:38:05.694831",
+  "package_url": "https://pypi.org/project/trackma/"
+}

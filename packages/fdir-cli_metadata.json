@@ -1,0 +1,11 @@
+{
+  "name": "fdir-cli",
+  "version": "3.2.1",
+  "summary": "Find and organize anything on your system",
+  "author": "VG-dev1",
+  "license": "MIT",
+  "home_page": "https://github.com/VG-dev1/fdir",
+  "download_filename": "fdir_cli-3.2.1.tar.gz",
+  "download_time": "2026-01-22T19:37:07.341689",
+  "package_url": "https://pypi.org/project/fdir-cli/"
+}

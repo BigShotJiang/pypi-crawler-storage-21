@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-stripe",
-  "version": "0.5.54",
+  "version": "0.5.55",
   "summary": "Airbyte Stripe Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_stripe-0.5.54.tar.gz",
-  "download_time": "2026-01-22T18:37:13.281430",
+  "download_filename": "airbyte_agent_stripe-0.5.55.tar.gz",
+  "download_time": "2026-01-22T19:37:37.739110",
   "package_url": "https://pypi.org/project/airbyte-agent-stripe/"
 }

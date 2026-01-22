@@ -1,11 +1,11 @@
 {
   "name": "nexus-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "An artifact-based data ingestion framework.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexus_core-1.0.0.tar.gz",
-  "download_time": "2026-01-22T19:06:00.658613",
+  "download_filename": "nexus_core-1.0.1.tar.gz",
+  "download_time": "2026-01-22T19:37:10.500546",
   "package_url": "https://pypi.org/project/nexus-core/"
 }

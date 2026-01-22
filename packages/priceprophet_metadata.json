@@ -1,11 +1,11 @@
 {
   "name": "priceprophet",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Time-Series Forecasting for Prices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "priceprophet-0.2.0.tar.gz",
-  "download_time": "2026-01-22T19:06:10.051048",
+  "download_filename": "priceprophet-0.2.1.tar.gz",
+  "download_time": "2026-01-22T19:37:31.894417",
   "package_url": "https://pypi.org/project/priceprophet/"
 }

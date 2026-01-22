@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ims20190815",
+  "version": "3.3.4",
+  "summary": "Alibaba Cloud Ims (20190815) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ims20190815-3.3.4.tar.gz",
+  "download_time": "2026-01-22T19:37:37.078190",
+  "package_url": "https://pypi.org/project/alibabacloud-ims20190815/"
+}

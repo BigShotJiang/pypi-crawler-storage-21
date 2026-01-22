@@ -1,0 +1,11 @@
+{
+  "name": "koopa-viz",
+  "version": "0.0.6",
+  "summary": "Vizualization plugin for koopa image analysis",
+  "author": "Bastian Eichenberger",
+  "license": "MIT",
+  "home_page": "https://github.com/bbquercus/koopa",
+  "download_filename": "koopa_viz-0.0.6.tar.gz",
+  "download_time": "2026-01-22T19:37:22.245795",
+  "package_url": "https://pypi.org/project/koopa-viz/"
+}

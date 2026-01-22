@@ -1,0 +1,11 @@
+{
+  "name": "polarspark",
+  "version": "0.2.5rc3",
+  "summary": "Apache Spark on Polars",
+  "author": "Khalid Mammadov",
+  "license": null,
+  "home_page": "https://github.com/khalidmammadov/polarspark",
+  "download_filename": "polarspark-0.2.5rc3.tar.gz",
+  "download_time": "2026-01-22T19:37:32.537579",
+  "package_url": "https://pypi.org/project/polarspark/"
+}

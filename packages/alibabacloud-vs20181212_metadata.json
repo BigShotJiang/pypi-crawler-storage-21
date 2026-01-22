@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-vs20181212",
+  "version": "3.5.2",
+  "summary": "Alibaba Cloud video surveillance system (20181212) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_vs20181212-3.5.2.tar.gz",
+  "download_time": "2026-01-22T19:37:42.919701",
+  "package_url": "https://pypi.org/project/alibabacloud-vs20181212/"
+}
