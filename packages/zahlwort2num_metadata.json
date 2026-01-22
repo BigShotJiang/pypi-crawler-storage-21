@@ -1,0 +1,11 @@
+{
+  "name": "zahlwort2num",
+  "version": "0.4.3",
+  "summary": "A small package for handy conversion of german numerals (also ordinal / signed) written as words to numbers.",
+  "author": "Piotr Walkowski",
+  "license": null,
+  "home_page": "https://github.com/walu2/zahlwort2num",
+  "download_filename": "zahlwort2num-0.4.3.tar.gz",
+  "download_time": "2026-01-22T10:57:38.568569",
+  "package_url": "https://pypi.org/project/zahlwort2num/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pydantic-diagram",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Generate ERD-style D2 diagrams from Pydantic models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_diagram-0.1.1.tar.gz",
-  "download_time": "2026-01-21T17:55:45.325775",
+  "download_filename": "pydantic_diagram-0.1.2.tar.gz",
+  "download_time": "2026-01-22T10:57:29.170578",
   "package_url": "https://pypi.org/project/pydantic-diagram/"
 }

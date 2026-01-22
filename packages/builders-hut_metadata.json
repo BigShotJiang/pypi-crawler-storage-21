@@ -1,11 +1,11 @@
 {
   "name": "builders-hut",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "FastAPI Scaffolding Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "builders_hut-0.4.1.tar.gz",
-  "download_time": "2026-01-21T11:02:31.982231",
+  "download_filename": "builders_hut-0.4.2.tar.gz",
+  "download_time": "2026-01-22T10:57:24.483037",
   "package_url": "https://pypi.org/project/builders-hut/"
 }

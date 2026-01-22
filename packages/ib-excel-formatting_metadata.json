@@ -1,0 +1,11 @@
+{
+  "name": "ib-excel-formatting",
+  "version": "0.1.0",
+  "summary": "Check and apply IB Excel formatting conventions (black=formulas, blue=hardcoded, green=cross-sheet, red=external/provider)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ib_excel_formatting-0.1.0.tar.gz",
+  "download_time": "2026-01-22T10:57:50.165143",
+  "package_url": "https://pypi.org/project/ib-excel-formatting/"
+}
