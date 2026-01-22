@@ -1,11 +1,11 @@
 {
   "name": "diffmanifests",
-  "version": "3.7.1",
+  "version": "3.7.2",
   "summary": "Diff Manifests via Gitiles API",
   "author": "Jia Jia",
   "license": "Apache-2.0",
   "home_page": "https://github.com/craftslab/diffmanifests",
-  "download_filename": "diffmanifests-3.7.1.tar.gz",
-  "download_time": "2026-01-22T05:55:52.704499",
+  "download_filename": "diffmanifests-3.7.2.tar.gz",
+  "download_time": "2026-01-22T06:38:56.372313",
   "package_url": "https://pypi.org/project/diffmanifests/"
 }

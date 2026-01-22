@@ -1,11 +1,11 @@
 {
   "name": "building-code-mcp",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "MCP server for searching Canadian Building Codes (NBC, OBC, BCBC, etc.)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "building_code_mcp-1.0.5.tar.gz",
-  "download_time": "2026-01-22T05:56:15.924254",
+  "download_filename": "building_code_mcp-1.0.6.tar.gz",
+  "download_time": "2026-01-22T06:39:00.060969",
   "package_url": "https://pypi.org/project/building-code-mcp/"
 }

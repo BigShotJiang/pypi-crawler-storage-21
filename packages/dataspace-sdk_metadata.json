@@ -1,0 +1,11 @@
+{
+  "name": "dataspace-sdk",
+  "version": "0.4.15",
+  "summary": "Python SDK for DataSpace API",
+  "author": "CivicDataLab",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/CivicDataLab/DataExchange",
+  "download_filename": "dataspace_sdk-0.4.15.tar.gz",
+  "download_time": "2026-01-22T06:38:55.327596",
+  "package_url": "https://pypi.org/project/dataspace-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-ninja-ts",
+  "version": "1.0.0",
+  "summary": "Auto-generate TypeScript clients for Django Ninja during runserver",
+  "author": "Django Ninja TS Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_ninja_ts-1.0.0.tar.gz",
+  "download_time": "2026-01-22T06:38:55.838602",
+  "package_url": "https://pypi.org/project/django-ninja-ts/"
+}

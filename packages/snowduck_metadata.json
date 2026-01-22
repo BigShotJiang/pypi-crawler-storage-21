@@ -1,0 +1,11 @@
+{
+  "name": "snowduck",
+  "version": "0.0.2",
+  "summary": "Run Snowflake SQL locally, powered by DuckDB - lightweight in-memory SQL engine for development and testing",
+  "author": "hupe1980",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snowduck-0.0.2.tar.gz",
+  "download_time": "2026-01-22T06:38:36.903267",
+  "package_url": "https://pypi.org/project/snowduck/"
+}

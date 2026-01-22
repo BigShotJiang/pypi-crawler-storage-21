@@ -1,0 +1,11 @@
+{
+  "name": "hopeit.config-manager",
+  "version": "0.28.1",
+  "summary": "Hopeit Engine Config Manager Plugin",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hopeit_config_manager-0.28.1.tar.gz",
+  "download_time": "2026-01-22T06:39:03.168109",
+  "package_url": "https://pypi.org/project/hopeit.config-manager/"
+}
