@@ -1,0 +1,11 @@
+{
+  "name": "vespatune",
+  "version": "0.0.3",
+  "summary": "vespatune: no-code training for tabular models",
+  "author": "Abhishek Thakur",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "vespatune-0.0.3.tar.gz",
+  "download_time": "2026-01-22T16:39:19.846519",
+  "package_url": "https://pypi.org/project/vespatune/"
+}

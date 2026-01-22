@@ -1,0 +1,11 @@
+{
+  "name": "exoscale",
+  "version": "0.16.1",
+  "summary": "Clients for Exoscale IaaS APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exoscale-0.16.1.tar.gz",
+  "download_time": "2026-01-22T16:39:29.383896",
+  "package_url": "https://pypi.org/project/exoscale/"
+}

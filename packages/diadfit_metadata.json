@@ -1,0 +1,11 @@
+{
+  "name": "diadfit",
+  "version": "1.0.17",
+  "summary": "DiadFit",
+  "author": "Penny Wieser",
+  "license": null,
+  "home_page": "https://github.com/PennyWieser/DiadFit",
+  "download_filename": "diadfit-1.0.17.tar.gz",
+  "download_time": "2026-01-22T16:39:30.039919",
+  "package_url": "https://pypi.org/project/diadfit/"
+}

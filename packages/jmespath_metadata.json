@@ -1,0 +1,11 @@
+{
+  "name": "jmespath",
+  "version": "1.1.0",
+  "summary": "JSON Matching Expressions",
+  "author": "James Saryerwinnie",
+  "license": "MIT",
+  "home_page": "https://github.com/jmespath/jmespath.py",
+  "download_filename": "jmespath-1.1.0.tar.gz",
+  "download_time": "2026-01-22T16:38:51.904516",
+  "package_url": "https://pypi.org/project/jmespath/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastfetch-bin",
+  "version": "2.57.1",
+  "summary": "A thin wrapper to distribute https://github.com/fastfetch-cli/fastfetch via pip.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastfetch_bin-2.57.1-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-22T16:39:33.480559",
+  "package_url": "https://pypi.org/project/fastfetch-bin/"
+}
