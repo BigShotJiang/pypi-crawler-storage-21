@@ -1,0 +1,11 @@
+{
+  "name": "django-aux",
+  "version": "0.0.97",
+  "summary": "Useful Mixins for Django Projects",
+  "author": "Jordan Hyatt",
+  "license": "MIT  # Example license",
+  "home_page": "https://github.com/JordanHyatt/django-aux",
+  "download_filename": "django_aux-0.0.97.tar.gz",
+  "download_time": "2026-01-22T20:55:41.365934",
+  "package_url": "https://pypi.org/project/django-aux/"
+}

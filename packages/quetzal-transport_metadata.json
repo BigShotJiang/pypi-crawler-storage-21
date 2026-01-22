@@ -1,11 +1,11 @@
 {
   "name": "quetzal-transport",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "summary": "modeling library for transport planning",
   "author": "Quentin Chasserieau",
   "license": "CECILL-B",
   "home_page": null,
-  "download_filename": "quetzal_transport-3.1.2.tar.gz",
-  "download_time": "2026-01-20T16:37:53.306110",
+  "download_filename": "quetzal_transport-3.1.3.tar.gz",
+  "download_time": "2026-01-22T20:55:19.745099",
   "package_url": "https://pypi.org/project/quetzal-transport/"
 }

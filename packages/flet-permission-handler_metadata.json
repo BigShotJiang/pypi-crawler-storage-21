@@ -1,11 +1,11 @@
 {
   "name": "flet-permission-handler",
-  "version": "0.80.2",
+  "version": "0.80.3",
   "summary": "Manage runtime permissions in Flet apps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flet_permission_handler-0.80.2.tar.gz",
-  "download_time": "2026-01-20T05:18:02.803190",
+  "download_filename": "flet_permission_handler-0.80.3.tar.gz",
+  "download_time": "2026-01-22T20:55:49.423732",
   "package_url": "https://pypi.org/project/flet-permission-handler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "uvllang",
+  "version": "0.2.2",
+  "summary": "Parser for the Universal Variability Language (UVL) with conversion support to CNF/SMT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uvllang-0.2.2.tar.gz",
+  "download_time": "2026-01-22T20:55:23.349915",
+  "package_url": "https://pypi.org/project/uvllang/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "conviso-cli",
-  "version": "2.7.3",
+  "version": "2.7.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "conviso_cli-2.7.3.tar.gz",
-  "download_time": "2026-01-20T12:53:41.344670",
+  "download_filename": "conviso_cli-2.7.4.tar.gz",
+  "download_time": "2026-01-22T20:55:25.558620",
   "package_url": "https://pypi.org/project/conviso-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-gamelift",
+  "version": "1.42.33",
+  "summary": "Type annotations for boto3 GameLift 1.42.33 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_gamelift-1.42.33.tar.gz",
+  "download_time": "2026-01-22T20:55:33.793297",
+  "package_url": "https://pypi.org/project/mypy-boto3-gamelift/"
+}

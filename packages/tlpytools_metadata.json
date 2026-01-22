@@ -1,0 +1,11 @@
+{
+  "name": "tlpytools",
+  "version": "0.1.15",
+  "summary": "TransLink's Python Tools - A comprehensive toolkit for transportation modeling and forecasting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tlpytools-0.1.15.tar.gz",
+  "download_time": "2026-01-22T20:55:46.110447",
+  "package_url": "https://pypi.org/project/tlpytools/"
+}

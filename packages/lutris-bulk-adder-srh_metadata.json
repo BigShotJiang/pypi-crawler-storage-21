@@ -1,0 +1,11 @@
+{
+  "name": "lutris-bulk-adder-srh",
+  "version": "0.1.1",
+  "summary": "Python script to bulk import a directory of ROM files into Lutris",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lutris_bulk_adder_srh-0.1.1.tar.gz",
+  "download_time": "2026-01-22T20:55:18.615985",
+  "package_url": "https://pypi.org/project/lutris-bulk-adder-srh/"
+}
