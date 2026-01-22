@@ -1,0 +1,11 @@
+{
+  "name": "pyplaid",
+  "version": "0.1.13",
+  "summary": "A package that implements a data model tailored for AI and ML in the context of physics problems",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "pyplaid-0.1.13-py3-none-any.whl",
+  "download_time": "2026-01-22T07:43:30.485114",
+  "package_url": "https://pypi.org/project/pyplaid/"
+}

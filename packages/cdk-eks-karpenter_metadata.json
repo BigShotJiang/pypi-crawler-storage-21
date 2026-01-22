@@ -1,0 +1,11 @@
+{
+  "name": "cdk-eks-karpenter",
+  "version": "1.0.19",
+  "summary": "CDK construct library that allows you install Karpenter in an AWS EKS cluster",
+  "author": "Andreas Lindh<elindh@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aws-samples/cdk-eks-karpenter.git",
+  "download_filename": "cdk_eks_karpenter-1.0.19.tar.gz",
+  "download_time": "2026-01-22T07:43:35.902938",
+  "package_url": "https://pypi.org/project/cdk-eks-karpenter/"
+}

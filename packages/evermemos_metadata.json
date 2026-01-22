@@ -1,0 +1,11 @@
+{
+  "name": "evermemos",
+  "version": "0.1.0",
+  "summary": "The official Python library for the EverMemOSClient API",
+  "author": "Ever Mem Os Client",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "evermemos-0.1.0.tar.gz",
+  "download_time": "2026-01-22T07:43:19.869304",
+  "package_url": "https://pypi.org/project/evermemos/"
+}

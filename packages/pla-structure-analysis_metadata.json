@@ -1,11 +1,11 @@
 {
   "name": "pla-structure-analysis",
-  "version": "0.1.8",
+  "version": "0.2.2",
   "summary": "This library has two functions to analyse PLA structures both from tensile test and a rigid body",
   "author": "Unai López, Maialen Bilbao, Unax Latorre, Aimar Plaza",
   "license": null,
   "home_page": null,
-  "download_filename": "pla_structure_analysis-0.1.8.tar.gz",
-  "download_time": "2026-01-21T17:56:03.532245",
+  "download_filename": "pla_structure_analysis-0.2.2.tar.gz",
+  "download_time": "2026-01-22T07:43:19.322224",
   "package_url": "https://pypi.org/project/pla-structure-analysis/"
 }

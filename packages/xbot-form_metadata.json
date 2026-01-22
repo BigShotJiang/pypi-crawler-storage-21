@@ -1,11 +1,11 @@
 {
   "name": "xbot-form",
-  "version": "0.1.1",
-  "summary": "Windows-only Python SDK for WebView forms",
-  "author": null,
-  "license": null,
+  "version": "0.2.3",
+  "summary": "Windows-only Python SDK for rendering JSON Schema forms in WebView2",
+  "author": "XBot Team",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "xbot_form-0.1.1.tar.gz",
-  "download_time": "2026-01-22T05:30:34.190602",
+  "download_filename": "xbot_form-0.2.3.tar.gz",
+  "download_time": "2026-01-22T07:43:24.972041",
   "package_url": "https://pypi.org/project/xbot-form/"
 }

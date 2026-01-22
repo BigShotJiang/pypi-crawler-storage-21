@@ -1,11 +1,11 @@
 {
   "name": "bentwookie",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "AI coding loop workflow manager with SQLite state and Claude Agent SDK integration",
   "author": "BentWookie Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bentwookie-0.2.0.tar.gz",
-  "download_time": "2026-01-22T06:38:40.020347",
+  "download_filename": "bentwookie-0.2.2.tar.gz",
+  "download_time": "2026-01-22T07:43:33.492285",
   "package_url": "https://pypi.org/project/bentwookie/"
 }

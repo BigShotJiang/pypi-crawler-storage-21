@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_lyftium-inc-msfconsole-mcp",
+  "version": "5.1.2",
+  "summary": "Complete MSF ecosystem MCP server with 95%+ coverage (58 tools)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_lyftium_inc_msfconsole_mcp-5.1.2.tar.gz",
+  "download_time": "2026-01-22T07:43:20.414592",
+  "package_url": "https://pypi.org/project/iflow-mcp_lyftium-inc-msfconsole-mcp/"
+}

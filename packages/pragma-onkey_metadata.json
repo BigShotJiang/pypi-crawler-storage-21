@@ -1,11 +1,11 @@
 {
   "name": "pragma-onkey",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Pragma/OnKey SOAP client library.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "pragma_onkey-0.0.1.tar.gz",
-  "download_time": "2026-01-20T11:48:39.908621",
+  "download_filename": "pragma_onkey-0.0.2.tar.gz",
+  "download_time": "2026-01-22T07:43:24.400687",
   "package_url": "https://pypi.org/project/pragma-onkey/"
 }

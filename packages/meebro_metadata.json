@@ -1,11 +1,11 @@
 {
   "name": "meebro",
-  "version": "2.0.18",
+  "version": "2.0.19",
   "summary": "A small example package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meebro-2.0.18-py3-none-any.whl",
-  "download_time": "2026-01-22T07:05:28.960054",
+  "download_filename": "meebro-2.0.19-py3-none-any.whl",
+  "download_time": "2026-01-22T07:43:40.792585",
   "package_url": "https://pypi.org/project/meebro/"
 }

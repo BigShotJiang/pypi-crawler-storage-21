@@ -1,0 +1,11 @@
+{
+  "name": "ccloc",
+  "version": "0.1.2",
+  "summary": "Just Count Total Line Of Code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccloc-0.1.2.tar.gz",
+  "download_time": "2026-01-22T07:43:25.518472",
+  "package_url": "https://pypi.org/project/ccloc/"
+}
