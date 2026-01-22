@@ -1,11 +1,11 @@
 {
   "name": "sofinco",
-  "version": "1.3.2",
-  "summary": "Bahasa Pemrograman Sofinco - Sintaks Bahasa Makassar Berbasis Python",
+  "version": "2.0.1",
+  "summary": "Bahasa Pemrograman Sofinco - Sintaks Bahasa Bugis-Makassar Berbasis Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sofinco-1.3.2.tar.gz",
-  "download_time": "2026-01-21T05:21:12.876251",
+  "download_filename": "sofinco-2.0.1.tar.gz",
+  "download_time": "2026-01-22T10:29:50.793052",
   "package_url": "https://pypi.org/project/sofinco/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "datarobot-genai",
-  "version": "0.2.35",
+  "version": "0.2.36",
   "summary": "Generic helpers for GenAI",
   "author": "DataRobot, Inc.",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "datarobot_genai-0.2.35.tar.gz",
-  "download_time": "2026-01-21T21:04:51.364448",
+  "download_filename": "datarobot_genai-0.2.36.tar.gz",
+  "download_time": "2026-01-22T10:29:59.661292",
   "package_url": "https://pypi.org/project/datarobot-genai/"
 }

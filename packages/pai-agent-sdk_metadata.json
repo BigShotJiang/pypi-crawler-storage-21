@@ -1,11 +1,11 @@
 {
   "name": "pai-agent-sdk",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Application framework for building AI agents with Pydantic AI - environment abstractions, session management, and hierarchical agent patterns",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pai_agent_sdk-0.6.0.tar.gz",
-  "download_time": "2026-01-22T07:05:34.877419",
+  "download_filename": "pai_agent_sdk-0.6.1.tar.gz",
+  "download_time": "2026-01-22T10:29:45.078282",
   "package_url": "https://pypi.org/project/pai-agent-sdk/"
 }

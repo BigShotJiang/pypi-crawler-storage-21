@@ -1,0 +1,11 @@
+{
+  "name": "django-nets-core",
+  "version": "0.2.18",
+  "summary": "A lazy API rest request handler.",
+  "author": "Norman Torres",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/esbozos/django-nets-core",
+  "download_filename": "django_nets_core-0.2.18.tar.gz",
+  "download_time": "2026-01-22T10:29:58.628884",
+  "package_url": "https://pypi.org/project/django-nets-core/"
+}

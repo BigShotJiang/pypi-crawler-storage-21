@@ -1,0 +1,11 @@
+{
+  "name": "xtgeo",
+  "version": "4.16.2",
+  "summary": "XTGeo is a Python library for 3D grids, surfaces, wells, etc",
+  "author": null,
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "xtgeo-4.16.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-22T10:29:55.516024",
+  "package_url": "https://pypi.org/project/xtgeo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "project-logger",
+  "version": "1.4.1",
+  "summary": "A security logging package for Python projects",
+  "author": "Funnel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "project_logger-1.4.1.tar.gz",
+  "download_time": "2026-01-22T10:30:22.070606",
+  "package_url": "https://pypi.org/project/project-logger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "voidshred",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "Secure file shredder",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "voidshred-1.0.0.tar.gz",
-  "download_time": "2026-01-20T10:29:31.870944",
+  "download_filename": "voidshred-2.0.0.tar.gz",
+  "download_time": "2026-01-22T10:30:21.031873",
   "package_url": "https://pypi.org/project/voidshred/"
 }

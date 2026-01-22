@@ -1,0 +1,11 @@
+{
+  "name": "binpacking",
+  "version": "2.0.1",
+  "summary": "Heuristic distribution of weighted items to bins (either a fixed number of bins or a fixed number of volume per bin). Data may be in form of list, dictionary, list of tuples or csv-file.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binpacking-2.0.1.tar.gz",
+  "download_time": "2026-01-22T10:29:41.972537",
+  "package_url": "https://pypi.org/project/binpacking/"
+}

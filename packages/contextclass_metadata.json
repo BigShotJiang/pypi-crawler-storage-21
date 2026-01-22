@@ -1,11 +1,11 @@
 {
   "name": "contextclass",
-  "version": "0.1.2",
+  "version": "0.3.0",
   "summary": "A nice interface to context variables",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "contextclass-0.1.2.tar.gz",
-  "download_time": "2026-01-22T09:48:46.405677",
+  "download_filename": "contextclass-0.3.0.tar.gz",
+  "download_time": "2026-01-22T10:29:58.107187",
   "package_url": "https://pypi.org/project/contextclass/"
 }
