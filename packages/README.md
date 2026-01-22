@@ -1,15 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-22T23:15:58.596553
-- **Total Packages**: 84
-- **Total Size**: 25.03 MB
+- **Download Time**: 2026-01-22T23:24:14.772832
+- **Total Packages**: 82
+- **Total Size**: 11.4 MB
 
 ## Packages List
+- openinference-instrumentation-pydantic-ai
+- oraicle
+- firecrawl
+- firecrawl-py
+- endoreg-db
+- agent-sdk-core
+- dynamic-alias
+- aitestlist-mcp
+- moncreneau
+- esphome
+- fastlane-mcp
+- obsidian-notes-rag
+- citysketch
+- freealg
+- rbx.cp
+- substratumx
+- clarity-api-sdk-python
+- dycw-actions
+- aws-inventory-manager
+- march-agent
+- eyepop
+- dycw-restic
+- django-orbit
+- uipath
 - litestar-start
 - servicex
 - markdoc-py
-- fastlane-mcp
 - datarax
 - aptoro
 - dpm-srg
@@ -21,7 +44,6 @@
 - eqcctpro
 - img-phy-sim
 - easy-sm
-- aws-inventory-manager
 - dkist-processing-core
 - flwr-nightly
 - camb-sdk
@@ -51,9 +73,7 @@
 - dycw-utilities
 - claude-code-log
 - spatialcore
-- citysketch
 - keycycle
-- moncreneau
 - langflow-nightly
 - nbstata
 - skypydb
@@ -68,25 +88,3 @@
 - chatlas
 - letta-client
 - daylight-evapotranspiration
-- pyhuec
-- mcp-server-coverage-report
-- keyword-insights-mcp
-- koi-net
-- ark-email
-- endoreg-db
-- audio-visualizer-python
-- ultrasav
-- nardl-fourier
-- sagemaker-train
-- firecrawl
-- django-orbit
-- firecrawl-py
-- tristero
-- finter
-- cjm-fasthtml-lucide-icons
-- react-router-routes
-- microbeads
-- tuitorial
-- find-me-a-house
-- nci-cidc-api-modules
-- geonest

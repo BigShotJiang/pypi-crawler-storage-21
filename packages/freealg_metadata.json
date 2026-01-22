@@ -1,11 +1,11 @@
 {
   "name": "freealg",
-  "version": "0.7.9",
+  "version": "0.7.10",
   "summary": "Free probability for large matrices",
   "author": null,
   "license": null,
   "home_page": "https://github.com/ameli/freealg",
-  "download_filename": "freealg-0.7.9.tar.gz",
-  "download_time": "2026-01-22T15:04:24.639824",
+  "download_filename": "freealg-0.7.10.tar.gz",
+  "download_time": "2026-01-22T23:23:34.656472",
   "package_url": "https://pypi.org/project/freealg/"
 }
