@@ -1,0 +1,11 @@
+{
+  "name": "kronolapse",
+  "version": "0.2.0a1",
+  "summary": "Management the display of images on a monitor according to a schedule and time intervals",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kronolapse-0.2.0a1.tar.gz",
+  "download_time": "2026-01-22T07:05:52.154409",
+  "package_url": "https://pypi.org/project/kronolapse/"
+}

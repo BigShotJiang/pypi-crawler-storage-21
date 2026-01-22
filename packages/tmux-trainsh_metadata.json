@@ -1,11 +1,11 @@
 {
   "name": "tmux-trainsh",
-  "version": "0.18.0",
+  "version": "0.21.0",
   "summary": "GPU training workflow automation with tmux",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tmux_trainsh-0.18.0.tar.gz",
-  "download_time": "2026-01-22T05:55:50.620586",
+  "download_filename": "tmux_trainsh-0.21.0.tar.gz",
+  "download_time": "2026-01-22T07:05:30.040637",
   "package_url": "https://pypi.org/project/tmux-trainsh/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "recallrai",
-  "version": "0.5.6",
+  "version": "0.5.8",
   "summary": "Official Python SDK for RecallrAI - Revolutionary contextual memory system that enables AI assistants to form meaningful connections between conversations, just like human memory.",
   "author": "Devasheesh Mishra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "recallrai-0.5.6.tar.gz",
-  "download_time": "2026-01-21T19:19:32.537117",
+  "download_filename": "recallrai-0.5.8.tar.gz",
+  "download_time": "2026-01-22T07:05:40.583533",
   "package_url": "https://pypi.org/project/recallrai/"
 }

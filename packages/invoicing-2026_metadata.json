@@ -1,0 +1,11 @@
+{
+  "name": "invoicing-2026",
+  "version": "1.0.0",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "Ardit Sulce",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "invoicing_2026-1.0.0.tar.gz",
+  "download_time": "2026-01-22T07:05:37.474103",
+  "package_url": "https://pypi.org/project/invoicing-2026/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cs50",
+  "version": "9.5.0",
+  "summary": "CS50 library for Python",
+  "author": "CS50",
+  "license": "GPLv3",
+  "home_page": "https://github.com/cs50/python-cs50",
+  "download_filename": "cs50-9.5.0.tar.gz",
+  "download_time": "2026-01-22T07:05:27.921441",
+  "package_url": "https://pypi.org/project/cs50/"
+}

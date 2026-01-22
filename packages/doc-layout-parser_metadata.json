@@ -1,0 +1,11 @@
+{
+  "name": "doc-layout-parser",
+  "version": "2.5.6",
+  "summary": "Пакет для разбивки различных документов (docx, pdf, изображения) на страницы, блоки, строки и слова",
+  "author": "Aksenov Mikhail",
+  "license": null,
+  "home_page": null,
+  "download_filename": "doc_layout_parser-2.5.6.tar.gz",
+  "download_time": "2026-01-22T07:05:57.400772",
+  "package_url": "https://pypi.org/project/doc-layout-parser/"
+}

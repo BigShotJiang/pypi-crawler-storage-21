@@ -1,0 +1,11 @@
+{
+  "name": "askgpt",
+  "version": "2.0.0",
+  "summary": "askGPT - Multi-provider AI agent CLI with offline-first support",
+  "author": "Meir Michanie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "askgpt-2.0.0.tar.gz",
+  "download_time": "2026-01-22T07:05:49.024692",
+  "package_url": "https://pypi.org/project/askgpt/"
+}
