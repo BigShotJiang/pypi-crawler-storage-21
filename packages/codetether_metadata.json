@@ -1,11 +1,11 @@
 {
   "name": "codetether",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "summary": "CodeTether: A2A Protocol v0.3 compliant agent orchestration platform with MCP + OpenCode integration",
   "author": "CodeTether Contributors",
   "license": null,
   "home_page": "https://github.com/rileyseaburg/codetether",
-  "download_filename": "codetether-1.4.1.tar.gz",
-  "download_time": "2026-01-22T07:57:40.488937",
+  "download_filename": "codetether-1.4.3.tar.gz",
+  "download_time": "2026-01-22T09:07:03.623595",
   "package_url": "https://pypi.org/project/codetether/"
 }

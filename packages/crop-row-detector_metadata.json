@@ -1,11 +1,11 @@
 {
   "name": "crop-row-detector",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Crop Row Detector.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crop_row_detector-0.2.0.tar.gz",
-  "download_time": "2026-01-21T19:51:39.321699",
+  "download_filename": "crop_row_detector-0.2.1.tar.gz",
+  "download_time": "2026-01-22T09:06:33.204375",
   "package_url": "https://pypi.org/project/crop-row-detector/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "multineas",
-  "version": "0.2.7",
+  "version": "0.2.16",
   "summary": "MultiNEAs: Numerical tools for near-earth asteroid dynamics and population",
   "author": "Jorge I. Zuluaga, Juanita A. Agudelo",
   "license": "AGPL-3.0-only",
   "home_page": "https://github.com/seap-udea/MultiNEAs",
-  "download_filename": "multineas-0.2.7.tar.gz",
-  "download_time": "2026-01-22T07:57:20.707941",
+  "download_filename": "multineas-0.2.16.tar.gz",
+  "download_time": "2026-01-22T09:06:23.087902",
   "package_url": "https://pypi.org/project/multineas/"
 }

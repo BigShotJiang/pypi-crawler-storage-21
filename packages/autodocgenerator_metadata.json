@@ -1,11 +1,11 @@
 {
   "name": "autodocgenerator",
-  "version": "0.6.1",
+  "version": "0.6.5",
   "summary": "This Project helps you to create docs for your projects",
   "author": "dima-on",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autodocgenerator-0.6.1.tar.gz",
-  "download_time": "2026-01-22T03:50:25.564123",
+  "download_filename": "autodocgenerator-0.6.5.tar.gz",
+  "download_time": "2026-01-22T09:06:36.757963",
   "package_url": "https://pypi.org/project/autodocgenerator/"
 }

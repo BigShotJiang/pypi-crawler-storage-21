@@ -1,0 +1,11 @@
+{
+  "name": "pinscrape",
+  "version": "5.1.0",
+  "summary": "Pinterest | a simple data scraper for pinterest",
+  "author": "Atul Singh",
+  "license": null,
+  "home_page": "https://github.com/iamatulsingh/pinscrape",
+  "download_filename": "pinscrape-5.1.0.tar.gz",
+  "download_time": "2026-01-22T09:06:23.670524",
+  "package_url": "https://pypi.org/project/pinscrape/"
+}

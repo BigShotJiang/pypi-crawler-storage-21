@@ -1,0 +1,11 @@
+{
+  "name": "ios-unittest-generator",
+  "version": "4.19.4",
+  "summary": "MCP Server for generating iOS unit tests for Chromium/Edge projects",
+  "author": "Microsoft Edge iOS Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ios_unittest_generator-4.19.4.tar.gz",
+  "download_time": "2026-01-22T09:06:31.455833",
+  "package_url": "https://pypi.org/project/ios-unittest-generator/"
+}

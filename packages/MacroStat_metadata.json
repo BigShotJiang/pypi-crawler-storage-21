@@ -1,0 +1,11 @@
+{
+  "name": "MacroStat",
+  "version": "0.5.7",
+  "summary": "A Package providing multiple tools for the statistical analysis and treatment of macroeconomic simulation models, with a particular focus on Agent-based and Stock-Flow Consistent Models",
+  "author": "Karl Naumann-Woleske",
+  "license": "MIT",
+  "home_page": "https://github.com/KarlNaumann/MacroStat",
+  "download_filename": "macrostat-0.5.7.tar.gz",
+  "download_time": "2026-01-22T09:06:52.193879",
+  "package_url": "https://pypi.org/project/MacroStat/"
+}

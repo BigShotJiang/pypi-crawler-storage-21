@@ -1,0 +1,11 @@
+{
+  "name": "jinja2-async-environment",
+  "version": "0.18.7",
+  "summary": "Provides asynchronous alternatives to Jinja2's standard template environment and loaders",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jinja2_async_environment-0.18.7.tar.gz",
+  "download_time": "2026-01-22T09:06:25.442409",
+  "package_url": "https://pypi.org/project/jinja2-async-environment/"
+}
