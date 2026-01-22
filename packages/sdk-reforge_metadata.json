@@ -1,0 +1,11 @@
+{
+  "name": "sdk-reforge",
+  "version": "1.2.0",
+  "summary": "Python sdk for Reforge Feature Flags and Config as a Service: https://www.reforge.com",
+  "author": "Michael Berkowitz",
+  "license": "MIT",
+  "home_page": "https://www.reforge.com",
+  "download_filename": "sdk_reforge-1.2.0.tar.gz",
+  "download_time": "2026-01-22T20:31:15.684461",
+  "package_url": "https://pypi.org/project/sdk-reforge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auraloom",
+  "version": "1.0.3",
+  "summary": "Ultimate CLI for downloading and converting online media to audio with AI, music analysis, and cloud sync",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "auraloom-1.0.3.tar.gz",
+  "download_time": "2026-01-22T20:31:11.005091",
+  "package_url": "https://pypi.org/project/auraloom/"
+}

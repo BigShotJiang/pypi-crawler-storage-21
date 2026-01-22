@@ -1,0 +1,11 @@
+{
+  "name": "pyright-to-gitlab",
+  "version": "1.2.0",
+  "summary": "Convert Pyright JSON output to GitLab CI/CD format",
+  "author": "Micha Schöll",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyright_to_gitlab-1.2.0.tar.gz",
+  "download_time": "2026-01-22T20:31:18.298711",
+  "package_url": "https://pypi.org/project/pyright-to-gitlab/"
+}
