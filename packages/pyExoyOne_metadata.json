@@ -1,0 +1,11 @@
+{
+  "name": "pyExoyOne",
+  "version": "1.0.12",
+  "summary": "Python library to configure and control the Exoy(tm) ONE.",
+  "author": "Avi Miller",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyexoyone-1.0.12.tar.gz",
+  "download_time": "2026-01-22T13:49:50.790164",
+  "package_url": "https://pypi.org/project/pyExoyOne/"
+}

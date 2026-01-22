@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-acerta",
+  "version": "1.1.1",
+  "summary": "Acerta wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_acerta-1.1.1.tar.gz",
+  "download_time": "2026-01-22T13:50:17.596322",
+  "package_url": "https://pypi.org/project/brynq-sdk-acerta/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Neurotorchmz",
+  "version": "26.1.0",
+  "summary": "Neurotorch is a tool designed to extract regions of synaptic activity in neurons tagges with iGluSnFR, but is in general capable to find any kind of local brightness increase due to synaptic activity",
+  "author": "Andreas Brilka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neurotorchmz-26.1.0.tar.gz",
+  "download_time": "2026-01-22T13:50:03.784397",
+  "package_url": "https://pypi.org/project/Neurotorchmz/"
+}

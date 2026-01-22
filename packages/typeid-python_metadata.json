@@ -1,0 +1,11 @@
+{
+  "name": "typeid-python",
+  "version": "0.3.8",
+  "summary": "Python implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typeid_python-0.3.8.tar.gz",
+  "download_time": "2026-01-22T13:50:03.261484",
+  "package_url": "https://pypi.org/project/typeid-python/"
+}

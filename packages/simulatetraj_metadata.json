@@ -1,0 +1,11 @@
+{
+  "name": "simulatetraj",
+  "version": "0.0.5",
+  "summary": "a class to integrate ordinary differential equation",
+  "author": "sandeep",
+  "license": "LGPL V3",
+  "home_page": "http://simulatetraj.rtfd.io/",
+  "download_filename": "simulatetraj-0.0.5.tar.gz",
+  "download_time": "2026-01-22T13:49:57.117207",
+  "package_url": "https://pypi.org/project/simulatetraj/"
+}
