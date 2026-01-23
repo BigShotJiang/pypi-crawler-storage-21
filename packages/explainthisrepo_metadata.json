@@ -1,11 +1,11 @@
 {
   "name": "explainthisrepo",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "ExplainThisRepo is a CLI developer tool to quickly explain GitHub repository in plain English",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "explainthisrepo-0.1.8.tar.gz",
-  "download_time": "2026-01-22T23:57:24.833073",
+  "download_filename": "explainthisrepo-0.2.0.tar.gz",
+  "download_time": "2026-01-23T15:43:56.629501",
   "package_url": "https://pypi.org/project/explainthisrepo/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gwas-norm",
+  "version": "0.4.0b2",
+  "summary": "Normalise GWAS studies and map association to rsIDs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwas_norm-0.4.0b2.tar.gz",
+  "download_time": "2026-01-23T15:44:08.083703",
+  "package_url": "https://pypi.org/project/gwas-norm/"
+}

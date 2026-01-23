@@ -1,0 +1,11 @@
+{
+  "name": "QT-PyQt-PySide-Custom-Widgets",
+  "version": "2.0.9",
+  "summary": "A comprehensive library of custom Qt widgets, animations, and UI components for PySide and PyQt desktop applications.",
+  "author": "Khamisi Kibet",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/SpinnCompany/QT-PyQt-PySide-Custom-Widgets",
+  "download_filename": "qt_pyqt_pyside_custom_widgets-2.0.9.tar.gz",
+  "download_time": "2026-01-23T15:44:03.134782",
+  "package_url": "https://pypi.org/project/QT-PyQt-PySide-Custom-Widgets/"
+}

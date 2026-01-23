@@ -1,0 +1,11 @@
+{
+  "name": "pysmspp",
+  "version": "0.0.2",
+  "summary": "Basic interface to interact with SMS++",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysmspp-0.0.2.tar.gz",
+  "download_time": "2026-01-23T15:43:32.098263",
+  "package_url": "https://pypi.org/project/pysmspp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qhash-python",
+  "version": "0.1.16",
+  "summary": "QhashAI SDK to integrate quantumhash.me APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qhash_python-0.1.16.tar.gz",
+  "download_time": "2026-01-23T15:44:05.392906",
+  "package_url": "https://pypi.org/project/qhash-python/"
+}

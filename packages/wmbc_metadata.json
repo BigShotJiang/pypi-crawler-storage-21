@@ -1,0 +1,11 @@
+{
+  "name": "wmbc",
+  "version": "1.0.5",
+  "summary": "Wireless Modbus Bridge Controller",
+  "author": "Jan Kowalewski",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wmbc-1.0.5.tar.gz",
+  "download_time": "2026-01-23T15:43:43.254325",
+  "package_url": "https://pypi.org/project/wmbc/"
+}

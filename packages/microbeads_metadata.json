@@ -1,11 +1,11 @@
 {
   "name": "microbeads",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A simplified git-backed issue tracker for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microbeads-0.2.1.tar.gz",
-  "download_time": "2026-01-22T23:15:56.036949",
+  "download_filename": "microbeads-0.3.0.tar.gz",
+  "download_time": "2026-01-23T15:43:44.372439",
   "package_url": "https://pypi.org/project/microbeads/"
 }

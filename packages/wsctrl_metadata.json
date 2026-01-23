@@ -1,0 +1,11 @@
+{
+  "name": "wsctrl",
+  "version": "1.0.2",
+  "summary": "Wirepas Sink Controller",
+  "author": "Jan Kowalewski",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wsctrl-1.0.2.tar.gz",
+  "download_time": "2026-01-23T15:44:14.580958",
+  "package_url": "https://pypi.org/project/wsctrl/"
+}

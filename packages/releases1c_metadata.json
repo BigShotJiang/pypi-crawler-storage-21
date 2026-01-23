@@ -1,11 +1,11 @@
 {
   "name": "releases1c",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Package manager for releases.1c.ru",
   "author": "Serg Repin",
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "releases1c-1.0.4.tar.gz",
-  "download_time": "2026-01-23T15:03:58.636864",
+  "download_filename": "releases1c-1.0.6.tar.gz",
+  "download_time": "2026-01-23T15:43:55.529775",
   "package_url": "https://pypi.org/project/releases1c/"
 }
