@@ -1,0 +1,11 @@
+{
+  "name": "pyhidromotic",
+  "version": "0.1.2",
+  "summary": "Python client for Hidromotic CHI Smart irrigation controllers",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pyhidromotic-0.1.2.tar.gz",
+  "download_time": "2026-01-23T17:58:04.947462",
+  "package_url": "https://pypi.org/project/pyhidromotic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "caspian-utils",
+  "version": "0.0.30",
+  "summary": "A utility package for Caspian projects",
+  "author": "Jefferson Abraham",
+  "license": null,
+  "home_page": "https://github.com/TheSteelNinjaCode/caspian_utils",
+  "download_filename": "caspian_utils-0.0.30.tar.gz",
+  "download_time": "2026-01-23T17:57:52.589364",
+  "package_url": "https://pypi.org/project/caspian-utils/"
+}

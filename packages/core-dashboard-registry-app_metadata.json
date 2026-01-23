@@ -1,0 +1,11 @@
+{
+  "name": "core-dashboard-registry-app",
+  "version": "2.19.0",
+  "summary": "Resource management via a dashboard for the registry core project",
+  "author": "NIST IT Lab",
+  "license": null,
+  "home_page": "https://github.com/usnistgov/core_dashboard_registry_app",
+  "download_filename": "core_dashboard_registry_app-2.19.0.tar.gz",
+  "download_time": "2026-01-23T17:57:29.642789",
+  "package_url": "https://pypi.org/project/core-dashboard-registry-app/"
+}

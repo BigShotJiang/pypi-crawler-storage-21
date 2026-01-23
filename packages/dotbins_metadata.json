@@ -1,0 +1,11 @@
+{
+  "name": "dotbins",
+  "version": "2.6.0",
+  "summary": "Keep updated binaries in your dotfiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotbins-2.6.0.tar.gz",
+  "download_time": "2026-01-23T17:57:31.691893",
+  "package_url": "https://pypi.org/project/dotbins/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-jira",
-  "version": "0.1.50",
+  "version": "0.1.51",
   "summary": "Airbyte Jira Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_jira-0.1.50.tar.gz",
-  "download_time": "2026-01-23T02:00:23.605432",
+  "download_filename": "airbyte_agent_jira-0.1.51.tar.gz",
+  "download_time": "2026-01-23T17:57:51.556893",
   "package_url": "https://pypi.org/project/airbyte-agent-jira/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "science-of-science-pipeline-udt",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Integrated pipeline and dashboard for tracing conceptual emergence and evolution in semantic space (UDT case study).",
   "author": "Duco Trompert",
   "license": null,
   "home_page": null,
-  "download_filename": "science_of_science_pipeline_udt-0.1.2.tar.gz",
-  "download_time": "2026-01-23T14:46:51.988987",
+  "download_filename": "science_of_science_pipeline_udt-0.1.5.tar.gz",
+  "download_time": "2026-01-23T17:58:00.828680",
   "package_url": "https://pypi.org/project/science-of-science-pipeline-udt/"
 }

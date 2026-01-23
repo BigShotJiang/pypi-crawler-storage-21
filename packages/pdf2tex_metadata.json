@@ -1,0 +1,11 @@
+{
+  "name": "pdf2tex",
+  "version": "0.2.0",
+  "summary": "High-performance RAG-based PDF to LaTeX conversion module",
+  "author": "PDF2TeX Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf2tex-0.2.0.tar.gz",
+  "download_time": "2026-01-23T17:58:01.852137",
+  "package_url": "https://pypi.org/project/pdf2tex/"
+}

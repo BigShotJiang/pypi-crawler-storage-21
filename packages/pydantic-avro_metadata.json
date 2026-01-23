@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-avro",
+  "version": "0.9.3",
+  "summary": "Converting pydantic classes to avro schemas",
+  "author": "Peter van 't Hof'",
+  "license": "MIT",
+  "home_page": "https://github.com/godatadriven/pydantic-avro",
+  "download_filename": "pydantic_avro-0.9.3.tar.gz",
+  "download_time": "2026-01-23T17:58:04.434077",
+  "package_url": "https://pypi.org/project/pydantic-avro/"
+}
