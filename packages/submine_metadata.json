@@ -1,0 +1,11 @@
+{
+  "name": "submine",
+  "version": "0.1.4",
+  "summary": "Modular subgraph mining library with unified API",
+  "author": "Ridwan Amure",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "submine-0.1.4.tar.gz",
+  "download_time": "2026-01-23T03:44:56.414656",
+  "package_url": "https://pypi.org/project/submine/"
+}

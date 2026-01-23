@@ -1,0 +1,11 @@
+{
+  "name": "tsjson",
+  "version": "2.2.3",
+  "summary": "A simple example package",
+  "author": "Gavin",
+  "license": null,
+  "home_page": "https://github.com/yourusername/my_package",
+  "download_filename": "tsjson-2.2.3.tar.gz",
+  "download_time": "2026-01-23T03:45:07.603300",
+  "package_url": "https://pypi.org/project/tsjson/"
+}

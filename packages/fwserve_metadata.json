@@ -1,11 +1,11 @@
 {
   "name": "fwserve",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "FastAPI firmware file server with upload UI and syslog receiver",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fwserve-1.0.4.tar.gz",
-  "download_time": "2026-01-22T23:15:32.342274",
+  "download_filename": "fwserve-1.0.6.tar.gz",
+  "download_time": "2026-01-23T03:45:08.150420",
   "package_url": "https://pypi.org/project/fwserve/"
 }

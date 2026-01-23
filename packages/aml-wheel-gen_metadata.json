@@ -1,0 +1,11 @@
+{
+  "name": "aml-wheel-gen",
+  "version": "0.1.0",
+  "summary": "Generate custom AML pattern detector projects with one command",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aml_wheel_gen-0.1.0.tar.gz",
+  "download_time": "2026-01-23T03:45:16.468282",
+  "package_url": "https://pypi.org/project/aml-wheel-gen/"
+}

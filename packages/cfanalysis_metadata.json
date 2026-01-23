@@ -1,0 +1,11 @@
+{
+  "name": "cfanalysis",
+  "version": "0.1.13",
+  "summary": "Library to perform Combinatorial Fusion Analysis",
+  "author": "Mohammed Quazi",
+  "license": null,
+  "home_page": "https://github.com/mquazi/cfanalysis",
+  "download_filename": "cfanalysis-0.1.13-py3-none-any.whl",
+  "download_time": "2026-01-23T03:45:43.194789",
+  "package_url": "https://pypi.org/project/cfanalysis/"
+}

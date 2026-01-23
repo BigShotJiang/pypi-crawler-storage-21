@@ -1,0 +1,11 @@
+{
+  "name": "tapdb-maxcompute-mcp",
+  "version": "0.1.3",
+  "summary": "A MCP server for MaxCompute(tapdb revised)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tapdb_maxcompute_mcp-0.1.3-py3-none-any.whl",
+  "download_time": "2026-01-23T03:45:10.035018",
+  "package_url": "https://pypi.org/project/tapdb-maxcompute-mcp/"
+}

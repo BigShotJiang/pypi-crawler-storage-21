@@ -1,0 +1,11 @@
+{
+  "name": "mhcgnomes",
+  "version": "2.0",
+  "summary": "Python library for parsing MHC nomenclature in the wild",
+  "author": "Alex Rubinsteyn",
+  "license": null,
+  "home_page": "https://github.com/til-unc/mhcgnomes",
+  "download_filename": "mhcgnomes-2.0.tar.gz",
+  "download_time": "2026-01-23T03:45:30.365669",
+  "package_url": "https://pypi.org/project/mhcgnomes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scrl-fatedecision",
+  "version": "0.0.6",
+  "summary": "single cell reinforcement learning",
+  "author": "Zeyu Fu",
+  "license": "MIT",
+  "home_page": "https://github.com/PeterPonyu/scRL",
+  "download_filename": "scrl_fatedecision-0.0.6.tar.gz",
+  "download_time": "2026-01-23T03:44:58.794125",
+  "package_url": "https://pypi.org/project/scrl-fatedecision/"
+}

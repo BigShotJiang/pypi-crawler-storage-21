@@ -1,0 +1,11 @@
+{
+  "name": "mkmsg",
+  "version": "0.1.7",
+  "summary": "Python library to send WhatsApp messages, emails, HTML emails, and generate OTPs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mkmsg-0.1.7.tar.gz",
+  "download_time": "2026-01-23T03:45:29.010624",
+  "package_url": "https://pypi.org/project/mkmsg/"
+}

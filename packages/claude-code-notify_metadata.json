@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-notify",
+  "version": "1.0.2",
+  "summary": "Desktop notifications for Claude Code - get notified when tasks complete",
+  "author": "starpipi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_code_notify-1.0.2.tar.gz",
+  "download_time": "2026-01-23T03:44:50.044826",
+  "package_url": "https://pypi.org/project/claude-code-notify/"
+}

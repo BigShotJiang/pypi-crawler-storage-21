@@ -1,0 +1,11 @@
+{
+  "name": "easy-captcha-python",
+  "version": "0.1.0",
+  "summary": "Python图形验证码生成库，支持GIF、中文、算术等类型",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "easy_captcha_python-0.1.0.tar.gz",
+  "download_time": "2026-01-23T03:44:59.941764",
+  "package_url": "https://pypi.org/project/easy-captcha-python/"
+}
