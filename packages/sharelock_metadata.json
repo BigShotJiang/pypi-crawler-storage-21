@@ -1,11 +1,11 @@
 {
   "name": "sharelock",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Create encrypted files whose decryption key is split and shared between multiple individuals.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sharelock-0.1.0.tar.gz",
-  "download_time": "2026-01-21T21:50:42.103242",
+  "download_filename": "sharelock-0.1.2.tar.gz",
+  "download_time": "2026-01-23T07:48:42.987437",
   "package_url": "https://pypi.org/project/sharelock/"
 }

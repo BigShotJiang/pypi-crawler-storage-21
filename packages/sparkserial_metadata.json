@@ -1,11 +1,11 @@
 {
   "name": "sparkserial",
-  "version": "0.1.1",
-  "summary": "A premium Serial Utility Tool for professional hardware testing.",
+  "version": "0.2.0",
+  "summary": "A lightweight Serial GUI Tool for hardware testing and debugging. Requires USB-to-Serial driver installation based on your adapter.",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "sparkserial-0.1.1.tar.gz",
-  "download_time": "2026-01-21T23:51:15.763048",
+  "download_filename": "sparkserial-0.2.0.tar.gz",
+  "download_time": "2026-01-23T07:48:45.068466",
   "package_url": "https://pypi.org/project/sparkserial/"
 }
