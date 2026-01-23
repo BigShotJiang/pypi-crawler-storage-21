@@ -1,13 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-23T21:24:54.777276
-- **Total Packages**: 87
-- **Total Size**: 34.28 MB
+- **Download Time**: 2026-01-23T21:59:21.687451
+- **Total Packages**: 85
+- **Total Size**: 33.71 MB
 
 ## Packages List
-- sqlalchemy-faircom
+- eco-back
+- py-pve-cloud
+- jolt-docker
+- skene-growth
+- mergetbapi
+- mocap-settings
+- pysimplemask
 - Ctack14-practice-data-sets
+- cucu
+- ohdsi-circepy
+- tokamax
+- langxchange
+- openrewrite
+- dask-glm
+- odibi
+- cimsi
+- unicex
+- socialia
+- django-ninja-ts
+- policyengine-us
+- edgetest
+- folio-migration-tools
+- fastapi-cruddy-framework
+- rakel-api
+- verity-audit
+- 3lc
+- fmot
+- antigravity-remote
+- mocap-calibration
+- pytest-openapi
+- vollsegzarr
+- malexport
+- litellm-proxy-extras
+- openapi-ts-client
+- perplexityai
+- mcp-ticketer
+- dart-tools
+- cflabs
+- r2x-reeds
+- chutes
+- cuemap
+- opencollective
+- vellum-workflow-server
+- schedint
+- sqlalchemy-faircom
 - pve-cloud-schemas
 - voight
 - honeyhive
@@ -16,11 +59,9 @@
 - pypumpfun
 - any2htpy
 - sqlspec
-- antigravity-remote
 - comfyui-nuvu
 - loggydev-py
 - python-tty
-- rakel-api
 - scalene
 - c2cgeoportal-admin
 - c2cgeoportal-geoportal
@@ -50,46 +91,3 @@
 - wcwidth
 - pixie-prompts
 - great-expectations-cloud
-- pyintellicenter
-- pocketlife
-- sbti-finance-tool
-- eco-back
-- ai-magic-prompt
-- sapiens-model
-- bagel-factor
-- obra
-- jplephem
-- pulumi
-- GeneralManager
-- bb-integrations-library
-- compit-inext-api-beta
-- wildfire-analyser
-- globi
-- airbyte-source-marketo
-- hatch-global-env-vars
-- ai-todo
-- nci-cidc-api-modules
-- airbyte-agent-linear
-- hot-memory-mcp
-- octobot-evaluators
-- datajunction
-- datajunction-reflection
-- datajunction-server
-- quantem
-- airbyte-agent-asana
-- tangram-globe
-- tangram-explore
-- AlgoGraph
-- airbyte-agent-amazon-ads
-- tree-sitter-zsh
-- hrenpack
-- netbox-cisco-support-api
-- netbox-graylog
-- netbox-cisco-ise
-- netbox-catalyst-center
-- styledconsole
-- windborne
-- hpi-feed
-- meltano-target-cratedb
-- airbyte-agent-slack
-- airbyte-agent-greenhouse

@@ -1,11 +1,11 @@
 {
   "name": "rakel-api",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "A WhatsApp Web API library infinitely superior for Python developers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rakel_api-1.0.1.tar.gz",
-  "download_time": "2026-01-23T21:24:15.747790",
+  "download_filename": "rakel_api-1.0.4.tar.gz",
+  "download_time": "2026-01-23T21:58:45.178182",
   "package_url": "https://pypi.org/project/rakel-api/"
 }
