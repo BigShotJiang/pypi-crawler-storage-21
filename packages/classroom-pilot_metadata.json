@@ -1,0 +1,11 @@
+{
+  "name": "classroom-pilot",
+  "version": "3.1.3",
+  "summary": "⚠️ DEPRECATED: Use 'classdock' instead. This package has been renamed to 'classdock'.",
+  "author": "Hugo Valle",
+  "license": "MIT",
+  "home_page": "https://github.com/hugo-valle/classroom-pilot",
+  "download_filename": "classroom_pilot-3.1.3.tar.gz",
+  "download_time": "2026-01-23T05:06:53.522510",
+  "package_url": "https://pypi.org/project/classroom-pilot/"
+}

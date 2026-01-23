@@ -1,0 +1,11 @@
+{
+  "name": "sudoagent",
+  "version": "0.1.1",
+  "summary": "Policy-driven approval library with interactive flows and audit logging.",
+  "author": "Naol Beyene",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sudoagent-0.1.1.tar.gz",
+  "download_time": "2026-01-23T05:06:39.058521",
+  "package_url": "https://pypi.org/project/sudoagent/"
+}

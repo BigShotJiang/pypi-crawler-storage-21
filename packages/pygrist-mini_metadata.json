@@ -1,0 +1,11 @@
+{
+  "name": "pygrist-mini",
+  "version": "2026.1",
+  "summary": "Minimal Grist API (document) client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygrist_mini-2026.1.tar.gz",
+  "download_time": "2026-01-23T05:06:40.605606",
+  "package_url": "https://pypi.org/project/pygrist-mini/"
+}

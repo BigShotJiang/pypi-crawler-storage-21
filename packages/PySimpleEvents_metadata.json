@@ -1,0 +1,11 @@
+{
+  "name": "PySimpleEvents",
+  "version": "0.1.1",
+  "summary": "Sistema simples de eventos e propriedades reativas em Python",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pysimpleevents-0.1.1.tar.gz",
+  "download_time": "2026-01-23T05:06:28.607496",
+  "package_url": "https://pypi.org/project/PySimpleEvents/"
+}

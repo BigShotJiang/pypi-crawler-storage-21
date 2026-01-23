@@ -1,0 +1,11 @@
+{
+  "name": "pyshuf2",
+  "version": "2.0.0",
+  "summary": "An attempt to bugfix an inexact python clone of GNU shuf and bring it into the modern Python 3 era.",
+  "author": "Matthew Yang",
+  "license": "GPL-3",
+  "home_page": "https://github.org/matthewyang204/pyshuf",
+  "download_filename": "pyshuf2-2.0.0.tar.gz",
+  "download_time": "2026-01-23T05:06:34.955909",
+  "package_url": "https://pypi.org/project/pyshuf2/"
+}

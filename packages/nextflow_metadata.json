@@ -1,0 +1,11 @@
+{
+  "name": "nextflow",
+  "version": "25.10.3",
+  "summary": "A Python wrapper that installs the Nextflow launcher",
+  "author": "Jordi Deu-Pons",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "nextflow-25.10.3.tar.gz",
+  "download_time": "2026-01-23T05:06:47.379618",
+  "package_url": "https://pypi.org/project/nextflow/"
+}

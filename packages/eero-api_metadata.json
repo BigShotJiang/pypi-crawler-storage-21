@@ -1,11 +1,11 @@
 {
   "name": "eero-api",
-  "version": "2.1.2",
+  "version": "2.1.4",
   "summary": "Modern async Python client for Eero network management",
   "author": "Eero API Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eero_api-2.1.2.tar.gz",
-  "download_time": "2026-01-23T03:45:06.233599",
+  "download_filename": "eero_api-2.1.4.tar.gz",
+  "download_time": "2026-01-23T05:06:33.926500",
   "package_url": "https://pypi.org/project/eero-api/"
 }

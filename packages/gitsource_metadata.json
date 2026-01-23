@@ -1,11 +1,11 @@
 {
   "name": "gitsource",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "GitHub repository reader with document chunking for RAG/LLM applications",
   "author": null,
   "license": "WTFPL",
   "home_page": null,
-  "download_filename": "gitsource-0.0.2.tar.gz",
-  "download_time": "2026-01-22T20:30:57.382282",
+  "download_filename": "gitsource-0.0.3.tar.gz",
+  "download_time": "2026-01-23T05:06:38.543957",
   "package_url": "https://pypi.org/project/gitsource/"
 }

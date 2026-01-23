@@ -1,0 +1,11 @@
+{
+  "name": "scholar-flux",
+  "version": "0.4.0",
+  "summary": "The ScholarFlux API is an open-source project designed to streamline access to academic and scholarly resources across various platforms for discovery and analyses. It offers a unified API that simplifies querying academic databases, retrieving metadata, and performing comprehensive searches within scholarly articles, journals, and publications.",
+  "author": "Sammie L. Haskin",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "scholar_flux-0.4.0.tar.gz",
+  "download_time": "2026-01-23T05:06:29.654253",
+  "package_url": "https://pypi.org/project/scholar-flux/"
+}
