@@ -1,0 +1,11 @@
+{
+  "name": "omniwatermask",
+  "version": "0.4.1",
+  "summary": "Python library for water segmentation in high to moderate resolution remotely sensed imagery",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omniwatermask-0.4.1.tar.gz",
+  "download_time": "2026-01-23T05:46:43.795221",
+  "package_url": "https://pypi.org/project/omniwatermask/"
+}

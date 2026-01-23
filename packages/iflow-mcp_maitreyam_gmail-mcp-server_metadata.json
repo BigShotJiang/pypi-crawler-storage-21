@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_maitreyam_gmail-mcp-server",
+  "version": "1.0.0",
+  "summary": "A resilient MCP server built with fastMCP for sending emails through Gmail's SMTP server using AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_maitreyam_gmail_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-01-23T05:47:12.815210",
+  "package_url": "https://pypi.org/project/iflow-mcp_maitreyam_gmail-mcp-server/"
+}

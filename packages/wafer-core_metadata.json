@@ -1,11 +1,11 @@
 {
   "name": "wafer-core",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Core utilities and environments for Wafer GPU kernel optimization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wafer_core-0.1.9.tar.gz",
-  "download_time": "2026-01-23T05:06:23.954652",
+  "download_filename": "wafer_core-0.1.10.tar.gz",
+  "download_time": "2026-01-23T05:47:01.149990",
   "package_url": "https://pypi.org/project/wafer-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cfspider",
-  "version": "1.8.3",
+  "version": "1.8.6",
   "summary": "Cloudflare Workers proxy IP pool client",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cfspider-1.8.3.tar.gz",
-  "download_time": "2026-01-21T17:56:21.859321",
+  "download_filename": "cfspider-1.8.6.tar.gz",
+  "download_time": "2026-01-23T05:47:09.548467",
   "package_url": "https://pypi.org/project/cfspider/"
 }

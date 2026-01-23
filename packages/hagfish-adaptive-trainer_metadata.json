@@ -1,0 +1,11 @@
+{
+  "name": "hagfish-adaptive-trainer",
+  "version": "0.3.0",
+  "summary": "Adaptive training budget optimizer (bio-inspired Hagfish agent)",
+  "author": "Sarvesh PV",
+  "license": "MIT",
+  "home_page": "https://github.com/Sarrvessh/Hagfish_Agent_System",
+  "download_filename": "hagfish_adaptive_trainer-0.3.0.tar.gz",
+  "download_time": "2026-01-23T05:46:33.533243",
+  "package_url": "https://pypi.org/project/hagfish-adaptive-trainer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-tasks-concurrent",
+  "version": "0.1.0",
+  "summary": "Concurrent async worker for Django Tasks (django-tasks)",
+  "author": "Harp Bola",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_tasks_concurrent-0.1.0.tar.gz",
+  "download_time": "2026-01-23T05:46:57.762647",
+  "package_url": "https://pypi.org/project/django-tasks-concurrent/"
+}

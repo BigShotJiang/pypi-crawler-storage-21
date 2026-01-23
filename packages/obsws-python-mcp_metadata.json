@@ -1,0 +1,11 @@
+{
+  "name": "obsws-python-mcp",
+  "version": "1.8.1",
+  "summary": "A Python SDK for OBS Studio WebSocket v5.0 - Fork with MCP server fixes",
+  "author": "ldraney",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "obsws_python_mcp-1.8.1.tar.gz",
+  "download_time": "2026-01-23T05:46:49.634015",
+  "package_url": "https://pypi.org/project/obsws-python-mcp/"
+}

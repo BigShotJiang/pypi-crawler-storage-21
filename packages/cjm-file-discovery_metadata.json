@@ -1,0 +1,11 @@
+{
+  "name": "cjm-file-discovery",
+  "version": "0.0.1",
+  "summary": "Pure Python library for batch file scanning with configurable filtering, metadata extraction, caching, and extensible provider support.",
+  "author": "Christian J. Mills",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cj-mills/cjm-file-discovery",
+  "download_filename": "cjm_file_discovery-0.0.1.tar.gz",
+  "download_time": "2026-01-23T05:47:04.951348",
+  "package_url": "https://pypi.org/project/cjm-file-discovery/"
+}

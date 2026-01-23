@@ -1,0 +1,11 @@
+{
+  "name": "fast-trading-simulator",
+  "version": "0.1.6",
+  "summary": "Numba accelerated minimalist trading simulator",
+  "author": "Ricky Ding",
+  "license": "MIT",
+  "home_page": "https://github.com/SerenaTradingResearch/fast-trading-simulator",
+  "download_filename": "fast_trading_simulator-0.1.6.tar.gz",
+  "download_time": "2026-01-23T05:47:13.364137",
+  "package_url": "https://pypi.org/project/fast-trading-simulator/"
+}
