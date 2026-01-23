@@ -1,11 +1,11 @@
 {
   "name": "rediskit",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "summary": "A comprehensive Redis toolkit for Python with caching, memoization, and utilities",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rediskit-0.0.33.tar.gz",
-  "download_time": "2026-01-23T19:05:51.260870",
+  "download_filename": "rediskit-0.0.34.tar.gz",
+  "download_time": "2026-01-23T22:46:27.922288",
   "package_url": "https://pypi.org/project/rediskit/"
 }

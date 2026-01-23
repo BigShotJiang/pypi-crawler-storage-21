@@ -1,11 +1,11 @@
 {
   "name": "bmtool",
-  "version": "0.7.9",
+  "version": "0.7.9.1",
   "summary": "BMTool",
   "author": "Neural Engineering Laboratory at the University of Missouri",
   "license": "MIT",
   "home_page": "https://github.com/cyneuro/bmtool",
-  "download_filename": "bmtool-0.7.9.tar.gz",
-  "download_time": "2026-01-20T17:47:51.746941",
+  "download_filename": "bmtool-0.7.9.1.tar.gz",
+  "download_time": "2026-01-23T22:46:41.400592",
   "package_url": "https://pypi.org/project/bmtool/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "water-column-sonar-processing",
-  "version": "26.1.15",
+  "version": "26.1.17",
   "summary": "Processing tool for water column sonar data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "water_column_sonar_processing-26.1.15.tar.gz",
-  "download_time": "2026-01-20T21:52:02.792510",
+  "download_filename": "water_column_sonar_processing-26.1.17.tar.gz",
+  "download_time": "2026-01-23T22:47:03.040339",
   "package_url": "https://pypi.org/project/water-column-sonar-processing/"
 }

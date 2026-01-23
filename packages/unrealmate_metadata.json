@@ -1,11 +1,11 @@
 {
   "name": "unrealmate",
-  "version": "1.0.6",
+  "version": "1.0.10",
   "summary": "Professional CLI toolkit for Unreal Engine developers - Complete with performance profiling, plugin management, CI/CD generation, and personal branding by gktrk363",
   "author": "gktrk363",
   "license": "MIT",
   "home_page": "https://github.com/gktrk363/unrealmate",
-  "download_filename": "unrealmate-1.0.6.tar.gz",
-  "download_time": "2026-01-23T22:20:59.842471",
+  "download_filename": "unrealmate-1.0.10.tar.gz",
+  "download_time": "2026-01-23T22:46:26.380598",
   "package_url": "https://pypi.org/project/unrealmate/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "carconnectivity-plugin-database",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "CarConnectivity plugin for storing data to Databases",
   "author": "Till Steinbach",
   "license": null,
   "home_page": null,
-  "download_filename": "carconnectivity_plugin_database-0.4.1.tar.gz",
-  "download_time": "2026-01-20T20:45:57.319861",
+  "download_filename": "carconnectivity_plugin_database-0.4.2.tar.gz",
+  "download_time": "2026-01-23T22:47:00.469087",
   "package_url": "https://pypi.org/project/carconnectivity-plugin-database/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-es-ticketbai-api",
+  "version": "14.0.2.4.3",
+  "summary": "TicketBAI - API",
+  "author": "Binovo,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo14_addon_l10n_es_ticketbai_api-14.0.2.4.3-py3-none-any.whl",
+  "download_time": "2026-01-23T22:46:40.362671",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-es-ticketbai-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sloplog",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "A Python library for constructing wide events",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sloplog-0.0.6.tar.gz",
-  "download_time": "2026-01-23T22:20:56.391129",
+  "download_filename": "sloplog-0.0.7.tar.gz",
+  "download_time": "2026-01-23T22:46:23.304681",
   "package_url": "https://pypi.org/project/sloplog/"
 }

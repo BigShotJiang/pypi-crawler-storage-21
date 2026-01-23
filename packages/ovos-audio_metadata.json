@@ -1,0 +1,11 @@
+{
+  "name": "ovos-audio",
+  "version": "1.1.1",
+  "summary": "ovos-core audio daemon client",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-audio",
+  "download_filename": "ovos_audio-1.1.1.tar.gz",
+  "download_time": "2026-01-23T22:47:02.018706",
+  "package_url": "https://pypi.org/project/ovos-audio/"
+}

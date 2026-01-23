@@ -1,0 +1,11 @@
+{
+  "name": "cautious-robot",
+  "version": "2.0.0",
+  "summary": "Simple downloader that downloads images from URLs in a CSV and names them by the given column. Then uses sum-buddy to gather and record checksums for all downloaded images.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cautious_robot-2.0.0.tar.gz",
+  "download_time": "2026-01-23T22:46:33.612172",
+  "package_url": "https://pypi.org/project/cautious-robot/"
+}

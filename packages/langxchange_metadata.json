@@ -1,11 +1,11 @@
 {
   "name": "langxchange",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "AI Framework for fast integration of Private Data and LLM",
   "author": "Timothy Owusu",
   "license": null,
   "home_page": null,
-  "download_filename": "langxchange-0.4.5.tar.gz",
-  "download_time": "2026-01-23T21:58:37.566244",
+  "download_filename": "langxchange-0.4.6.tar.gz",
+  "download_time": "2026-01-23T22:46:36.700411",
   "package_url": "https://pypi.org/project/langxchange/"
 }

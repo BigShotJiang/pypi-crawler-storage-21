@@ -1,0 +1,11 @@
+{
+  "name": "amb-core",
+  "version": "0.1.0",
+  "summary": "A lightweight, broker-agnostic message bus designed specifically for AI Agents",
+  "author": "Imran Siddique",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amb_core-0.1.0.tar.gz",
+  "download_time": "2026-01-23T22:47:06.744020",
+  "package_url": "https://pypi.org/project/amb-core/"
+}
