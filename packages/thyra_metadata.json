@@ -1,0 +1,11 @@
+{
+  "name": "thyra",
+  "version": "1.11.1",
+  "summary": "A modern Python library for converting Mass Spectrometry Imaging (MSI) data into SpatialData/Zarr format - your portal to spatial omics",
+  "author": "Theodoros Visvikis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thyra-1.11.1.tar.gz",
+  "download_time": "2026-01-23T11:31:20.888680",
+  "package_url": "https://pypi.org/project/thyra/"
+}

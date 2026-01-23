@@ -1,0 +1,11 @@
+{
+  "name": "snapsy",
+  "version": "0.1.1",
+  "summary": "Snapshot based interpolation of high-dimensional simulation data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snapsy-0.1.1.tar.gz",
+  "download_time": "2026-01-23T11:31:37.653177",
+  "package_url": "https://pypi.org/project/snapsy/"
+}

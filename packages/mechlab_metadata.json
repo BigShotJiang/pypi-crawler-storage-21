@@ -1,0 +1,11 @@
+{
+  "name": "mechlab",
+  "version": "0.1.2",
+  "summary": "Computational Mechanical Engineering Toolkit",
+  "author": "Sewak Sunar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mechlab-0.1.2.tar.gz",
+  "download_time": "2026-01-23T11:31:20.332005",
+  "package_url": "https://pypi.org/project/mechlab/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "octobot-evaluators",
+  "version": "1.10.0",
+  "summary": "OctoBot project evaluators package",
+  "author": "Drakkar-Software",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/OctoBot-Evaluators",
+  "download_filename": "octobot_evaluators-1.10.0.tar.gz",
+  "download_time": "2026-01-23T11:31:21.405117",
+  "package_url": "https://pypi.org/project/octobot-evaluators/"
+}
