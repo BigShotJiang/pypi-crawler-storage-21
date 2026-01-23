@@ -1,0 +1,11 @@
+{
+  "name": "physioblocks",
+  "version": "1.0.2",
+  "summary": "Physioblocks allows the simulation of dynamical models of physiological systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "physioblocks-1.0.2.tar.gz",
+  "download_time": "2026-01-23T10:00:49.041009",
+  "package_url": "https://pypi.org/project/physioblocks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-confetti",
+  "version": "0.3.2",
+  "summary": "Config & feature settings for Django: global/user overrides, cache, API, seeding.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_confetti-0.3.2.tar.gz",
+  "download_time": "2026-01-23T10:01:05.586568",
+  "package_url": "https://pypi.org/project/django-confetti/"
+}

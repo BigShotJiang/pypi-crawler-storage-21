@@ -1,14 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-23T09:46:44.560796
-- **Total Packages**: 86
-- **Total Size**: 56.81 MB
+- **Download Time**: 2026-01-23T10:01:29.665322
+- **Total Packages**: 87
+- **Total Size**: 22.94 MB
 
 ## Packages List
-- tfp-nightly
-- taxia-core
+- abilian-devtools
+- jale
+- digitalhub
+- apertis
+- mcap-data-loader
+- lbt-dragonfly
+- grizzly-loadtester-cli
+- xhs-note-extractor
+- ddtols
+- azure-blob-tui
+- midiharmony
+- anet-drf-common
+- java-decompiler-mcp
+- physioblocks
+- automtu
+- orderwise-agent
+- orq-ai-sdk
+- odoo-addon-account-financial-report
+- remoroo
+- lbt-honeybee
+- service-forge
+- tmutils
+- odoo-addon-web-widget-x2many-2d-matrix
+- pulumi-provider-boilerplate
+- django-advanced-report-builder
+- emdash-ai
+- emdash-cli
+- Nuitka
+- emdash-core
 - pulumi-xyz
+- rlab-runtime
+- pulumi-clevercloud
+- gs-quant
+- python-cqrs
+- django-imdb
+- pwndoc-mcp-server
+- newgraph-client
+- openmeter
+- cleopy
+- universal-mcp-applications
+- BackcastPro
+- mlrun
+- jetfuelburn
+- django-confetti
+- qtwebview2
+- odoo-addon-date-range
+- honeybee-radiance-postprocess
+- goldteeth
+- xcdo
+- wcgw
+- dragonfly-radiance
+- hex-robo-yoco
+- fastkarimov
+- tfp-nightly
+- envcipher
+- taxia-core
 - remote-gym
 - codemie-mcp-datasources
 - codemie-mcp-assistants
@@ -16,7 +69,6 @@
 - PyQtier
 - pyelitecloud
 - cyqnt-trd
-- remoroo
 - espercli
 - odoo-addon-l10n-it-edi-extension
 - orca-network-sdk
@@ -40,55 +92,4 @@
 - sdkrouter
 - pytest-nhsd-apim
 - contextifier
-- rlab-runtime
 - pyfusion
-- datateam-moss
-- hazy-frames
-- llama-index-readers-imap
-- plato-sdk-v2
-- alibabacloud-apig20240327
-- nonebot-plugin-qqmusic-reco
-- mlarray
-- kcli
-- unique_deep_research
-- micro-manager-precice
-- jcutils
-- funpayparsers
-- nexent
-- x-api-rs
-- h2lib
-- pyscript-programming-language
-- mex-artificial
-- ghostty-ambient
-- lus
-- iatoolkit
-- richie
-- Preciso
-- earthkit-workflows
-- UncountablePythonSDK
-- aury-agent
-- adroitconfig-py
-- paygent-sdk
-- rustd-py
-- shex
-- odoo-addon-l10n-jp-summary-invoice
-- celestialflow
-- pytest-approval
-- agent-framework-lib
-- aury-ai-model
-- bestehorn-llmmanager
-- iris-pex-embedded-python
-- mm-std
-- stark-agents
-- uxsim
-- mex-common
-- power-grid-model
-- fin-data-client
-- tenzir-test
-- wandelbots-api-client
-- trace-shrink
-- kalandra
-- pqlattice
-- nonebot-plugin-mcpclient
-- douyin-xiaohongshu-mcp-server
-- jupyverse_api

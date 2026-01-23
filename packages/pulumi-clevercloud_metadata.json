@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-clevercloud",
+  "version": "0.0.14",
+  "summary": "The Clever Cloud provider for Pulumi lets you manage Clever Cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://www.clever-cloud.com",
+  "download_filename": "pulumi_clevercloud-0.0.14.tar.gz",
+  "download_time": "2026-01-23T10:00:58.879391",
+  "package_url": "https://pypi.org/project/pulumi-clevercloud/"
+}
