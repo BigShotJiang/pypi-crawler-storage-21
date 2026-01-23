@@ -1,0 +1,11 @@
+{
+  "name": "diffcp",
+  "version": "1.1.7",
+  "summary": "A library to compute gradients for convex optimization problems",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "diffcp-1.1.7.tar.gz",
+  "download_time": "2026-01-23T22:58:08.978192",
+  "package_url": "https://pypi.org/project/diffcp/"
+}

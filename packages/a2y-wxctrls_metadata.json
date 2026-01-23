@@ -1,0 +1,11 @@
+{
+  "name": "a2y-wxctrls",
+  "version": "0.9.3",
+  "summary": "此模块提供一些基于`wxWidgets`的控件，使用`wxFormBuilder`做好布局，代码部分则在`wxtools`里面实现。",
+  "author": "Yu Han",
+  "license": "Private",
+  "home_page": "http://www.kersci.com/a2y/wxctrls.html",
+  "download_filename": "a2y_wxctrls-0.9.3-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-01-23T22:58:09.488418",
+  "package_url": "https://pypi.org/project/a2y-wxctrls/"
+}

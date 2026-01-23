@@ -1,0 +1,11 @@
+{
+  "name": "marlo-sdk",
+  "version": "0.0.1",
+  "summary": "Trajectory capture, reward signals, and learning infrastructure for agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marlo_sdk-0.0.1.tar.gz",
+  "download_time": "2026-01-23T22:57:53.972296",
+  "package_url": "https://pypi.org/project/marlo-sdk/"
+}
