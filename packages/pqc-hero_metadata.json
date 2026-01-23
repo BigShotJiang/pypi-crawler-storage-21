@@ -1,0 +1,11 @@
+{
+  "name": "pqc-hero",
+  "version": "0.1.0",
+  "summary": "Automated Post-Quantum Cryptography (PQC) remediation tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pqc_hero-0.1.0.tar.gz",
+  "download_time": "2026-01-23T13:44:57.247248",
+  "package_url": "https://pypi.org/project/pqc-hero/"
+}

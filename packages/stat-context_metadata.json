@@ -1,11 +1,11 @@
 {
   "name": "stat-context",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Statistical Context Engineering: Hierarchical feature enrichment for regression models",
   "author": "Mateusz Stachowicz, Stanisław Halkiewicz",
   "license": "CC BY-NC 4.0",
   "home_page": null,
-  "download_filename": "stat_context-0.3.4.tar.gz",
-  "download_time": "2026-01-23T09:03:38.070986",
+  "download_filename": "stat_context-0.3.5.tar.gz",
+  "download_time": "2026-01-23T13:44:59.384502",
   "package_url": "https://pypi.org/project/stat-context/"
 }

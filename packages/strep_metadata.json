@@ -1,11 +1,11 @@
 {
   "name": "strep",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Software for sustainable and trustworty reporting (STREP) in ML and AI",
   "author": "Raphael Fischer",
   "license": null,
   "home_page": "https://github.com/raphischer/strep",
-  "download_filename": "strep-0.0.2.tar.gz",
-  "download_time": "2026-01-23T11:31:16.668628",
+  "download_filename": "strep-0.0.4.tar.gz",
+  "download_time": "2026-01-23T13:45:18.148085",
   "package_url": "https://pypi.org/project/strep/"
 }

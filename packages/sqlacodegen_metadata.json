@@ -1,0 +1,11 @@
+{
+  "name": "sqlacodegen",
+  "version": "3.2.0",
+  "summary": "Automatic model code generator for SQLAlchemy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlacodegen-3.2.0.tar.gz",
+  "download_time": "2026-01-23T13:44:50.529445",
+  "package_url": "https://pypi.org/project/sqlacodegen/"
+}

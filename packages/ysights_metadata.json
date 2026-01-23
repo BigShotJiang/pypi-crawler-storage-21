@@ -1,0 +1,11 @@
+{
+  "name": "ysights",
+  "version": "0.1.1",
+  "summary": "ySights - Extract insights from YSocial simulations",
+  "author": "Giulio Rossetti",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/YSocialTwin/ysights",
+  "download_filename": "ysights-0.1.1.tar.gz",
+  "download_time": "2026-01-23T13:45:01.007986",
+  "package_url": "https://pypi.org/project/ysights/"
+}

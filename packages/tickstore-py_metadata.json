@@ -1,0 +1,11 @@
+{
+  "name": "tickstore-py",
+  "version": "1.0.6",
+  "summary": "client to communicate with tickstore",
+  "author": "Alphaticks",
+  "license": "copyright",
+  "home_page": "https://gitlab.com/alphaticks/tickstore-python-client",
+  "download_filename": "tickstore_py-1.0.6.tar.gz",
+  "download_time": "2026-01-23T13:45:27.192723",
+  "package_url": "https://pypi.org/project/tickstore-py/"
+}

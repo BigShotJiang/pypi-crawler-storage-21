@@ -1,0 +1,11 @@
+{
+  "name": "imio.urban.core",
+  "version": "0.5",
+  "summary": "Core of application managing urban and environment licences for townships.",
+  "author": "Simon Declourt",
+  "license": "GPL",
+  "home_page": "http://pypi.python.org/pypi/imio.urban.core",
+  "download_filename": "imio_urban_core-0.5.tar.gz",
+  "download_time": "2026-01-23T13:45:28.867980",
+  "package_url": "https://pypi.org/project/imio.urban.core/"
+}

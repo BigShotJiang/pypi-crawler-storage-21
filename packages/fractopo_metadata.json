@@ -1,0 +1,11 @@
+{
+  "name": "fractopo",
+  "version": "0.9.0",
+  "summary": "Fracture Network Analysis",
+  "author": "nialov",
+  "license": null,
+  "home_page": "https://github.com/nialov/fractopo",
+  "download_filename": "fractopo-0.9.0.tar.gz",
+  "download_time": "2026-01-23T13:44:57.794973",
+  "package_url": "https://pypi.org/project/fractopo/"
+}

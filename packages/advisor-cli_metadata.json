@@ -1,0 +1,11 @@
+{
+  "name": "advisor-cli",
+  "version": "0.2.2",
+  "summary": "Get second opinions from alternative LLMs (Gemini, GPT, DeepSeek, Ollama)",
+  "author": "And#ocean",
+  "license": null,
+  "home_page": null,
+  "download_filename": "advisor_cli-0.2.2.tar.gz",
+  "download_time": "2026-01-23T13:44:56.701909",
+  "package_url": "https://pypi.org/project/advisor-cli/"
+}

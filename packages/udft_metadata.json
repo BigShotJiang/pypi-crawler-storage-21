@@ -1,0 +1,11 @@
+{
+  "name": "udft",
+  "version": "4.0.0",
+  "summary": "Unitary discrete Fourier Transform (and related)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "udft-4.0.0.tar.gz",
+  "download_time": "2026-01-23T13:45:27.739615",
+  "package_url": "https://pypi.org/project/udft/"
+}

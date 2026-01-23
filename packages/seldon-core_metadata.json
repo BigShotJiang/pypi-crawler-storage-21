@@ -1,0 +1,11 @@
+{
+  "name": "seldon-core",
+  "version": "1.19.0",
+  "summary": "Seldon Core client and microservice wrapper",
+  "author": "Seldon Technologies Ltd.",
+  "license": "Business Source License 1.1",
+  "home_page": "https://github.com/SeldonIO/seldon-core",
+  "download_filename": "seldon_core-1.19.0-py3-none-any.whl",
+  "download_time": "2026-01-23T13:45:15.418131",
+  "package_url": "https://pypi.org/project/seldon-core/"
+}
