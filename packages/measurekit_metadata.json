@@ -1,0 +1,11 @@
+{
+  "name": "measurekit",
+  "version": "0.1.7",
+  "summary": "High-performance physical dimension handling and unit conversion engine with multi-backend support.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "measurekit-0.1.7-py3-none-any.whl",
+  "download_time": "2026-01-23T06:50:59.290048",
+  "package_url": "https://pypi.org/project/measurekit/"
+}

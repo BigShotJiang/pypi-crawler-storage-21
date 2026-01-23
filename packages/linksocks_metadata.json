@@ -1,0 +1,11 @@
+{
+  "name": "linksocks",
+  "version": "1.7.8",
+  "summary": "Python bindings for LinkSocks - SOCKS proxy over WebSocket",
+  "author": "jackzzs",
+  "license": "MIT",
+  "home_page": "https://github.com/linksocks/linksocks",
+  "download_filename": "linksocks-1.7.8.tar.gz",
+  "download_time": "2026-01-23T06:51:28.416059",
+  "package_url": "https://pypi.org/project/linksocks/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tomato-alicat",
+  "version": "2.1.0rc1",
+  "summary": "This package is a part of tomato. It has been made for the automation of alicat devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tomato_alicat-2.1.0rc1.tar.gz",
+  "download_time": "2026-01-23T06:51:36.653972",
+  "package_url": "https://pypi.org/project/tomato-alicat/"
+}

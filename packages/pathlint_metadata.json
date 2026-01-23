@@ -1,0 +1,11 @@
+{
+  "name": "pathlint",
+  "version": "0.2.0",
+  "summary": "Fast linter to detect os.path usage and encourage pathlib adoption",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathlint-0.2.0.tar.gz",
+  "download_time": "2026-01-23T06:51:05.168562",
+  "package_url": "https://pypi.org/project/pathlint/"
+}

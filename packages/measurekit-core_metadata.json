@@ -1,11 +1,11 @@
 {
   "name": "measurekit-core",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": null,
   "author": null,
   "license": null,
-  "home_page": null,
-  "download_filename": "measurekit_core-0.1.6-cp312-cp312-win_amd64.whl",
-  "download_time": "2026-01-23T06:00:03.198750",
+  "home_page": "https://github.com/Alexisrx96/measurekit",
+  "download_filename": "measurekit_core-0.1.7-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-01-23T06:51:03.707145",
   "package_url": "https://pypi.org/project/measurekit-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "authfinder",
+  "version": "1.1.4",
+  "summary": "Execute commands across Windows and Linux systems using multiple RCE methods (WinRM, SMB, WMI, RDP, SSH, MSSQL)",
+  "author": "Khael",
+  "license": null,
+  "home_page": null,
+  "download_filename": "authfinder-1.1.4.tar.gz",
+  "download_time": "2026-01-23T06:51:02.033030",
+  "package_url": "https://pypi.org/project/authfinder/"
+}
