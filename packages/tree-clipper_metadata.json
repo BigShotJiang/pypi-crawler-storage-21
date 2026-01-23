@@ -1,11 +1,11 @@
 {
   "name": "tree-clipper",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python package to export/import Blender's node trees to/from JSON.",
   "author": "Vollkornaffe, BradyAJohnston, codeRage, Jan-Hendrik Müller",
   "license": null,
   "home_page": null,
-  "download_filename": "tree_clipper-0.1.4.tar.gz",
-  "download_time": "2026-01-21T17:55:59.795945",
+  "download_filename": "tree_clipper-0.1.5.tar.gz",
+  "download_time": "2026-01-23T12:52:23.636883",
   "package_url": "https://pypi.org/project/tree-clipper/"
 }

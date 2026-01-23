@@ -1,0 +1,11 @@
+{
+  "name": "obsidianmd-parser",
+  "version": "0.4.0",
+  "summary": "A Python library for parsing Obsidian Markdown (.md) files and vaults.",
+  "author": "paddyd",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "obsidianmd_parser-0.4.0.tar.gz",
+  "download_time": "2026-01-23T12:52:09.301303",
+  "package_url": "https://pypi.org/project/obsidianmd-parser/"
+}

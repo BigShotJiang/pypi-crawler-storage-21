@@ -1,11 +1,11 @@
 {
   "name": "everycure-datasets",
-  "version": "0.2.43",
+  "version": "0.2.49",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "everycure_datasets-0.2.43.tar.gz",
-  "download_time": "2026-01-23T11:31:05.283322",
+  "download_filename": "everycure_datasets-0.2.49.tar.gz",
+  "download_time": "2026-01-23T12:52:02.855459",
   "package_url": "https://pypi.org/project/everycure-datasets/"
 }

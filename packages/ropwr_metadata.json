@@ -1,0 +1,11 @@
+{
+  "name": "ropwr",
+  "version": "1.2.0",
+  "summary": "RoPWR: Robust Piecewise Regression",
+  "author": "Guillermo Navas-Palencia",
+  "license": "Apache Licence 2.0",
+  "home_page": "https://github.com/guillermo-navas-palencia/ropwr",
+  "download_filename": "ropwr-1.2.0.tar.gz",
+  "download_time": "2026-01-23T12:52:33.313798",
+  "package_url": "https://pypi.org/project/ropwr/"
+}

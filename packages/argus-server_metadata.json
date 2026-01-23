@@ -1,0 +1,11 @@
+{
+  "name": "argus-server",
+  "version": "2.7.0",
+  "summary": "Argus is an alert aggregator for monitoring systems",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "argus_server-2.7.0.tar.gz",
+  "download_time": "2026-01-23T12:52:09.901278",
+  "package_url": "https://pypi.org/project/argus-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-ledger",
+  "version": "0.8.4",
+  "summary": "Double entry accounting system built on the Django Web Framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_ledger-0.8.4.tar.gz",
+  "download_time": "2026-01-23T12:52:27.048658",
+  "package_url": "https://pypi.org/project/django-ledger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odianumerals",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A comprehensive library for Odia numeral processing and linguistic conversion.",
   "author": "Srinibash Samal",
-  "license": null,
+  "license": "MIT License",
   "home_page": "https://github.com/srinibashsamal/odianumerals",
-  "download_filename": "odianumerals-1.0.3.tar.gz",
-  "download_time": "2026-01-20T17:48:14.601040",
+  "download_filename": "odianumerals-1.0.4.tar.gz",
+  "download_time": "2026-01-23T12:52:43.509831",
   "package_url": "https://pypi.org/project/odianumerals/"
 }

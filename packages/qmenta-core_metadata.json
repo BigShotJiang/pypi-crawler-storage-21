@@ -1,11 +1,11 @@
 {
   "name": "qmenta-core",
-  "version": "4.1",
+  "version": "4.1.1",
   "summary": "QMENTA core library to communicate with the QMENTA platform.",
   "author": "QMENTA",
   "license": "Proprietary",
   "home_page": "https://www.qmenta.com/",
-  "download_filename": "qmenta_core-4.1.tar.gz",
-  "download_time": "2026-01-21T08:44:28.846807",
+  "download_filename": "qmenta_core-4.1.1.tar.gz",
+  "download_time": "2026-01-23T12:51:59.948266",
   "package_url": "https://pypi.org/project/qmenta-core/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "microcode",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "Minimal Claude Code CLI powered by Modaic + DSPy RLM's",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microcode-0.1.3.tar.gz",
-  "download_time": "2026-01-22T11:47:56.852138",
+  "download_filename": "microcode-0.1.6.tar.gz",
+  "download_time": "2026-01-23T12:52:38.393535",
   "package_url": "https://pypi.org/project/microcode/"
 }

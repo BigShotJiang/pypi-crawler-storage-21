@@ -1,0 +1,11 @@
+{
+  "name": "youversion",
+  "version": "0.2.0",
+  "summary": "Python SDK for YouVersion API",
+  "author": "Ashish",
+  "license": null,
+  "home_page": null,
+  "download_filename": "youversion-0.2.0.tar.gz",
+  "download_time": "2026-01-23T12:52:48.130194",
+  "package_url": "https://pypi.org/project/youversion/"
+}

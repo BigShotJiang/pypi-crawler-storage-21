@@ -1,0 +1,11 @@
+{
+  "name": "dnsimple",
+  "version": "7.0.0",
+  "summary": "DNSimple API service for python",
+  "author": "DNSimple",
+  "license": "MIT",
+  "home_page": "https://github.com/dnsimple/dnsimple-python",
+  "download_filename": "dnsimple-7.0.0.tar.gz",
+  "download_time": "2026-01-23T12:52:01.097493",
+  "package_url": "https://pypi.org/project/dnsimple/"
+}

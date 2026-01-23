@@ -1,0 +1,11 @@
+{
+  "name": "talon-one-sdk",
+  "version": "26.2",
+  "summary": "Talon.One API",
+  "author": "Talon.One GmbH",
+  "license": null,
+  "home_page": "https://github.com/talon-one/talon-one-python-sdk/",
+  "download_filename": "talon_one_sdk-26.2.tar.gz",
+  "download_time": "2026-01-23T12:52:32.736313",
+  "package_url": "https://pypi.org/project/talon-one-sdk/"
+}
