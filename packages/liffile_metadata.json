@@ -1,0 +1,11 @@
+{
+  "name": "liffile",
+  "version": "2026.1.22",
+  "summary": "Read Leica image files (LIF, LOF, XLIF, XLCF, XLEF, and LIFEXT)",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "liffile-2026.1.22.tar.gz",
+  "download_time": "2026-01-23T01:59:57.666975",
+  "package_url": "https://pypi.org/project/liffile/"
+}

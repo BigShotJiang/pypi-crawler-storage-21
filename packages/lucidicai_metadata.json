@@ -1,0 +1,11 @@
+{
+  "name": "lucidicai",
+  "version": "3.3.1",
+  "summary": "Lucidic AI Python SDK",
+  "author": "Andy Liang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lucidicai-3.3.1.tar.gz",
+  "download_time": "2026-01-23T02:00:26.545517",
+  "package_url": "https://pypi.org/project/lucidicai/"
+}

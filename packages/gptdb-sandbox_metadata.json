@@ -1,0 +1,11 @@
+{
+  "name": "gptdb-sandbox",
+  "version": "0.7.3",
+  "summary": "A secure sandbox execution environment for GPT-DB Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gptdb_sandbox-0.7.3-py3-none-any.whl",
+  "download_time": "2026-01-23T02:00:44.226214",
+  "package_url": "https://pypi.org/project/gptdb-sandbox/"
+}

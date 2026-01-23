@@ -1,0 +1,11 @@
+{
+  "name": "byted-genius-be-agent-loop",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/byted_genius_be_agent_loop",
+  "download_filename": "byted_genius_be_agent_loop-0.0.1.tar.gz",
+  "download_time": "2026-01-23T01:59:53.518150",
+  "package_url": "https://pypi.org/project/byted-genius-be-agent-loop/"
+}

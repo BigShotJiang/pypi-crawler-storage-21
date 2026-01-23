@@ -1,0 +1,11 @@
+{
+  "name": "bytedance-redis-py3",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedance_redis_py3",
+  "download_filename": "bytedance_redis_py3-0.0.1.tar.gz",
+  "download_time": "2026-01-23T01:59:52.935470",
+  "package_url": "https://pypi.org/project/bytedance-redis-py3/"
+}

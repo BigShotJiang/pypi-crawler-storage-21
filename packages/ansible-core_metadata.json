@@ -1,0 +1,11 @@
+{
+  "name": "ansible-core",
+  "version": "2.20.1",
+  "summary": "Radically simple IT automation",
+  "author": "Ansible Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansible_core-2.20.1.tar.gz",
+  "download_time": "2026-01-23T02:00:38.335231",
+  "package_url": "https://pypi.org/project/ansible-core/"
+}

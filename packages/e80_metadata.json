@@ -1,0 +1,11 @@
+{
+  "name": "e80",
+  "version": "0.1.0a4",
+  "summary": "CLI for interacting with 8080.io",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "e80-0.1.0a4.tar.gz",
+  "download_time": "2026-01-23T02:00:28.328754",
+  "package_url": "https://pypi.org/project/e80/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bytedance-search-prompt",
+  "version": "0.0.1",
+  "summary": "This is a reserved placeholder package to mitigate dependency confusion risks.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://code.byted.org/infra/bytedance_search_prompt",
+  "download_filename": "bytedance_search_prompt-0.0.1.tar.gz",
+  "download_time": "2026-01-23T01:59:54.677349",
+  "package_url": "https://pypi.org/project/bytedance-search-prompt/"
+}
