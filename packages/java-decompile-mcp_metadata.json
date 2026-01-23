@@ -1,11 +1,11 @@
 {
   "name": "java-decompile-mcp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "MCP server for Java class and jar file decompilation using CFR",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "java_decompile_mcp-0.3.0.tar.gz",
-  "download_time": "2026-01-23T10:38:17.510094",
+  "download_filename": "java_decompile_mcp-0.3.1.tar.gz",
+  "download_time": "2026-01-23T11:00:15.956460",
   "package_url": "https://pypi.org/project/java-decompile-mcp/"
 }

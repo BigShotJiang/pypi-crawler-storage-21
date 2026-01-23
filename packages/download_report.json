@@ -1,10 +1,8 @@
 {
-  "download_time": "2026-01-23T10:38:54.829309",
+  "download_time": "2026-01-23T11:00:54.584214",
   "total_packages_downloaded": 93,
-  "total_size_mb": 40.11,
+  "total_size_mb": 8.88,
   "packages": [
-    "kcwebs",
-    "ohsome-filter-to-sql",
     "agent-stealth-browser",
     "strep",
     "yangson",
@@ -95,6 +93,8 @@
     "aiqtoolkit",
     "deeplatent",
     "spaik-coding-agents",
-    "aiqtoolkit-test"
+    "aiqtoolkit-test",
+    "aiqtoolkit-weave",
+    "rostaingchain"
   ]
 }

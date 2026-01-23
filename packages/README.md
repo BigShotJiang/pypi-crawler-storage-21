@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-23T10:38:54.829309
+- **Download Time**: 2026-01-23T11:00:54.584214
 - **Total Packages**: 93
-- **Total Size**: 40.11 MB
+- **Total Size**: 8.88 MB
 
 ## Packages List
-- kcwebs
-- ohsome-filter-to-sql
 - agent-stealth-browser
 - strep
 - yangson
@@ -99,3 +97,5 @@
 - deeplatent
 - spaik-coding-agents
 - aiqtoolkit-test
+- aiqtoolkit-weave
+- rostaingchain

@@ -1,11 +1,11 @@
 {
   "name": "anet-drf-common",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "Shared response contract for Django/DRF microservices",
   "author": "anet",
   "license": null,
   "home_page": null,
-  "download_filename": "anet_drf_common-0.3.10.tar.gz",
-  "download_time": "2026-01-23T10:38:10.722702",
+  "download_filename": "anet_drf_common-0.3.11.tar.gz",
+  "download_time": "2026-01-23T11:00:09.137127",
   "package_url": "https://pypi.org/project/anet-drf-common/"
 }
