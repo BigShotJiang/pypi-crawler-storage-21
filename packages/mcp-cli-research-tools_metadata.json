@@ -1,11 +1,11 @@
 {
   "name": "mcp-cli-research-tools",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "CLI + MCP server for dev.to, Google, Reddit, YouTube, Trends, News, Hacker News, and SearchAPI research",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_cli_research_tools-0.2.1.tar.gz",
-  "download_time": "2026-01-22T22:25:53.046483",
+  "download_filename": "mcp_cli_research_tools-0.2.2.tar.gz",
+  "download_time": "2026-01-23T15:04:06.142394",
   "package_url": "https://pypi.org/project/mcp-cli-research-tools/"
 }

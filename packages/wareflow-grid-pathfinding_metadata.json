@@ -1,0 +1,11 @@
+{
+  "name": "wareflow-grid-pathfinding",
+  "version": "0.1.0",
+  "summary": "High-performance 3D grid pathfinding with A* and HPA* algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wareflow_grid_pathfinding-0.1.0.tar.gz",
+  "download_time": "2026-01-23T15:04:08.224999",
+  "package_url": "https://pypi.org/project/wareflow-grid-pathfinding/"
+}

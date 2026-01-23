@@ -1,11 +1,11 @@
 {
   "name": "openwebui-bootstrap",
-  "version": "0.2.1",
+  "version": "0.3.2",
   "summary": "Open WebUI Bootstrap - A tool to bootstrap Open WebUI deployments by writing configuration directly to the database",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openwebui_bootstrap-0.2.1.tar.gz",
-  "download_time": "2026-01-22T20:55:00.654892",
+  "download_filename": "openwebui_bootstrap-0.3.2.tar.gz",
+  "download_time": "2026-01-23T15:03:57.075165",
   "package_url": "https://pypi.org/project/openwebui-bootstrap/"
 }

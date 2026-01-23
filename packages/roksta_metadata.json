@@ -1,11 +1,11 @@
 {
   "name": "roksta",
-  "version": "0.4.15",
+  "version": "0.4.17",
   "summary": "An AI coding assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "roksta-0.4.15-cp311-cp311-macosx_10_9_universal2.whl",
-  "download_time": "2026-01-20T18:39:05.933879",
+  "download_filename": "roksta-0.4.17-cp311-cp311-macosx_10_9_universal2.whl",
+  "download_time": "2026-01-23T15:04:04.011523",
   "package_url": "https://pypi.org/project/roksta/"
 }

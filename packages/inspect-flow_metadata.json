@@ -1,11 +1,11 @@
 {
   "name": "inspect-flow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Inspect Flow is a workflow stack built on Inspect AI that enables research organizations to run AI evaluations at scale",
   "author": "Meridian Labs",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "inspect_flow-0.2.0.tar.gz",
-  "download_time": "2026-01-22T19:06:06.464411",
+  "download_filename": "inspect_flow-0.2.1.tar.gz",
+  "download_time": "2026-01-23T15:04:21.831723",
   "package_url": "https://pypi.org/project/inspect-flow/"
 }

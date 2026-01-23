@@ -1,0 +1,11 @@
+{
+  "name": "icalcreate",
+  "version": "1.0.1",
+  "summary": "A CLI tool to create .ics calendar files and Google Calendar links",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "icalcreate-1.0.1.tar.gz",
+  "download_time": "2026-01-23T15:03:45.560467",
+  "package_url": "https://pypi.org/project/icalcreate/"
+}

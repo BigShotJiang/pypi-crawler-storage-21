@@ -1,0 +1,11 @@
+{
+  "name": "londonaicentre-oncoschema",
+  "version": "2.0.0",
+  "summary": "Oncology extraction schema for MESA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "londonaicentre_oncoschema-2.0.0.tar.gz",
+  "download_time": "2026-01-23T15:04:05.095246",
+  "package_url": "https://pypi.org/project/londonaicentre-oncoschema/"
+}

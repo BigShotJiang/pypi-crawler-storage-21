@@ -1,0 +1,11 @@
+{
+  "name": "vizpaint",
+  "version": "0.1.6",
+  "summary": "A comprehensive Python data visualization library.",
+  "author": "zhouxinjun",
+  "license": null,
+  "home_page": "https://pypi.org/project/vizpaint/",
+  "download_filename": "vizpaint-0.1.6.tar.gz",
+  "download_time": "2026-01-23T15:03:58.115272",
+  "package_url": "https://pypi.org/project/vizpaint/"
+}

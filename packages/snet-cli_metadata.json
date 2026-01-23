@@ -1,0 +1,11 @@
+{
+  "name": "snet-cli",
+  "version": "3.1.0",
+  "summary": "SingularityNET CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snet_cli-3.1.0.tar.gz",
+  "download_time": "2026-01-23T15:04:19.213921",
+  "package_url": "https://pypi.org/project/snet-cli/"
+}

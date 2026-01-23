@@ -1,0 +1,11 @@
+{
+  "name": "py-asana-cli",
+  "version": "0.1.0",
+  "summary": "A modern CLI for interacting with Asana",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_asana_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-23T15:03:50.272349",
+  "package_url": "https://pypi.org/project/py-asana-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "shotgun-sh",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "AI-powered research, planning, and task management CLI tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shotgun_sh-0.6.1.tar.gz",
-  "download_time": "2026-01-20T15:04:24.162672",
+  "download_filename": "shotgun_sh-0.6.3.tar.gz",
+  "download_time": "2026-01-23T15:03:53.953233",
   "package_url": "https://pypi.org/project/shotgun-sh/"
 }

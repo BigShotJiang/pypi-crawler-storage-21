@@ -1,0 +1,11 @@
+{
+  "name": "nninteractive-slicer-server",
+  "version": "0.3.0",
+  "summary": "Server package for nnInteractive Slicer",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "nninteractive_slicer_server-0.3.0.tar.gz",
+  "download_time": "2026-01-23T15:04:05.616945",
+  "package_url": "https://pypi.org/project/nninteractive-slicer-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tdsbrondata",
-  "version": "0.8.8",
+  "version": "0.8.9",
   "summary": "Tosch Data Solutions Brondata Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tdsbrondata-0.8.8.tar.gz",
-  "download_time": "2026-01-23T14:47:08.140271",
+  "download_filename": "tdsbrondata-0.8.9.tar.gz",
+  "download_time": "2026-01-23T15:03:49.751563",
   "package_url": "https://pypi.org/project/tdsbrondata/"
 }
