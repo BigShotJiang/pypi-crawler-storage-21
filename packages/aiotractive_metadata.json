@@ -1,0 +1,11 @@
+{
+  "name": "aiotractive",
+  "version": "1.0.0",
+  "summary": "Asynchronous Python client for the Tractive REST API",
+  "author": "Gleb Sinyavskiy",
+  "license": "The MIT License",
+  "home_page": "https://github.com/zhulik/aiotractive",
+  "download_filename": "aiotractive-1.0.0.tar.gz",
+  "download_time": "2026-01-23T08:43:33.255490",
+  "package_url": "https://pypi.org/project/aiotractive/"
+}

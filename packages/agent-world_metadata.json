@@ -1,0 +1,11 @@
+{
+  "name": "agent-world",
+  "version": "1.0.0",
+  "summary": "Autonomous AI Development Framework - From interview to deployed app",
+  "author": "Agent World Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_world-1.0.0.tar.gz",
+  "download_time": "2026-01-23T08:43:11.879492",
+  "package_url": "https://pypi.org/project/agent-world/"
+}

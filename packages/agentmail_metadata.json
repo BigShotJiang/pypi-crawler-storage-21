@@ -1,11 +1,11 @@
 {
   "name": "agentmail",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentmail-0.2.1.tar.gz",
-  "download_time": "2026-01-21T20:34:26.491037",
+  "download_filename": "agentmail-0.2.3.tar.gz",
+  "download_time": "2026-01-23T08:43:10.274135",
   "package_url": "https://pypi.org/project/agentmail/"
 }

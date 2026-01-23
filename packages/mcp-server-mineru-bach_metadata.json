@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-mineru-bach",
+  "version": "0.1.5",
+  "summary": "A MCP server for Mineru document analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_mineru_bach-0.1.5.tar.gz",
+  "download_time": "2026-01-23T08:42:56.970335",
+  "package_url": "https://pypi.org/project/mcp-server-mineru-bach/"
+}

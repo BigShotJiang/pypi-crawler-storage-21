@@ -1,0 +1,11 @@
+{
+  "name": "ray-milvus",
+  "version": "0.1.1",
+  "summary": "Ray Data datasource and datasink for Milvus Storage",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ray_milvus-0.1.1.tar.gz",
+  "download_time": "2026-01-23T08:43:19.302808",
+  "package_url": "https://pypi.org/project/ray-milvus/"
+}

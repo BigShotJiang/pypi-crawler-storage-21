@@ -1,0 +1,11 @@
+{
+  "name": "pigreads",
+  "version": "0.5.3",
+  "summary": "Python-integrated GPU-enabled reaction-diffusion solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pigreads-0.5.3.tar.gz",
+  "download_time": "2026-01-23T08:42:57.999001",
+  "package_url": "https://pypi.org/project/pigreads/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "syndisco",
+  "version": "2.0.7",
+  "summary": "Automated experiment creation and execution using LLM agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syndisco-2.0.7.tar.gz",
+  "download_time": "2026-01-23T08:43:03.914284",
+  "package_url": "https://pypi.org/project/syndisco/"
+}

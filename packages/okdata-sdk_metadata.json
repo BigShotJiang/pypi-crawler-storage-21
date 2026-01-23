@@ -1,0 +1,11 @@
+{
+  "name": "okdata-sdk",
+  "version": "4.0.0",
+  "summary": "SDK for origo dataplatform",
+  "author": "Oslo Origo",
+  "license": null,
+  "home_page": "https://github.com/oslokommune/okdata-sdk-python",
+  "download_filename": "okdata_sdk-4.0.0.tar.gz",
+  "download_time": "2026-01-23T08:43:19.814206",
+  "package_url": "https://pypi.org/project/okdata-sdk/"
+}

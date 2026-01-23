@@ -1,0 +1,11 @@
+{
+  "name": "claim169",
+  "version": "0.1.0a2",
+  "summary": "MOSIP Claim 169 QR Code decoder library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claim169-0.1.0a2.tar.gz",
+  "download_time": "2026-01-23T08:43:26.531444",
+  "package_url": "https://pypi.org/project/claim169/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anythreejs",
+  "version": "0.0.2",
+  "summary": "Anywidget wrapper for three.js",
+  "author": "Mridul Seth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anythreejs-0.0.2.tar.gz",
+  "download_time": "2026-01-23T08:43:09.760269",
+  "package_url": "https://pypi.org/project/anythreejs/"
+}
