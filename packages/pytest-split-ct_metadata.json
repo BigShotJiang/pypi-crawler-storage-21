@@ -1,0 +1,11 @@
+{
+  "name": "pytest-split-ct",
+  "version": "0.11.0",
+  "summary": "Pytest plugin which splits the test suite to equally sized sub suites based on test execution time.",
+  "author": "Jerry Pussinen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_split_ct-0.11.0.tar.gz",
+  "download_time": "2026-01-23T09:03:35.483261",
+  "package_url": "https://pypi.org/project/pytest-split-ct/"
+}

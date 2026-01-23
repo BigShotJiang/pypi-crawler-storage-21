@@ -1,0 +1,11 @@
+{
+  "name": "aws-cfn-update",
+  "version": "0.14.1",
+  "summary": "Programmatically update CloudFormation templates",
+  "author": "Mark van Holsteijn",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/binxio/aws-cfn-update",
+  "download_filename": "aws_cfn_update-0.14.1.tar.gz",
+  "download_time": "2026-01-23T09:03:43.795357",
+  "package_url": "https://pypi.org/project/aws-cfn-update/"
+}

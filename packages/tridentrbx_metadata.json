@@ -1,11 +1,11 @@
 {
   "name": "tridentrbx",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "a py library which is an roblox api wrapper.",
   "author": "goodcurry",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tridentrbx-0.1.3.tar.gz",
-  "download_time": "2026-01-23T08:42:59.022760",
+  "download_filename": "tridentrbx-0.1.4.tar.gz",
+  "download_time": "2026-01-23T09:03:16.015219",
   "package_url": "https://pypi.org/project/tridentrbx/"
 }

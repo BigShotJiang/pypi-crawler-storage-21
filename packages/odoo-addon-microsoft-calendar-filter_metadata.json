@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-microsoft-calendar-filter",
+  "version": "16.0.1.0.0.2",
+  "summary": "Limit the records that are synchronized from Outlook to Odoo",
+  "author": "Odoo Community Association (OCA), Therp BV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/calendar",
+  "download_filename": "odoo_addon_microsoft_calendar_filter-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-23T09:03:30.723680",
+  "package_url": "https://pypi.org/project/odoo-addon-microsoft-calendar-filter/"
+}

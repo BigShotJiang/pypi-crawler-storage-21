@@ -1,0 +1,11 @@
+{
+  "name": "feu",
+  "version": "0.6.2",
+  "summary": "A lightweight Python library for managing packages and versions across different Python environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "feu-0.6.2.tar.gz",
+  "download_time": "2026-01-23T09:03:41.711265",
+  "package_url": "https://pypi.org/project/feu/"
+}
