@@ -1,0 +1,11 @@
+{
+  "name": "nirtorch",
+  "version": "2.6",
+  "summary": "Neuromorphic Intermediate Representation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nirtorch-2.6.tar.gz",
+  "download_time": "2026-01-23T19:05:37.869189",
+  "package_url": "https://pypi.org/project/nirtorch/"
+}

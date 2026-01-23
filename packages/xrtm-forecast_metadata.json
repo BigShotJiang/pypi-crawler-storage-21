@@ -1,11 +1,11 @@
 {
   "name": "xrtm-forecast",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Institutional-grade modular engine for generative forecasting and agentic reasoning.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xrtm_forecast-0.4.1.tar.gz",
-  "download_time": "2026-01-20T23:26:54.601785",
+  "download_filename": "xrtm_forecast-0.5.0.tar.gz",
+  "download_time": "2026-01-23T19:05:52.304047",
   "package_url": "https://pypi.org/project/xrtm-forecast/"
 }

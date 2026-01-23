@@ -1,0 +1,11 @@
+{
+  "name": "doc-warden",
+  "version": "0.7.3",
+  "summary": "Doc-Warden is an internal project created by the Azure SDK Team. It is intended to be used by CI Builds to ensure that documentation standards are met. See readme for more details.",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-tools/",
+  "download_filename": "doc_warden-0.7.3-py2.py3-none-any.whl",
+  "download_time": "2026-01-23T19:05:53.900993",
+  "package_url": "https://pypi.org/project/doc-warden/"
+}

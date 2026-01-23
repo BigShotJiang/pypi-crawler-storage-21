@@ -1,11 +1,11 @@
 {
   "name": "stjames",
-  "version": "0.0.151",
+  "version": "0.0.152",
   "summary": "structured JSON atom/molecule encoding scheme",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stjames-0.0.151.tar.gz",
-  "download_time": "2026-01-21T22:27:34.395822",
+  "download_filename": "stjames-0.0.152.tar.gz",
+  "download_time": "2026-01-23T19:05:55.001773",
   "package_url": "https://pypi.org/project/stjames/"
 }

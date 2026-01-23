@@ -1,0 +1,11 @@
+{
+  "name": "colocate",
+  "version": "0.1.2",
+  "summary": "DataFrame column reordering made simple",
+  "author": "Albert Li",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "colocate-0.1.2.tar.gz",
+  "download_time": "2026-01-23T19:06:21.274513",
+  "package_url": "https://pypi.org/project/colocate/"
+}

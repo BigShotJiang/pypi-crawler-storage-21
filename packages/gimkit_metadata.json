@@ -1,0 +1,11 @@
+{
+  "name": "gimkit",
+  "version": "0.1.1",
+  "summary": "Guided Infilling Modeling",
+  "author": "Shichao Song",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gimkit-0.1.1.tar.gz",
+  "download_time": "2026-01-23T19:06:02.483292",
+  "package_url": "https://pypi.org/project/gimkit/"
+}

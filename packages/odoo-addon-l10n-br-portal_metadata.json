@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-portal",
+  "version": "16.0.2.1.1",
+  "summary": "Campos Brasileiros no Portal",
+  "author": "KMEE,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_portal-16.0.2.1.1-py3-none-any.whl",
+  "download_time": "2026-01-23T19:06:00.313481",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-portal/"
+}

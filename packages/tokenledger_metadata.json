@@ -1,0 +1,11 @@
+{
+  "name": "tokenledger",
+  "version": "0.1.1",
+  "summary": "LLM Cost Analytics for Postgres - Know exactly what your AI features cost",
+  "author": null,
+  "license": "Elastic-2.0",
+  "home_page": null,
+  "download_filename": "tokenledger-0.1.1.tar.gz",
+  "download_time": "2026-01-23T19:05:59.790812",
+  "package_url": "https://pypi.org/project/tokenledger/"
+}

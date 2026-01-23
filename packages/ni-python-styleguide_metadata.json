@@ -1,0 +1,11 @@
+{
+  "name": "ni-python-styleguide",
+  "version": "0.4.8",
+  "summary": "NI's internal and external Python linter rules and plugins",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": "https://github.com/ni/python-styleguide",
+  "download_filename": "ni_python_styleguide-0.4.8.tar.gz",
+  "download_time": "2026-01-23T19:06:09.778928",
+  "package_url": "https://pypi.org/project/ni-python-styleguide/"
+}

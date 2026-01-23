@@ -1,0 +1,11 @@
+{
+  "name": "pass-nice",
+  "version": "2.1.1",
+  "summary": "NICE 아이디 본인인증 요청을 자동화해주는 비공식 모듈",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pass_nice-2.1.1.tar.gz",
+  "download_time": "2026-01-23T19:06:07.690553",
+  "package_url": "https://pypi.org/project/pass-nice/"
+}
