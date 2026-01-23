@@ -1,11 +1,11 @@
 {
   "name": "PyQtier",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "summary": "Make your onw desktop app faster",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyqtier-1.4.1.tar.gz",
-  "download_time": "2026-01-23T06:51:15.040950",
+  "download_filename": "pyqtier-1.4.3.tar.gz",
+  "download_time": "2026-01-23T09:45:58.967187",
   "package_url": "https://pypi.org/project/PyQtier/"
 }

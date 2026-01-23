@@ -1,11 +1,11 @@
 {
   "name": "wareflow-analysis",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Warehouse data analysis CLI tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wareflow_analysis-0.1.1.tar.gz",
-  "download_time": "2026-01-20T15:03:51.016487",
+  "download_filename": "wareflow_analysis-0.2.0.tar.gz",
+  "download_time": "2026-01-23T09:46:12.297485",
   "package_url": "https://pypi.org/project/wareflow-analysis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rframe",
+  "version": "0.2.25",
+  "summary": "Top-level package for rframe.",
+  "author": "Yossi Mosbacher",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rframe-0.2.25.tar.gz",
+  "download_time": "2026-01-23T09:46:06.440434",
+  "package_url": "https://pypi.org/project/rframe/"
+}

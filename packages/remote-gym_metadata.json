@@ -1,0 +1,11 @@
+{
+  "name": "remote-gym",
+  "version": "0.7.2",
+  "summary": "This is a module to run Gym environments remotely, to enable splitting environment hosting and agent training into separate processes (or even separate machines).",
+  "author": "Alexander Zap",
+  "license": "MIT",
+  "home_page": "https://github.com/alexander-zap/remote-gym",
+  "download_filename": "remote_gym-0.7.2.tar.gz",
+  "download_time": "2026-01-23T09:45:56.830904",
+  "package_url": "https://pypi.org/project/remote-gym/"
+}

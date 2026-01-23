@@ -1,0 +1,11 @@
+{
+  "name": "jupyverse_api",
+  "version": "0.13.2",
+  "summary": "The public API for Jupyverse",
+  "author": "Jupyter Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyverse_api-0.13.2.tar.gz",
+  "download_time": "2026-01-23T09:46:44.059878",
+  "package_url": "https://pypi.org/project/jupyverse_api/"
+}

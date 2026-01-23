@@ -1,0 +1,11 @@
+{
+  "name": "json-repair",
+  "version": "0.55.1",
+  "summary": "A package to repair broken json strings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_repair-0.55.1.tar.gz",
+  "download_time": "2026-01-23T09:46:11.766238",
+  "package_url": "https://pypi.org/project/json-repair/"
+}

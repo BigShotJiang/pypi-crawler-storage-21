@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-apig20240327",
-  "version": "5.8.1",
+  "version": "6.0.0",
   "summary": "Alibaba Cloud APIG (20240327) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_apig20240327-5.8.1.tar.gz",
-  "download_time": "2026-01-22T19:37:34.415828",
+  "download_filename": "alibabacloud_apig20240327-6.0.0.tar.gz",
+  "download_time": "2026-01-23T09:46:18.164281",
   "package_url": "https://pypi.org/project/alibabacloud-apig20240327/"
 }

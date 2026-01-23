@@ -1,0 +1,11 @@
+{
+  "name": "influxdb-client",
+  "version": "1.50.0",
+  "summary": "InfluxDB 2.0 Python client library",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/influxdata/influxdb-client-python",
+  "download_filename": "influxdb_client-1.50.0.tar.gz",
+  "download_time": "2026-01-23T09:46:04.271460",
+  "package_url": "https://pypi.org/project/influxdb-client/"
+}
