@@ -1,0 +1,11 @@
+{
+  "name": "aws-cli-migrate",
+  "version": "1.0.0",
+  "summary": "Command-line tool to lint and modify bash scripts that use AWS CLI v1 to prevent breakage from changes introduced in AWS CLI v2.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_cli_migrate-1.0.0.tar.gz",
+  "download_time": "2026-01-23T17:06:48.672850",
+  "package_url": "https://pypi.org/project/aws-cli-migrate/"
+}

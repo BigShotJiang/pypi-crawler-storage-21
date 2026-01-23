@@ -1,11 +1,11 @@
 {
   "name": "iamt",
-  "version": "1.1.34",
+  "version": "1.1.44",
   "summary": "这是一个灵活的自动化运维工具",
   "author": "lipanpan",
   "license": null,
   "home_page": null,
-  "download_filename": "iamt-1.1.34-py3-none-any.whl",
-  "download_time": "2026-01-22T07:05:43.242104",
+  "download_filename": "iamt-1.1.44-py3-none-any.whl",
+  "download_time": "2026-01-23T17:06:22.442640",
   "package_url": "https://pypi.org/project/iamt/"
 }

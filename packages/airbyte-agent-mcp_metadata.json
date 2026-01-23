@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-mcp",
-  "version": "0.1.80",
+  "version": "0.1.82",
   "summary": "MCP server that exposes Airbyte Connector SDK as MCP tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airbyte_agent_mcp-0.1.80.tar.gz",
-  "download_time": "2026-01-23T02:00:03.486481",
+  "download_filename": "airbyte_agent_mcp-0.1.82.tar.gz",
+  "download_time": "2026-01-23T17:07:01.931906",
   "package_url": "https://pypi.org/project/airbyte-agent-mcp/"
 }

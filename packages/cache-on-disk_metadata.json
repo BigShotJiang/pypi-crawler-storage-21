@@ -1,0 +1,11 @@
+{
+  "name": "cache-on-disk",
+  "version": "0.5.0",
+  "summary": "A disk-based caching utility for Python functions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cache_on_disk-0.5.0.tar.gz",
+  "download_time": "2026-01-23T17:06:16.108070",
+  "package_url": "https://pypi.org/project/cache-on-disk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "topaz-agent-kit",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "summary": "Config-driven multi-agent orchestration kit with optional API/UI/MCP extras",
   "author": "Nishant Khare",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "topaz_agent_kit-0.9.7-py3-none-any.whl",
-  "download_time": "2026-01-23T16:01:27.875762",
+  "download_filename": "topaz_agent_kit-0.9.8-py3-none-any.whl",
+  "download_time": "2026-01-23T17:06:45.549603",
   "package_url": "https://pypi.org/project/topaz-agent-kit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "graphsense-lib",
+  "version": "25.11.13",
+  "summary": "Graphsense backend lib and automation cli",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphsense_lib-25.11.13-py3-none-any.whl",
+  "download_time": "2026-01-23T17:06:55.051244",
+  "package_url": "https://pypi.org/project/graphsense-lib/"
+}

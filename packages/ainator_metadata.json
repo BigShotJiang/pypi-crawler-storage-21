@@ -1,11 +1,11 @@
 {
   "name": "ainator",
-  "version": "0.0.15",
+  "version": "0.0.21",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ainator-0.0.15.tar.gz",
-  "download_time": "2026-01-23T16:01:54.258036",
+  "download_filename": "ainator-0.0.21.tar.gz",
+  "download_time": "2026-01-23T17:06:46.592102",
   "package_url": "https://pypi.org/project/ainator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gstlearn",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "summary": "Geostatistics & Machine Learning toolbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gstlearn-1.10.0-cp310-cp310-macosx_14_0_arm64.whl",
-  "download_time": "2026-01-21T15:50:05.544148",
+  "download_filename": "gstlearn-1.10.1-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-23T17:06:14.474646",
   "package_url": "https://pypi.org/project/gstlearn/"
 }

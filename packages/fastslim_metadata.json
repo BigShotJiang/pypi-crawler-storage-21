@@ -1,0 +1,11 @@
+{
+  "name": "fastslim",
+  "version": "0.1.0",
+  "summary": "SLIM (Sparse Linear Methods) recommender system in Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastslim-0.1.0.tar.gz",
+  "download_time": "2026-01-23T17:06:29.788626",
+  "package_url": "https://pypi.org/project/fastslim/"
+}

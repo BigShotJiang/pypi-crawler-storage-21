@@ -1,0 +1,11 @@
+{
+  "name": "gravity-grid",
+  "version": "0.1.13",
+  "summary": "A high-performance gravity simulation with Rust backend and Python frontend.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gravity_grid-0.1.13.tar.gz",
+  "download_time": "2026-01-23T17:06:42.905852",
+  "package_url": "https://pypi.org/project/gravity-grid/"
+}
