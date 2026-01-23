@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-margin-trading",
+  "version": "4.3.0",
+  "summary": "Official Binance MarginTrading SDK - A lightweight library that provides a convenient interface to Binance's MarginTrading REST API and WebSocket Streams.",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_margin_trading-4.3.0.tar.gz",
+  "download_time": "2026-01-23T14:17:48.976078",
+  "package_url": "https://pypi.org/project/binance-sdk-margin-trading/"
+}

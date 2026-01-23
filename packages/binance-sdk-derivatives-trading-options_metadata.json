@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-derivatives-trading-options",
+  "version": "5.1.0",
+  "summary": "Official Binance Derivatives Trading Options SDK - A lightweight library that provides a convenient interface to Binance's DerivativesTradingOptions REST API and WebSocket Streams.",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_derivatives_trading_options-5.1.0.tar.gz",
+  "download_time": "2026-01-23T14:17:55.627690",
+  "package_url": "https://pypi.org/project/binance-sdk-derivatives-trading-options/"
+}

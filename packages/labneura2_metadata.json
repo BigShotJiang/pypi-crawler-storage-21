@@ -1,11 +1,11 @@
 {
   "name": "labneura2",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "SIMD-accelerated tensor operations for neural networks",
   "author": "LabNeura Authors",
   "license": "MIT",
   "home_page": "https://github.com/gokatharun/LabNeura",
-  "download_filename": "labneura2-0.2.5.tar.gz",
-  "download_time": "2026-01-23T06:00:08.405772",
+  "download_filename": "labneura2-0.2.6.tar.gz",
+  "download_time": "2026-01-23T14:17:13.349935",
   "package_url": "https://pypi.org/project/labneura2/"
 }

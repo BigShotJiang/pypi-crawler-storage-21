@@ -1,0 +1,11 @@
+{
+  "name": "setupEM",
+  "version": "0.1.22",
+  "summary": "Python tool for configuration of gds2palace workflow with GUI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "setupem-0.1.22.tar.gz",
+  "download_time": "2026-01-23T14:17:11.821788",
+  "package_url": "https://pypi.org/project/setupEM/"
+}

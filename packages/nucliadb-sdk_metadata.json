@@ -1,11 +1,11 @@
 {
   "name": "nucliadb-sdk",
-  "version": "6.11.0.post5802",
+  "version": "6.11.1.post5822",
   "summary": "NucliaDB SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucliadb_sdk-6.11.0.post5802-py3-none-any.whl",
-  "download_time": "2026-01-21T11:37:46.584095",
+  "download_filename": "nucliadb_sdk-6.11.1.post5822-py3-none-any.whl",
+  "download_time": "2026-01-23T14:17:17.709192",
   "package_url": "https://pypi.org/project/nucliadb-sdk/"
 }

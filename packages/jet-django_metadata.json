@@ -1,0 +1,11 @@
+{
+  "name": "jet-django",
+  "version": "1.12.7",
+  "summary": null,
+  "author": "Denis Kildishev",
+  "license": "MIT",
+  "home_page": "https://github.com/jet-admin/jet-django",
+  "download_filename": "jet_django-1.12.7-py3-none-any.whl",
+  "download_time": "2026-01-23T14:17:23.631275",
+  "package_url": "https://pypi.org/project/jet-django/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iot-swarm",
+  "version": "0.2.0",
+  "summary": "Orchestrate AI agent swarms on edge/IoT hardware with energy-efficient gossip protocols",
+  "author": "The Swarm Orchestrator Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iot_swarm-0.2.0.tar.gz",
+  "download_time": "2026-01-23T14:17:35.651640",
+  "package_url": "https://pypi.org/project/iot-swarm/"
+}

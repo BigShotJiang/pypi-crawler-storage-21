@@ -1,0 +1,11 @@
+{
+  "name": "entsoe-apy",
+  "version": "0.9.0",
+  "summary": "A Python library for accessing ENTSO-E Transparency Platform API endpoints",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "entsoe_apy-0.9.0.tar.gz",
+  "download_time": "2026-01-23T14:17:31.455153",
+  "package_url": "https://pypi.org/project/entsoe-apy/"
+}

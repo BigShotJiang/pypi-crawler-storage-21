@@ -1,0 +1,11 @@
+{
+  "name": "elfen",
+  "version": "1.2.7",
+  "summary": "ELFEN - Efficient Linguistic Feature Extraction for Natural Language Datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elfen-1.2.7.tar.gz",
+  "download_time": "2026-01-23T14:17:37.778138",
+  "package_url": "https://pypi.org/project/elfen/"
+}

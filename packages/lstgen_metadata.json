@@ -1,0 +1,11 @@
+{
+  "name": "lstgen",
+  "version": "0.7.1",
+  "summary": "Lohnsteuer-Generator für BMF XML-Codes",
+  "author": "Igor Stroh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lstgen-0.7.1.tar.gz",
+  "download_time": "2026-01-23T14:17:51.532453",
+  "package_url": "https://pypi.org/project/lstgen/"
+}
