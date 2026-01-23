@@ -1,11 +1,11 @@
 {
   "name": "nodelp",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A library that generates various kinds of point clouds and coordinates.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nodelp-0.1.7.tar.gz",
-  "download_time": "2026-01-23T20:29:36.089850",
+  "download_filename": "nodelp-0.1.8.tar.gz",
+  "download_time": "2026-01-23T23:45:17.110364",
   "package_url": "https://pypi.org/project/nodelp/"
 }
