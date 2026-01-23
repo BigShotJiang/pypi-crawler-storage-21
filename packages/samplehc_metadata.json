@@ -1,11 +1,11 @@
 {
   "name": "samplehc",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "The official Python library for the Sample Healthcare API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "samplehc-0.17.0.tar.gz",
-  "download_time": "2026-01-23T22:46:22.792373",
+  "download_filename": "samplehc-0.18.0.tar.gz",
+  "download_time": "2026-01-23T23:26:39.966977",
   "package_url": "https://pypi.org/project/samplehc/"
 }

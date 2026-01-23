@@ -1,11 +1,11 @@
 {
   "name": "ldap-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for LDAP directory operations",
   "author": "Major Hayden",
   "license": null,
   "home_page": null,
-  "download_filename": "ldap_mcp-0.1.0.tar.gz",
-  "download_time": "2026-01-23T22:58:08.432023",
+  "download_filename": "ldap_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-23T23:26:52.698216",
   "package_url": "https://pypi.org/project/ldap-mcp/"
 }

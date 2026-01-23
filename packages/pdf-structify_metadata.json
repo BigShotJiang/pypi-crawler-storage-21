@@ -1,11 +1,11 @@
 {
   "name": "pdf-structify",
-  "version": "0.1.16",
+  "version": "0.1.18",
   "summary": "Extract structured data from PDFs using LLMs with sklearn-like API",
   "author": "Ahmed Dawood",
   "license": null,
   "home_page": null,
-  "download_filename": "pdf_structify-0.1.16.tar.gz",
-  "download_time": "2026-01-23T22:57:59.815718",
+  "download_filename": "pdf_structify-0.1.18.tar.gz",
+  "download_time": "2026-01-23T23:26:35.096969",
   "package_url": "https://pypi.org/project/pdf-structify/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pydoc-mintlify",
+  "version": "0.1.2",
+  "summary": "pydoc-markdown plugin for Mintlify, auto-generate mintlify docs from your python docstrings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydoc_mintlify-0.1.2.tar.gz",
+  "download_time": "2026-01-23T23:26:14.974485",
+  "package_url": "https://pypi.org/project/pydoc-mintlify/"
+}

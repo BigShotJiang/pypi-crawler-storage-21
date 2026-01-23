@@ -1,11 +1,11 @@
 {
   "name": "pywombat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A CLI tool for processing and filtering bcftools tabulated TSV files with pedigree support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pywombat-1.0.0.tar.gz",
-  "download_time": "2026-01-23T15:44:22.794679",
+  "download_filename": "pywombat-1.0.1.tar.gz",
+  "download_time": "2026-01-23T23:26:54.929049",
   "package_url": "https://pypi.org/project/pywombat/"
 }
