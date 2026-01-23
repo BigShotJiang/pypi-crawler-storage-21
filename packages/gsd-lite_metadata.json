@@ -1,11 +1,11 @@
 {
   "name": "gsd-lite",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "A minimal protocol for Getting Things Done with AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gsd_lite-1.0.1.tar.gz",
-  "download_time": "2026-01-23T11:31:11.487109",
+  "download_filename": "gsd_lite-1.1.1.tar.gz",
+  "download_time": "2026-01-23T11:56:42.754340",
   "package_url": "https://pypi.org/project/gsd-lite/"
 }

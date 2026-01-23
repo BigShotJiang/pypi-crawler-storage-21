@@ -1,11 +1,11 @@
 {
   "name": "dodil",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "DODIL Python SDK",
-  "author": "DODIL",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dodil-0.0.4.tar.gz",
-  "download_time": "2026-01-20T13:49:11.628080",
+  "download_filename": "dodil-0.0.6.tar.gz",
+  "download_time": "2026-01-23T11:56:20.430131",
   "package_url": "https://pypi.org/project/dodil/"
 }

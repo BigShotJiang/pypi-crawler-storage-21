@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-toolsets",
-  "version": "0.1.0",
-  "summary": "Bunch of toolsets to give super powers to your Pydantic AI agents.",
+  "version": "0.2.0",
+  "summary": "Combine or use individual toolsets to give super powers to your Pydantic AI agents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_toolsets-0.1.0.tar.gz",
-  "download_time": "2026-01-22T07:43:42.976304",
+  "download_filename": "pydantic_ai_toolsets-0.2.0.tar.gz",
+  "download_time": "2026-01-23T11:56:25.253890",
   "package_url": "https://pypi.org/project/pydantic-ai-toolsets/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "chiluka",
+  "version": "0.1.0",
+  "summary": "Chiluka - A lightweight TTS inference package based on StyleTTS2",
+  "author": "Seemanth",
+  "license": "MIT",
+  "home_page": "https://github.com/PurviewVoiceBot/chiluka",
+  "download_filename": "chiluka-0.1.0.tar.gz",
+  "download_time": "2026-01-23T11:56:30.469200",
+  "package_url": "https://pypi.org/project/chiluka/"
+}
