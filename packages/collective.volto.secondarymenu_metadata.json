@@ -1,0 +1,11 @@
+{
+  "name": "collective.volto.secondarymenu",
+  "version": "2.0.0",
+  "summary": "Add-on for Volto to manage a secondary menu in dropdown one.",
+  "author": "RedTurtle Technology",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/collective.volto.secondarymenu",
+  "download_filename": "collective_volto_secondarymenu-2.0.0.tar.gz",
+  "download_time": "2026-01-23T14:46:45.722389",
+  "package_url": "https://pypi.org/project/collective.volto.secondarymenu/"
+}

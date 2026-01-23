@@ -1,11 +1,11 @@
 {
   "name": "pytest-nhsd-apim",
-  "version": "6.0.3",
+  "version": "6.0.5",
   "summary": "Pytest plugin accessing NHSDigital's APIM proxies",
   "author": "Adrian Ciobanita",
   "license": "MIT",
-  "home_page": "https://github.com/NHSDigital/pytest-nhsd-apim",
-  "download_filename": "pytest_nhsd_apim-6.0.3.tar.gz",
-  "download_time": "2026-01-23T10:38:12.801975",
+  "home_page": null,
+  "download_filename": "pytest_nhsd_apim-6.0.5.tar.gz",
+  "download_time": "2026-01-23T14:47:06.534486",
   "package_url": "https://pypi.org/project/pytest-nhsd-apim/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "enable-ai",
-  "version": "0.3.3",
+  "version": "0.3.8",
   "summary": "AI-powered natural language interface for REST APIs with OpenAPI support and real-time streaming",
-  "author": "Rhishikesh Thakur",
-  "license": "MIT",
-  "home_page": null,
-  "download_filename": "enable_ai-0.3.3.tar.gz",
-  "download_time": "2026-01-23T13:44:54.482710",
+  "author": "Enable Engineering",
+  "license": null,
+  "home_page": "https://github.com/EnableEngineering/enable_ai",
+  "download_filename": "enable_ai-0.3.8-py3-none-any.whl",
+  "download_time": "2026-01-23T14:46:36.456834",
   "package_url": "https://pypi.org/project/enable-ai/"
 }

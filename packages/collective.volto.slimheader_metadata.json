@@ -1,0 +1,11 @@
+{
+  "name": "collective.volto.slimheader",
+  "version": "2.0.0",
+  "summary": "Volto Slim Header",
+  "author": "RedTurtle",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/collective.volto.slimheader",
+  "download_filename": "collective_volto_slimheader-2.0.0.tar.gz",
+  "download_time": "2026-01-23T14:46:42.771684",
+  "package_url": "https://pypi.org/project/collective.volto.slimheader/"
+}

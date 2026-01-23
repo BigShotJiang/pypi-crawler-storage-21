@@ -1,0 +1,11 @@
+{
+  "name": "radis-client",
+  "version": "0.5.4",
+  "summary": "RADIS client library to connect to a RADIS server.",
+  "author": "Kai Schlamp",
+  "license": null,
+  "home_page": null,
+  "download_filename": "radis_client-0.5.4.tar.gz",
+  "download_time": "2026-01-23T14:46:45.211898",
+  "package_url": "https://pypi.org/project/radis-client/"
+}

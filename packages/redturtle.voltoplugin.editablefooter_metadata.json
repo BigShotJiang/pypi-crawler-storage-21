@@ -1,0 +1,11 @@
+{
+  "name": "redturtle.voltoplugin.editablefooter",
+  "version": "2.0.0",
+  "summary": "Add-on for Volto to manage four-columns footer",
+  "author": "RedTurtle Techonolgy",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/redturtle.voltoplugin.editablefooter",
+  "download_filename": "redturtle_voltoplugin_editablefooter-2.0.0.tar.gz",
+  "download_time": "2026-01-23T14:46:39.188494",
+  "package_url": "https://pypi.org/project/redturtle.voltoplugin.editablefooter/"
+}

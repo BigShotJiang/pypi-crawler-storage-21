@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-h5",
+  "version": "0.3.0",
+  "summary": "Scrapy HTML5 support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrapy_h5-0.3.0.tar.gz",
+  "download_time": "2026-01-23T14:46:34.922244",
+  "package_url": "https://pypi.org/project/scrapy-h5/"
+}

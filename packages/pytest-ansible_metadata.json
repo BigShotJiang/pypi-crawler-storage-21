@@ -1,0 +1,11 @@
+{
+  "name": "pytest-ansible",
+  "version": "26.1.0",
+  "summary": "Plugin for pytest to simplify calling ansible modules from tests or fixtures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_ansible-26.1.0.tar.gz",
+  "download_time": "2026-01-23T14:47:14.843120",
+  "package_url": "https://pypi.org/project/pytest-ansible/"
+}
