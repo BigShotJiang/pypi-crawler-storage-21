@@ -1,0 +1,11 @@
+{
+  "name": "meteo-qc",
+  "version": "0.4.4",
+  "summary": "quality control meteorological data in a pandas.DataFrame",
+  "author": "Jonas Kittner",
+  "license": "MIT",
+  "home_page": "https://github.com/jkittner/meteo-qc",
+  "download_filename": "meteo_qc-0.4.4.tar.gz",
+  "download_time": "2026-01-23T17:41:28.906703",
+  "package_url": "https://pypi.org/project/meteo-qc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "manuf2",
+  "version": "2.0.2",
+  "summary": "Parser library for Wireshark's OUI database",
+  "author": "Josh Schmelzle, Michael Huang",
+  "license": "Apache License 2.0 or GPLv3",
+  "home_page": "https://github.com/joshschmelzle/manuf2",
+  "download_filename": "manuf2-2.0.2.tar.gz",
+  "download_time": "2026-01-23T17:41:39.983162",
+  "package_url": "https://pypi.org/project/manuf2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "abletonosc-client",
+  "version": "1.1.0",
+  "summary": "Python OSC client wrapper for AbletonOSC - control Ableton Live via OSC",
+  "author": "ldraney",
+  "license": "MIT",
+  "home_page": "https://github.com/ldraney/abletonosc-client",
+  "download_filename": "abletonosc_client-1.1.0.tar.gz",
+  "download_time": "2026-01-23T17:41:35.256444",
+  "package_url": "https://pypi.org/project/abletonosc-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "option-prices",
+  "version": "0.1.0",
+  "summary": "Option pricing using the Black Scholes Model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "option_prices-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-23T17:41:48.844014",
+  "package_url": "https://pypi.org/project/option-prices/"
+}

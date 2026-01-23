@@ -1,11 +1,11 @@
 {
   "name": "dots-infrastructure",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "A python package containing infrastructure to develop a dots calculation service",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dots_infrastructure-1.0.7.tar.gz",
-  "download_time": "2026-01-20T11:49:02.901663",
+  "download_filename": "dots_infrastructure-1.0.8.tar.gz",
+  "download_time": "2026-01-23T17:41:37.053411",
   "package_url": "https://pypi.org/project/dots-infrastructure/"
 }

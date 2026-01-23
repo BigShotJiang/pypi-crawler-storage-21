@@ -1,0 +1,11 @@
+{
+  "name": "hivemind-mic-satellite",
+  "version": "0.7.1",
+  "summary": "Remote microphone for HiveMind",
+  "author": "jarbasAI",
+  "license": "Apache2.0",
+  "home_page": "https://github.com/JarbasHiveMind/hivemind-mic-satellite",
+  "download_filename": "hivemind-mic-satellite-0.7.1.tar.gz",
+  "download_time": "2026-01-23T17:41:48.270327",
+  "package_url": "https://pypi.org/project/hivemind-mic-satellite/"
+}

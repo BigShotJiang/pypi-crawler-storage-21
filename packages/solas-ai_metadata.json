@@ -1,0 +1,11 @@
+{
+  "name": "solas-ai",
+  "version": "0.6.0",
+  "summary": "A Python Library of Curated Disparity Testing Metrics for Use in Real-World Settings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "solas_ai-0.6.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-23T17:41:35.840734",
+  "package_url": "https://pypi.org/project/solas-ai/"
+}

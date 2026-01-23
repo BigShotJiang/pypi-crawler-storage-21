@@ -1,0 +1,11 @@
+{
+  "name": "aplicacion-ventas-beto",
+  "version": "0.1.1",
+  "summary": "Aplicacion de ventas, impuestos y descuentos",
+  "author": "Beto",
+  "license": null,
+  "home_page": "https://github.com/usuario/gestor_ventas",
+  "download_filename": "aplicacion_ventas_beto-0.1.1.tar.gz",
+  "download_time": "2026-01-23T17:41:10.028206",
+  "package_url": "https://pypi.org/project/aplicacion-ventas-beto/"
+}

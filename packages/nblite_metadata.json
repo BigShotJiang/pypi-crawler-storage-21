@@ -1,11 +1,11 @@
 {
   "name": "nblite",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "summary": "Notebook-driven Python package development tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nblite-1.1.9.tar.gz",
-  "download_time": "2026-01-22T19:05:40.714016",
+  "download_filename": "nblite-1.1.10.tar.gz",
+  "download_time": "2026-01-23T17:41:49.999133",
   "package_url": "https://pypi.org/project/nblite/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "GrabzIt",
+  "version": "3.5.7.1",
+  "summary": "GrabzIt enables allows you to programmatically convert web pages and HTML into images, DOCX, videos, rendered HTML, PDFs, CSVs and spreadsheets. Additionally GrabzIt allows you to convert online videos into animated GIFs",
+  "author": "GrabzIt",
+  "license": "MIT Licence",
+  "home_page": "https://grabz.it/api/python/",
+  "download_filename": "grabzit-3.5.7.1.tar.gz",
+  "download_time": "2026-01-23T17:41:27.181167",
+  "package_url": "https://pypi.org/project/GrabzIt/"
+}

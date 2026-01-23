@@ -1,0 +1,11 @@
+{
+  "name": "launchdarkly-eventsource",
+  "version": "1.5.1",
+  "summary": "LaunchDarkly SSE Client",
+  "author": "LaunchDarkly",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "launchdarkly_eventsource-1.5.1.tar.gz",
+  "download_time": "2026-01-23T17:41:08.909406",
+  "package_url": "https://pypi.org/project/launchdarkly-eventsource/"
+}

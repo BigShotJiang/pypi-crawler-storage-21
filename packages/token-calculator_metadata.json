@@ -1,0 +1,11 @@
+{
+  "name": "token-calculator",
+  "version": "2.0.0",
+  "summary": "LLM Token Optimization and Cost Management for Developers",
+  "author": "TokenCost Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/arunaryamdn/Know-your-tokens",
+  "download_filename": "token_calculator-2.0.0.tar.gz",
+  "download_time": "2026-01-23T17:41:38.788116",
+  "package_url": "https://pypi.org/project/token-calculator/"
+}

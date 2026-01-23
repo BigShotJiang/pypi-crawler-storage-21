@@ -1,11 +1,11 @@
 {
   "name": "tmdbfusion",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Simple, high-performance Python wrapper for The Movie Database API",
   "author": "xsyncio",
   "license": null,
   "home_page": null,
-  "download_filename": "tmdbfusion-0.1.0.tar.gz",
-  "download_time": "2026-01-23T05:06:39.575788",
+  "download_filename": "tmdbfusion-0.2.0.tar.gz",
+  "download_time": "2026-01-23T17:41:15.509807",
   "package_url": "https://pypi.org/project/tmdbfusion/"
 }
