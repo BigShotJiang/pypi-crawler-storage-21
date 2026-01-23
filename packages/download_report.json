@@ -1,10 +1,16 @@
 {
-  "download_time": "2026-01-23T23:45:55.868945",
+  "download_time": "2026-01-23T23:57:09.480106",
   "total_packages_downloaded": 88,
-  "total_size_mb": 10.12,
+  "total_size_mb": 7.76,
   "packages": [
+    "commitdb",
+    "eero-prometheus-exporter",
+    "trustchain",
+    "qbdquery",
+    "nv-ingest",
+    "nv-ingest-client",
+    "nv-ingest-api",
     "aic-sdk",
-    "goquant-sdk",
     "synqly",
     "mmgp",
     "jbom",
@@ -84,12 +90,6 @@
     "docx-editor",
     "samplehc",
     "docker2mqtt",
-    "cardio",
-    "zootopia3",
-    "tomtoolkit",
-    "w3av",
-    "flwr-nightly",
-    "boofun",
-    "appkit-user"
+    "cardio"
   ]
 }
