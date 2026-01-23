@@ -1,0 +1,11 @@
+{
+  "name": "pokit-stack",
+  "version": "0.0.0a3",
+  "summary": "Lightweight ASGI framework for building JSON APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pokit_stack-0.0.0a3.tar.gz",
+  "download_time": "2026-01-23T18:37:27.770486",
+  "package_url": "https://pypi.org/project/pokit-stack/"
+}

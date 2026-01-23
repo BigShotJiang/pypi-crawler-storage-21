@@ -1,0 +1,11 @@
+{
+  "name": "reactivated",
+  "version": "0.47.9",
+  "summary": "A statically typed framework to create Django sites with a React frontend.",
+  "author": "Silvio Gutierrez",
+  "license": null,
+  "home_page": "https://github.com/silviogutierrez/django-react",
+  "download_filename": "reactivated-0.47.9.tar.gz",
+  "download_time": "2026-01-23T18:37:52.866020",
+  "package_url": "https://pypi.org/project/reactivated/"
+}

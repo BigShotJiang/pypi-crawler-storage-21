@@ -1,11 +1,11 @@
 {
   "name": "ojph",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "OpenJPH Bindings for Python and Numpy",
   "author": "Mark Harfouche",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/ramonaoptics/ojph",
-  "download_filename": "ojph-0.6.0.tar.gz",
-  "download_time": "2026-01-22T23:57:01.024025",
+  "download_filename": "ojph-0.6.1.tar.gz",
+  "download_time": "2026-01-23T18:37:27.259554",
   "package_url": "https://pypi.org/project/ojph/"
 }

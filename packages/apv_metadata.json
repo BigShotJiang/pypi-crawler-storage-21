@@ -1,0 +1,11 @@
+{
+  "name": "apv",
+  "version": "4.2.2",
+  "summary": "Advanced Python Logging",
+  "author": "acidvegas",
+  "license": "ISC",
+  "home_page": "https://github.com/acidvegas/apv",
+  "download_filename": "apv-4.2.2.tar.gz",
+  "download_time": "2026-01-23T18:37:11.659158",
+  "package_url": "https://pypi.org/project/apv/"
+}

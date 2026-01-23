@@ -1,0 +1,11 @@
+{
+  "name": "kcws",
+  "version": "1.92",
+  "summary": "超轻量级http框架",
+  "author": "坤坤",
+  "license": "MIT License",
+  "home_page": "https://docs.kwebapp.cn/index/index/1",
+  "download_filename": "kcws-1.92.tar.gz",
+  "download_time": "2026-01-23T18:37:56.001151",
+  "package_url": "https://pypi.org/project/kcws/"
+}
