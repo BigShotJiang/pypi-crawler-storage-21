@@ -1,0 +1,11 @@
+{
+  "name": "espercli",
+  "version": "0.0.15",
+  "summary": "Esper CLI is Command line tool for the Esper APIs",
+  "author": "Esper",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/esper-io/esper-cli/",
+  "download_filename": "espercli-0.0.15.tar.gz",
+  "download_time": "2026-01-23T07:28:31.080770",
+  "package_url": "https://pypi.org/project/espercli/"
+}

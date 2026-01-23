@@ -1,11 +1,11 @@
 {
   "name": "aly-tool",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "ALY (Advanced Logic Yieldflow) is a Python-based RTL meta-tool that automates build, simulation, synthesis, and verification workflows across multiple EDA tools, providing a unified and efficient design flow for hardware projects. ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aly_tool-0.1.0.tar.gz",
-  "download_time": "2026-01-23T06:51:38.325853",
+  "download_filename": "aly_tool-0.1.1.tar.gz",
+  "download_time": "2026-01-23T07:28:06.724348",
   "package_url": "https://pypi.org/project/aly-tool/"
 }

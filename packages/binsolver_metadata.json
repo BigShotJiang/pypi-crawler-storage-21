@@ -1,0 +1,11 @@
+{
+  "name": "binsolver",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the BinSolver API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "binsolver-1.0.0.tar.gz",
+  "download_time": "2026-01-23T07:28:18.718371",
+  "package_url": "https://pypi.org/project/binsolver/"
+}

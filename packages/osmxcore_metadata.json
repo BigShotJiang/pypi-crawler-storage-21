@@ -1,11 +1,11 @@
 {
   "name": "osmxcore",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "OSMX virtual OS core (BIOS, SSD, Screen)",
   "author": null,
   "license": "OSMX Custom License: See LICENSE.txt",
   "home_page": null,
-  "download_filename": "osmxcore-0.2.0.tar.gz",
-  "download_time": "2026-01-23T06:50:59.833134",
+  "download_filename": "osmxcore-0.3.0.tar.gz",
+  "download_time": "2026-01-23T07:28:14.458636",
   "package_url": "https://pypi.org/project/osmxcore/"
 }

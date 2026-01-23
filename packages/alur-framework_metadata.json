@@ -1,11 +1,11 @@
 {
   "name": "alur-framework",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Cost-effective data lake framework designed for small and mid-size companies. Build production-grade data pipelines on AWS with zero idle costs using serverless Spark and automatic partition management.",
   "author": "Alur Framework Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alur_framework-0.7.0.tar.gz",
-  "download_time": "2026-01-23T06:51:13.424017",
+  "download_filename": "alur_framework-0.7.2.tar.gz",
+  "download_time": "2026-01-23T07:28:32.115948",
   "package_url": "https://pypi.org/project/alur-framework/"
 }

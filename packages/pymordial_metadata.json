@@ -1,0 +1,11 @@
+{
+  "name": "pymordial",
+  "version": "0.4.0",
+  "summary": "An extensible automation framework for Python, designed to support any platform via abstract controllers.",
+  "author": "IAmNo1Special",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymordial-0.4.0.tar.gz",
+  "download_time": "2026-01-23T07:27:44.090952",
+  "package_url": "https://pypi.org/project/pymordial/"
+}

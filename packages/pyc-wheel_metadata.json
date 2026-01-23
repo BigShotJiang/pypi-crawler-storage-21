@@ -1,0 +1,11 @@
+{
+  "name": "pyc-wheel",
+  "version": "2.1.0",
+  "summary": "Compile all py files in a wheel to pyc files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyc_wheel-2.1.0.tar.gz",
+  "download_time": "2026-01-23T07:28:17.125903",
+  "package_url": "https://pypi.org/project/pyc-wheel/"
+}

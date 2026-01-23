@@ -1,11 +1,11 @@
 {
   "name": "mathematica-mcp-full",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Full GUI control of Mathematica notebooks and kernel via Model Context Protocol",
   "author": "Abhishek Singh Rawat",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mathematica_mcp_full-0.1.2.tar.gz",
-  "download_time": "2026-01-23T06:51:21.083441",
+  "download_filename": "mathematica_mcp_full-0.1.4.tar.gz",
+  "download_time": "2026-01-23T07:28:21.796487",
   "package_url": "https://pypi.org/project/mathematica-mcp-full/"
 }

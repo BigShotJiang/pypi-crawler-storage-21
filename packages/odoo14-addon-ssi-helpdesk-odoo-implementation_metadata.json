@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-helpdesk-odoo-implementation",
+  "version": "14.0.2.3.0",
+  "summary": "Helpdesk - Odoo Implementation Integration",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_helpdesk_odoo_implementation-14.0.2.3.0-py3-none-any.whl",
+  "download_time": "2026-01-23T07:27:59.503568",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-helpdesk-odoo-implementation/"
+}
