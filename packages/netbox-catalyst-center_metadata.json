@@ -1,11 +1,11 @@
 {
   "name": "netbox-catalyst-center",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "NetBox plugin to display Cisco Catalyst Center client details",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "netbox_catalyst_center-1.2.0.tar.gz",
-  "download_time": "2026-01-23T07:48:19.332162",
+  "download_filename": "netbox_catalyst_center-1.2.1.tar.gz",
+  "download_time": "2026-01-23T21:24:51.133056",
   "package_url": "https://pypi.org/project/netbox-catalyst-center/"
 }

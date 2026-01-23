@@ -1,0 +1,11 @@
+{
+  "name": "jplephem",
+  "version": "2.24",
+  "summary": "Use a JPL ephemeris to predict planet positions.",
+  "author": "Brandon Rhodes",
+  "license": "MIT",
+  "home_page": "https://github.com/brandon-rhodes/python-jplephem/",
+  "download_filename": "jplephem-2.24.tar.gz",
+  "download_time": "2026-01-23T21:24:36.283387",
+  "package_url": "https://pypi.org/project/jplephem/"
+}
