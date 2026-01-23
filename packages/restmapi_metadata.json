@@ -1,0 +1,11 @@
+{
+  "name": "restmapi",
+  "version": "1.0.4.54",
+  "summary": "MORPHEE REST API SDK",
+  "author": "Xavier Dourille",
+  "license": null,
+  "home_page": "https://dev.azure.com/STS-Software/MORPHEE/_git/TOOLS-REST-MAPI?path=/Python",
+  "download_filename": "restmapi-1.0.4.54.tar.gz",
+  "download_time": "2026-01-23T19:54:07.292718",
+  "package_url": "https://pypi.org/project/restmapi/"
+}

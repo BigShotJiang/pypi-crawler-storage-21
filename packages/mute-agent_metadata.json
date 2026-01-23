@@ -1,0 +1,11 @@
+{
+  "name": "mute-agent",
+  "version": "0.2.0",
+  "summary": "Layer 5 Reference Implementation - Listener Agent with Dynamic Semantic Handshake Protocol",
+  "author": "Mute Agent Team",
+  "license": null,
+  "home_page": "https://github.com/imran-siddique/mute-agent",
+  "download_filename": "mute_agent-0.2.0.tar.gz",
+  "download_time": "2026-01-23T19:54:14.230595",
+  "package_url": "https://pypi.org/project/mute-agent/"
+}

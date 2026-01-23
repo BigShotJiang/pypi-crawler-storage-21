@@ -1,0 +1,11 @@
+{
+  "name": "videoipath-automation-tool",
+  "version": "0.7.1",
+  "summary": "A Python package for automating VideoIPath configuration workflows.",
+  "author": "Paul Winterstein",
+  "license": null,
+  "home_page": "https://github.com/SWR-MoIP/VideoIPath-Automation-Tool",
+  "download_filename": "videoipath_automation_tool-0.7.1.tar.gz",
+  "download_time": "2026-01-23T19:54:32.210935",
+  "package_url": "https://pypi.org/project/videoipath-automation-tool/"
+}

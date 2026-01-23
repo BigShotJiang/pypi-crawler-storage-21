@@ -1,0 +1,11 @@
+{
+  "name": "bcpkgfox",
+  "version": "0.17.10",
+  "summary": "Biblioteca BCFOX",
+  "author": "BCFOX",
+  "license": null,
+  "home_page": "https://github.com/robotsbcfox/PacotePythonBCFOX",
+  "download_filename": "bcpkgfox-0.17.10.tar.gz",
+  "download_time": "2026-01-23T19:54:30.030460",
+  "package_url": "https://pypi.org/project/bcpkgfox/"
+}

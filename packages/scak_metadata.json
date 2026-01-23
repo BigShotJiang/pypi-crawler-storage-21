@@ -1,0 +1,11 @@
+{
+  "name": "scak",
+  "version": "2.0.0",
+  "summary": "Self-Correcting Agent Kernel: A specialized extension for Control Plane that implements Laziness Detection and Self-Correction loops using CMVK",
+  "author": "Self-Correcting Agent Team",
+  "license": "MIT",
+  "home_page": "https://github.com/imran-siddique/self-correcting-agent-kernel",
+  "download_filename": "scak-2.0.0-py3-none-any.whl",
+  "download_time": "2026-01-23T19:54:05.639900",
+  "package_url": "https://pypi.org/project/scak/"
+}

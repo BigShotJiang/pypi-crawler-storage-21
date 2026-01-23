@@ -1,0 +1,11 @@
+{
+  "name": "H4sh",
+  "version": "0.9.1",
+  "summary": "A Python module for secure hashing using a C implementation",
+  "author": "pavlkon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "h4sh-0.9.1-py3-none-any.whl",
+  "download_time": "2026-01-23T19:54:28.421887",
+  "package_url": "https://pypi.org/project/H4sh/"
+}

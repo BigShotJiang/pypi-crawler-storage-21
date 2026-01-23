@@ -1,0 +1,11 @@
+{
+  "name": "ltts",
+  "version": "0.4.0",
+  "summary": "Text-to-speech CLI using Qwen3-TTS or Kokoro TTS",
+  "author": "Frank Chiarulli Jr.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ltts-0.4.0.tar.gz",
+  "download_time": "2026-01-23T19:54:03.907836",
+  "package_url": "https://pypi.org/project/ltts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "easy-mcp-proxy",
+  "version": "0.2.0",
+  "summary": "Easy MCP Proxy - Filter, transform, and compose MCP tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easy_mcp_proxy-0.2.0.tar.gz",
+  "download_time": "2026-01-23T19:54:26.230322",
+  "package_url": "https://pypi.org/project/easy-mcp-proxy/"
+}

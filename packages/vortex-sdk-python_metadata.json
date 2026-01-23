@@ -1,0 +1,11 @@
+{
+  "name": "vortex-sdk-python",
+  "version": "0.2.0",
+  "summary": "Python wrapper for Vortex SDK using Node.js subprocess",
+  "author": "Pendulum Chain",
+  "license": "MIT",
+  "home_page": "https://github.com/pendulum-chain/vortex",
+  "download_filename": "vortex_sdk_python-0.2.0.tar.gz",
+  "download_time": "2026-01-23T19:54:36.031608",
+  "package_url": "https://pypi.org/project/vortex-sdk-python/"
+}

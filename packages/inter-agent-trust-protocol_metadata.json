@@ -1,11 +1,11 @@
 {
   "name": "inter-agent-trust-protocol",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Inter-Agent Trust Protocol - Envoy for Agents",
   "author": "Imran Siddique",
   "license": null,
   "home_page": "https://github.com/imran-siddique/inter-agent-trust-protocol",
-  "download_filename": "inter_agent_trust_protocol-0.3.0.tar.gz",
-  "download_time": "2026-01-23T05:46:36.182030",
+  "download_filename": "inter_agent_trust_protocol-0.3.1.tar.gz",
+  "download_time": "2026-01-23T19:54:46.040847",
   "package_url": "https://pypi.org/project/inter-agent-trust-protocol/"
 }

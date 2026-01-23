@@ -1,11 +1,11 @@
 {
   "name": "pdf-auto-outline",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Automatically generate and edit PDF table of contents / outline",
   "author": "Rossikos",
   "license": null,
   "home_page": null,
-  "download_filename": "pdf_auto_outline-0.1.5.tar.gz",
-  "download_time": "2026-01-22T01:53:49.857737",
+  "download_filename": "pdf_auto_outline-0.1.6.tar.gz",
+  "download_time": "2026-01-23T19:54:06.195108",
   "package_url": "https://pypi.org/project/pdf-auto-outline/"
 }
