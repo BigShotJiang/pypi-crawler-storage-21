@@ -1,0 +1,11 @@
+{
+  "name": "abi3audit",
+  "version": "0.0.26",
+  "summary": "Scans Python wheels for abi3 violations and inconsistencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abi3audit-0.0.26.tar.gz",
+  "download_time": "2026-01-23T20:29:49.205529",
+  "package_url": "https://pypi.org/project/abi3audit/"
+}

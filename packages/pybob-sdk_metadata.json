@@ -1,0 +1,11 @@
+{
+  "name": "pybob-sdk",
+  "version": "1.0.0",
+  "summary": "An unofficial Python SDK for the HiBob HR API",
+  "author": "Kurtis Massey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pybob_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-23T20:29:59.644655",
+  "package_url": "https://pypi.org/project/pybob-sdk/"
+}

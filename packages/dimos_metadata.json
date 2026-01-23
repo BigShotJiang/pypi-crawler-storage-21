@@ -1,11 +1,11 @@
 {
   "name": "dimos",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Powering agentive generalist robotics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dimos-0.0.8.tar.gz",
-  "download_time": "2026-01-23T16:01:36.876150",
+  "download_filename": "dimos-0.0.9.tar.gz",
+  "download_time": "2026-01-23T20:29:57.033636",
   "package_url": "https://pypi.org/project/dimos/"
 }

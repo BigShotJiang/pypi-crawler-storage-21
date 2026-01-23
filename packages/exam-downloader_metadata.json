@@ -1,0 +1,11 @@
+{
+  "name": "exam-downloader",
+  "version": "0.2.0",
+  "summary": "A premium full-stack platform for downloading CAIE and Edexcel exam papers.",
+  "author": "Faisal Ahmed Moshiur",
+  "license": "MIT",
+  "home_page": "https://github.com/fam007e/examquest",
+  "download_filename": "exam_downloader-0.2.0.tar.gz",
+  "download_time": "2026-01-23T20:29:28.810238",
+  "package_url": "https://pypi.org/project/exam-downloader/"
+}

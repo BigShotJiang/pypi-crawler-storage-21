@@ -1,11 +1,11 @@
 {
   "name": "smlmlp",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A python library for Single Molecule Localization Microscopy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smlmlp-0.1.8.tar.gz",
-  "download_time": "2026-01-23T19:06:15.009291",
+  "download_filename": "smlmlp-0.1.9.tar.gz",
+  "download_time": "2026-01-23T20:29:29.837178",
   "package_url": "https://pypi.org/project/smlmlp/"
 }
