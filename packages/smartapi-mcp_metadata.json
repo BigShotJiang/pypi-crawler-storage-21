@@ -1,0 +1,11 @@
+{
+  "name": "smartapi-mcp",
+  "version": "0.2.0",
+  "summary": "Create MCP servers for one or multiple APIs registered in SmartAPI registry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartapi_mcp-0.2.0.tar.gz",
+  "download_time": "2026-01-23T06:00:00.460390",
+  "package_url": "https://pypi.org/project/smartapi-mcp/"
+}

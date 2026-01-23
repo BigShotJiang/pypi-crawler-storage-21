@@ -1,11 +1,11 @@
 {
   "name": "sqltidy",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "SQL Formatting Made Easy",
   "author": "Jayden Rasband",
   "license": null,
   "home_page": null,
-  "download_filename": "sqltidy-0.6.1.tar.gz",
-  "download_time": "2026-01-22T17:17:13.084841",
+  "download_filename": "sqltidy-0.6.2.tar.gz",
+  "download_time": "2026-01-23T06:00:09.445199",
   "package_url": "https://pypi.org/project/sqltidy/"
 }
