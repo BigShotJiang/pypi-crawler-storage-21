@@ -1,0 +1,11 @@
+{
+  "name": "gunshotmatch-pipeline",
+  "version": "1.0.0",
+  "summary": "GunShotMatch Analysis Pipeline",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/GunShotMatch/gunshotmatch-pipeline",
+  "download_filename": "gunshotmatch_pipeline-1.0.0.tar.gz",
+  "download_time": "2026-01-23T10:38:31.134294",
+  "package_url": "https://pypi.org/project/gunshotmatch-pipeline/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "seemps",
-  "version": "2.9.8",
+  "version": "3.0.0",
   "summary": "Matrix Product State library for quantum simulation and numerical analysis",
-  "author": "Paula García Molina, Juan José Rodríguez aldavero",
+  "author": "Paula García Molina, Juan José Rodríguez Aldavero, Jorge Gidi",
   "license": null,
   "home_page": null,
-  "download_filename": "seemps-2.9.8.tar.gz",
-  "download_time": "2026-01-22T07:05:35.915985",
+  "download_filename": "seemps-3.0.0.tar.gz",
+  "download_time": "2026-01-23T10:38:48.138256",
   "package_url": "https://pypi.org/project/seemps/"
 }

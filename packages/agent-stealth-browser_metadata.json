@@ -1,11 +1,11 @@
 {
   "name": "agent-stealth-browser",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "通用的 AI 浏览器自动化 MCP 工具，让 AI Agent 能够以 Stealth 模式操作任意网站，兼容 agent-browser 接口",
   "author": "AierLab",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_stealth_browser-0.1.0.tar.gz",
-  "download_time": "2026-01-20T03:45:18.015621",
+  "download_filename": "agent_stealth_browser-0.2.0.tar.gz",
+  "download_time": "2026-01-23T10:38:05.989866",
   "package_url": "https://pypi.org/project/agent-stealth-browser/"
 }

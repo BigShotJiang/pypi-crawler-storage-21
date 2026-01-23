@@ -1,0 +1,11 @@
+{
+  "name": "boosty-milker",
+  "version": "1.0.4",
+  "summary": "CLI tool to download photos from Boosty.to",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boosty_milker-1.0.4.tar.gz",
+  "download_time": "2026-01-23T10:38:13.340024",
+  "package_url": "https://pypi.org/project/boosty-milker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tairos-data-convert",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tairos_data_convert-1.0.16-py3-none-any.whl",
-  "download_time": "2026-01-22T09:06:16.423990",
+  "download_filename": "tairos_data_convert-1.0.17-py3-none-any.whl",
+  "download_time": "2026-01-23T10:38:39.353195",
   "package_url": "https://pypi.org/project/tairos-data-convert/"
 }

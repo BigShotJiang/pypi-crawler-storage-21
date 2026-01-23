@@ -1,0 +1,11 @@
+{
+  "name": "acore",
+  "version": "0.2.1",
+  "summary": "A Python package with statistical functions to analyse multimodal molecular data",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "acore-0.2.1.tar.gz",
+  "download_time": "2026-01-23T10:38:33.709056",
+  "package_url": "https://pypi.org/project/acore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "moontex",
+  "version": "1.1.0",
+  "summary": "MoonTex is a noise-based texture generator that creates realistic grayscale moon phase images.",
+  "author": "Brianna Ladson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moontex-1.1.0.tar.gz",
+  "download_time": "2026-01-23T10:38:16.485538",
+  "package_url": "https://pypi.org/project/moontex/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "webrockets",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webrockets-0.1.0.tar.gz",
-  "download_time": "2026-01-22T23:45:17.749783",
+  "download_filename": "webrockets-0.1.3.tar.gz",
+  "download_time": "2026-01-23T10:38:30.075738",
   "package_url": "https://pypi.org/project/webrockets/"
 }

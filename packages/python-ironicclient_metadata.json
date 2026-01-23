@@ -1,0 +1,11 @@
+{
+  "name": "python-ironicclient",
+  "version": "5.14.0",
+  "summary": "OpenStack Bare Metal Provisioning API Client Library",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-ironicclient/latest/",
+  "download_filename": "python_ironicclient-5.14.0.tar.gz",
+  "download_time": "2026-01-23T10:38:16.998952",
+  "package_url": "https://pypi.org/project/python-ironicclient/"
+}

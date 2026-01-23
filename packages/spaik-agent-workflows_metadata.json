@@ -1,0 +1,11 @@
+{
+  "name": "spaik-agent-workflows",
+  "version": "0.3.1",
+  "summary": "YAML-driven workflow engine for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spaik_agent_workflows-0.3.1.tar.gz",
+  "download_time": "2026-01-23T10:38:40.375589",
+  "package_url": "https://pypi.org/project/spaik-agent-workflows/"
+}
