@@ -1,0 +1,11 @@
+{
+  "name": "wiba",
+  "version": "0.2.3",
+  "summary": "Official Python client library for WIBA argument mining API",
+  "author": "WIBA Research Team",
+  "license": "MIT",
+  "home_page": "https://github.com/WIBA-ORG/wiba-python-client",
+  "download_filename": "wiba-0.2.3.tar.gz",
+  "download_time": "2026-01-23T22:21:44.079399",
+  "package_url": "https://pypi.org/project/wiba/"
+}

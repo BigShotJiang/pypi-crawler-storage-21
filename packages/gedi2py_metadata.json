@@ -1,0 +1,11 @@
+{
+  "name": "gedi2py",
+  "version": "0.2.0",
+  "summary": "Gene Expression Decomposition for Integration - scverse-compliant single-cell RNA-seq batch correction",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gedi2py-0.2.0.tar.gz",
+  "download_time": "2026-01-23T22:21:39.325933",
+  "package_url": "https://pypi.org/project/gedi2py/"
+}

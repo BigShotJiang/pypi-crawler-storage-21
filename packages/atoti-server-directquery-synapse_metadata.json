@@ -1,0 +1,11 @@
+{
+  "name": "atoti-server-directquery-synapse",
+  "version": "0.9.12",
+  "summary": "Resources to use DirectQuery on Azure Synapse Analytics",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_server_directquery_synapse-0.9.12-py3-none-any.whl",
+  "download_time": "2026-01-23T22:21:16.982450",
+  "package_url": "https://pypi.org/project/atoti-server-directquery-synapse/"
+}

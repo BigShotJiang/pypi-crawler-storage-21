@@ -1,0 +1,11 @@
+{
+  "name": "mk2html",
+  "version": "1.3.0",
+  "summary": "Convert Markdown to beautiful, interactive HTML and PDF with TOC, dark/light mode, Mermaid diagrams, and syntax highlighting",
+  "author": "Kinshuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mk2html-1.3.0.tar.gz",
+  "download_time": "2026-01-23T22:21:42.931836",
+  "package_url": "https://pypi.org/project/mk2html/"
+}

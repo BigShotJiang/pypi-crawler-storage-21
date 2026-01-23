@@ -1,0 +1,11 @@
+{
+  "name": "atoti-client-directquery-jdbc",
+  "version": "0.9.12",
+  "summary": "Code to use DirectQuery through JDBC",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_client_directquery_jdbc-0.9.12-py3-none-any.whl",
+  "download_time": "2026-01-23T22:21:30.606192",
+  "package_url": "https://pypi.org/project/atoti-client-directquery-jdbc/"
+}

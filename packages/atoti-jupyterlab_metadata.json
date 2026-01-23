@@ -1,0 +1,11 @@
+{
+  "name": "atoti-jupyterlab",
+  "version": "0.9.12",
+  "summary": "Extension to create interactive Atoti widgets in JupyterLab",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_jupyterlab-0.9.12-py3-none-any.whl",
+  "download_time": "2026-01-23T22:21:24.340657",
+  "package_url": "https://pypi.org/project/atoti-jupyterlab/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "stacklib",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A chainable stack-based utility library",
   "author": "NovaStar",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stacklib-0.1.3.tar.gz",
-  "download_time": "2026-01-23T03:45:24.543363",
+  "download_filename": "stacklib-0.1.4.tar.gz",
+  "download_time": "2026-01-23T22:21:00.987959",
   "package_url": "https://pypi.org/project/stacklib/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "netbox-snmp",
-  "version": "0.2.1",
+  "version": "0.4.0",
   "summary": "NetBox SNMP is a NetBox plugin for managing SNMP data.",
   "author": "AGE Solutions",
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_snmp-0.2.1.tar.gz",
-  "download_time": "2026-01-23T20:29:47.653024",
+  "download_filename": "netbox_snmp-0.4.0.tar.gz",
+  "download_time": "2026-01-23T22:21:46.934720",
   "package_url": "https://pypi.org/project/netbox-snmp/"
 }

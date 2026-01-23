@@ -1,11 +1,11 @@
 {
   "name": "Ctack14-practice-data-sets",
-  "version": "0.1.10",
-  "summary": "Add your description here",
+  "version": "0.1.12",
+  "summary": "Australian weather data used to learn and practice data analysis skills.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ctack14_practice_data_sets-0.1.10.tar.gz",
-  "download_time": "2026-01-23T21:58:35.241504",
+  "download_filename": "ctack14_practice_data_sets-0.1.12.tar.gz",
+  "download_time": "2026-01-23T22:21:06.229684",
   "package_url": "https://pypi.org/project/Ctack14-practice-data-sets/"
 }

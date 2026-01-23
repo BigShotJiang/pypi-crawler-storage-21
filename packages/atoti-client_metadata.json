@@ -1,0 +1,11 @@
+{
+  "name": "atoti-client",
+  "version": "0.9.12",
+  "summary": "Code to interact with an Atoti session",
+  "author": "ActiveViam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_client-0.9.12-py3-none-any.whl",
+  "download_time": "2026-01-23T22:21:34.052933",
+  "package_url": "https://pypi.org/project/atoti-client/"
+}
