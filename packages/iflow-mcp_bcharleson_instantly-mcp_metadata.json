@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_bcharleson_instantly-mcp",
+  "version": "1.0.1",
+  "summary": "Instantly V2 API MCP Server - A lightweight, robust Model Context Protocol server for Instantly.ai email automation",
+  "author": "Brandon Charleson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_bcharleson_instantly_mcp-1.0.1.tar.gz",
+  "download_time": "2026-01-23T04:33:30.409598",
+  "package_url": "https://pypi.org/project/iflow-mcp_bcharleson_instantly-mcp/"
+}

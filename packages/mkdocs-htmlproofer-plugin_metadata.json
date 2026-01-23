@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-htmlproofer-plugin",
+  "version": "1.4.1",
+  "summary": "A MkDocs plugin that validates URL in rendered HTML files",
+  "author": "Manu Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/manuzhang/mkdocs-htmlproofer-plugin",
+  "download_filename": "mkdocs_htmlproofer_plugin-1.4.1.tar.gz",
+  "download_time": "2026-01-23T04:33:21.126357",
+  "package_url": "https://pypi.org/project/mkdocs-htmlproofer-plugin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pcons",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A Python-based build system that generates Ninja files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pcons-0.3.0.tar.gz",
-  "download_time": "2026-01-21T21:50:07.507876",
+  "download_filename": "pcons-0.4.0.tar.gz",
+  "download_time": "2026-01-23T04:33:58.896596",
   "package_url": "https://pypi.org/project/pcons/"
 }

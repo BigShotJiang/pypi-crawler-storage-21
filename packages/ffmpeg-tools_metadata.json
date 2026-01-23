@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-tools",
+  "version": "0.1.7",
+  "summary": "A Python package for high-quality FFmpeg command generation and video utilities.",
+  "author": "Sudeep Sudhevan",
+  "license": null,
+  "home_page": "https://github.com/sudeepsudhevan/FFmpeg_pip",
+  "download_filename": "ffmpeg_tools-0.1.7.tar.gz",
+  "download_time": "2026-01-23T04:33:20.057791",
+  "package_url": "https://pypi.org/project/ffmpeg-tools/"
+}

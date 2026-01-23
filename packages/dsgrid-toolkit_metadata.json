@@ -1,11 +1,11 @@
 {
   "name": "dsgrid-toolkit",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Python API for accessing demand-side grid model (dsgrid) datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dsgrid_toolkit-0.3.1.tar.gz",
-  "download_time": "2026-01-22T18:36:44.283400",
+  "download_filename": "dsgrid_toolkit-0.3.2.tar.gz",
+  "download_time": "2026-01-23T04:33:25.791161",
   "package_url": "https://pypi.org/project/dsgrid-toolkit/"
 }

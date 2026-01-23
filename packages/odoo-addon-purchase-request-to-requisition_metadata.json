@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-request-to-requisition",
+  "version": "18.0.1.0.0.6",
+  "summary": "Purchase Request to Purchase Agreement",
+  "author": "ForgeFlow, Acsone SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_request_to_requisition-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2026-01-23T04:33:53.743092",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-request-to-requisition/"
+}

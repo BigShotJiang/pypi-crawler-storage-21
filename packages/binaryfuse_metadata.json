@@ -1,0 +1,11 @@
+{
+  "name": "binaryfuse",
+  "version": "0.1.1",
+  "summary": "A fast and space-efficient Binary Fuse Filter implementation with Python bindings.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binaryfuse-0.1.1.tar.gz",
+  "download_time": "2026-01-23T04:33:56.324295",
+  "package_url": "https://pypi.org/project/binaryfuse/"
+}

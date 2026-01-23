@@ -1,0 +1,11 @@
+{
+  "name": "zagar",
+  "version": "0.1.0",
+  "summary": "Efficient algorithms for exact and approximate enumeration of admixed arrays",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "zagar-0.1.0.tar.gz",
+  "download_time": "2026-01-23T04:33:54.255027",
+  "package_url": "https://pypi.org/project/zagar/"
+}
