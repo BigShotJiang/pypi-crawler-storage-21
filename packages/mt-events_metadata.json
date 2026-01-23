@@ -1,0 +1,11 @@
+{
+  "name": "mt-events",
+  "version": "0.1.2",
+  "summary": "Utility module providing event queues and JS style async awaiter promises",
+  "author": "Illinois Plasma Institute",
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "mt_events-0.1.2.tar.gz",
+  "download_time": "2026-01-23T16:01:41.575539",
+  "package_url": "https://pypi.org/project/mt-events/"
+}

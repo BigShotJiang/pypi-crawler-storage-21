@@ -1,0 +1,11 @@
+{
+  "name": "tempun",
+  "version": "0.2.3",
+  "summary": "A package to deal with temporal uncertainty in historical/archaeological datasets",
+  "author": "Vojtech Kase",
+  "license": null,
+  "home_page": "https://github.com/sdam-au/sddk",
+  "download_filename": "tempun-0.2.3.tar.gz",
+  "download_time": "2026-01-23T16:01:44.197889",
+  "package_url": "https://pypi.org/project/tempun/"
+}

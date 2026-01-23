@@ -1,11 +1,11 @@
 {
   "name": "twitch-mcp",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "MCP server exposing Twitch SDK as tools for AI assistants",
   "author": "ldraney",
   "license": null,
   "home_page": null,
-  "download_filename": "twitch_mcp-0.1.1.tar.gz",
-  "download_time": "2026-01-21T21:04:42.867872",
+  "download_filename": "twitch_mcp-0.2.0.tar.gz",
+  "download_time": "2026-01-23T16:02:02.179606",
   "package_url": "https://pypi.org/project/twitch-mcp/"
 }

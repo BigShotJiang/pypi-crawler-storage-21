@@ -1,0 +1,11 @@
+{
+  "name": "infra-buddy-too",
+  "version": "75",
+  "summary": "CLI for deploying micro-services",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Nudge-Security/infra-buddy",
+  "download_filename": "infra_buddy_too-75.tar.gz",
+  "download_time": "2026-01-23T16:01:24.131582",
+  "package_url": "https://pypi.org/project/infra-buddy-too/"
+}

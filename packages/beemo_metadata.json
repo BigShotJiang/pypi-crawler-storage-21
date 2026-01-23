@@ -1,0 +1,11 @@
+{
+  "name": "beemo",
+  "version": "0.3.2",
+  "summary": "A Python-based static site generator. Bring your own content and templates and it'll quickly generate you a deployable HTML website/blog.",
+  "author": "Ben Nuttall",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "beemo-0.3.2.tar.gz",
+  "download_time": "2026-01-23T16:01:43.165350",
+  "package_url": "https://pypi.org/project/beemo/"
+}

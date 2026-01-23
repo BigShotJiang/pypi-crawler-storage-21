@@ -1,0 +1,11 @@
+{
+  "name": "cool-seq-tool",
+  "version": "0.15.3",
+  "summary": "Common Operation on Lots of Sequences Tool",
+  "author": "Kori Kuzma, James Stevenson, Katie Stahl, Alex Wagner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cool_seq_tool-0.15.3.tar.gz",
+  "download_time": "2026-01-23T16:01:24.676991",
+  "package_url": "https://pypi.org/project/cool-seq-tool/"
+}
