@@ -1,11 +1,11 @@
 {
   "name": "IPythonMentor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Grade Python submissions with Gemini feedback.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ipythonmentor-0.3.0.tar.gz",
-  "download_time": "2026-01-24T19:53:15.045308",
+  "download_filename": "ipythonmentor-0.4.0.tar.gz",
+  "download_time": "2026-01-24T20:25:40.238774",
   "package_url": "https://pypi.org/project/IPythonMentor/"
 }

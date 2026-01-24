@@ -1,0 +1,11 @@
+{
+  "name": "petlja-api",
+  "version": "0.4.0",
+  "summary": "A python library for interacting with the petlja.org API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "petlja_api-0.4.0.tar.gz",
+  "download_time": "2026-01-24T20:25:20.771591",
+  "package_url": "https://pypi.org/project/petlja-api/"
+}

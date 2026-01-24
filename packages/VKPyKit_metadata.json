@@ -1,0 +1,11 @@
+{
+  "name": "VKPyKit",
+  "version": "0.4.8",
+  "summary": "Packaged functions for Machine Learning and Data Science tasks.",
+  "author": "Vishal Khapre",
+  "license": null,
+  "home_page": "https://github.com/assignarc/VKPyKit",
+  "download_filename": "vkpykit-0.4.8.tar.gz",
+  "download_time": "2026-01-24T20:25:23.451960",
+  "package_url": "https://pypi.org/project/VKPyKit/"
+}

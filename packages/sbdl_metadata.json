@@ -1,11 +1,11 @@
 {
   "name": "sbdl",
-  "version": "1.20.2",
+  "version": "1.20.4",
   "summary": "System Behaviour Description Language (Compiler)",
   "author": "Michael A. Hicks",
   "license": "Proprietary",
   "home_page": "https://sbdl.dev",
-  "download_filename": "sbdl-1.20.2.tar.gz",
-  "download_time": "2026-01-19T17:49:08.823271",
+  "download_filename": "sbdl-1.20.4.tar.gz",
+  "download_time": "2026-01-24T20:25:52.678709",
   "package_url": "https://pypi.org/project/sbdl/"
 }

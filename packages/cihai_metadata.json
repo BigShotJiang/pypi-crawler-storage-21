@@ -1,0 +1,11 @@
+{
+  "name": "cihai",
+  "version": "0.36.1",
+  "summary": "Library for CJK (chinese, japanese, korean) language data.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cihai-0.36.1.tar.gz",
+  "download_time": "2026-01-24T20:25:19.482931",
+  "package_url": "https://pypi.org/project/cihai/"
+}
