@@ -1,0 +1,11 @@
+{
+  "name": "k-judgment-gate",
+  "version": "1.2.1",
+  "summary": "Governance-first judgment detection for Korean LLM systems. NOT a filter.",
+  "author": "k-judgment-gate Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "k_judgment_gate-1.2.1.tar.gz",
+  "download_time": "2026-01-24T07:44:45.293151",
+  "package_url": "https://pypi.org/project/k-judgment-gate/"
+}

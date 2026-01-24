@@ -1,11 +1,11 @@
 {
   "name": "BackcastPro",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "トレーディング戦略のためのPythonバックテストライブラリ",
   "author": "botterYosuke",
   "license": null,
   "home_page": null,
-  "download_filename": "backcastpro-0.3.0.tar.gz",
-  "download_time": "2026-01-23T10:01:04.031415",
+  "download_filename": "backcastpro-0.3.3.tar.gz",
+  "download_time": "2026-01-24T07:44:41.384636",
   "package_url": "https://pypi.org/project/BackcastPro/"
 }

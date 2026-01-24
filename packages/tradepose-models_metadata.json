@@ -1,11 +1,11 @@
 {
   "name": "tradepose-models",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "Shared Pydantic models for TradePose platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tradepose_models-1.2.0.tar.gz",
-  "download_time": "2026-01-19T17:26:56.933292",
+  "download_filename": "tradepose_models-1.4.0.tar.gz",
+  "download_time": "2026-01-24T07:44:21.561338",
   "package_url": "https://pypi.org/project/tradepose-models/"
 }

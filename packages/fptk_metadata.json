@@ -1,0 +1,11 @@
+{
+  "name": "fptk",
+  "version": "1.0.0",
+  "summary": "fptk (Functional Programming Toolkit) — Pragmatic functional programming helpers for Python (pipe/compose/curry, Option/Result, lazy iterators, applicative validation).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fptk-1.0.0.tar.gz",
+  "download_time": "2026-01-24T07:44:40.813863",
+  "package_url": "https://pypi.org/project/fptk/"
+}

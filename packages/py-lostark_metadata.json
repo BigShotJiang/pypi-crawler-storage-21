@@ -1,0 +1,11 @@
+{
+  "name": "py-lostark",
+  "version": "0.2.0",
+  "summary": "Python wrapper library for LostArk API",
+  "author": "DAN-MU-ZI",
+  "license": null,
+  "home_page": "https://github.com/DAN-MU-ZI/pyLoa",
+  "download_filename": "py_lostark-0.2.0.tar.gz",
+  "download_time": "2026-01-24T07:44:49.808040",
+  "package_url": "https://pypi.org/project/py-lostark/"
+}

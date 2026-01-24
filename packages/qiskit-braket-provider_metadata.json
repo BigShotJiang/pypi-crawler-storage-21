@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-braket-provider",
+  "version": "0.10.1",
+  "summary": "Qiskit-Braket provider to execute Qiskit programs on devices via Amazon Braket.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qiskit_braket_provider-0.10.1.tar.gz",
+  "download_time": "2026-01-24T07:44:23.845975",
+  "package_url": "https://pypi.org/project/qiskit-braket-provider/"
+}
