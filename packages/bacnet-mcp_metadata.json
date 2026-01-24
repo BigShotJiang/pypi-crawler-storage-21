@@ -1,0 +1,11 @@
+{
+  "name": "bacnet-mcp",
+  "version": "0.2.9",
+  "summary": "A Model Context Protocol (MCP) server for BACnet.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bacnet_mcp-0.2.9.tar.gz",
+  "download_time": "2026-01-24T01:48:51.949755",
+  "package_url": "https://pypi.org/project/bacnet-mcp/"
+}

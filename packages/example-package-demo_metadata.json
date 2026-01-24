@@ -1,0 +1,11 @@
+{
+  "name": "example-package-demo",
+  "version": "0.1.0",
+  "summary": "一个简单的 Python 包示例，用于演示如何发布到 PyPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "example_package_demo-0.1.0.tar.gz",
+  "download_time": "2026-01-24T01:48:29.149701",
+  "package_url": "https://pypi.org/project/example-package-demo/"
+}

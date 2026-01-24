@@ -1,0 +1,11 @@
+{
+  "name": "subconv",
+  "version": "1.1.2",
+  "summary": "Async SRT subtitle translator using OpenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "subconv-1.1.2.tar.gz",
+  "download_time": "2026-01-24T01:48:41.951236",
+  "package_url": "https://pypi.org/project/subconv/"
+}

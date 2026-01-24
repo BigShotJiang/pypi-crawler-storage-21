@@ -1,11 +1,11 @@
 {
   "name": "remoterf",
-  "version": "1.0.6",
+  "version": "1.1.2",
   "summary": "A python API to remotely access signal centric hardware. Client-side only! Courtesy of Wireless Lab @ UCLA & Prof. Ian Roberts.",
   "author": "Ethan Ge",
   "license": null,
   "home_page": null,
-  "download_filename": "remoterf-1.0.6.tar.gz",
-  "download_time": "2026-01-23T23:45:07.460033",
+  "download_filename": "remoterf-1.1.2.tar.gz",
+  "download_time": "2026-01-24T01:48:12.705692",
   "package_url": "https://pypi.org/project/remoterf/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "py4writers",
+  "version": "0.9.1",
+  "summary": "Python library for 4writers.net automation",
+  "author": "socalmy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py4writers-0.9.1.tar.gz",
+  "download_time": "2026-01-24T01:48:39.330300",
+  "package_url": "https://pypi.org/project/py4writers/"
+}

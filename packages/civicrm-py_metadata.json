@@ -1,0 +1,11 @@
+{
+  "name": "civicrm-py",
+  "version": "0.1.0",
+  "summary": "Modern Python client for CiviCRM API v4 with web framework integration",
+  "author": "Jacob Coffee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "civicrm_py-0.1.0.tar.gz",
+  "download_time": "2026-01-24T01:48:12.189082",
+  "package_url": "https://pypi.org/project/civicrm-py/"
+}

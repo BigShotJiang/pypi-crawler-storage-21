@@ -1,0 +1,11 @@
+{
+  "name": "Appmaker",
+  "version": "0.2.2",
+  "summary": "Command line tool to package executable into an .app bundle",
+  "author": "Pixel Master",
+  "license": "GNU GPL v3.0",
+  "home_page": "https://github.com/Pixel-Master/appmaker",
+  "download_filename": "appmaker-0.2.2.tar.gz",
+  "download_time": "2026-01-24T01:48:28.573193",
+  "package_url": "https://pypi.org/project/Appmaker/"
+}
