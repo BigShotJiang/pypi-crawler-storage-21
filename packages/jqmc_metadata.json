@@ -1,0 +1,11 @@
+{
+  "name": "jqmc",
+  "version": "0.1.0a1",
+  "summary": null,
+  "author": "Kosuke Nakano",
+  "license": null,
+  "home_page": "https://github.com/kousuke-nakano/jQMC",
+  "download_filename": "jqmc-0.1.0a1.tar.gz",
+  "download_time": "2026-01-24T05:47:20.012568",
+  "package_url": "https://pypi.org/project/jqmc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pydpaux",
+  "version": "0.1.0",
+  "summary": "A python wrapper to access DP/eDP-connected display via aux lines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydpaux-0.1.0.tar.gz",
+  "download_time": "2026-01-24T05:47:32.515799",
+  "package_url": "https://pypi.org/project/pydpaux/"
+}

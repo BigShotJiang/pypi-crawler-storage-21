@@ -1,11 +1,11 @@
 {
   "name": "psycopg2-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Psycopg2 helper function to run PostgreSQL query with #if support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "psycopg2_client-1.0.4.tar.gz",
-  "download_time": "2026-01-24T05:25:19.079391",
+  "download_filename": "psycopg2_client-1.0.5.tar.gz",
+  "download_time": "2026-01-24T05:47:31.993442",
   "package_url": "https://pypi.org/project/psycopg2-client/"
 }

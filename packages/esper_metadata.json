@@ -1,0 +1,11 @@
+{
+  "name": "esper",
+  "version": "3.6",
+  "summary": "esper is a lightweight Entity System (ECS) for Python, with a focus on performance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esper-3.6.tar.gz",
+  "download_time": "2026-01-24T05:47:33.039763",
+  "package_url": "https://pypi.org/project/esper/"
+}
