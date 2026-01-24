@@ -1,0 +1,11 @@
+{
+  "name": "liveimport",
+  "version": "1.2.4",
+  "summary": "Automatically reload modified Python modules in notebooks and scripts.",
+  "author": "Edward Screven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liveimport-1.2.4.tar.gz",
+  "download_time": "2026-01-24T07:30:19.770527",
+  "package_url": "https://pypi.org/project/liveimport/"
+}
