@@ -1,0 +1,11 @@
+{
+  "name": "kubeflow-mcp",
+  "version": "0.1.0",
+  "summary": "Agentic MCP server for Kubeflow - High-level semantic AI training orchestration",
+  "author": "Red Hat AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubeflow_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-24T04:13:46.093373",
+  "package_url": "https://pypi.org/project/kubeflow-mcp/"
+}

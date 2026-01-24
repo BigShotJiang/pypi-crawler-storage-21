@@ -1,11 +1,11 @@
 {
   "name": "pixeltable",
-  "version": "0.5.13",
+  "version": "0.5.14",
   "summary": "AI Data Infrastructure: Declarative, Multimodal, and Incremental",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pixeltable-0.5.13-py3-none-any.whl",
-  "download_time": "2026-01-22T06:39:13.589861",
+  "download_filename": "pixeltable-0.5.14-py3-none-any.whl",
+  "download_time": "2026-01-24T04:13:52.518039",
   "package_url": "https://pypi.org/project/pixeltable/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fast-parse-time",
+  "version": "1.2.0",
+  "summary": "Natural Language (NLP) Extraction of Date and Time",
+  "author": "Craig Trim",
+  "license": "MIT",
+  "home_page": "https://github.com/craigtrim/fast-parse-time",
+  "download_filename": "fast_parse_time-1.2.0.tar.gz",
+  "download_time": "2026-01-24T04:13:41.756889",
+  "package_url": "https://pypi.org/project/fast-parse-time/"
+}

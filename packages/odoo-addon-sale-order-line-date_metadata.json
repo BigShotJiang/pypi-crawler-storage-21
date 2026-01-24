@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sale-order-line-date",
-  "version": "19.0.1.0.0.2",
+  "version": "19.0.1.0.0.3",
   "summary": "Adds a commitment date to each sale order line.",
   "author": "OdooMRP team,AvanzOSC,Serv. Tecnol. Avanzados - Pedro M. Baeza,Odoo Community Association (OCA), SprintIT Ltd.",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-workflow",
-  "download_filename": "odoo_addon_sale_order_line_date-19.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2026-01-20T12:53:29.777086",
+  "download_filename": "odoo_addon_sale_order_line_date-19.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-01-24T04:13:53.045230",
   "package_url": "https://pypi.org/project/odoo-addon-sale-order-line-date/"
 }

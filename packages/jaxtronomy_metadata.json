@@ -1,0 +1,11 @@
+{
+  "name": "jaxtronomy",
+  "version": "0.1.2",
+  "summary": "lenstronomy, but in JAX",
+  "author": "jaxtronomy developers",
+  "license": "BSD-3",
+  "home_page": "https://github.com/lenstronomy/JAXtronomy",
+  "download_filename": "jaxtronomy-0.1.2.tar.gz",
+  "download_time": "2026-01-24T04:14:18.156815",
+  "package_url": "https://pypi.org/project/jaxtronomy/"
+}

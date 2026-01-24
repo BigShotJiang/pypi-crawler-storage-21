@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-attachment-queue",
+  "version": "18.0.1.0.0.7",
+  "summary": "Base module adding the concept of queue for processing files",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_attachment_queue-18.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2026-01-24T04:13:44.385931",
+  "package_url": "https://pypi.org/project/odoo-addon-attachment-queue/"
+}

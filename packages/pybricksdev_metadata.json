@@ -1,0 +1,11 @@
+{
+  "name": "pybricksdev",
+  "version": "2.3.2",
+  "summary": "Pybricks developer tools",
+  "author": "The Pybricks Authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pybricksdev-2.3.2.tar.gz",
+  "download_time": "2026-01-24T04:14:12.153860",
+  "package_url": "https://pypi.org/project/pybricksdev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ReausoConfig",
+  "version": "0.1.0",
+  "summary": "A Python configuration library that turns YAML, JSON, and TOML files into Python objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reausoconfig-0.1.0.tar.gz",
+  "download_time": "2026-01-24T04:14:09.475443",
+  "package_url": "https://pypi.org/project/ReausoConfig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "markback",
+  "version": "0.1.1",
+  "summary": "A compact, human-writable format for storing content paired with feedback/labels",
+  "author": "Dan Driscoll",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markback-0.1.1.tar.gz",
+  "download_time": "2026-01-24T04:14:02.619576",
+  "package_url": "https://pypi.org/project/markback/"
+}

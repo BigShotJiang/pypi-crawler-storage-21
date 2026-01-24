@@ -1,0 +1,11 @@
+{
+  "name": "aws-sentinel",
+  "version": "0.1.2",
+  "summary": "A security scanner for AWS resources",
+  "author": "Rishab Kumar",
+  "license": null,
+  "home_page": "https://github.com/rishabkumar7/aws-sentinel",
+  "download_filename": "aws_sentinel-0.1.2.tar.gz",
+  "download_time": "2026-01-24T04:14:20.796921",
+  "package_url": "https://pypi.org/project/aws-sentinel/"
+}
