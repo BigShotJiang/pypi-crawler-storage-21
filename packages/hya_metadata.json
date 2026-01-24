@@ -1,0 +1,11 @@
+{
+  "name": "hya",
+  "version": "0.4.0",
+  "summary": "A library of custom OmegaConf resolvers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hya-0.4.0.tar.gz",
+  "download_time": "2026-01-24T07:55:34.179730",
+  "package_url": "https://pypi.org/project/hya/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "biz-dfch-ste100parser",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "An ASD-STE100 (Simplified Technical English) parser.",
   "author": "Ronald Rink",
   "license": null,
   "home_page": null,
-  "download_filename": "biz_dfch_ste100parser-0.1.4.tar.gz",
-  "download_time": "2026-01-24T07:44:48.671074",
+  "download_filename": "biz_dfch_ste100parser-0.1.5.tar.gz",
+  "download_time": "2026-01-24T07:55:25.579331",
   "package_url": "https://pypi.org/project/biz-dfch-ste100parser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "opportunity-core",
+  "version": "0.1.0",
+  "summary": "Core library for Opportunity Radar - Shared utilities and services",
+  "author": "Mustafa Aykon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opportunity_core-0.1.0.tar.gz",
+  "download_time": "2026-01-24T07:55:20.580187",
+  "package_url": "https://pypi.org/project/opportunity-core/"
+}
