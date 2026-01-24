@@ -1,0 +1,11 @@
+{
+  "name": "arcadedb-embedded",
+  "version": "0.0.3",
+  "summary": "Dummy test wheel for PyPI environment approval",
+  "author": "Test",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/humemai/arcadedb-embedded-python",
+  "download_filename": "arcadedb_embedded-0.0.3-cp311-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-24T15:24:17.628225",
+  "package_url": "https://pypi.org/project/arcadedb-embedded/"
+}

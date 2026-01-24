@@ -1,0 +1,11 @@
+{
+  "name": "grist",
+  "version": "0.1.0.dev0",
+  "summary": "Generative Retrieval Id Semantic Transforms on top of Google Grain.",
+  "author": "chicham",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grist-0.1.0.dev0-py3-none-any.whl",
+  "download_time": "2026-01-24T15:24:37.470380",
+  "package_url": "https://pypi.org/project/grist/"
+}

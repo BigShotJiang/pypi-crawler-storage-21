@@ -1,11 +1,11 @@
 {
   "name": "pyvegh",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "Python bindings for Vegh - The Snapshot Tool.",
   "author": "CodeTease",
   "license": null,
   "home_page": null,
-  "download_filename": "pyvegh-0.7.0-cp310-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-01-22T19:05:44.923700",
+  "download_filename": "pyvegh-0.8.0.tar.gz",
+  "download_time": "2026-01-24T15:24:25.064688",
   "package_url": "https://pypi.org/project/pyvegh/"
 }

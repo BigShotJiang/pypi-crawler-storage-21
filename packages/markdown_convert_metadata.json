@@ -1,11 +1,11 @@
 {
   "name": "markdown_convert",
-  "version": "1.2.43",
+  "version": "1.2.44",
   "summary": "Convert Markdown files to PDF from your command line.",
   "author": null,
   "license": "GPL-2.0-only",
   "home_page": null,
-  "download_filename": "markdown_convert-1.2.43.tar.gz",
-  "download_time": "2026-01-21T19:51:23.446214",
+  "download_filename": "markdown_convert-1.2.44.tar.gz",
+  "download_time": "2026-01-24T15:24:32.343794",
   "package_url": "https://pypi.org/project/markdown_convert/"
 }

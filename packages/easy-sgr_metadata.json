@@ -1,0 +1,11 @@
+{
+  "name": "easy-sgr",
+  "version": "0.1.0",
+  "summary": "A simplified interface for SGR (Schema-Guided Reasoning) agents in LangChain style",
+  "author": "Maksim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easy_sgr-0.1.0.tar.gz",
+  "download_time": "2026-01-24T15:24:29.777103",
+  "package_url": "https://pypi.org/project/easy-sgr/"
+}

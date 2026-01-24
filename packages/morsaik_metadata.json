@@ -1,0 +1,11 @@
+{
+  "name": "morsaik",
+  "version": "0.1.2",
+  "summary": "Sequence Motif Reactor Simulation, Analysis and Inference Kit.",
+  "author": "Johannes Harth-Kitzerow",
+  "license": null,
+  "home_page": "https://github.com/joharkit/morsaik",
+  "download_filename": "morsaik-0.1.2.tar.gz",
+  "download_time": "2026-01-24T15:24:07.948058",
+  "package_url": "https://pypi.org/project/morsaik/"
+}

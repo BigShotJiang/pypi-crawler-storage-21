@@ -1,11 +1,11 @@
 {
   "name": "symclosestwannier",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "summary": "A Python library for Symmetry-Adapted Closest Wannier (SymCW) Tight-Binding model based on Plane-Wave DFT calculation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "symclosestwannier-2.0.3.tar.gz",
-  "download_time": "2026-01-20T04:35:41.274025",
+  "download_filename": "symclosestwannier-2.0.4.tar.gz",
+  "download_time": "2026-01-24T15:24:12.959227",
   "package_url": "https://pypi.org/project/symclosestwannier/"
 }

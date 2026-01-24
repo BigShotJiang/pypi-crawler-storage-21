@@ -1,0 +1,11 @@
+{
+  "name": "typing-utilities",
+  "version": "0.1.1",
+  "summary": "Runtime reflection and validation of types and generics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typing_utilities-0.1.1.tar.gz",
+  "download_time": "2026-01-24T15:24:07.437682",
+  "package_url": "https://pypi.org/project/typing-utilities/"
+}

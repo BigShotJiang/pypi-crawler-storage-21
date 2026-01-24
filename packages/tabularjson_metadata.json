@@ -1,0 +1,11 @@
+{
+  "name": "tabularjson",
+  "version": "1.1.2",
+  "summary": "Tabular-JSON: A superset of JSON adding CSV-like tables",
+  "author": "Jos de Jong",
+  "license": "ISC",
+  "home_page": "https://tabular-json.org/",
+  "download_filename": "tabularjson-1.1.2.tar.gz",
+  "download_time": "2026-01-24T15:24:20.245277",
+  "package_url": "https://pypi.org/project/tabularjson/"
+}
