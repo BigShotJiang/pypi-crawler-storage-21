@@ -1,0 +1,11 @@
+{
+  "name": "liberty-airflow-plugins",
+  "version": "1.0.9",
+  "summary": "Plugins for Liberty Airflow",
+  "author": "Franck Blettner",
+  "license": null,
+  "home_page": "https://nomana-it.fr",
+  "download_filename": "liberty_airflow_plugins-1.0.9.tar.gz",
+  "download_time": "2026-01-24T17:44:40.162239",
+  "package_url": "https://pypi.org/project/liberty-airflow-plugins/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "supernote",
-  "version": "0.13.1",
+  "version": "0.13.3",
   "summary": "All-in-one toolkit for Supernote devices: parse notebooks, self-host services, access services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "supernote-0.13.1.tar.gz",
-  "download_time": "2026-01-24T16:28:15.021926",
+  "download_filename": "supernote-0.13.3.tar.gz",
+  "download_time": "2026-01-24T17:44:34.200984",
   "package_url": "https://pypi.org/project/supernote/"
 }

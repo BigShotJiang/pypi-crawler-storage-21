@@ -1,0 +1,11 @@
+{
+  "name": "pyfunceble-process-manager",
+  "version": "1.0.11",
+  "summary": "The process manager library for and from the PyFunceble project.",
+  "author": "funilrys",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/PyFunceble/process-manager",
+  "download_filename": "pyfunceble_process_manager-1.0.11.tar.gz",
+  "download_time": "2026-01-24T17:44:29.119230",
+  "package_url": "https://pypi.org/project/pyfunceble-process-manager/"
+}

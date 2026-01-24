@@ -1,0 +1,11 @@
+{
+  "name": "drifter-ml",
+  "version": "0.26",
+  "summary": "Testing for models confirming to the scikit-learn api",
+  "author": "Eric Schles",
+  "license": "MIT",
+  "home_page": "https://github.com/EricSchles/drifter_ml",
+  "download_filename": "drifter_ml-0.26.tar.gz",
+  "download_time": "2026-01-24T17:44:32.057026",
+  "package_url": "https://pypi.org/project/drifter-ml/"
+}

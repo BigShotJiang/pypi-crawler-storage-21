@@ -1,0 +1,11 @@
+{
+  "name": "domain2idna",
+  "version": "1.12.4",
+  "summary": "The tool to convert a domain or a file with a list of domain to the famous IDNA format.",
+  "author": "funilrys",
+  "license": "MIT https://raw.githubusercontent.com/PyFunceble/domain2idna/master/LICENSE",
+  "home_page": "https://github.com/PyFunceble/domain2idna",
+  "download_filename": "domain2idna-1.12.4.tar.gz",
+  "download_time": "2026-01-24T17:44:14.015849",
+  "package_url": "https://pypi.org/project/domain2idna/"
+}
