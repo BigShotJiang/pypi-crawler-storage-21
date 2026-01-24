@@ -1,0 +1,11 @@
+{
+  "name": "edulint",
+  "version": "4.3.0",
+  "summary": null,
+  "author": "Anna Rechtackova",
+  "license": "GPLv3",
+  "home_page": "https://github.com/GiraffeReversed/edulint",
+  "download_filename": "edulint-4.3.0.tar.gz",
+  "download_time": "2026-01-24T13:23:30.600656",
+  "package_url": "https://pypi.org/project/edulint/"
+}

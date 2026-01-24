@@ -1,0 +1,11 @@
+{
+  "name": "thinkscribe",
+  "version": "1.0",
+  "summary": "Transform your thoughts into beautiful visual reports — give us abstract text, we create meaning with charts and diagrams",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thinkscribe-1.0.tar.gz",
+  "download_time": "2026-01-24T13:23:14.059164",
+  "package_url": "https://pypi.org/project/thinkscribe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yikit",
+  "version": "0.3.16",
+  "summary": "This is my own tool kit.",
+  "author": "yu9824",
+  "license": "Apache License 2.0",
+  "home_page": "http://github.com/yu9824/yikit/",
+  "download_filename": "yikit-0.3.16.tar.gz",
+  "download_time": "2026-01-24T13:23:38.781579",
+  "package_url": "https://pypi.org/project/yikit/"
+}

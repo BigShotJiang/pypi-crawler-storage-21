@@ -1,0 +1,11 @@
+{
+  "name": "musi",
+  "version": "0.1.1",
+  "summary": "A music library based on 12-tone equal temperament",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "musi-0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-24T13:23:51.863724",
+  "package_url": "https://pypi.org/project/musi/"
+}

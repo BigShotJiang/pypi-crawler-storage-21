@@ -1,0 +1,11 @@
+{
+  "name": "animsprite-pygame",
+  "version": "0.1.5",
+  "summary": "Une librairie légère pour gérer les spritesheets et flipbooks dans Pygame",
+  "author": "EnOx_S",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/EnOx-S/animsprite-pygame",
+  "download_filename": "animsprite_pygame-0.1.5.tar.gz",
+  "download_time": "2026-01-24T13:23:15.150759",
+  "package_url": "https://pypi.org/project/animsprite-pygame/"
+}

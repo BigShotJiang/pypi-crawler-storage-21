@@ -1,11 +1,11 @@
 {
   "name": "manim-voiceover-qwen3-tts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Qwen3-TTS speech services for manim-voiceover: voice cloning, voice design, and preset voices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "manim_voiceover_qwen3_tts-0.1.0.tar.gz",
-  "download_time": "2026-01-24T12:44:39.569125",
+  "download_filename": "manim_voiceover_qwen3_tts-0.1.1.tar.gz",
+  "download_time": "2026-01-24T13:23:50.762896",
   "package_url": "https://pypi.org/project/manim-voiceover-qwen3-tts/"
 }

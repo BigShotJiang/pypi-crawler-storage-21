@@ -1,11 +1,11 @@
 {
   "name": "geniable",
-  "version": "2.0.1",
+  "version": "2.1.2",
   "summary": "Hybrid Local-Cloud QA Pipeline for LangSmith Thread Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geniable-2.0.1.tar.gz",
-  "download_time": "2026-01-24T11:20:57.646728",
+  "download_filename": "geniable-2.1.2.tar.gz",
+  "download_time": "2026-01-24T13:23:40.950140",
   "package_url": "https://pypi.org/project/geniable/"
 }
