@@ -1,0 +1,11 @@
+{
+  "name": "pyconnpg",
+  "version": "1.4.3",
+  "summary": "A simplified Python library for PostgreSQL CRUD operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyconnpg-1.4.3.tar.gz",
+  "download_time": "2026-01-24T03:29:18.574271",
+  "package_url": "https://pypi.org/project/pyconnpg/"
+}

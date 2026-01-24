@@ -1,11 +1,11 @@
 {
   "name": "everyrow",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "summary": "An SDK for everyrow.io: agent ops at spreadsheet scale",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "everyrow-0.1.3.tar.gz",
-  "download_time": "2026-01-22T23:57:08.040929",
+  "download_filename": "everyrow-0.1.7.tar.gz",
+  "download_time": "2026-01-24T03:29:23.849144",
   "package_url": "https://pypi.org/project/everyrow/"
 }

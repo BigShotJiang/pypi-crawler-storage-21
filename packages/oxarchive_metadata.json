@@ -1,11 +1,11 @@
 {
   "name": "oxarchive",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "Official Python SDK for 0xarchive - Hyperliquid Historical Data API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oxarchive-0.3.5.tar.gz",
-  "download_time": "2026-01-23T18:37:37.189446",
+  "download_filename": "oxarchive-0.3.7.tar.gz",
+  "download_time": "2026-01-24T03:29:30.764094",
   "package_url": "https://pypi.org/project/oxarchive/"
 }

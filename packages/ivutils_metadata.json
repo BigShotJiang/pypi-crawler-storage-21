@@ -1,11 +1,11 @@
 {
   "name": "ivutils",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": null,
   "author": null,
   "license": "MIT license",
-  "home_page": null,
-  "download_filename": "ivutils-0.0.5-py3-none-any.whl",
-  "download_time": "2026-01-23T03:45:05.082985",
+  "home_page": "https://github.com/thasan01/ivutils",
+  "download_filename": "ivutils-0.0.7-py3-none-any.whl",
+  "download_time": "2026-01-24T03:30:03.895817",
   "package_url": "https://pypi.org/project/ivutils/"
 }

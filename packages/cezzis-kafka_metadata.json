@@ -1,0 +1,11 @@
+{
+  "name": "cezzis-kafka",
+  "version": "0.0.25",
+  "summary": "cezzis-kafka is a lightweight Python library for working with Kafka topics and event streams. It simplifies producing, consuming, and managing messages, enabling seamless integration with distributed systems and real-time data pipelines. Designed for flexibility and ease of use, cezzis-kafka supports both synchronous and asynchronous workflows.",
+  "author": "mtnvencenzo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cezzis_kafka-0.0.25.tar.gz",
+  "download_time": "2026-01-24T03:29:29.625523",
+  "package_url": "https://pypi.org/project/cezzis-kafka/"
+}

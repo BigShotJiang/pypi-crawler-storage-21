@@ -1,0 +1,11 @@
+{
+  "name": "braintrust-langchain",
+  "version": "0.2.1",
+  "summary": "Integration for LangChain and Braintrust Tracing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "braintrust_langchain-0.2.1.tar.gz",
+  "download_time": "2026-01-24T03:29:56.346324",
+  "package_url": "https://pypi.org/project/braintrust-langchain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "supertonic",
+  "version": "1.1.2",
+  "summary": "High-quality Text-to-Speech synthesis with ONNX Runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "supertonic-1.1.2.tar.gz",
+  "download_time": "2026-01-24T03:29:47.148662",
+  "package_url": "https://pypi.org/project/supertonic/"
+}

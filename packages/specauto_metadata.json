@@ -1,0 +1,11 @@
+{
+  "name": "specauto",
+  "version": "1.0.2",
+  "summary": "Godfrey's (1987) test strategy for discriminating between autocorrelation and misspecification in regression analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "specauto-1.0.2.tar.gz",
+  "download_time": "2026-01-24T03:29:19.144305",
+  "package_url": "https://pypi.org/project/specauto/"
+}

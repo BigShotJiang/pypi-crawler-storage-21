@@ -1,0 +1,11 @@
+{
+  "name": "sdk-notion",
+  "version": "0.1.0",
+  "summary": "Async Python SDK for the Notion API",
+  "author": "Eduardo Riguetto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sdk_notion-0.1.0.tar.gz",
+  "download_time": "2026-01-24T03:29:38.480845",
+  "package_url": "https://pypi.org/project/sdk-notion/"
+}
