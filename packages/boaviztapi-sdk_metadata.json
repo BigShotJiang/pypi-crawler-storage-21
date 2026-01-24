@@ -1,0 +1,11 @@
+{
+  "name": "boaviztapi-sdk",
+  "version": "1.3.15",
+  "summary": "BoaviztAPI SDK for Python applications.",
+  "author": "Boavizta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "boaviztapi_sdk-1.3.15.tar.gz",
+  "download_time": "2026-01-24T10:25:01.360420",
+  "package_url": "https://pypi.org/project/boaviztapi-sdk/"
+}

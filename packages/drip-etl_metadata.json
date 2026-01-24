@@ -1,0 +1,11 @@
+{
+  "name": "drip-etl",
+  "version": "0.1.4",
+  "summary": "Modular ETL pipeline driven by YAML configuration",
+  "author": "luoji2026",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drip_etl-0.1.4.tar.gz",
+  "download_time": "2026-01-24T10:24:46.977641",
+  "package_url": "https://pypi.org/project/drip-etl/"
+}

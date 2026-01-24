@@ -1,11 +1,11 @@
 {
   "name": "nlp2cmd",
-  "version": "1.0.5",
+  "version": "1.0.10",
   "summary": "Natural Language to Domain-Specific Commands with Thermodynamic Optimization - Transform natural language into SQL, Shell, Docker, Kubernetes and solve optimization problems using Langevin dynamics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nlp2cmd-1.0.5.tar.gz",
-  "download_time": "2026-01-23T09:03:42.231151",
+  "download_filename": "nlp2cmd-1.0.10.tar.gz",
+  "download_time": "2026-01-24T10:24:31.951476",
   "package_url": "https://pypi.org/project/nlp2cmd/"
 }

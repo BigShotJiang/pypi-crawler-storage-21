@@ -1,11 +1,11 @@
 {
   "name": "scruby-full-text",
-  "version": "0.4.1",
-  "summary": "Full-text search with Manticore Search.",
+  "version": "0.4.3",
+  "summary": "Plugin for Scruby - Full-text search with Manticore Search.",
   "author": "kebasyaty",
   "license": null,
   "home_page": null,
-  "download_filename": "scruby_full_text-0.4.1-py3-none-any.whl",
-  "download_time": "2026-01-24T08:31:40.121306",
+  "download_filename": "scruby_full_text-0.4.3-py3-none-any.whl",
+  "download_time": "2026-01-24T10:24:23.667401",
   "package_url": "https://pypi.org/project/scruby-full-text/"
 }

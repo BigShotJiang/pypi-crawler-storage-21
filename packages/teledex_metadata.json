@@ -1,11 +1,11 @@
 {
   "name": "teledex",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Phone-based Dexterous Robots teleoperation library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "teledex-0.0.3.tar.gz",
-  "download_time": "2026-01-22T05:30:57.269742",
+  "download_filename": "teledex-0.0.5.tar.gz",
+  "download_time": "2026-01-24T10:25:02.381378",
   "package_url": "https://pypi.org/project/teledex/"
 }

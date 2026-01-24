@@ -1,0 +1,11 @@
+{
+  "name": "Konsave",
+  "version": "2.3.0",
+  "summary": "A program that lets you save your Plasma configuration in an instant!",
+  "author": "Prayag Jain",
+  "license": null,
+  "home_page": "https://www.github.com/prayag2/konsave/",
+  "download_filename": "konsave-2.3.0.tar.gz",
+  "download_time": "2026-01-24T10:24:36.111285",
+  "package_url": "https://pypi.org/project/Konsave/"
+}

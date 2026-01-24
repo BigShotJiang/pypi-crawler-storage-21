@@ -1,11 +1,11 @@
 {
   "name": "photos_drive",
-  "version": "9.1.0",
+  "version": "9.1.1",
   "summary": null,
   "author": "Emilio Kartono",
   "license": null,
   "home_page": null,
-  "download_filename": "photos_drive-9.1.0.tar.gz",
-  "download_time": "2026-01-24T09:55:37.376864",
+  "download_filename": "photos_drive-9.1.1.tar.gz",
+  "download_time": "2026-01-24T10:25:00.848129",
   "package_url": "https://pypi.org/project/photos_drive/"
 }
