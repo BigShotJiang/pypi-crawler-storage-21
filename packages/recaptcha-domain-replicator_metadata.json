@@ -1,0 +1,11 @@
+{
+  "name": "recaptcha-domain-replicator",
+  "version": "1.0.6",
+  "summary": "Serve a local replica of a reCAPTCHA widget and capture the token.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "recaptcha_domain_replicator-1.0.6.tar.gz",
+  "download_time": "2026-01-24T17:55:10.179093",
+  "package_url": "https://pypi.org/project/recaptcha-domain-replicator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "terraform-guardrail",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "MCP-backed Terraform assistant with ephemeral-values compliance.",
   "author": "Huzefa Husain",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "terraform_guardrail-0.2.7.tar.gz",
-  "download_time": "2026-01-24T14:45:46.031301",
+  "download_filename": "terraform_guardrail-0.2.8.tar.gz",
+  "download_time": "2026-01-24T17:55:01.609890",
   "package_url": "https://pypi.org/project/terraform-guardrail/"
 }

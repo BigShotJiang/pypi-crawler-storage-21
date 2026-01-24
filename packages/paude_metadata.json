@@ -1,0 +1,11 @@
+{
+  "name": "paude",
+  "version": "0.5.0",
+  "summary": "Podman wrapper for running Claude Code in isolated containers",
+  "author": "Ben Browning",
+  "license": null,
+  "home_page": null,
+  "download_filename": "paude-0.5.0.tar.gz",
+  "download_time": "2026-01-24T17:55:09.600151",
+  "package_url": "https://pypi.org/project/paude/"
+}

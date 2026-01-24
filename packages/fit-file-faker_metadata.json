@@ -1,11 +1,11 @@
 {
   "name": "fit-file-faker",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "Modify and auto-upload FIT files from third-party platforms to unlock Garmin Connect features",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fit_file_faker-2.0.1.tar.gz",
-  "download_time": "2026-01-24T15:55:15.745595",
+  "download_filename": "fit_file_faker-2.0.3.tar.gz",
+  "download_time": "2026-01-24T17:55:10.795800",
   "package_url": "https://pypi.org/project/fit-file-faker/"
 }

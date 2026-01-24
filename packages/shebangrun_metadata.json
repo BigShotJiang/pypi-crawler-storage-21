@@ -1,11 +1,11 @@
 {
   "name": "shebangrun",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "Python client library for shebang.run",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shebangrun-0.5.3.tar.gz",
-  "download_time": "2026-01-24T17:44:24.945050",
+  "download_filename": "shebangrun-0.5.4.tar.gz",
+  "download_time": "2026-01-24T17:55:02.776095",
   "package_url": "https://pypi.org/project/shebangrun/"
 }
