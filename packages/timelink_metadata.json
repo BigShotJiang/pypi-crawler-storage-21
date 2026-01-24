@@ -1,11 +1,11 @@
 {
   "name": "timelink",
-  "version": "1.1.28",
-  "summary": "Timelink is an information system for person related information collected from historical sources. ",
+  "version": "1.1.30",
+  "summary": "Timelink is an information system for person related information collected from historical sources.",
   "author": "Joaquim Ramos de Carvalho",
-  "license": "MIT license",
+  "license": "MIT",
   "home_page": "https://github.com/time-link/timelink-py",
-  "download_filename": "timelink-1.1.28-py2.py3-none-any.whl",
-  "download_time": "2026-01-24T03:29:43.142257",
+  "download_filename": "timelink-1.1.30-py2.py3-none-any.whl",
+  "download_time": "2026-01-24T04:51:15.538946",
   "package_url": "https://pypi.org/project/timelink/"
 }

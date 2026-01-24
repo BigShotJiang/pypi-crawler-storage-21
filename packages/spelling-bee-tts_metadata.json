@@ -1,11 +1,11 @@
 {
   "name": "spelling-bee-tts",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "GTK4 spelling quiz app with text-to-speech and AI generated example sentences.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spelling_bee_tts-0.4.1.tar.gz",
-  "download_time": "2026-01-24T04:14:21.838135",
+  "download_filename": "spelling_bee_tts-0.4.2.tar.gz",
+  "download_time": "2026-01-24T04:51:25.420252",
   "package_url": "https://pypi.org/project/spelling-bee-tts/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aplicacion-venta-respivalle",
+  "version": "0.1.0",
+  "summary": "Paquete para gestionar ventas, precios, impuestos y descuentos.",
+  "author": "Roger Espinoza",
+  "license": null,
+  "home_page": "https://github.com",
+  "download_filename": "aplicacion_venta_respivalle-0.1.0.tar.gz",
+  "download_time": "2026-01-24T04:51:05.132178",
+  "package_url": "https://pypi.org/project/aplicacion-venta-respivalle/"
+}

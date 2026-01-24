@@ -1,11 +1,11 @@
 {
   "name": "tsjson",
-  "version": "6.1.3",
+  "version": "6.2.0",
   "summary": "A simple example package",
   "author": "Gavin",
   "license": null,
   "home_page": "https://github.com/yourusername/my_package",
-  "download_filename": "tsjson-6.1.3.tar.gz",
-  "download_time": "2026-01-24T04:13:56.724410",
+  "download_filename": "tsjson-6.2.0.tar.gz",
+  "download_time": "2026-01-24T04:51:05.644885",
   "package_url": "https://pypi.org/project/tsjson/"
 }
