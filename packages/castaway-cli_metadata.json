@@ -1,0 +1,11 @@
+{
+  "name": "castaway-cli",
+  "version": "0.0.4",
+  "summary": "Minimalist TUI Podcast Client for Hackers, Cast-Away is a lightweight, keyboard-driven terminal application designed for developers who want to listen to podcasts without leaving their terminal environment. Built with Python and Textual, it provides a distraction-free experience with real-time audio visualization.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "castaway_cli-0.0.4.tar.gz",
+  "download_time": "2026-01-24T05:57:48.904239",
+  "package_url": "https://pypi.org/project/castaway-cli/"
+}

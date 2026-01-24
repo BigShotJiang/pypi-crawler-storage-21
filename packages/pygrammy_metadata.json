@@ -1,0 +1,11 @@
+{
+  "name": "pygrammy",
+  "version": "2.0.0",
+  "summary": "Modern Telegram Bot Framework for Python - Inspired by GrammyJS",
+  "author": "oscoder",
+  "license": null,
+  "home_page": "https://github.com/oscoderuz/pygrammy",
+  "download_filename": "pygrammy-2.0.0.tar.gz",
+  "download_time": "2026-01-24T05:57:45.286666",
+  "package_url": "https://pypi.org/project/pygrammy/"
+}

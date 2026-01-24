@@ -1,0 +1,11 @@
+{
+  "name": "bitbucket-python-mcp",
+  "version": "0.2.2",
+  "summary": "A Model Context Protocol (MCP) server for BitBucket Cloud operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bitbucket_python_mcp-0.2.2.tar.gz",
+  "download_time": "2026-01-24T05:57:44.263073",
+  "package_url": "https://pypi.org/project/bitbucket-python-mcp/"
+}
