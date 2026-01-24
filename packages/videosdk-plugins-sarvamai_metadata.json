@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-sarvamai",
+  "version": "0.0.61",
+  "summary": "VideoSDK Agent Framework plugin for SarvamAI",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_sarvamai-0.0.61.tar.gz",
+  "download_time": "2026-01-24T13:50:23.434776",
+  "package_url": "https://pypi.org/project/videosdk-plugins-sarvamai/"
+}

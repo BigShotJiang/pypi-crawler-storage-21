@@ -1,0 +1,11 @@
+{
+  "name": "veracityLabAuthZ",
+  "version": "0.1.0",
+  "summary": "Shared Cedar authorization helpers for Veracity services.",
+  "author": "Veracity Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "veracitylabauthz-0.1.0.tar.gz",
+  "download_time": "2026-01-24T13:50:42.495032",
+  "package_url": "https://pypi.org/project/veracityLabAuthZ/"
+}

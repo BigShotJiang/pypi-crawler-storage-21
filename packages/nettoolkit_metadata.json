@@ -1,0 +1,11 @@
+{
+  "name": "nettoolkit",
+  "version": "1.8.14",
+  "summary": "Tool Set for Networking Geeks",
+  "author": "ALIASGAR - ALI",
+  "license": null,
+  "home_page": "https://github.com/alias1978/nettoolkit",
+  "download_filename": "nettoolkit-1.8.14.tar.gz",
+  "download_time": "2026-01-24T13:50:09.174334",
+  "package_url": "https://pypi.org/project/nettoolkit/"
+}

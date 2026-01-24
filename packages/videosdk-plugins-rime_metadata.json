@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-rime",
+  "version": "0.0.61",
+  "summary": "VideoSDK Agent Framework plugin for Rime AI Text-to-Speech services",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_rime-0.0.61.tar.gz",
+  "download_time": "2026-01-24T13:50:24.724807",
+  "package_url": "https://pypi.org/project/videosdk-plugins-rime/"
+}

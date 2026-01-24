@@ -1,0 +1,11 @@
+{
+  "name": "backupctl",
+  "version": "0.1.2",
+  "summary": "Declarative rsync-based backup automation tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backupctl-0.1.2.tar.gz",
+  "download_time": "2026-01-24T13:50:44.929510",
+  "package_url": "https://pypi.org/project/backupctl/"
+}
