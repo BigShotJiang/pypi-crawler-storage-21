@@ -1,0 +1,11 @@
+{
+  "name": "offline-intelligence",
+  "version": "0.1.0",
+  "summary": "Python bindings for Offline Intelligence Library",
+  "author": "Offline Intelligence Team",
+  "license": null,
+  "home_page": "https://github.com/offline-intelligence/offline-intelligence",
+  "download_filename": "offline_intelligence-0.1.0.tar.gz",
+  "download_time": "2026-01-24T11:20:45.785180",
+  "package_url": "https://pypi.org/project/offline-intelligence/"
+}

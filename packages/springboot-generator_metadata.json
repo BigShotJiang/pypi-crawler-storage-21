@@ -1,0 +1,11 @@
+{
+  "name": "springboot-generator",
+  "version": "0.2.0",
+  "summary": "Interactive Spring Boot project generator (Java 17/21, Docker, Swagger, modular)",
+  "author": "YOUR_NAME",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/YOUR_GITHUB/springboot-generator",
+  "download_filename": "springboot_generator-0.2.0.tar.gz",
+  "download_time": "2026-01-24T11:20:48.905290",
+  "package_url": "https://pypi.org/project/springboot-generator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "influxobject",
+  "version": "0.0.9",
+  "summary": "Influx Object Package",
+  "author": "Jasper Koehorst",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "influxobject-0.0.9.tar.gz",
+  "download_time": "2026-01-24T11:21:04.956728",
+  "package_url": "https://pypi.org/project/influxobject/"
+}
