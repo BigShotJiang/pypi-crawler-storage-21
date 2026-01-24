@@ -1,0 +1,11 @@
+{
+  "name": "GeneralBacktest",
+  "version": "1.0.0",
+  "summary": "一个灵活高效的量化策略回测框架，支持多资产组合、任意调仓频率、向量化计算和丰富的性能分析",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "generalbacktest-1.0.0.tar.gz",
+  "download_time": "2026-01-24T08:54:27.942622",
+  "package_url": "https://pypi.org/project/GeneralBacktest/"
+}

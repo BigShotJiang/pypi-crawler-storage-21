@@ -1,11 +1,11 @@
 {
   "name": "ffmpeg-toolkit",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A comprehensive Python toolkit for video processing using FFmpeg",
   "author": "Wenyang Tai",
   "license": null,
   "home_page": "https://github.com/superyngo/ffmpeg_toolkit",
-  "download_filename": "ffmpeg_toolkit-0.4.0.tar.gz",
-  "download_time": "2026-01-24T07:30:22.640055",
+  "download_filename": "ffmpeg_toolkit-0.4.1.tar.gz",
+  "download_time": "2026-01-24T08:54:29.025824",
   "package_url": "https://pypi.org/project/ffmpeg-toolkit/"
 }

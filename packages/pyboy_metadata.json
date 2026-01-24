@@ -1,0 +1,11 @@
+{
+  "name": "pyboy",
+  "version": "2.7.0",
+  "summary": "Game Boy emulator written in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyboy-2.7.0.tar.gz",
+  "download_time": "2026-01-24T08:54:25.229776",
+  "package_url": "https://pypi.org/project/pyboy/"
+}

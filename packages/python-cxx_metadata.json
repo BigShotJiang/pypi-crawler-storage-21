@@ -1,0 +1,11 @@
+{
+  "name": "python-cxx",
+  "version": "0.1.0b1",
+  "summary": "C++ DSP Extensions for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_cxx-0.1.0b1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-24T08:54:26.859851",
+  "package_url": "https://pypi.org/project/python-cxx/"
+}

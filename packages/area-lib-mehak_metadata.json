@@ -1,0 +1,11 @@
+{
+  "name": "area-lib-mehak",
+  "version": "0.1.2",
+  "summary": "A simple library to calculate areas of shapes like circle, triangle, square",
+  "author": "Mehak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "area_lib_mehak-0.1.2.tar.gz",
+  "download_time": "2026-01-24T08:54:28.483608",
+  "package_url": "https://pypi.org/project/area-lib-mehak/"
+}

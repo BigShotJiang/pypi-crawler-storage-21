@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-move-original-partner",
+  "version": "16.0.1.0.0.2",
+  "summary": "Display original customers when creating invoices from multiple sale orders.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_move_original_partner-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-24T08:54:32.279409",
+  "package_url": "https://pypi.org/project/odoo-addon-account-move-original-partner/"
+}
