@@ -1,11 +1,11 @@
 {
   "name": "coati-payroll",
-  "version": "0.0.2",
-  "summary": null,
+  "version": "0.0.4",
+  "summary": "A jurisdiction-agnostic payroll calculation engine.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coati_payroll-0.0.2.tar.gz",
-  "download_time": "2026-01-24T15:24:00.967996",
+  "download_filename": "coati_payroll-0.0.4.tar.gz",
+  "download_time": "2026-01-24T16:51:08.600011",
   "package_url": "https://pypi.org/project/coati-payroll/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "uflash3",
+  "version": "3.0.2",
+  "summary": "A module and utility to flash Python onto the BBC micro:bit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uflash3-3.0.2.tar.gz",
+  "download_time": "2026-01-24T16:51:16.502422",
+  "package_url": "https://pypi.org/project/uflash3/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iden",
+  "version": "0.4.0",
+  "summary": "simple library to manage a dataset of shards to train machine learning models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iden-0.4.0.tar.gz",
+  "download_time": "2026-01-24T16:51:17.596013",
+  "package_url": "https://pypi.org/project/iden/"
+}
