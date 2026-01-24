@@ -1,0 +1,11 @@
+{
+  "name": "grammlog",
+  "version": "1.4.0",
+  "summary": "Structured logging to JSONL with support for asynchronous logging via asyncio",
+  "author": "GrammAcc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grammlog-1.4.0.tar.gz",
+  "download_time": "2026-01-24T22:22:41.483673",
+  "package_url": "https://pypi.org/project/grammlog/"
+}

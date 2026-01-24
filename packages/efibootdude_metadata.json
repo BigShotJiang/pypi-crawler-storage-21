@@ -1,0 +1,11 @@
+{
+  "name": "efibootdude",
+  "version": "2.0.0",
+  "summary": "A visual wrapper for efibootmgr",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "efibootdude-2.0.0.tar.gz",
+  "download_time": "2026-01-24T22:23:03.549007",
+  "package_url": "https://pypi.org/project/efibootdude/"
+}

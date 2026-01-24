@@ -1,0 +1,11 @@
+{
+  "name": "fennel_invest_api",
+  "version": "2.0.1",
+  "summary": "Unofficial Fennel.com Invest API written in Python Requests",
+  "author": "Nelson Dane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fennel_invest_api-2.0.1.tar.gz",
+  "download_time": "2026-01-24T22:23:04.081264",
+  "package_url": "https://pypi.org/project/fennel_invest_api/"
+}

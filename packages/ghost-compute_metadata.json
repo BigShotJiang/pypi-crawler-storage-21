@@ -1,0 +1,11 @@
+{
+  "name": "ghost-compute",
+  "version": "0.1.0",
+  "summary": "Intelligent serverless orchestration for data platforms - eliminate idle cluster waste and cold start latency",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghost_compute-0.1.0.tar.gz",
+  "download_time": "2026-01-24T22:23:00.323876",
+  "package_url": "https://pypi.org/project/ghost-compute/"
+}

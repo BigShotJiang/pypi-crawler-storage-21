@@ -1,0 +1,11 @@
+{
+  "name": "palantir",
+  "version": "1.4.3",
+  "summary": "Palantir for modeling continuous cell state and cell fate choices in single cell data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "palantir-1.4.3.tar.gz",
+  "download_time": "2026-01-24T22:22:57.711726",
+  "package_url": "https://pypi.org/project/palantir/"
+}

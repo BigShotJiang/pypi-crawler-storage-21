@@ -1,0 +1,11 @@
+{
+  "name": "vollseg",
+  "version": "32.4.0",
+  "summary": "Segmentation tool for biological cells of irregular size and shape in 3D and 2D.",
+  "author": "Varun Kapoor,Claudia Carabana Garcia,Mari Tolonen,Jakub Sedzinski",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/Kapoorlabs-CAPED/vollseg",
+  "download_filename": "vollseg-32.4.0.tar.gz",
+  "download_time": "2026-01-24T22:23:00.863409",
+  "package_url": "https://pypi.org/project/vollseg/"
+}
