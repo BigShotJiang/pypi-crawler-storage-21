@@ -1,0 +1,11 @@
+{
+  "name": "dystemctl",
+  "version": "0.1.1",
+  "summary": "systemd emulation for Darwin - provides systemctl/journalctl on macOS",
+  "author": "sielicki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dystemctl-0.1.1.tar.gz",
+  "download_time": "2026-01-24T09:44:49.679293",
+  "package_url": "https://pypi.org/project/dystemctl/"
+}

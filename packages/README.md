@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-24T09:24:44.931374
-- **Total Packages**: 77
-- **Total Size**: 32.8 MB
+- **Download Time**: 2026-01-24T09:45:16.003446
+- **Total Packages**: 82
+- **Total Size**: 25.24 MB
 
 ## Packages List
+- win-key
+- takopi-pinnacle
+- nexios
+- django-wsx
+- pyreto
+- HydrogenLib-Core
+- vlrdevapi
+- pyquery-polars
+- ghadiff
+- heroshot
+- odoo-addon-partner-firstname
+- PL2D
+- sat-dependency-resolver
+- bilibili-rater
+- knoxscript
+- vllm-sr
+- dotcausal
+- um80
+- omnix
+- python-lsp-mcp
+- nvfuser-cu128
+- oneiric
+- karaoke-gen
+- nvfuser-cu126
+- nvfuser-cu130
+- python-cxx
+- nitro-ui
+- argus-cv
+- intercept-agent
+- lunalib
+- compit-inext-api-beta
+- applyx
+- tokenprice
+- endstone-easybackuper
+- peegy
+- modaic
+- dystemctl
+- pydantic-ai-toolsets
+- chguard
+- remoroo
+- qrucible
+- PraisonAI
+- ragscore
+- albopictus
+- braindecode
+- modulitiz-micro
+- antraft
+- gudupao-backend-frontend-demo
+- praisonaiagents
+- module-bank
+- dataclasses-codec
+- gha-utils
 - pyfeyngen
 - utec-py-LF2b2w
 - order-journey-viz
@@ -13,7 +65,6 @@
 - pyborsh
 - django-ninja-ts
 - dodopayments
-- endstone-easybackuper
 - shodh-memory
 - pych9329-hid
 - hexdoc-hexflow
@@ -22,12 +73,9 @@
 - wildberries-sdk
 - jk_simplexml
 - ipymini
-- HydrogenLib-Core
 - borsapy
 - crackerjack
 - pyuikit
-- albopictus
-- ragscore
 - log21
 - athena-code
 - psaiops
@@ -40,46 +88,3 @@
 - autogluon.features
 - autogluon.core
 - autogluon.common
-- verge-auth-sdk
-- sing-box-config
-- kcwmysql
-- civyk-repoix
-- holodeck-ai
-- realtimex-sdk
-- alma-memory
-- knoxscript
-- validkit-py
-- text-analyzer69
-- sailor-remote-agent
-- zcatcher
-- pydantic-ai-toolsets
-- kib-lap
-- localsage
-- omx-sdk
-- win-key
-- news-watch
-- stts
-- openapi-ts-client
-- simplepyble
-- apertis
-- kcwsqlite
-- genome-entropy
-- python-copasi
-- lumino-mcp-server
-- getCalspec
-- pyboy
-- countries-dictionary
-- aicapture
-- python-cxx
-- qdyn
-- GeneralBacktest
-- area-lib-mehak
-- ffmpeg-toolkit
-- python-tty
-- intercept-agent
-- mcp-server-sdlxliff
-- constspace
-- pipescope
-- odoo-addon-account-move-original-partner
-- scruby-full-text
-- buildgen

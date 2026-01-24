@@ -1,11 +1,11 @@
 {
   "name": "remoroo",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "Remoroo Offline Engine CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remoroo-0.1.26.tar.gz",
-  "download_time": "2026-01-23T10:38:14.400505",
+  "download_filename": "remoroo-0.1.27.tar.gz",
+  "download_time": "2026-01-24T09:44:51.216281",
   "package_url": "https://pypi.org/project/remoroo/"
 }

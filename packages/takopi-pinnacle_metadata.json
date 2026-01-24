@@ -1,0 +1,11 @@
+{
+  "name": "takopi-pinnacle",
+  "version": "0.1.2",
+  "summary": "Takopi command plugin to generate clean handoff bundles (plan + PR review) for LLM-assisted dev workflows.",
+  "author": "Pinnacle",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "takopi_pinnacle-0.1.2.tar.gz",
+  "download_time": "2026-01-24T09:44:31.627517",
+  "package_url": "https://pypi.org/project/takopi-pinnacle/"
+}

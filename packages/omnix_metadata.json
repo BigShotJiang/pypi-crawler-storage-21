@@ -1,0 +1,11 @@
+{
+  "name": "omnix",
+  "version": "0.3.12",
+  "summary": "Omnix System",
+  "author": "Hive Solutions Lda.",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://omnix.hive.pt",
+  "download_filename": "omnix-0.3.12.tar.gz",
+  "download_time": "2026-01-24T09:44:40.362165",
+  "package_url": "https://pypi.org/project/omnix/"
+}

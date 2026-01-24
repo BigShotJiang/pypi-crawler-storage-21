@@ -1,11 +1,11 @@
 {
   "name": "heroshot",
-  "version": "0.6.1",
+  "version": "0.8.0",
   "summary": "Screenshot automation integrations for Python documentation tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "heroshot-0.6.1.tar.gz",
-  "download_time": "2026-01-20T20:45:11.942668",
+  "download_filename": "heroshot-0.8.0.tar.gz",
+  "download_time": "2026-01-24T09:44:35.764737",
   "package_url": "https://pypi.org/project/heroshot/"
 }

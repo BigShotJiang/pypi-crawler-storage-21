@@ -1,11 +1,11 @@
 {
   "name": "shodh-memory",
-  "version": "0.1.72",
+  "version": "0.1.73",
   "summary": "Local-first AI memory system for robotics, drones, and edge AI - 100% offline capable",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/varun29ankuS/shodh-memory",
-  "download_filename": "shodh_memory-0.1.72.tar.gz",
-  "download_time": "2026-01-24T09:24:06.235000",
+  "download_filename": "shodh_memory-0.1.73.tar.gz",
+  "download_time": "2026-01-24T09:45:02.342659",
   "package_url": "https://pypi.org/project/shodh-memory/"
 }
