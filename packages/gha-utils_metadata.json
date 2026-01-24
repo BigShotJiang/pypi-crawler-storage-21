@@ -1,11 +1,11 @@
 {
   "name": "gha-utils",
-  "version": "5.3.0",
+  "version": "5.3.1",
   "summary": "⚙️ CLI helpers for GitHub Actions + reusable workflows",
   "author": "Kevin Deldycke",
   "license": null,
   "home_page": null,
-  "download_filename": "gha_utils-5.3.0.tar.gz",
-  "download_time": "2026-01-24T09:44:57.639002",
+  "download_filename": "gha_utils-5.3.1.tar.gz",
+  "download_time": "2026-01-24T11:53:18.163726",
   "package_url": "https://pypi.org/project/gha-utils/"
 }

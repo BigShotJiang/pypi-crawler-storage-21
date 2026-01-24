@@ -1,0 +1,11 @@
+{
+  "name": "openapiiplocation",
+  "version": "1.2.0",
+  "summary": "iplocation.net API",
+  "author": "OpenAPI Clients Factory",
+  "license": "MIT",
+  "home_page": "https://github.com/oapicf/openapi-iplocation",
+  "download_filename": "openapiiplocation-1.2.0.tar.gz",
+  "download_time": "2026-01-24T11:53:20.331881",
+  "package_url": "https://pypi.org/project/openapiiplocation/"
+}

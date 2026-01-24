@@ -1,0 +1,11 @@
+{
+  "name": "gntplib",
+  "version": "3.0.9",
+  "summary": "A Growl Notification Transport Protocol (GNTP), client library for Python 3.",
+  "author": "Hadi Cahyadi",
+  "license": "MIT",
+  "home_page": "http://github.com/cumulus13/gntplib",
+  "download_filename": "gntplib-3.0.9-py3-none-any.whl",
+  "download_time": "2026-01-24T11:53:10.604547",
+  "package_url": "https://pypi.org/project/gntplib/"
+}
