@@ -1,0 +1,11 @@
+{
+  "name": "cbuild",
+  "version": "0.1.116",
+  "summary": "A tool like Nuitka and PyInstaller for packaging Python applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cbuild-0.1.116.tar.gz",
+  "download_time": "2026-01-24T14:45:34.245703",
+  "package_url": "https://pypi.org/project/cbuild/"
+}

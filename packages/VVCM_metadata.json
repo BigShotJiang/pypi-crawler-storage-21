@@ -1,0 +1,11 @@
+{
+  "name": "VVCM",
+  "version": "1.0.0",
+  "summary": "Use VVCM and stable forward kinematics to predict object position for multi-robot transportation system with a deformable sheet.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vvcm-1.0.0.tar.gz",
+  "download_time": "2026-01-24T14:45:59.183321",
+  "package_url": "https://pypi.org/project/VVCM/"
+}

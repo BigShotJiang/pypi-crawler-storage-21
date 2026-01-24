@@ -1,11 +1,11 @@
 {
   "name": "c2ps",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Простой инструмент на чистом Python для преобразования кода проекта в Markdown-промпт для ИИ (альтернатива code2prompt)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "c2ps-0.1.0-py3-none-any.whl",
-  "download_time": "2026-01-24T12:44:21.399256",
+  "download_filename": "c2ps-0.1.2.tar.gz",
+  "download_time": "2026-01-24T14:45:33.726512",
   "package_url": "https://pypi.org/project/c2ps/"
 }

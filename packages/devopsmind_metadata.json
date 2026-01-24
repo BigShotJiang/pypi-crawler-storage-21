@@ -1,11 +1,11 @@
 {
   "name": "devopsmind",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Hands-on, DevOps learning platform with real labs and local sandbox execution.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devopsmind-1.1.0.tar.gz",
-  "download_time": "2026-01-24T08:31:26.492951",
+  "download_filename": "devopsmind-1.1.1.tar.gz",
+  "download_time": "2026-01-24T14:45:50.765615",
   "package_url": "https://pypi.org/project/devopsmind/"
 }

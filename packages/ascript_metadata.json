@@ -1,11 +1,11 @@
 {
   "name": "ascript",
-  "version": "1.0.8",
+  "version": "1.1.1",
   "summary": "Ascript Developer Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ascript-1.0.8.tar.gz",
-  "download_time": "2026-01-23T03:45:24.027126",
+  "download_filename": "ascript-1.1.1.tar.gz",
+  "download_time": "2026-01-24T14:45:55.508222",
   "package_url": "https://pypi.org/project/ascript/"
 }

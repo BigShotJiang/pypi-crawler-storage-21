@@ -1,0 +1,11 @@
+{
+  "name": "feeluown-bilibili",
+  "version": "0.5.4",
+  "summary": "Bilibili provider for FeelUOwn player.",
+  "author": "Bruce Zhang",
+  "license": null,
+  "home_page": "https://github.com/feeluown/feeluown-bilibili",
+  "download_filename": "feeluown_bilibili-0.5.4.tar.gz",
+  "download_time": "2026-01-24T14:45:39.536104",
+  "package_url": "https://pypi.org/project/feeluown-bilibili/"
+}

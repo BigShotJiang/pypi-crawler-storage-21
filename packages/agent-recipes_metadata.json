@@ -1,11 +1,11 @@
 {
   "name": "agent-recipes",
-  "version": "0.0.8",
+  "version": "0.0.12",
   "summary": "Real-world AI agent templates and recipes for PraisonAI",
   "author": "praison",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agent_recipes-0.0.8.tar.gz",
-  "download_time": "2026-01-19T17:49:30.583938",
+  "download_filename": "agent_recipes-0.0.12.tar.gz",
+  "download_time": "2026-01-24T14:45:43.924182",
   "package_url": "https://pypi.org/project/agent-recipes/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "compit-inext-api",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Compit Inext API - Python client",
   "author": "Przemyslaw Grzywa",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "compit_inext_api-0.5.0.tar.gz",
-  "download_time": "2026-01-22T21:48:29.421555",
+  "download_filename": "compit_inext_api-0.6.0.tar.gz",
+  "download_time": "2026-01-24T14:45:41.097525",
   "package_url": "https://pypi.org/project/compit-inext-api/"
 }
