@@ -1,0 +1,11 @@
+{
+  "name": "marshmallow-tagged-union",
+  "version": "0.0.1",
+  "summary": "Provide support for tagged unions in marshmallow schemas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marshmallow_tagged_union-0.0.1.tar.gz",
+  "download_time": "2026-01-24T19:24:58.115029",
+  "package_url": "https://pypi.org/project/marshmallow-tagged-union/"
+}

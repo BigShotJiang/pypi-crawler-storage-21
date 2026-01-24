@@ -1,0 +1,11 @@
+{
+  "name": "esprit-py",
+  "version": "0.7.0",
+  "summary": "A fast, lightweight Python library for interacting with data from esprit-tn.com",
+  "author": "Lime1 (Aymen Hmani)",
+  "license": null,
+  "home_page": "https://github.com/TheLime1/esprit.py",
+  "download_filename": "esprit_py-0.7.0.tar.gz",
+  "download_time": "2026-01-24T19:25:11.561389",
+  "package_url": "https://pypi.org/project/esprit-py/"
+}

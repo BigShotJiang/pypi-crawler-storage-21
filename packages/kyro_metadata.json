@@ -1,0 +1,11 @@
+{
+  "name": "kyro",
+  "version": "0.1.1",
+  "summary": "Async Kalshi API client (aiohttp, Pydantic). Library for building apps.",
+  "author": "Kyro",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kyro-0.1.1.tar.gz",
+  "download_time": "2026-01-24T19:24:52.869129",
+  "package_url": "https://pypi.org/project/kyro/"
+}

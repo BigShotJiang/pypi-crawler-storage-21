@@ -1,0 +1,11 @@
+{
+  "name": "django-pint",
+  "version": "1.0.4",
+  "summary": "Quantity Field for Django using pint library for automated unit conversions",
+  "author": "Ben Harling",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_pint-1.0.4.tar.gz",
+  "download_time": "2026-01-24T19:24:53.907162",
+  "package_url": "https://pypi.org/project/django-pint/"
+}

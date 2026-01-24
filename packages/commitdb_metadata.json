@@ -1,11 +1,11 @@
 {
   "name": "commitdb",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "summary": "Python driver for CommitDB SQL Server",
   "author": "CommitDB Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "commitdb-1.4.0.tar.gz",
-  "download_time": "2026-01-23T23:56:22.555173",
+  "download_filename": "commitdb-1.6.0.tar.gz",
+  "download_time": "2026-01-24T19:25:02.590191",
   "package_url": "https://pypi.org/project/commitdb/"
 }

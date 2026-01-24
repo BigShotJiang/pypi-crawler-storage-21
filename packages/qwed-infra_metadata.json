@@ -1,0 +1,11 @@
+{
+  "name": "qwed-infra",
+  "version": "0.1.0",
+  "summary": "Deterministic Verification for Infrastructure as Code (IaC) using Z3 and Graph Theory.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qwed_infra-0.1.0.tar.gz",
+  "download_time": "2026-01-24T19:25:17.908842",
+  "package_url": "https://pypi.org/project/qwed-infra/"
+}

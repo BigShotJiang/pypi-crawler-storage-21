@@ -1,0 +1,11 @@
+{
+  "name": "winsddl",
+  "version": "0.1.0",
+  "summary": "A comprehensive Python parser for SDDL strings, supporting multiple objects.",
+  "author": "CobblePot59",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "winsddl-0.1.0.tar.gz",
+  "download_time": "2026-01-24T19:24:50.764232",
+  "package_url": "https://pypi.org/project/winsddl/"
+}

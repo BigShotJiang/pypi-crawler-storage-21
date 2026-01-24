@@ -1,0 +1,11 @@
+{
+  "name": "trio-binance",
+  "version": "0.4.6",
+  "summary": "trio based asynchronous binance SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trio_binance-0.4.6.tar.gz",
+  "download_time": "2026-01-24T19:25:01.451331",
+  "package_url": "https://pypi.org/project/trio-binance/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastbulma",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "FastBulma framework: Combining Bulma CSS utilities with FAST web components",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "fastbulma-0.2.0.tar.gz",
-  "download_time": "2026-01-24T11:53:12.259683",
+  "download_filename": "fastbulma-0.3.0.tar.gz",
+  "download_time": "2026-01-24T19:25:14.230137",
   "package_url": "https://pypi.org/project/fastbulma/"
 }
