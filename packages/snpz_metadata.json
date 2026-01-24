@@ -1,0 +1,11 @@
+{
+  "name": "snpz",
+  "version": "1.0.0",
+  "summary": "A foundational language and runtime for defining invariant-first contracts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snpz-1.0.0.tar.gz",
+  "download_time": "2026-01-24T19:40:11.983734",
+  "package_url": "https://pypi.org/project/snpz/"
+}

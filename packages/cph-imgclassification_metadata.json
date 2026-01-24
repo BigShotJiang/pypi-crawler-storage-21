@@ -1,11 +1,11 @@
 {
   "name": "cph-imgclassification",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A generic, config-driven PyTorch Lightning pipeline for image classification tasks",
   "author": "chandra",
   "license": null,
   "home_page": "https://github.com/imchandra11/cph-imgclassification",
-  "download_filename": "cph_imgclassification-0.1.1.tar.gz",
-  "download_time": "2026-01-24T19:00:02.687951",
+  "download_filename": "cph_imgclassification-0.1.2.tar.gz",
+  "download_time": "2026-01-24T19:40:10.379332",
   "package_url": "https://pypi.org/project/cph-imgclassification/"
 }

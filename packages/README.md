@@ -1,13 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-24T19:25:26.094316
-- **Total Packages**: 82
-- **Total Size**: 20.57 MB
+- **Download Time**: 2026-01-24T19:40:38.085072
+- **Total Packages**: 79
+- **Total Size**: 24.53 MB
 
 ## Packages List
+- ucapi-framework
+- umcp
+- lecrapaud
+- kontra
+- loove-credentials
+- dbt-core-mcp
+- flake8-strict-types
+- anet-common
+- django-core-micha
+- pyinfernal
+- wisent
+- IPythonMentor
+- directory-analyzer
+- pydantic-variants
 - guardianhub
+- turbo-themes
+- llama-cpp-py-sync
+- gsql2rsql
+- karaoke-gen
+- pep610
+- guv-calcs
+- pysmbserver
+- edison-mcp
+- coati-payroll
+- czitools
+- siti-tools
+- cph-imgclassification
+- morphis
+- zhijiang
+- snpz
+- WinRAM
+- unihan-etl
 - bm-group
+- XStatic-jQuery-File-Upload
+- click-extended
+- dfchain
+- order-journey-viz
+- metricly-cli
+- borsapy
+- breesy
+- holmes-rs
+- kiri-ocr
 - mediaichemy
 - pdmt5
 - biblemateweb
@@ -17,11 +57,8 @@
 - realitycheck
 - instavm
 - psaiops
-- edison-mcp
 - zero-3rdparty
-- WinRAM
 - paynesia
-- lecrapaud
 - winsddl
 - nitro-cli
 - aiinbx
@@ -39,7 +76,6 @@
 - marshmallow-tagged-union
 - blurry-cli
 - grayskull
-- wisent
 - takopi-preview
 - cs-models
 - trio-binance
@@ -48,43 +84,4 @@
 - ai-todo
 - flaskpp
 - pttechnologies
-- click-extended
 - pipescript
-- humanbytes
-- metalog-jax
-- empfin
-- xai-review
-- ebrow
-- rgb-to-segmentation
-- stts
-- takopi-slack-plugin
-- govee-h6199-ble
-- hermes-client-python
-- esprit-py
-- ripgrep-rs
-- labview-fpga-hdl-tools
-- calk9
-- process-improve
-- fastbulma
-- soroban-abacus
-- synxis-pms-mcp
-- synxis-crs-mcp
-- morsaik
-- porkbun-domain-mcp
-- q2rad
-- qwed-infra
-- spotoptim
-- gradio-image-annotation
-- prisme
-- logweave
-- deerdawn
-- terraform-guardrail
-- modelcontextprotocol-client
-- bittensor-sentinel
-- porkbun-dns-mcp
-- basic-memory
-- wangr
-- mttf
-- pyrig
-- argparcel
-- scruby-full-text

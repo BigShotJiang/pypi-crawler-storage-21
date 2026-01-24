@@ -1,0 +1,11 @@
+{
+  "name": "unihan-etl",
+  "version": "0.39.1",
+  "summary": "Export UNIHAN data of Chinese, Japanese, Korean to CSV, JSON or YAML",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unihan_etl-0.39.1.tar.gz",
+  "download_time": "2026-01-24T19:40:13.019354",
+  "package_url": "https://pypi.org/project/unihan-etl/"
+}

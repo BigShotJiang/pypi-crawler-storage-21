@@ -1,0 +1,11 @@
+{
+  "name": "czitools",
+  "version": "0.13.1",
+  "summary": "Tools to simplify reading and CZI (Carl Zeiss Image) meta and pixel data",
+  "author": "Sebastian Rhode",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/sebi06/czitools",
+  "download_filename": "czitools-0.13.1.tar.gz",
+  "download_time": "2026-01-24T19:40:09.317947",
+  "package_url": "https://pypi.org/project/czitools/"
+}

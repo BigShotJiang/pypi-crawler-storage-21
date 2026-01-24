@@ -1,11 +1,11 @@
 {
   "name": "dfchain",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Lightweight library to stream Pandas workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dfchain-0.1.1-py3-none-any.whl",
-  "download_time": "2026-01-23T22:46:39.288189",
+  "download_filename": "dfchain-0.1.2.tar.gz",
+  "download_time": "2026-01-24T19:40:15.580640",
   "package_url": "https://pypi.org/project/dfchain/"
 }

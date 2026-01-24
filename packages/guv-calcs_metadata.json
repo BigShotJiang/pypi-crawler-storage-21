@@ -1,0 +1,11 @@
+{
+  "name": "guv-calcs",
+  "version": "0.5.0",
+  "summary": "A library for carrying out fluence and irradiance calculations for germicidal UV (GUV) applications.",
+  "author": "J. Vivian Belenky",
+  "license": null,
+  "home_page": "https://github.com/jvbelenky/guv-calcs",
+  "download_filename": "guv_calcs-0.5.0.tar.gz",
+  "download_time": "2026-01-24T19:40:07.258065",
+  "package_url": "https://pypi.org/project/guv-calcs/"
+}

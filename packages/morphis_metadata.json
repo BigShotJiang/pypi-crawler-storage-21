@@ -1,11 +1,11 @@
 {
   "name": "morphis",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A unified mathematical framework for geometric computation",
   "author": "ctl-alt-leist",
   "license": null,
   "home_page": null,
-  "download_filename": "morphis-0.5.0.tar.gz",
-  "download_time": "2026-01-23T14:17:56.652783",
+  "download_filename": "morphis-0.6.0.tar.gz",
+  "download_time": "2026-01-24T19:40:10.943292",
   "package_url": "https://pypi.org/project/morphis/"
 }
