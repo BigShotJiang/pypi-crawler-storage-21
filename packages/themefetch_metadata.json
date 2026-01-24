@@ -1,0 +1,11 @@
+{
+  "name": "themefetch",
+  "version": "1.0.0",
+  "summary": "Download TV show theme songs from YouTube for Emby/Jellyfin",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "themefetch-1.0.0.tar.gz",
+  "download_time": "2026-01-24T19:53:21.177309",
+  "package_url": "https://pypi.org/project/themefetch/"
+}

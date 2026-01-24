@@ -1,0 +1,11 @@
+{
+  "name": "Flask-MQTT",
+  "version": "1.3.0",
+  "summary": "Flask extension for the MQTT protocol",
+  "author": "Stefan Lehmann",
+  "license": "MIT",
+  "home_page": "https://github.com/MrLeeh/Flask-MQTT",
+  "download_filename": "flask_mqtt-1.3.0.tar.gz",
+  "download_time": "2026-01-24T19:53:22.721203",
+  "package_url": "https://pypi.org/project/Flask-MQTT/"
+}

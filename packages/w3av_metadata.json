@@ -1,11 +1,11 @@
 {
   "name": "w3av",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "extract URLs, strings, and more from JavaScript code",
   "author": "Shuaib Oladigbolu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "w3av-1.0.5.tar.gz",
-  "download_time": "2026-01-23T23:26:43.256272",
+  "download_filename": "w3av-1.0.6.tar.gz",
+  "download_time": "2026-01-24T19:53:23.231968",
   "package_url": "https://pypi.org/project/w3av/"
 }

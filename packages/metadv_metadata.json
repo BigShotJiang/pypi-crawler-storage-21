@@ -1,0 +1,11 @@
+{
+  "name": "metadv",
+  "version": "0.3.0",
+  "summary": "Metadata-Driven Data Vault Generator for dbt",
+  "author": "MetaDV Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metadv-0.3.0.tar.gz",
+  "download_time": "2026-01-24T19:53:28.072063",
+  "package_url": "https://pypi.org/project/metadv/"
+}

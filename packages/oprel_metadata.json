@@ -1,11 +1,11 @@
 {
   "name": "oprel",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Local-first AI runtime - The SQLite of LLMs",
   "author": "Ragul",
   "license": "MIT",
   "home_page": "https://github.com/ragultv/oprel-SDK",
-  "download_filename": "oprel-0.1.2.tar.gz",
-  "download_time": "2026-01-24T19:24:45.007009",
+  "download_filename": "oprel-0.1.3.tar.gz",
+  "download_time": "2026-01-24T19:53:33.578523",
   "package_url": "https://pypi.org/project/oprel/"
 }

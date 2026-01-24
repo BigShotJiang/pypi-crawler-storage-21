@@ -1,0 +1,11 @@
+{
+  "name": "application-properties",
+  "version": "0.9.1",
+  "summary": "A simple, easy to use, unified manner of accessing program properties.",
+  "author": "Jack De Winter",
+  "license": "MIT",
+  "home_page": "https://github.com/jackdewinter/application_properties",
+  "download_filename": "application_properties-0.9.1.tar.gz",
+  "download_time": "2026-01-24T19:53:29.881043",
+  "package_url": "https://pypi.org/project/application-properties/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp",
+  "version": "1.26.0",
+  "summary": "Model Context Protocol SDK",
+  "author": "Anthropic, PBC.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp-1.26.0.tar.gz",
+  "download_time": "2026-01-24T19:53:34.096732",
+  "package_url": "https://pypi.org/project/mcp/"
+}
