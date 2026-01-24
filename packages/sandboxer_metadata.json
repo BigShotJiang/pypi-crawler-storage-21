@@ -1,11 +1,11 @@
 {
   "name": "sandboxer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A CLI tool for sandboxing folders into containers with Claude Code support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sandboxer-0.1.1.tar.gz",
-  "download_time": "2026-01-20T22:45:45.905545",
+  "download_filename": "sandboxer-0.1.2.tar.gz",
+  "download_time": "2026-01-24T15:55:36.960884",
   "package_url": "https://pypi.org/project/sandboxer/"
 }

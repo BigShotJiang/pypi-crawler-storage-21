@@ -1,11 +1,11 @@
 {
   "name": "tactrandom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "TRandom - Python package that generates fake data for you",
   "author": "Raja CSP Raman",
   "license": "MIT",
   "home_page": "https://github.com/tactlabs/tact-random",
-  "download_filename": "tactrandom-1.0.0.tar.gz",
-  "download_time": "2026-01-24T15:44:19.224741",
+  "download_filename": "tactrandom-1.0.1.tar.gz",
+  "download_time": "2026-01-24T15:55:20.695374",
   "package_url": "https://pypi.org/project/tactrandom/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nanopy-dual",
+  "version": "1.0.42",
+  "summary": "Hashcat GPU Cracker with Learning AI Loop",
+  "author": "NanoPy Team",
+  "license": null,
+  "home_page": "https://github.com/Complexity-ML/hashcat-dual",
+  "download_filename": "nanopy_dual-1.0.42.tar.gz",
+  "download_time": "2026-01-24T15:55:38.080715",
+  "package_url": "https://pypi.org/project/nanopy-dual/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "instascan-pro",
+  "version": "1.0.0",
+  "summary": "Advanced Instagram account security scanner",
+  "author": "Security Research Team",
+  "license": null,
+  "home_page": "https://github.com/securitylab/instascan_pro",
+  "download_filename": "instascan_pro-1.0.0.tar.gz",
+  "download_time": "2026-01-24T15:55:35.859092",
+  "package_url": "https://pypi.org/project/instascan-pro/"
+}

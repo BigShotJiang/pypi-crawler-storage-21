@@ -1,11 +1,11 @@
 {
   "name": "mcp-suno",
-  "version": "2026.1.24.1",
+  "version": "2026.1.24.2",
   "summary": "MCP Server for Suno AI Music Generation via AceDataCloud API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_suno-2026.1.24.1.tar.gz",
-  "download_time": "2026-01-24T14:22:09.126101",
+  "download_filename": "mcp_suno-2026.1.24.2.tar.gz",
+  "download_time": "2026-01-24T15:55:33.084672",
   "package_url": "https://pypi.org/project/mcp-suno/"
 }

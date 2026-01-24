@@ -1,0 +1,11 @@
+{
+  "name": "radio-active",
+  "version": "3.0.0",
+  "summary": "Play and record any radio stations around the globe right from the terminal",
+  "author": "Dipankar Pal",
+  "license": "MIT",
+  "home_page": "https://github.com/deep5050/radio-active",
+  "download_filename": "radio_active-3.0.0-py3-none-any.whl",
+  "download_time": "2026-01-24T15:55:21.826204",
+  "package_url": "https://pypi.org/project/radio-active/"
+}
