@@ -1,11 +1,11 @@
 {
   "name": "dagex",
-  "version": "2026.13",
+  "version": "2026.16",
   "summary": "A pure Rust DAG executor supporting implicit node connections, branching, and config sweeps",
   "author": "briday1 <your-email@example.com>",
   "license": "MIT",
   "home_page": "https://github.com/briday1/dagex",
-  "download_filename": "dagex-2026.13.tar.gz",
-  "download_time": "2026-01-21T20:34:10.526009",
+  "download_filename": "dagex-2026.16.tar.gz",
+  "download_time": "2026-01-24T17:21:10.707052",
   "package_url": "https://pypi.org/project/dagex/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "s3path",
+  "version": "0.6.5",
+  "summary": null,
+  "author": "Lior Mizrahi",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/liormizr/s3path",
+  "download_filename": "s3path-0.6.5.tar.gz",
+  "download_time": "2026-01-24T17:20:58.021740",
+  "package_url": "https://pypi.org/project/s3path/"
+}

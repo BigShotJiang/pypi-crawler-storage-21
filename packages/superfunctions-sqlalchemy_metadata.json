@@ -1,0 +1,11 @@
+{
+  "name": "superfunctions-sqlalchemy",
+  "version": "0.1.0",
+  "summary": "SQLAlchemy adapter for superfunctions.db",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "superfunctions_sqlalchemy-0.1.0.tar.gz",
+  "download_time": "2026-01-24T17:21:01.162886",
+  "package_url": "https://pypi.org/project/superfunctions-sqlalchemy/"
+}

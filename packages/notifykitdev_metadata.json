@@ -1,0 +1,11 @@
+{
+  "name": "notifykitdev",
+  "version": "1.0.0",
+  "summary": "Official NotifyKit SDK for Python - Send notifications from your apps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notifykitdev-1.0.0.tar.gz",
+  "download_time": "2026-01-24T17:20:46.442981",
+  "package_url": "https://pypi.org/project/notifykitdev/"
+}

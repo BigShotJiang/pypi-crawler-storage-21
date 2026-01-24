@@ -1,11 +1,11 @@
 {
   "name": "sdkrouter",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Unified SDK for AI services with OpenAI compatibility",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdkrouter-0.1.7.tar.gz",
-  "download_time": "2026-01-24T15:24:13.476374",
+  "download_filename": "sdkrouter-0.1.8.tar.gz",
+  "download_time": "2026-01-24T17:21:00.639670",
   "package_url": "https://pypi.org/project/sdkrouter/"
 }

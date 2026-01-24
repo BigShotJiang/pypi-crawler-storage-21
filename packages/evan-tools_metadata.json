@@ -1,11 +1,11 @@
 {
   "name": "evan-tools",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "It's a set of tools for Evan's development.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evan_tools-0.3.8.tar.gz",
-  "download_time": "2026-01-24T15:24:14.560346",
+  "download_filename": "evan_tools-0.3.9.tar.gz",
+  "download_time": "2026-01-24T17:20:49.604396",
   "package_url": "https://pypi.org/project/evan-tools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gymDSM",
+  "version": "1.0.0",
+  "summary": "gymDSM (Didactically Supercharged Mod): a small library that provides didactically enhanced OpenAI Gym environments (e.g., a MountainCar variant whose render color shows the last action).",
+  "author": "Daniel Saromo",
+  "license": null,
+  "home_page": "https://github.com/DanielSaromo/gymDSM",
+  "download_filename": "gymdsm-1.0.0.tar.gz",
+  "download_time": "2026-01-24T17:21:02.205850",
+  "package_url": "https://pypi.org/project/gymDSM/"
+}

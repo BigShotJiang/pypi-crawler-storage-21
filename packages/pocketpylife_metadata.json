@@ -1,0 +1,11 @@
+{
+  "name": "pocketpylife",
+  "version": "0.0.1",
+  "summary": "A Python package for manipulation of patterns in cellular automata.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pocketpylife-0.0.1.tar.gz",
+  "download_time": "2026-01-24T17:20:48.025609",
+  "package_url": "https://pypi.org/project/pocketpylife/"
+}
