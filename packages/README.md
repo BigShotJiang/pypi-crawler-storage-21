@@ -1,37 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-24T14:46:12.998106
-- **Total Packages**: 79
-- **Total Size**: 38.01 MB
+- **Download Time**: 2026-01-24T14:58:00.508558
+- **Total Packages**: 75
+- **Total Size**: 0.01 MB
 
 ## Packages List
-- skinpy-extended
-- redundanet
-- gwtc-analysis
-- siyuan-mcp-server
-- c2ps
-- cbuild
-- superagentx
-- rwa-calc
-- classixclustering
-- blueair-api
-- ayechat-dev
-- digestify
-- nextpy-framework
-- Munggae-Cloud
-- edgeimpulse-api
-- feeluown-bilibili
-- provable-sdk
-- nb-cli
-- compit-inext-api
-- diahex2txt
-- giftpy
-- socialmapper
-- ua-extract
-- agent-recipes
-- look-bench
-- kubectl-mcp-server
 - svy
 - terraform-guardrail
 - vibetuner
@@ -39,6 +13,8 @@
 - kcwebs
 - PraisonAI
 - praisonaiagents
+- siyuan-mcp-server
+- ayechat-dev
 - fakts-next
 - llms-py
 - area-manish
@@ -53,8 +29,10 @@
 - rfcontrolpy
 - ascript
 - algorhino-coral
+- Munggae-Cloud
 - hydrobench
 - cli-helpers
+- gwtc-analysis
 - odoo-addon-pos-place
 - insa-its
 - dmsc
@@ -85,3 +63,21 @@
 - sdata-client
 - shodh-memory
 - hanary-mcp
+- marqetive-lib
+- kimi-sdk
+- kimi-code
+- kimi-cli
+- nextpy-framework
+- django-include-apps
+- jeomaechu
+- himilo
+- deckr
+- mcp-serp
+- zephyr-mcumgr
+- ecologits
+- celldetective
+- zigcc-build
+- bazis-uploadable
+- optimech
+- django-core-micha
+- MoleditPy
