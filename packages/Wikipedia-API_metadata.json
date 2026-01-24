@@ -1,0 +1,11 @@
+{
+  "name": "Wikipedia-API",
+  "version": "0.9.0",
+  "summary": "Python Wrapper for Wikipedia",
+  "author": "Martin Majlis",
+  "license": "MIT",
+  "home_page": "https://github.com/martin-majlis/Wikipedia-API",
+  "download_filename": "wikipedia_api-0.9.0.tar.gz",
+  "download_time": "2026-01-24T21:54:23.410000",
+  "package_url": "https://pypi.org/project/Wikipedia-API/"
+}

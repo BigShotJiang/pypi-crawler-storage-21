@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-24T21:42:56.204779
-- **Total Packages**: 80
-- **Total Size**: 7.21 MB
+- **Download Time**: 2026-01-24T21:54:59.276185
+- **Total Packages**: 85
+- **Total Size**: 33.65 MB
 
 ## Packages List
+- ha-mcp-dev
+- pyconfix
+- sr-invoice-parser
+- spforge
+- pyoxigraph
+- trajpy
+- oxigraph
+- rwa-calc
+- agent-cli
+- loggydev-py
+- tklr-dgraham
+- ask-shell
+- chromoplot
+- kitsunekko-tools
+- unihan-etl
+- chainswarm-analyzers-baseline
+- pkg-ext
+- gcs-vectors
+- unxt-hypothesis
+- ipy-modal-backport
+- Wikipedia-API
+- email-processor
+- mcp-mesh-tsuite
+- flowquery
+- digestify
+- guardianhub
+- meter-sdk
+- repo-mapper-rs
+- cyta
+- guestctl
+- domovoy
+- mcDETECT
+- py-gitignore-tools
+- keplar-api
+- centimators
+- fastharness
+- wicky-vllm
+- cft-zarr
+- tabwrap
+- rich
+- bambu-printer-manager
+- karaoke-gen
+- pomera-ai-commander
+- webquest-mcp
+- amulety
+- stocxer-mcp
+- bambara-text-normalizer
+- resp-server
+- partial-injector
+- kubectl-mcp-server
+- mailgun-mcp
+- trajpy-ui
 - afterpaths
 - ddcDatabases
 - auto-mcp-tool
@@ -17,19 +69,16 @@
 - flyhiawa-math
 - htmpl
 - metalog-jax
-- fastharness
 - webquest
 - geek-cafe-saas-sdk
 - france-travail-api
 - hytale-region-parser
 - onyxengine
-- tklr-dgraham
 - dworshak
 - coplay-mcp-server
 - hanzo
 - c1v-id
 - ascutil
-- py-gitignore-tools
 - cevreset
 - byte-ai-cli
 - remoroo
@@ -38,51 +87,7 @@
 - chutes
 - backtrader-next
 - pymashov
-- ipy-modal-backport
 - stpy
 - sawari
 - ned-client
 - virtuous
-- markdown-code-runner
-- wrapx
-- pkg-ext
-- tooluniverse
-- lintro
-- creed-sdk
-- chatads-mcp-wrapper
-- chatads-sdk
-- bot-formatter
-- pywebtop
-- ablisk
-- pixie-examples
-- gh-task
-- themefetch
-- teststs
-- mcp-mesh-tsuite
-- guardianhub
-- latex-clean-fig
-- sqlsession
-- stringshift
-- furu
-- dc-securex
-- discord.http
-- vlm-engine
-- pypac4http2
-- rlm-mcp-server
-- kladml
-- pytest-collect-markers
-- kg-fuse
-- paper-siphon
-- holobench
-- clustor
-- cjm-fasthtml-file-browser
-- rappel
-- symfluence
-- operon-ai
-- cryptonita
-- inmanta-module-sops
-- onebusaway
-- convert-to-quant
-- pylxpweb
-- signature-roster-reconciliation
-- comocma

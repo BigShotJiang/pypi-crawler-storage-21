@@ -1,0 +1,11 @@
+{
+  "name": "resp-server",
+  "version": "0.2.3",
+  "summary": "A lightweight, embeddable, pure-Python Redis-compatible server for testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "resp_server-0.2.3.tar.gz",
+  "download_time": "2026-01-24T21:54:39.213570",
+  "package_url": "https://pypi.org/project/resp-server/"
+}

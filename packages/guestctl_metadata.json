@@ -1,0 +1,11 @@
+{
+  "name": "guestctl",
+  "version": "0.3.0",
+  "summary": "Pure Rust toolkit for VM disk image inspection and manipulation - Python bindings",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "guestctl-0.3.0-cp314-cp314-manylinux_2_39_x86_64.whl",
+  "download_time": "2026-01-24T21:54:29.170084",
+  "package_url": "https://pypi.org/project/guestctl/"
+}

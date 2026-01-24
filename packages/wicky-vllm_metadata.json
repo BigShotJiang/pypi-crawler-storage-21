@@ -1,11 +1,11 @@
 {
   "name": "wicky-vllm",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "a lightweight vLLM implementation built from scratch",
   "author": "David U",
   "license": null,
   "home_page": null,
-  "download_filename": "wicky_vllm-0.1.2.tar.gz",
-  "download_time": "2026-01-24T17:44:23.922546",
+  "download_filename": "wicky_vllm-0.1.4.tar.gz",
+  "download_time": "2026-01-24T21:54:33.021384",
   "package_url": "https://pypi.org/project/wicky-vllm/"
 }

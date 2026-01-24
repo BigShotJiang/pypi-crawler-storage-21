@@ -1,11 +1,11 @@
 {
   "name": "ipy-modal-backport",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A project to backport new modal features into interactions.py v5.",
   "author": "AstreaTSS",
   "license": null,
   "home_page": "https://github.com/Astrea-Stellarium-Labs/ipy-modal-backport",
-  "download_filename": "ipy_modal_backport-0.2.0.tar.gz",
-  "download_time": "2026-01-24T21:21:12.955481",
+  "download_filename": "ipy_modal_backport-0.2.1.tar.gz",
+  "download_time": "2026-01-24T21:54:22.830117",
   "package_url": "https://pypi.org/project/ipy-modal-backport/"
 }

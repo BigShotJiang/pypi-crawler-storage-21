@@ -1,0 +1,11 @@
+{
+  "name": "sr-invoice-parser",
+  "version": "1.0.2",
+  "summary": "SR Invoice Parser is a small library(crawler) that is parsing invoices and extracting relevant information from URL. For Serbian market.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sr_invoice_parser-1.0.2.tar.gz",
+  "download_time": "2026-01-24T21:54:10.460280",
+  "package_url": "https://pypi.org/project/sr-invoice-parser/"
+}

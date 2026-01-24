@@ -1,0 +1,11 @@
+{
+  "name": "unxt-hypothesis",
+  "version": "1.10.1",
+  "summary": "Hypothesis strategies for unxt",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "unxt_hypothesis-1.10.1.tar.gz",
+  "download_time": "2026-01-24T21:54:22.255147",
+  "package_url": "https://pypi.org/project/unxt-hypothesis/"
+}

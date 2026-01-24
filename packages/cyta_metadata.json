@@ -1,0 +1,11 @@
+{
+  "name": "cyta",
+  "version": "0.2.2",
+  "summary": "cython -a for terminal (no HTML/browser needed)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyta-0.2.2.tar.gz",
+  "download_time": "2026-01-24T21:54:28.569485",
+  "package_url": "https://pypi.org/project/cyta/"
+}

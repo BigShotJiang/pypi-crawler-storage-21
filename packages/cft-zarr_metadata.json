@@ -1,11 +1,11 @@
 {
   "name": "cft-zarr",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "CFT Zarr codecs for 12-bit fluorescence and RGB compression",
   "author": "Eli White",
   "license": null,
   "home_page": null,
-  "download_filename": "cft_zarr-0.0.4.tar.gz",
-  "download_time": "2026-01-21T16:56:11.510300",
+  "download_filename": "cft_zarr-0.0.6.tar.gz",
+  "download_time": "2026-01-24T21:54:33.597525",
   "package_url": "https://pypi.org/project/cft-zarr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "webquest-mcp",
-  "version": "0.15.2",
+  "version": "0.15.3",
   "summary": "WebQuest MCP is a Model Context Protocol (MCP) server that exposes powerful web search and scraping tools to AI agents and MCP-compatible clients.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webquest_mcp-0.15.2.tar.gz",
-  "download_time": "2026-01-24T13:23:32.734807",
+  "download_filename": "webquest_mcp-0.15.3.tar.gz",
+  "download_time": "2026-01-24T21:54:37.033354",
   "package_url": "https://pypi.org/project/webquest-mcp/"
 }

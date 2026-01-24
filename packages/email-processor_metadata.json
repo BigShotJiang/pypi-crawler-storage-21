@@ -1,11 +1,11 @@
 {
   "name": "email-processor",
-  "version": "8.0.1",
+  "version": "8.0.2",
   "summary": "Email attachment processor with IMAP and SMTP support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "email_processor-8.0.1.tar.gz",
-  "download_time": "2026-01-23T10:38:47.625090",
+  "download_filename": "email_processor-8.0.2.tar.gz",
+  "download_time": "2026-01-24T21:54:24.010412",
   "package_url": "https://pypi.org/project/email-processor/"
 }
