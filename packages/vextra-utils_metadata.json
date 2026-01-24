@@ -1,0 +1,11 @@
+{
+  "name": "vextra-utils",
+  "version": "1.0.0",
+  "summary": "A collection of Python utilities for timing, concurrency control, thread safety, and design patterns.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vextra_utils-1.0.0.tar.gz",
+  "download_time": "2026-01-24T21:42:11.601578",
+  "package_url": "https://pypi.org/project/vextra-utils/"
+}

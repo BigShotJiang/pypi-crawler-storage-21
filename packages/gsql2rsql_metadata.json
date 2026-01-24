@@ -1,11 +1,11 @@
 {
   "name": "gsql2rsql",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Transpile Graph Query Language (openCypher) to Recursive SQL (Databricks)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gsql2rsql-0.7.1.tar.gz",
-  "download_time": "2026-01-24T19:40:05.144503",
+  "download_filename": "gsql2rsql-0.7.2.tar.gz",
+  "download_time": "2026-01-24T21:42:12.196532",
   "package_url": "https://pypi.org/project/gsql2rsql/"
 }

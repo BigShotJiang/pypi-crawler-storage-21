@@ -1,0 +1,11 @@
+{
+  "name": "sgr-agent-core",
+  "version": "0.6.0",
+  "summary": "SGR Agent Core - Schema-Guided Reasoning for building agent",
+  "author": "virrius, VaKovaLskii, abdullin, EvilFreelancer, Shadekss, mixaill76",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sgr_agent_core-0.6.0.tar.gz",
+  "download_time": "2026-01-24T21:42:24.897576",
+  "package_url": "https://pypi.org/project/sgr-agent-core/"
+}
