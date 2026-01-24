@@ -1,11 +1,11 @@
 {
   "name": "hrcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Hierarchical Resource Configuration with Provenance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hrcp-0.2.0.tar.gz",
-  "download_time": "2026-01-23T16:01:30.478078",
+  "download_filename": "hrcp-0.3.0.tar.gz",
+  "download_time": "2026-01-24T15:44:29.977307",
   "package_url": "https://pypi.org/project/hrcp/"
 }

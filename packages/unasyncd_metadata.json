@@ -1,0 +1,11 @@
+{
+  "name": "unasyncd",
+  "version": "0.10.0",
+  "summary": "A tool to transform asynchronous Python code to synchronous Python code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unasyncd-0.10.0.tar.gz",
+  "download_time": "2026-01-24T15:44:24.850107",
+  "package_url": "https://pypi.org/project/unasyncd/"
+}
