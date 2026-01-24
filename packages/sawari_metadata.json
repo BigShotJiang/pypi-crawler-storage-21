@@ -1,11 +1,11 @@
 {
   "name": "sawari",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "extract URLs, strings, and more from JavaScript code",
   "author": "Shuaib Oladigbolu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sawari-1.0.5.tar.gz",
-  "download_time": "2026-01-24T20:25:07.335084",
+  "download_filename": "sawari-1.0.6.tar.gz",
+  "download_time": "2026-01-24T21:21:14.025496",
   "package_url": "https://pypi.org/project/sawari/"
 }

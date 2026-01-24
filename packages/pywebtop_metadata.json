@@ -1,0 +1,11 @@
+{
+  "name": "pywebtop",
+  "version": "0.0.1",
+  "summary": "Unofficial async Python API wrapper for Webtop (SmartSchool)",
+  "author": "Tomer Klein",
+  "license": "MIT",
+  "home_page": "https://github.com/t0mer/pywebtop",
+  "download_filename": "pywebtop-0.0.1.tar.gz",
+  "download_time": "2026-01-24T21:21:21.552581",
+  "package_url": "https://pypi.org/project/pywebtop/"
+}

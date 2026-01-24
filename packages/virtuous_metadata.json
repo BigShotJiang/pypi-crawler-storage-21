@@ -1,0 +1,11 @@
+{
+  "name": "virtuous",
+  "version": "0.0.5",
+  "summary": "Runtime loader for Virtuous Python clients",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "virtuous-0.0.5.tar.gz",
+  "download_time": "2026-01-24T21:21:15.091284",
+  "package_url": "https://pypi.org/project/virtuous/"
+}

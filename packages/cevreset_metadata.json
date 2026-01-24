@@ -1,11 +1,11 @@
 {
   "name": "cevreset",
-  "version": "0.2.0",
+  "version": "0.1.2",
   "summary": "Instagram password reset request sender (UNOFFICIAL - for educational/research purposes only)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cevreset-0.2.0.tar.gz",
-  "download_time": "2026-01-24T10:24:49.558978",
+  "download_filename": "cevreset-0.1.2.tar.gz",
+  "download_time": "2026-01-24T21:21:44.987742",
   "package_url": "https://pypi.org/project/cevreset/"
 }

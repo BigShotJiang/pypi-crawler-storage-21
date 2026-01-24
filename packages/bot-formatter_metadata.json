@@ -1,0 +1,11 @@
+{
+  "name": "bot-formatter",
+  "version": "0.1.2",
+  "summary": "A formatter for Discord bots.",
+  "author": "tibue99",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bot_formatter-0.1.2.tar.gz",
+  "download_time": "2026-01-24T21:21:21.028572",
+  "package_url": "https://pypi.org/project/bot-formatter/"
+}

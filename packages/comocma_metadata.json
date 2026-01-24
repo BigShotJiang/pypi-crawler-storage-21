@@ -1,0 +1,11 @@
+{
+  "name": "comocma",
+  "version": "0.6.0",
+  "summary": "COMO-CMA-ES is the multiobjective Sofomore framework instantiated with the single-objective solver CMA-ES",
+  "author": "Cheikh Toure, Nikolaus Hansen, Eugenie Marescaux",
+  "license": null,
+  "home_page": null,
+  "download_filename": "comocma-0.6.0.tar.gz",
+  "download_time": "2026-01-24T21:21:43.422889",
+  "package_url": "https://pypi.org/project/comocma/"
+}

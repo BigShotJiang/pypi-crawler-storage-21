@@ -1,0 +1,11 @@
+{
+  "name": "latex-clean-fig",
+  "version": "0.2.0",
+  "summary": "A CLI tool to clean unused figure files in LaTeX projects",
+  "author": "Iztok Fister Jr.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "latex_clean_fig-0.2.0.tar.gz",
+  "download_time": "2026-01-24T21:21:27.107583",
+  "package_url": "https://pypi.org/project/latex-clean-fig/"
+}

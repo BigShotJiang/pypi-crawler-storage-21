@@ -1,0 +1,11 @@
+{
+  "name": "helics-apps",
+  "version": "3.7.0",
+  "summary": "Meta-package to install helics (ARCHIVED, pip install helics instead)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "helics_apps-3.7.0.tar.gz",
+  "download_time": "2026-01-24T21:21:49.858360",
+  "package_url": "https://pypi.org/project/helics-apps/"
+}

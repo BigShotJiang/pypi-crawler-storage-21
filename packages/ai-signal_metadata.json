@@ -1,0 +1,11 @@
+{
+  "name": "ai-signal",
+  "version": "0.10.0",
+  "summary": "Terminal-based AI curator that turns information noise into meaningful signal",
+  "author": "Guglielmo Celata",
+  "license": "MIT",
+  "home_page": "https://github.com/guglielmo/ai-signal",
+  "download_filename": "ai_signal-0.10.0.tar.gz",
+  "download_time": "2026-01-24T21:21:54.178611",
+  "package_url": "https://pypi.org/project/ai-signal/"
+}

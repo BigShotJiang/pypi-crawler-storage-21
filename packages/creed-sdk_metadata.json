@@ -1,0 +1,11 @@
+{
+  "name": "creed-sdk",
+  "version": "1.0.0",
+  "summary": "Creed Space SDK - Governance infrastructure for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "creed_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-24T21:21:19.407605",
+  "package_url": "https://pypi.org/project/creed-sdk/"
+}

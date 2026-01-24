@@ -1,11 +1,11 @@
 {
   "name": "stringshift",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Advanced string encoding/decoding toolkit with parallel processing, auto-detection, and 12+ format support (URL, HTML, Base64, Morse, etc.)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stringshift-0.1.1.tar.gz",
-  "download_time": "2026-01-24T20:45:46.452246",
+  "download_filename": "stringshift-0.1.2.tar.gz",
+  "download_time": "2026-01-24T21:21:29.460143",
   "package_url": "https://pypi.org/project/stringshift/"
 }

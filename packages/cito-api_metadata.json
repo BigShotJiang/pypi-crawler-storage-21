@@ -1,0 +1,11 @@
+{
+  "name": "cito-api",
+  "version": "1.0.0",
+  "summary": "Python SDK for Cito API - Call of Duty & Fortnite Esports Data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cito_api-1.0.0.tar.gz",
+  "download_time": "2026-01-24T21:21:51.470182",
+  "package_url": "https://pypi.org/project/cito-api/"
+}

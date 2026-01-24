@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mesh-tsuite",
+  "version": "0.1.1",
+  "summary": "YAML-driven integration test framework with container isolation",
+  "author": "MCP Mesh Team",
+  "license": "MIT",
+  "home_page": "https://github.com/dhyansraj/mcp-mesh-test-suite",
+  "download_filename": "mcp_mesh_tsuite-0.1.1.tar.gz",
+  "download_time": "2026-01-24T21:21:26.061266",
+  "package_url": "https://pypi.org/project/mcp-mesh-tsuite/"
+}

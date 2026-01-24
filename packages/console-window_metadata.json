@@ -1,0 +1,11 @@
+{
+  "name": "console-window",
+  "version": "1.4.3",
+  "summary": "A robust curses wrapper for creating Text User Interfaces (TUIs).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "console_window-1.4.3.tar.gz",
+  "download_time": "2026-01-24T21:21:48.805450",
+  "package_url": "https://pypi.org/project/console-window/"
+}

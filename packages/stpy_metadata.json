@@ -1,11 +1,11 @@
 {
   "name": "stpy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python package for data science and cheminformatics utilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stpy-0.1.1.tar.gz",
-  "download_time": "2026-01-24T16:51:09.198191",
+  "download_filename": "stpy-0.1.2.tar.gz",
+  "download_time": "2026-01-24T21:21:13.491326",
   "package_url": "https://pypi.org/project/stpy/"
 }

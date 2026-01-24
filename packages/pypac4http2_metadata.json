@@ -1,11 +1,11 @@
 {
   "name": "pypac4http2",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "summary": "Python package which builds on pypac to add pac file support for httplib2 Http",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypac4http2-0.0.0.tar.gz",
-  "download_time": "2026-01-24T20:45:30.282664",
+  "download_filename": "pypac4http2-0.0.3.tar.gz",
+  "download_time": "2026-01-24T21:21:32.619391",
   "package_url": "https://pypi.org/project/pypac4http2/"
 }
