@@ -1,0 +1,11 @@
+{
+  "name": "rustpdf-compress",
+  "version": "2026.1.0",
+  "summary": "基于 Rust 的高性能 PDF 压缩库，支持三种压缩级别",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rustpdf_compress-2026.1.0.tar.gz",
+  "download_time": "2026-01-24T22:46:47.969401",
+  "package_url": "https://pypi.org/project/rustpdf-compress/"
+}

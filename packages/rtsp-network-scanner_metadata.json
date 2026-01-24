@@ -1,0 +1,11 @@
+{
+  "name": "rtsp-network-scanner",
+  "version": "2.5.4",
+  "summary": "Scan networks for RTSP cameras, test streams, discover channels",
+  "author": "Sanjay H",
+  "license": "MIT",
+  "home_page": "https://github.com/sssanjaya/rtsp-network-scanner",
+  "download_filename": "rtsp_network_scanner-2.5.4.tar.gz",
+  "download_time": "2026-01-24T22:46:52.257038",
+  "package_url": "https://pypi.org/project/rtsp-network-scanner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bellapy",
+  "version": "1.0.0",
+  "summary": "ML data toolkit - 29 features for dataset processing",
+  "author": "Chiggy",
+  "license": null,
+  "home_page": "https://github.com/JuiceB0xC0de/bellapy",
+  "download_filename": "bellapy-1.0.0.tar.gz",
+  "download_time": "2026-01-24T22:47:12.438477",
+  "package_url": "https://pypi.org/project/bellapy/"
+}

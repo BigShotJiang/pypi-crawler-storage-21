@@ -1,0 +1,11 @@
+{
+  "name": "roselabs-canary",
+  "version": "1.0.1",
+  "summary": "Canary SDK for Python - Dependency vulnerability scanning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "roselabs_canary-1.0.1.tar.gz",
+  "download_time": "2026-01-24T22:46:52.840456",
+  "package_url": "https://pypi.org/project/roselabs-canary/"
+}

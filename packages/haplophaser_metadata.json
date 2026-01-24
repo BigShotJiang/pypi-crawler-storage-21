@@ -1,0 +1,11 @@
+{
+  "name": "haplophaser",
+  "version": "0.1.0",
+  "summary": "Polyploid Haplotype Analysis for Sequenced Eukaryotic References - A comprehensive toolkit for haplotype analysis in complex genomes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "haplophaser-0.1.0.tar.gz",
+  "download_time": "2026-01-24T22:47:12.987457",
+  "package_url": "https://pypi.org/project/haplophaser/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mtbls-mhd-integration",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "MetaboLights - MetabolomicsHub Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mtbls_mhd_integration-0.0.5.tar.gz",
-  "download_time": "2026-01-24T20:45:37.626401",
+  "download_filename": "mtbls_mhd_integration-0.0.6.tar.gz",
+  "download_time": "2026-01-24T22:47:11.928822",
   "package_url": "https://pypi.org/project/mtbls-mhd-integration/"
 }

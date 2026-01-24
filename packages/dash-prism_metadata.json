@@ -1,11 +1,11 @@
 {
   "name": "dash-prism",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Prism: Powerful multi-panel workspace manager for Plotly Dash",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dash_prism-0.6.1.tar.gz",
-  "download_time": "2026-01-23T23:45:11.293555",
+  "download_filename": "dash_prism-0.6.2.tar.gz",
+  "download_time": "2026-01-24T22:46:58.764896",
   "package_url": "https://pypi.org/project/dash-prism/"
 }
