@@ -1,11 +1,11 @@
 {
   "name": "dotcausal",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Binary Knowledge Graph Format with Embedded Inference for AI Applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dotcausal-0.2.1.tar.gz",
-  "download_time": "2026-01-24T09:44:39.340098",
+  "download_filename": "dotcausal-0.3.0.tar.gz",
+  "download_time": "2026-01-24T09:55:36.264409",
   "package_url": "https://pypi.org/project/dotcausal/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcp-common",
-  "version": "0.4.9",
+  "version": "0.5.0",
   "summary": "Oneiric-Native foundation library providing battle-tested patterns for MCP (Model Context Protocol) servers, with YAML configuration, Rich UI, and CLI lifecycle management",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "mcp_common-0.4.9.tar.gz",
-  "download_time": "2026-01-22T05:30:57.803695",
+  "download_filename": "mcp_common-0.5.0.tar.gz",
+  "download_time": "2026-01-24T09:55:31.321101",
   "package_url": "https://pypi.org/project/mcp-common/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyproject-tmpl",
+  "version": "0.1.0",
+  "summary": "template python project with necessary configurations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyproject_tmpl-0.1.0.tar.gz",
+  "download_time": "2026-01-24T09:55:39.578765",
+  "package_url": "https://pypi.org/project/pyproject-tmpl/"
+}

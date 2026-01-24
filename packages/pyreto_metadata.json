@@ -1,11 +1,11 @@
 {
   "name": "pyreto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Tail risk management library with Monte Carlo simulation (classless functional API)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyreto-1.0.0.tar.gz",
-  "download_time": "2026-01-24T09:44:33.204996",
+  "download_filename": "pyreto-1.0.1.tar.gz",
+  "download_time": "2026-01-24T09:55:42.765078",
   "package_url": "https://pypi.org/project/pyreto/"
 }

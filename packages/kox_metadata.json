@@ -1,0 +1,11 @@
+{
+  "name": "kox",
+  "version": "1.0.0",
+  "summary": "Kox - A simple code management tool for version control",
+  "author": "Kox Team",
+  "license": null,
+  "home_page": "https://github.com/decrule/kox",
+  "download_filename": "kox-1.0.0.tar.gz",
+  "download_time": "2026-01-24T09:55:33.509236",
+  "package_url": "https://pypi.org/project/kox/"
+}

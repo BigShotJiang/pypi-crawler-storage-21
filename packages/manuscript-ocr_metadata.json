@@ -1,0 +1,11 @@
+{
+  "name": "manuscript-ocr",
+  "version": "0.1.10",
+  "summary": "Detects and recognizes text in historical, archival and handwritten documents. Optimized for fast inference with ONNX Runtime (CPU/GPU/CoreML) and optional training with PyTorch. Supports plugging custom models via a simple API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "manuscript_ocr-0.1.10.tar.gz",
+  "download_time": "2026-01-24T09:55:31.885124",
+  "package_url": "https://pypi.org/project/manuscript-ocr/"
+}
