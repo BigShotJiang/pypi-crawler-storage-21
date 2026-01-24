@@ -1,0 +1,11 @@
+{
+  "name": "bitbound",
+  "version": "0.1.0",
+  "summary": "High-Level Embedded Python Library for declarative hardware programming",
+  "author": "BitBound Team",
+  "license": "MIT",
+  "home_page": "https://github.com/bitbound/bitbound",
+  "download_filename": "bitbound-0.1.0.tar.gz",
+  "download_time": "2026-01-24T05:25:24.187349",
+  "package_url": "https://pypi.org/project/bitbound/"
+}

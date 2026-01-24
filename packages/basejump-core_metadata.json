@@ -1,11 +1,11 @@
 {
   "name": "basejump-core",
-  "version": "0.32.2",
+  "version": "0.32.3",
   "summary": "AI data agents to chat with your data",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "basejump_core-0.32.2.tar.gz",
-  "download_time": "2026-01-23T05:46:55.599591",
+  "download_filename": "basejump_core-0.32.3.tar.gz",
+  "download_time": "2026-01-24T05:25:33.537514",
   "package_url": "https://pypi.org/project/basejump-core/"
 }

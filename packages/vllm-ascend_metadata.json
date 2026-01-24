@@ -1,0 +1,11 @@
+{
+  "name": "vllm-ascend",
+  "version": "0.11.0",
+  "summary": "vLLM Ascend backend plugin",
+  "author": "vLLM-Ascend team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/vllm-project/vllm-ascend",
+  "download_filename": "vllm_ascend-0.11.0.tar.gz",
+  "download_time": "2026-01-24T05:25:29.130911",
+  "package_url": "https://pypi.org/project/vllm-ascend/"
+}

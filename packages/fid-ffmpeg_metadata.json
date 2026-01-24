@@ -1,11 +1,11 @@
 {
   "name": "fid-ffmpeg",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "summary": "based ffmpeg CLI for video operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fid_ffmpeg-0.3.9.tar.gz",
-  "download_time": "2026-01-24T04:51:01.502994",
+  "download_filename": "fid_ffmpeg-0.4.0.tar.gz",
+  "download_time": "2026-01-24T05:25:30.203765",
   "package_url": "https://pypi.org/project/fid-ffmpeg/"
 }

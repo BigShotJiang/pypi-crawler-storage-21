@@ -1,0 +1,11 @@
+{
+  "name": "lsap-sdk",
+  "version": "0.2.0",
+  "summary": "Language Server Agent Protocol (LSAP) SDK - Transforms low-level LSP into high-level cognitive tools for agents",
+  "author": "observerw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsap_sdk-0.2.0.tar.gz",
+  "download_time": "2026-01-24T05:25:05.631409",
+  "package_url": "https://pypi.org/project/lsap-sdk/"
+}

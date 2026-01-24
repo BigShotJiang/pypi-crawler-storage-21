@@ -1,11 +1,11 @@
 {
   "name": "ecallistolib",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Tools to download, read, process, and plot e-CALLISTO FITS dynamic spectra.",
   "author": "Sahan S. Liyanage",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ecallistolib-0.2.1.tar.gz",
-  "download_time": "2026-01-23T17:41:26.609003",
+  "download_filename": "ecallistolib-0.2.2.tar.gz",
+  "download_time": "2026-01-24T05:25:19.600342",
   "package_url": "https://pypi.org/project/ecallistolib/"
 }

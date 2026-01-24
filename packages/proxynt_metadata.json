@@ -1,11 +1,11 @@
 {
   "name": "proxynt",
-  "version": "2.0.40",
+  "version": "2.0.45",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/sazima/proxynt",
-  "download_filename": "proxynt-2.0.40.tar.gz",
-  "download_time": "2026-01-21T13:48:13.921978",
+  "download_filename": "proxynt-2.0.45.tar.gz",
+  "download_time": "2026-01-24T05:25:06.163782",
   "package_url": "https://pypi.org/project/proxynt/"
 }

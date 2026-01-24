@@ -1,0 +1,11 @@
+{
+  "name": "pypoisson2",
+  "version": "1.0.0",
+  "summary": "Modern Python bindings for Poisson Surface Reconstruction (v18.74)",
+  "author": "Michael Kazhdan (Library), Adaptive Solvers (Bindings)",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/mkazhdan/PoissonRecon",
+  "download_filename": "pypoisson2-1.0.0.tar.gz",
+  "download_time": "2026-01-24T05:25:27.389305",
+  "package_url": "https://pypi.org/project/pypoisson2/"
+}

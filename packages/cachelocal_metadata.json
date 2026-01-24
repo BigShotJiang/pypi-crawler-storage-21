@@ -1,0 +1,11 @@
+{
+  "name": "cachelocal",
+  "version": "0.2.0",
+  "summary": "Thread-safe in-process cache for Python with eviction policies and TTL",
+  "author": "Caleb Getahun",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cachelocal-0.2.0.tar.gz",
+  "download_time": "2026-01-24T05:25:04.422896",
+  "package_url": "https://pypi.org/project/cachelocal/"
+}
