@@ -1,0 +1,11 @@
+{
+  "name": "docksec",
+  "version": "2026.1.24",
+  "summary": "AI-Powered Docker Security Analyzer",
+  "author": "Advait Patel",
+  "license": null,
+  "home_page": "https://github.com/advaitpatel/DockSec",
+  "download_filename": "docksec-2026.1.24.tar.gz",
+  "download_time": "2026-01-24T23:43:38.093379",
+  "package_url": "https://pypi.org/project/docksec/"
+}

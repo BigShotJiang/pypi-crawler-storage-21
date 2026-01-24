@@ -1,11 +1,11 @@
 {
   "name": "comfyui-nuvu",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "summary": "www.nuvulabs.ai | Install missing models & custom nodes, production ready VFX & film subgraphs and workflows for secure offline generation, and dependency installations including SageAttention and Triton.",
   "author": "Nuvu Labs",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "comfyui_nuvu-1.0.47-cp39-abi3-win_amd64.whl",
-  "download_time": "2026-01-24T15:24:35.427426",
+  "download_filename": "comfyui_nuvu-1.0.48-cp39-abi3-win_amd64.whl",
+  "download_time": "2026-01-24T23:43:35.959951",
   "package_url": "https://pypi.org/project/comfyui-nuvu/"
 }

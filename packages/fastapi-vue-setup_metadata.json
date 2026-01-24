@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-vue-setup",
+  "version": "0.4.1",
+  "summary": "Tool to create or patch FastAPI+Vue projects with integrated build/dev systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_vue_setup-0.4.1.tar.gz",
+  "download_time": "2026-01-24T23:44:02.046902",
+  "package_url": "https://pypi.org/project/fastapi-vue-setup/"
+}

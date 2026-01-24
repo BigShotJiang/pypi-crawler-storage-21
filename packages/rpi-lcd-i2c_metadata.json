@@ -1,0 +1,11 @@
+{
+  "name": "rpi-lcd-i2c",
+  "version": "2.0.0",
+  "summary": "HD44780 I2C LCD driver for Raspberry Pi (Bookworm)",
+  "author": "Samarth Joneja",
+  "license": "MIT",
+  "home_page": "https://github.com/Sam67-coder/rpi-lcd-i2c",
+  "download_filename": "rpi_lcd_i2c-2.0.0.tar.gz",
+  "download_time": "2026-01-24T23:43:41.798208",
+  "package_url": "https://pypi.org/project/rpi-lcd-i2c/"
+}

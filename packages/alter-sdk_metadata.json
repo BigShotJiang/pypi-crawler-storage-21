@@ -1,0 +1,11 @@
+{
+  "name": "alter-sdk",
+  "version": "0.1.1",
+  "summary": "Alter Vault Python SDK - OAuth token management with policy enforcement",
+  "author": "Alter Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alter_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-24T23:43:44.438609",
+  "package_url": "https://pypi.org/project/alter-sdk/"
+}

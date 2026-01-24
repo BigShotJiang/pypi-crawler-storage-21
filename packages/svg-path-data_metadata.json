@@ -1,0 +1,11 @@
+{
+  "name": "svg-path-data",
+  "version": "0.7.1",
+  "summary": "Convert floats to svg-readable strings. Convert between svg path `d` strings and non-rational Bézier control points.",
+  "author": "Shay Hill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "svg_path_data-0.7.1.tar.gz",
+  "download_time": "2026-01-24T23:43:31.737064",
+  "package_url": "https://pypi.org/project/svg-path-data/"
+}

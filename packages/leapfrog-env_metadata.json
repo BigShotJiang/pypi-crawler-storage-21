@@ -1,0 +1,11 @@
+{
+  "name": "leapfrog-env",
+  "version": "1.1.0",
+  "summary": "🐸 Leap between development environments with ease",
+  "author": "Yammers",
+  "license": null,
+  "home_page": "https://github.com/creepymarshmallow117/leapfrog",
+  "download_filename": "leapfrog_env-1.1.0.tar.gz",
+  "download_time": "2026-01-24T23:43:51.923322",
+  "package_url": "https://pypi.org/project/leapfrog-env/"
+}

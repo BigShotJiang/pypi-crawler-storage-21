@@ -1,0 +1,11 @@
+{
+  "name": "devaiflow",
+  "version": "1.0.1",
+  "summary": "DevAIFlow - Manage AI coding assistant sessions with optional issue tracker integration",
+  "author": "Dominique Vernier",
+  "license": null,
+  "home_page": "https://github.com/itdove/devaiflow",
+  "download_filename": "devaiflow-1.0.1.tar.gz",
+  "download_time": "2026-01-24T23:43:27.037185",
+  "package_url": "https://pypi.org/project/devaiflow/"
+}

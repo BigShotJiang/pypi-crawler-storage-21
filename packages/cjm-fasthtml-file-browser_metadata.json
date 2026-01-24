@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-file-browser",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Interactive file system navigation and selection UI components for FastHTML applications with extensible provider support.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-file-browser",
-  "download_filename": "cjm_fasthtml_file_browser-0.0.3.tar.gz",
-  "download_time": "2026-01-24T21:21:36.841763",
+  "download_filename": "cjm_fasthtml_file_browser-0.0.4.tar.gz",
+  "download_time": "2026-01-24T23:44:03.099748",
   "package_url": "https://pypi.org/project/cjm-fasthtml-file-browser/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "microcode",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Minimal Terminal Agent powered by RLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microcode-0.1.7.tar.gz",
-  "download_time": "2026-01-24T11:20:46.809749",
+  "download_filename": "microcode-0.1.9.tar.gz",
+  "download_time": "2026-01-24T23:43:34.376406",
   "package_url": "https://pypi.org/project/microcode/"
 }

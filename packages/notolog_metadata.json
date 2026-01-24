@@ -1,0 +1,11 @@
+{
+  "name": "notolog",
+  "version": "1.1.8",
+  "summary": "Notolog - Python Markdown Editor",
+  "author": "Vadim Bakhrenkov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notolog-1.1.8.tar.gz",
+  "download_time": "2026-01-24T23:43:46.575443",
+  "package_url": "https://pypi.org/project/notolog/"
+}

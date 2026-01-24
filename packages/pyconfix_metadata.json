@@ -1,11 +1,11 @@
 {
   "name": "pyconfix",
-  "version": "0.10.3",
+  "version": "0.10.6",
   "summary": "A simple feature managment tool library",
   "author": "Nemesis",
   "license": "MIT",
   "home_page": "https://github.com/NemesisWasAlienToo/pyconfix",
-  "download_filename": "pyconfix-0.10.3.tar.gz",
-  "download_time": "2026-01-24T22:47:05.190604",
+  "download_filename": "pyconfix-0.10.6.tar.gz",
+  "download_time": "2026-01-24T23:43:33.339089",
   "package_url": "https://pypi.org/project/pyconfix/"
 }

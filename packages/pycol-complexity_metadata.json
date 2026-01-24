@@ -1,11 +1,11 @@
 {
   "name": "pycol-complexity",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python Package for complexity measures",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycol_complexity-1.0.2.tar.gz",
-  "download_time": "2026-01-22T17:48:25.623012",
+  "download_filename": "pycol_complexity-1.0.3.tar.gz",
+  "download_time": "2026-01-24T23:43:32.818536",
   "package_url": "https://pypi.org/project/pycol-complexity/"
 }
