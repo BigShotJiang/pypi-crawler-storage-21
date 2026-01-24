@@ -1,0 +1,11 @@
+{
+  "name": "carconnectivity-plugin-homekit",
+  "version": "0.7.5",
+  "summary": "CarConnectivity plugin for integrating the cars data into the Apple Home ecosystem",
+  "author": "Till Steinbach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "carconnectivity_plugin_homekit-0.7.5.tar.gz",
+  "download_time": "2026-01-24T20:45:31.318553",
+  "package_url": "https://pypi.org/project/carconnectivity-plugin-homekit/"
+}

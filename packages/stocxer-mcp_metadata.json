@@ -1,0 +1,11 @@
+{
+  "name": "stocxer-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for Stocxer AI Trading Platform - Connect your trading account to AI assistants",
+  "author": "Stocxer AI",
+  "license": null,
+  "home_page": "https://github.com/fdscoop/stocxer-mcp",
+  "download_filename": "stocxer_mcp-1.0.0.tar.gz",
+  "download_time": "2026-01-24T20:45:32.859662",
+  "package_url": "https://pypi.org/project/stocxer-mcp/"
+}

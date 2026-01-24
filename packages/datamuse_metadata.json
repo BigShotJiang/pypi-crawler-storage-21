@@ -1,11 +1,11 @@
 {
   "name": "datamuse",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "datamuse is a simple wrapper around the datamuse api https://www.datamuse.com/api/",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datamuse-0.2.0.tar.gz",
-  "download_time": "2026-01-24T20:25:31.673215",
+  "download_filename": "datamuse-0.2.1.tar.gz",
+  "download_time": "2026-01-24T20:45:29.226544",
   "package_url": "https://pypi.org/project/datamuse/"
 }

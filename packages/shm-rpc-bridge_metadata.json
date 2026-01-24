@@ -1,11 +1,11 @@
 {
   "name": "shm-rpc-bridge",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "RPC bridge using shared memory IPC",
   "author": "Nuno Oliveira",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shm_rpc_bridge-0.2.0.tar.gz",
-  "download_time": "2026-01-22T20:31:04.242068",
+  "download_filename": "shm_rpc_bridge-0.2.2.tar.gz",
+  "download_time": "2026-01-24T20:45:38.146580",
   "package_url": "https://pypi.org/project/shm-rpc-bridge/"
 }
