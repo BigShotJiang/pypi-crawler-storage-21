@@ -1,11 +1,11 @@
 {
   "name": "ipymini",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A small, readable, Python-only Jupyter kernel with strong IPython parity.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ipymini-0.1.1.tar.gz",
-  "download_time": "2026-01-24T08:31:36.545723",
+  "download_filename": "ipymini-0.1.3.tar.gz",
+  "download_time": "2026-01-24T09:24:09.905625",
   "package_url": "https://pypi.org/project/ipymini/"
 }

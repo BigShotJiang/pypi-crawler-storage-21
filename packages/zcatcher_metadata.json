@@ -1,11 +1,11 @@
 {
   "name": "zcatcher",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Simple CLI to catch sleep, view stats, and export data",
   "author": "Sleeptracker Maintainer",
   "license": null,
   "home_page": null,
-  "download_filename": "zcatcher-0.3.0.tar.gz",
-  "download_time": "2026-01-24T08:54:18.961291",
+  "download_filename": "zcatcher-0.3.1.tar.gz",
+  "download_time": "2026-01-24T09:24:28.645527",
   "package_url": "https://pypi.org/project/zcatcher/"
 }

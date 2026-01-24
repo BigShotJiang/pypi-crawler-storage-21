@@ -1,11 +1,11 @@
 {
   "name": "knoxscript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "knoxscript-0.1.0.tar.gz",
-  "download_time": "2026-01-24T08:54:21.896607",
+  "download_filename": "knoxscript-0.1.1.tar.gz",
+  "download_time": "2026-01-24T09:24:26.604406",
   "package_url": "https://pypi.org/project/knoxscript/"
 }

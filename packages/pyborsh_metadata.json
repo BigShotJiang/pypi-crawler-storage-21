@@ -1,0 +1,11 @@
+{
+  "name": "pyborsh",
+  "version": "1.0.1",
+  "summary": "Pydantic-native Borsh serialization for Python",
+  "author": "Ricky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyborsh-1.0.1.tar.gz",
+  "download_time": "2026-01-24T09:24:04.180691",
+  "package_url": "https://pypi.org/project/pyborsh/"
+}

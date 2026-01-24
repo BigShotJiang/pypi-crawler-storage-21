@@ -1,11 +1,11 @@
 {
   "name": "pych9329-hid",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "PyCH9329-HID is a high-level Python package for CH9329 HID chip, designed to provide seamless, OS-independent peripheral control via serial communication.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pych9329_hid-0.1.6.tar.gz",
-  "download_time": "2026-01-23T01:59:59.392969",
+  "download_filename": "pych9329_hid-0.1.7.tar.gz",
+  "download_time": "2026-01-24T09:24:06.745903",
   "package_url": "https://pypi.org/project/pych9329-hid/"
 }
