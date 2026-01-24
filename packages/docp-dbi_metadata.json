@@ -1,0 +1,11 @@
+{
+  "name": "docp-dbi",
+  "version": "1.0.0",
+  "summary": "A basic document parsing utility. (Database Interface)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docp_dbi-1.0.0.tar.gz",
+  "download_time": "2026-01-24T19:00:36.998268",
+  "package_url": "https://pypi.org/project/docp-dbi/"
+}

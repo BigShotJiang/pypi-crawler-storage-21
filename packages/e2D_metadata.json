@@ -1,11 +1,11 @@
 {
   "name": "e2D",
-  "version": "1.4.24",
-  "summary": "Python library for 2D games. Streamlines dev with keyboard/mouse input, vector calculations, color manipulation, and collision detection. Simplify game creation and unleash creativity!",
+  "version": "2.0.0",
+  "summary": "High-performance 2D graphics and math library with ultra-optimized vector operations",
   "author": "Riccardo Mariani",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/marick-py/e2D",
-  "download_filename": "e2d-1.4.24.tar.gz",
-  "download_time": "2026-01-24T17:44:33.684785",
+  "download_filename": "e2d-2.0.0.tar.gz",
+  "download_time": "2026-01-24T19:00:08.509873",
   "package_url": "https://pypi.org/project/e2D/"
 }

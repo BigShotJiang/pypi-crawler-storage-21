@@ -1,11 +1,11 @@
 {
   "name": "caicurator",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Curate and display Character AI web browser history",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "caicurator-0.1.0.tar.gz",
-  "download_time": "2026-01-24T17:44:39.651266",
+  "download_filename": "caicurator-0.3.0.tar.gz",
+  "download_time": "2026-01-24T19:00:28.163147",
   "package_url": "https://pypi.org/project/caicurator/"
 }

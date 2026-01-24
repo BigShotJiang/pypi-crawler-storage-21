@@ -1,0 +1,11 @@
+{
+  "name": "logweave",
+  "version": "1.0.0",
+  "summary": "Enterprise-grade logging framework for Python services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logweave-1.0.0.tar.gz",
+  "download_time": "2026-01-24T18:59:51.992503",
+  "package_url": "https://pypi.org/project/logweave/"
+}

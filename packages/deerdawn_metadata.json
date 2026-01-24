@@ -1,0 +1,11 @@
+{
+  "name": "deerdawn",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for DeerDawn - AI governance and decision control platform",
+  "author": "DeerDawn",
+  "license": null,
+  "home_page": "https://github.com/deerdawn/deerdawn-sdk-python",
+  "download_filename": "deerdawn-1.0.0.tar.gz",
+  "download_time": "2026-01-24T18:59:52.507070",
+  "package_url": "https://pypi.org/project/deerdawn/"
+}

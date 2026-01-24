@@ -1,11 +1,11 @@
 {
   "name": "TerminalVideoPlayer",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "summary": "A TUI video player.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terminalvideoplayer-0.0.3.tar.gz",
-  "download_time": "2026-01-23T23:56:52.188442",
+  "download_filename": "terminalvideoplayer-1.0.0.tar.gz",
+  "download_time": "2026-01-24T19:00:05.300589",
   "package_url": "https://pypi.org/project/TerminalVideoPlayer/"
 }
