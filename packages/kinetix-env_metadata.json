@@ -1,0 +1,11 @@
+{
+  "name": "kinetix-env",
+  "version": "2.0.4",
+  "summary": "An open-ended space of 2D physics-based RL environments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kinetix_env-2.0.4.tar.gz",
+  "download_time": "2026-01-24T12:44:28.145654",
+  "package_url": "https://pypi.org/project/kinetix-env/"
+}

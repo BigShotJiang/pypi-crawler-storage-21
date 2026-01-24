@@ -1,0 +1,11 @@
+{
+  "name": "rich",
+  "version": "14.3.0",
+  "summary": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal",
+  "author": "Will McGugan",
+  "license": "MIT",
+  "home_page": "https://github.com/Textualize/rich",
+  "download_filename": "rich-14.3.0.tar.gz",
+  "download_time": "2026-01-24T12:44:32.348456",
+  "package_url": "https://pypi.org/project/rich/"
+}

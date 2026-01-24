@@ -1,0 +1,11 @@
+{
+  "name": "gewechat-client",
+  "version": "0.2.2",
+  "summary": "A package for interacting with the Gewechat API",
+  "author": "hanfangyuan",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/hanfangyuan4396/gewechat-python",
+  "download_filename": "gewechat_client-0.2.2.tar.gz",
+  "download_time": "2026-01-24T12:44:15.142327",
+  "package_url": "https://pypi.org/project/gewechat-client/"
+}
