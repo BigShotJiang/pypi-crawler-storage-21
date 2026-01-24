@@ -1,0 +1,11 @@
+{
+  "name": "meteolib",
+  "version": "0.16.21",
+  "summary": "Python standard functions for meteorology.",
+  "author": "Clemens Drüe",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "meteolib-0.16.21.tar.gz",
+  "download_time": "2026-01-24T11:41:44.638490",
+  "package_url": "https://pypi.org/project/meteolib/"
+}

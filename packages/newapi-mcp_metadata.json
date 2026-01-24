@@ -1,0 +1,11 @@
+{
+  "name": "newapi-mcp",
+  "version": "0.1.0",
+  "summary": "New API MCP - Model Context Protocol implementation",
+  "author": "BegoniaHe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "newapi_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-24T11:41:30.583569",
+  "package_url": "https://pypi.org/project/newapi-mcp/"
+}

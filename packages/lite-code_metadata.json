@@ -1,0 +1,11 @@
+{
+  "name": "lite-code",
+  "version": "0.1.0",
+  "summary": "AI-powered code refactoring assistant with interactive CLI",
+  "author": "Lite Code Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lite_code-0.1.0.tar.gz",
+  "download_time": "2026-01-24T11:41:36.866523",
+  "package_url": "https://pypi.org/project/lite-code/"
+}
