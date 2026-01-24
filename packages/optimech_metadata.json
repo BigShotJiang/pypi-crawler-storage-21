@@ -1,0 +1,11 @@
+{
+  "name": "optimech",
+  "version": "0.1.2",
+  "summary": "Video-based analysis tools for tensile tests and 3D-printed body displacement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optimech-0.1.2.tar.gz",
+  "download_time": "2026-01-24T14:22:26.933773",
+  "package_url": "https://pypi.org/project/optimech/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fuo-netease",
+  "version": "1.0.7",
+  "summary": "feeluown netease plugin",
+  "author": "Cosven",
+  "license": null,
+  "home_page": "https://github.com/feeluown/feeluown-netease",
+  "download_filename": "fuo_netease-1.0.7.tar.gz",
+  "download_time": "2026-01-24T14:22:40.527015",
+  "package_url": "https://pypi.org/project/fuo-netease/"
+}

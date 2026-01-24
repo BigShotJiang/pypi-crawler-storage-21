@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-print-category",
+  "version": "18.0.1.0.1",
+  "summary": "Define print categories for products and automate products print, when data has changed",
+  "author": "GRAP, La Louve, Coop IT Easy SC, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_product_print_category-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-01-24T14:22:11.733576",
+  "package_url": "https://pypi.org/project/odoo-addon-product-print-category/"
+}

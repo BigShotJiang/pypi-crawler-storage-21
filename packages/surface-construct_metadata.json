@@ -1,0 +1,11 @@
+{
+  "name": "surface-construct",
+  "version": "0.12",
+  "summary": "Surface construction and surface reaction sampling tools.",
+  "author": "ren",
+  "license": "GPL",
+  "home_page": "https://gitee.com/pjren/surface_construct/",
+  "download_filename": "surface_construct-0.12.tar.gz",
+  "download_time": "2026-01-24T14:22:14.900845",
+  "package_url": "https://pypi.org/project/surface-construct/"
+}

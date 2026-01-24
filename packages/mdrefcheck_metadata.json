@@ -1,0 +1,11 @@
+{
+  "name": "mdrefcheck",
+  "version": "0.2.1",
+  "summary": "A CLI tool to validate references in markdown files.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/gospodima/mdrefcheck",
+  "download_filename": "mdrefcheck-0.2.1.tar.gz",
+  "download_time": "2026-01-24T14:22:45.352644",
+  "package_url": "https://pypi.org/project/mdrefcheck/"
+}

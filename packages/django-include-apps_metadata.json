@@ -1,0 +1,11 @@
+{
+  "name": "django-include-apps",
+  "version": "1.0.0",
+  "summary": "Intelligent CLI tool to manage Django INSTALLED_APPS with smart package mapping and requirements.txt management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_include_apps-1.0.0.tar.gz",
+  "download_time": "2026-01-24T14:22:21.176071",
+  "package_url": "https://pypi.org/project/django-include-apps/"
+}

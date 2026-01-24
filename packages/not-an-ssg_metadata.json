@@ -1,11 +1,11 @@
 {
   "name": "not-an-ssg",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": null,
   "author": "Mebin",
   "license": null,
   "home_page": "https://github.com/mebinthattil/Not-An-SSG",
-  "download_filename": "not_an_ssg-2.1.0.tar.gz",
-  "download_time": "2026-01-24T13:49:58.016518",
+  "download_filename": "not_an_ssg-2.2.0.tar.gz",
+  "download_time": "2026-01-24T14:22:42.636061",
   "package_url": "https://pypi.org/project/not-an-ssg/"
 }

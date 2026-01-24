@@ -1,0 +1,11 @@
+{
+  "name": "deckr",
+  "version": "0.0.0",
+  "summary": "A Pyodide-based library for controlling multiple 'dock' devices",
+  "author": "Kaj Siebert",
+  "license": "MIT",
+  "home_page": "https://github.com/kws/deckr.git",
+  "download_filename": "deckr-0.0.0.tar.gz",
+  "download_time": "2026-01-24T14:22:22.743338",
+  "package_url": "https://pypi.org/project/deckr/"
+}

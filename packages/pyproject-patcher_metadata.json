@@ -1,0 +1,11 @@
+{
+  "name": "pyproject-patcher",
+  "version": "0.3.0",
+  "summary": "Collection of convenience functions to patch `pyproject.toml` in place",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyproject_patcher-0.3.0.tar.gz",
+  "download_time": "2026-01-24T14:22:32.689681",
+  "package_url": "https://pypi.org/project/pyproject-patcher/"
+}
