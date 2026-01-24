@@ -1,13 +1,8 @@
 {
-  "download_time": "2026-01-24T23:44:08.233231",
-  "total_packages_downloaded": 86,
-  "total_size_mb": 41.47,
+  "download_time": "2026-01-24T23:55:22.533140",
+  "total_packages_downloaded": 87,
+  "total_size_mb": 1.18,
   "packages": [
-    "diffmanifests",
-    "amsdal",
-    "red-reddit-cli",
-    "uipath",
-    "insa-its",
     "archicore",
     "cadurso",
     "fastapi-factory-utilities",
@@ -20,6 +15,7 @@
     "dredd-core",
     "dj-angles",
     "dbt-metamodels",
+    "diffmanifests",
     "vlm-engine",
     "investorzilla",
     "svg-path-data",
@@ -88,6 +84,11 @@
     "backtrader-next",
     "hcom",
     "dummy-anndata",
-    "janus-labs"
+    "janus-labs",
+    "env-canada",
+    "pycti",
+    "lucidshark",
+    "oxarchive",
+    "z3smt-mcp"
   ]
 }

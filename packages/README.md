@@ -1,16 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-24T23:44:08.233231
-- **Total Packages**: 86
-- **Total Size**: 41.47 MB
+- **Download Time**: 2026-01-24T23:55:22.533140
+- **Total Packages**: 87
+- **Total Size**: 1.18 MB
 
 ## Packages List
-- diffmanifests
-- amsdal
-- red-reddit-cli
-- uipath
-- insa-its
 - archicore
 - cadurso
 - fastapi-factory-utilities
@@ -23,6 +18,7 @@
 - dredd-core
 - dj-angles
 - dbt-metamodels
+- diffmanifests
 - vlm-engine
 - investorzilla
 - svg-path-data
@@ -92,3 +88,8 @@
 - hcom
 - dummy-anndata
 - janus-labs
+- env-canada
+- pycti
+- lucidshark
+- oxarchive
+- z3smt-mcp
