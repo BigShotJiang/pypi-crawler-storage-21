@@ -1,11 +1,11 @@
 {
   "name": "mcp-stata",
-  "version": "1.21.0",
+  "version": "1.22.0",
   "summary": "A lightweight Model Context Protocol (MCP) server for Stata. Execute commands, inspect data, retrieve stored results (`r()`/`e()`), and view graphs in your chat interface. Built for economists who want to integrate LLM assistance into their Stata workflow. ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_stata-1.21.0.tar.gz",
-  "download_time": "2026-01-24T11:21:02.908213",
+  "download_filename": "mcp_stata-1.22.0.tar.gz",
+  "download_time": "2026-01-24T16:28:34.285294",
   "package_url": "https://pypi.org/project/mcp-stata/"
 }

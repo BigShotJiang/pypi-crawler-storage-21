@@ -1,0 +1,11 @@
+{
+  "name": "genboostgpu",
+  "version": "0.3.0",
+  "summary": "GENBoostGPU provides a scalable framework for running elastic net regression with boosting across thousands of CpG sites, leveraging GPU acceleration with RAPIDS cuML, CuPy, and cuDF.",
+  "author": "Kynon J Benjamin",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "genboostgpu-0.3.0.tar.gz",
+  "download_time": "2026-01-24T16:28:18.117782",
+  "package_url": "https://pypi.org/project/genboostgpu/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-cache-url",
+  "version": "3.4.6",
+  "summary": "Use Cache URLs in your Django application.",
+  "author": "Brent O'Connor",
+  "license": "MIT",
+  "home_page": "https://github.com/epicserve/django-cache-url",
+  "download_filename": "django_cache_url-3.4.6.tar.gz",
+  "download_time": "2026-01-24T16:28:17.604423",
+  "package_url": "https://pypi.org/project/django-cache-url/"
+}

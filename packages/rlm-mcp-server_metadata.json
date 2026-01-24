@@ -1,0 +1,11 @@
+{
+  "name": "rlm-mcp-server",
+  "version": "1.7.0",
+  "summary": "Hosted MCP server for RLM SaaS - Context-efficient documentation queries",
+  "author": "RLM SaaS Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rlm_mcp_server-1.7.0.tar.gz",
+  "download_time": "2026-01-24T16:28:38.965879",
+  "package_url": "https://pypi.org/project/rlm-mcp-server/"
+}

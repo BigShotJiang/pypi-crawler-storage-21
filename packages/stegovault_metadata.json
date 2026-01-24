@@ -1,0 +1,11 @@
+{
+  "name": "stegovault",
+  "version": "2.0.0",
+  "summary": "Advanced Steganography & Encryption Toolkit - Hide secrets inside images with military-grade encryption",
+  "author": "StegoVault Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/StegoVault",
+  "download_filename": "stegovault-2.0.0.tar.gz",
+  "download_time": "2026-01-24T16:28:12.879684",
+  "package_url": "https://pypi.org/project/stegovault/"
+}
