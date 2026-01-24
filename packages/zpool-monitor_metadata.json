@@ -1,0 +1,11 @@
+{
+  "name": "zpool-monitor",
+  "version": "0.0.4",
+  "summary": "ZPool Status Monitor - A 'pretty' replacement for the 'zpool status' command",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zpool_monitor-0.0.4.tar.gz",
+  "download_time": "2026-01-24T10:47:54.327561",
+  "package_url": "https://pypi.org/project/zpool-monitor/"
+}

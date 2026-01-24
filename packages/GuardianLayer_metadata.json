@@ -1,11 +1,11 @@
 {
   "name": "GuardianLayer",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Meta-cognition layer for AI agents - prevents infinite loops, learns from failures, provides self-awareness",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "guardianlayer-2.0.4.tar.gz",
-  "download_time": "2026-01-22T22:25:50.435523",
+  "download_filename": "guardianlayer-2.0.5.tar.gz",
+  "download_time": "2026-01-24T10:47:27.382567",
   "package_url": "https://pypi.org/project/GuardianLayer/"
 }

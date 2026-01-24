@@ -1,0 +1,11 @@
+{
+  "name": "naas-abi-cli",
+  "version": "1.5.0",
+  "summary": "Abi cli allowing you to build your AI system.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "naas_abi_cli-1.5.0.tar.gz",
+  "download_time": "2026-01-24T10:47:25.321976",
+  "package_url": "https://pypi.org/project/naas-abi-cli/"
+}
