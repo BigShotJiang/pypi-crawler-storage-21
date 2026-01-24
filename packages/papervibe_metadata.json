@@ -1,0 +1,11 @@
+{
+  "name": "papervibe",
+  "version": "0.1.0a1",
+  "summary": "Tool to download arXiv papers, rewrite abstracts, and highlight important content",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "papervibe-0.1.0a1.tar.gz",
+  "download_time": "2026-01-24T08:31:33.539083",
+  "package_url": "https://pypi.org/project/papervibe/"
+}

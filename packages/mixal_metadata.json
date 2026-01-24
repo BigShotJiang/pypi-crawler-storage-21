@@ -1,0 +1,11 @@
+{
+  "name": "mixal",
+  "version": "2.2.0",
+  "summary": "A MIX assembly language emulator..",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mixal-2.2.0.tar.gz",
+  "download_time": "2026-01-24T08:31:38.938310",
+  "package_url": "https://pypi.org/project/mixal/"
+}

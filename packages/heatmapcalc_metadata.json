@@ -1,11 +1,11 @@
 {
   "name": "heatmapcalc",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "heatmapcalc-0.1.8.tar.gz",
-  "download_time": "2026-01-24T07:44:36.422902",
+  "download_filename": "heatmapcalc-0.1.9-cp311-cp311-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-01-24T08:31:35.370581",
   "package_url": "https://pypi.org/project/heatmapcalc/"
 }

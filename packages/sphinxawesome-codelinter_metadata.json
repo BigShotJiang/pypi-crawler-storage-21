@@ -1,0 +1,11 @@
+{
+  "name": "sphinxawesome-codelinter",
+  "version": "3.0.1",
+  "summary": "A Sphinx extension to expose code blocks to external tools for linting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxawesome_codelinter-3.0.1.tar.gz",
+  "download_time": "2026-01-24T08:31:39.513127",
+  "package_url": "https://pypi.org/project/sphinxawesome-codelinter/"
+}

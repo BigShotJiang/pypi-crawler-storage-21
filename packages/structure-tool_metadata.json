@@ -1,0 +1,11 @@
+{
+  "name": "structure-tool",
+  "version": "1.0.0",
+  "summary": "一个提供多个结构的Python项目",
+  "author": "yufeng6661666",
+  "license": null,
+  "home_page": "https://github.com/yufeng6661666/structure",
+  "download_filename": "structure_tool-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-24T08:31:42.417027",
+  "package_url": "https://pypi.org/project/structure-tool/"
+}

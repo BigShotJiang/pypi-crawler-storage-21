@@ -1,0 +1,11 @@
+{
+  "name": "copium-autopatch",
+  "version": "0.1.1",
+  "summary": "Make deepcopy go brrr.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copium_autopatch-0.1.1.tar.gz",
+  "download_time": "2026-01-24T08:31:25.908504",
+  "package_url": "https://pypi.org/project/copium-autopatch/"
+}

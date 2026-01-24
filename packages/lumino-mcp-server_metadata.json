@@ -1,0 +1,11 @@
+{
+  "name": "lumino-mcp-server",
+  "version": "0.9.0",
+  "summary": "Open source MCP Server for Kubernetes, OpenShift, and Tekton monitoring",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lumino_mcp_server-0.9.0.tar.gz",
+  "download_time": "2026-01-24T08:31:11.931630",
+  "package_url": "https://pypi.org/project/lumino-mcp-server/"
+}

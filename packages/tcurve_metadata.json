@@ -1,0 +1,11 @@
+{
+  "name": "tcurve",
+  "version": "0.1.2",
+  "summary": "A sleek tool that displays visually appealing progress bars and draws metric based curves in real-time.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcurve-0.1.2.tar.gz",
+  "download_time": "2026-01-24T08:31:24.215624",
+  "package_url": "https://pypi.org/project/tcurve/"
+}

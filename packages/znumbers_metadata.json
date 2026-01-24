@@ -1,0 +1,11 @@
+{
+  "name": "znumbers",
+  "version": "0.2.1",
+  "summary": "Z-numbers arithmetic library (Lotfi Zadeh’s Z-numbers, with 4 basic operations)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "znumbers-0.2.1.tar.gz",
+  "download_time": "2026-01-24T08:31:10.690583",
+  "package_url": "https://pypi.org/project/znumbers/"
+}
