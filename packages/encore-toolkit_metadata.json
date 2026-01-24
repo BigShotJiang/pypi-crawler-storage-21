@@ -1,0 +1,11 @@
+{
+  "name": "encore-toolkit",
+  "version": "2.0.0",
+  "summary": "GUI for Ensembles Comparison and Recognition",
+  "author": "Ricardo Velazquez Contreras",
+  "license": null,
+  "home_page": null,
+  "download_filename": "encore_toolkit-2.0.0.tar.gz",
+  "download_time": "2026-01-24T06:40:00.204167",
+  "package_url": "https://pypi.org/project/encore-toolkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cdk8s-awscdk-resolver",
-  "version": "0.0.461",
+  "version": "0.0.463",
   "summary": "@cdk8s/awscdk-resolver",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cdk8s-team/cdk8s-awscdk-resolver.git",
-  "download_filename": "cdk8s_awscdk_resolver-0.0.461.tar.gz",
-  "download_time": "2026-01-21T06:43:53.474904",
+  "download_filename": "cdk8s_awscdk_resolver-0.0.463.tar.gz",
+  "download_time": "2026-01-24T06:39:44.564966",
   "package_url": "https://pypi.org/project/cdk8s-awscdk-resolver/"
 }

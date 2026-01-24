@@ -1,11 +1,11 @@
 {
   "name": "adop-cli",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "CLI tool to trigger Azure DevOps pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adop_cli-0.1.4.tar.gz",
-  "download_time": "2026-01-24T05:57:43.749035",
+  "download_filename": "adop_cli-0.1.6.tar.gz",
+  "download_time": "2026-01-24T06:39:37.271013",
   "package_url": "https://pypi.org/project/adop-cli/"
 }

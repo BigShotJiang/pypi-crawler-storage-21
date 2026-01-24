@@ -1,11 +1,11 @@
 {
   "name": "xfloor-memory-sdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Floor Memory",
   "author": "Ipomo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xfloor_memory_sdk-1.0.3.tar.gz",
-  "download_time": "2026-01-22T05:30:42.044183",
+  "download_filename": "xfloor_memory_sdk-1.0.4.tar.gz",
+  "download_time": "2026-01-24T06:39:53.616147",
   "package_url": "https://pypi.org/project/xfloor-memory-sdk/"
 }
