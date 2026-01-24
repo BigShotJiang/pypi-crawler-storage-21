@@ -1,12 +1,8 @@
 {
-  "download_time": "2026-01-24T06:40:11.942382",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 24.5,
+  "download_time": "2026-01-24T07:02:00.115750",
+  "total_packages_downloaded": 78,
+  "total_size_mb": 0.41,
   "packages": [
-    "onnx2tf",
-    "origami-ml",
-    "endee",
-    "praisonaiagents",
     "fit-file-faker",
     "soorma-core",
     "ffseval",
@@ -79,6 +75,11 @@
     "github-backup",
     "ncti-cad",
     "cryospax",
-    "raysurfer"
+    "raysurfer",
+    "l0n0lc",
+    "ado-git-repo-insights",
+    "skilz",
+    "onnx2tf",
+    "wisent"
   ]
 }
