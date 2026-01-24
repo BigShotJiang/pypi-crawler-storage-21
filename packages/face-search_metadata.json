@@ -1,0 +1,11 @@
+{
+  "name": "face-search",
+  "version": "0.2.0",
+  "summary": "AI-powered face search for photo libraries",
+  "author": "Emin Genç",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "face_search-0.2.0.tar.gz",
+  "download_time": "2026-01-24T18:33:45.382613",
+  "package_url": "https://pypi.org/project/face-search/"
+}

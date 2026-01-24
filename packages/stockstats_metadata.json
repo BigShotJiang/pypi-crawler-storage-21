@@ -1,0 +1,11 @@
+{
+  "name": "stockstats",
+  "version": "0.6.6",
+  "summary": "DataFrame with inline stock statistics support.",
+  "author": "Cedric Zhuang",
+  "license": "BSD",
+  "home_page": "https://github.com/jealous/stockstats",
+  "download_filename": "stockstats-0.6.6.tar.gz",
+  "download_time": "2026-01-24T18:33:59.977620",
+  "package_url": "https://pypi.org/project/stockstats/"
+}

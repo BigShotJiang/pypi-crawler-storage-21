@@ -1,0 +1,11 @@
+{
+  "name": "graphein",
+  "version": "1.7.8",
+  "summary": "Protein & Interactomic Graph Construction for Machine Learning",
+  "author": "Arian Jamasb",
+  "license": "MIT",
+  "home_page": "https://github.com/a-r-j/graphein",
+  "download_filename": "graphein-1.7.8.tar.gz",
+  "download_time": "2026-01-24T18:33:53.024852",
+  "package_url": "https://pypi.org/project/graphein/"
+}
