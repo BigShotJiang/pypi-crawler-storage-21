@@ -1,0 +1,11 @@
+{
+  "name": "commandly",
+  "version": "0.1",
+  "summary": "A command line utility package",
+  "author": "Pulkit Bansal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "commandly-0.1.tar.gz",
+  "download_time": "2026-01-25T08:31:57.772462",
+  "package_url": "https://pypi.org/project/commandly/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bloqzapi",
+  "version": "1.1.0",
+  "summary": "Bloqz Intent API SDK - Convert financial intent from natural language into deterministic execution plans",
+  "author": null,
+  "license": "UNLICENSED",
+  "home_page": null,
+  "download_filename": "bloqzapi-1.1.0.tar.gz",
+  "download_time": "2026-01-25T08:32:18.550435",
+  "package_url": "https://pypi.org/project/bloqzapi/"
+}

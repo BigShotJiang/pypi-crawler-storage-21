@@ -1,11 +1,11 @@
 {
   "name": "snipara-mcp",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "summary": "MCP server for Snipara - Context optimization and Agent infrastructure for LLMs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snipara_mcp-1.8.1.tar.gz",
-  "download_time": "2026-01-25T05:34:49.765791",
+  "download_filename": "snipara_mcp-1.9.0.tar.gz",
+  "download_time": "2026-01-25T08:31:51.397093",
   "package_url": "https://pypi.org/project/snipara-mcp/"
 }

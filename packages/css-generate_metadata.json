@@ -1,11 +1,11 @@
 {
   "name": "css-generate",
-  "version": "0.9942",
+  "version": "0.9943",
   "summary": "Low-vision stylesheet generator",
   "author": "Silas S. Brown",
   "license": "Apache 2",
   "home_page": "https://ssb22.user.srcf.net/css",
-  "download_filename": "css_generate-0.9942.tar.gz",
-  "download_time": "2026-01-21T17:55:56.707866",
+  "download_filename": "css_generate-0.9943.tar.gz",
+  "download_time": "2026-01-25T08:32:20.289112",
   "package_url": "https://pypi.org/project/css-generate/"
 }

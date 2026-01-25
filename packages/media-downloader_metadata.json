@@ -1,11 +1,11 @@
 {
   "name": "media-downloader",
-  "version": "2.1.23",
+  "version": "2.1.26",
   "summary": "Download audio/videos from the internet!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "media_downloader-2.1.23.tar.gz",
-  "download_time": "2026-01-21T05:53:19.776494",
+  "download_filename": "media_downloader-2.1.26.tar.gz",
+  "download_time": "2026-01-25T08:32:11.039609",
   "package_url": "https://pypi.org/project/media-downloader/"
 }

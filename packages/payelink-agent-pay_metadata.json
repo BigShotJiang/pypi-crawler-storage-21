@@ -1,0 +1,11 @@
+{
+  "name": "payelink-agent-pay",
+  "version": "0.1.0",
+  "summary": "Payment processing SDK for Payelink Agent",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "payelink_agent_pay-0.1.0.tar.gz",
+  "download_time": "2026-01-25T08:32:21.501872",
+  "package_url": "https://pypi.org/project/payelink-agent-pay/"
+}

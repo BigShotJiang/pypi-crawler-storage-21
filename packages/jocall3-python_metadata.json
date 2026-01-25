@@ -1,0 +1,11 @@
+{
+  "name": "jocall3-python",
+  "version": "0.0.3",
+  "summary": "The official Python library for the jocall3 API",
+  "author": "Jocall3",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jocall3_python-0.0.3.tar.gz",
+  "download_time": "2026-01-25T08:31:43.982735",
+  "package_url": "https://pypi.org/project/jocall3-python/"
+}

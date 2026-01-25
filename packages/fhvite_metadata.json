@@ -1,0 +1,11 @@
+{
+  "name": "fhvite",
+  "version": "0.0.1",
+  "summary": "Vite plugin for FastHTML/MonsterUI that automates installation & building",
+  "author": "Curtis Allan",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/fhvite",
+  "download_filename": "fhvite-0.0.1.tar.gz",
+  "download_time": "2026-01-25T08:31:59.500827",
+  "package_url": "https://pypi.org/project/fhvite/"
+}
