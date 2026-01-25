@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T15:24:44.047952
+- **Download Time**: 2026-01-25T15:46:41.473753
 - **Total Packages**: 84
-- **Total Size**: 32.17 MB
+- **Total Size**: 26.26 MB
 
 ## Packages List
+- janus-remote
+- ez-a-sync
+- img-phy-sim
+- python-gitlab-plus
+- uipath
+- mlx-lm
+- tklr-dgraham
+- cangjie-mcp
+- nofuture
+- memmap-replay-buffer
+- prisme
+- fcbyk-cli
+- django-blocklist
+- reflowfy
+- clm-core
+- vasprocar
+- mokit-tui
+- ssmd
+- chutes
+- fs-box-sync
+- nmk-vscode
+- cyclopts
+- comfy-env
+- tensora
+- reposort
+- bullet-trade
+- tt-exalens
+- interop-router
+- odoo-addon-l10n-br-base
+- odoo-addon-l10n-br-fiscal
+- odoo-addon-l10n-br-nfse
+- qwed-tax
+- finchvox
+- radboy
+- modbuslink
+- uipath-runtime
+- kladml
+- su_master_mind
+- physicar
+- ebook-reader-supertonic
+- easycode-infinite
+- AyugeSpiderTools
+- birdapp
+- mongo-schematic
+- grok-mcp
+- ps-proxy
+- fractal-toolkit
+- notion-cascade-insert
+- flowrra
 - pytest-testrail
 - area-jot
 - belljar
@@ -17,19 +66,16 @@
 - broccoli-ml
 - dumbmoney
 - aiohomematic
-- flowrra
 - loom-agent
 - wavekit
 - iqtoolkit-analyzer
 - keplar-api
 - gudupao-backend-frontend-demo
-- kladml
 - sais-pyobs
 - simple-repo-asyncsqla
 - moai-adk
 - ontos
 - py-invoices
-- clm-core
 - gq-sdk
 - vcspull
 - ppnotify
@@ -37,7 +83,6 @@
 - dbx-sql-runner
 - fishertools
 - advisor-cli
-- reposort
 - ichrome
 - omnibase_core
 - frogml
@@ -45,48 +90,3 @@
 - cachetools
 - nmk-workspace
 - kubectl-mcp-server
-- gakido
-- pySigma-backend-sqlite
-- irm-kmi-api
-- libvcs
-- code-puppy
-- algorhino-anemone
-- syrupy
-- grok-mcp
-- debugsnacks
-- dalf
-- ps-proxy
-- llama-index-workflows
-- chess-mcp-server
-- fraudcrawler
-- sentd
-- pioneergame
-- bw-essentials-core
-- SubTextHighlight
-- endoreg-db
-- messy-xlsx
-- caffee
-- evaluation-embedder
-- vllm-sr
-- janus-remote
-- endstone-easybackuper
-- GameBoxUtils
-- pytest-human
-- testgres
-- codexapi
-- memmap-replay-buffer
-- inferencesh
-- riotskillissue
-- uproot
-- backupctl
-- valanga
-- spforge
-- ezplog
-- django-imdb
-- music-assistant-models
-- shaping-network
-- cmping
-- radboy
-- robyn
-- pyg90alarm
-- marimo-flow

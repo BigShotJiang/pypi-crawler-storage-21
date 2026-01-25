@@ -1,11 +1,11 @@
 {
   "name": "django-blocklist",
-  "version": "3.2",
+  "version": "3.2.1",
   "summary": "A Django app that implements IP-based blocklisting.",
   "author": "Paul Bissex",
   "license": null,
   "home_page": "https://gitlab.com/paul_bissex/django-blocklist",
-  "download_filename": "django_blocklist-3.2.tar.gz",
-  "download_time": "2026-01-24T23:43:43.368680",
+  "download_filename": "django_blocklist-3.2.1.tar.gz",
+  "download_time": "2026-01-25T15:45:58.922069",
   "package_url": "https://pypi.org/project/django-blocklist/"
 }

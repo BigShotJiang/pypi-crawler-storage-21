@@ -1,0 +1,11 @@
+{
+  "name": "ebook-reader-supertonic",
+  "version": "1.1.0",
+  "summary": "A high-quality Flow-Matching based Text-to-Speech library using ONNX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ebook_reader_supertonic-1.1.0.tar.gz",
+  "download_time": "2026-01-25T15:46:14.604919",
+  "package_url": "https://pypi.org/project/ebook-reader-supertonic/"
+}

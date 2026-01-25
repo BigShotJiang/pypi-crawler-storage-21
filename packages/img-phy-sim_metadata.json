@@ -1,11 +1,11 @@
 {
   "name": "img-phy-sim",
-  "version": "0.8",
+  "version": "0.9",
   "summary": "Physical Simulations on Images.",
   "author": "Tobia Ippolito",
   "license": null,
   "home_page": "https://github.com/M-106/Image-Physics-Simulation",
-  "download_filename": "img_phy_sim-0.8.tar.gz",
-  "download_time": "2026-01-24T14:22:46.400145",
+  "download_filename": "img_phy_sim-0.9.tar.gz",
+  "download_time": "2026-01-25T15:45:53.074471",
   "package_url": "https://pypi.org/project/img-phy-sim/"
 }

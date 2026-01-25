@@ -1,0 +1,11 @@
+{
+  "name": "tensora",
+  "version": "0.5.0",
+  "summary": "Library for dense and sparse tensors built on the tensor algebra compiler",
+  "author": "David Hagen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensora-0.5.0.tar.gz",
+  "download_time": "2026-01-25T15:46:05.264700",
+  "package_url": "https://pypi.org/project/tensora/"
+}

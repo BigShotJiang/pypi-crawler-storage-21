@@ -1,11 +1,11 @@
 {
   "name": "reflowfy",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A horizontally scalable data movement and transformation framework",
   "author": "Reflowfy Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reflowfy-0.1.2.tar.gz",
-  "download_time": "2026-01-25T12:46:15.629597",
+  "download_filename": "reflowfy-0.1.5.tar.gz",
+  "download_time": "2026-01-25T15:45:59.533057",
   "package_url": "https://pypi.org/project/reflowfy/"
 }

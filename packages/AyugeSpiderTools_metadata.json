@@ -1,0 +1,11 @@
+{
+  "name": "AyugeSpiderTools",
+  "version": "3.14.0",
+  "summary": "scrapy 扩展库：用于扩展 Scrapy 功能来解放双手。",
+  "author": "ayuge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ayugespidertools-3.14.0.tar.gz",
+  "download_time": "2026-01-25T15:46:15.758365",
+  "package_url": "https://pypi.org/project/AyugeSpiderTools/"
+}
