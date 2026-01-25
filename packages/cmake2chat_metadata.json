@@ -1,0 +1,11 @@
+{
+  "name": "cmake2chat",
+  "version": "0.1.0a0",
+  "summary": "Scans your CMake project directory, builds a tree view of the codebase, and exports the tree view, the paths of all `CMakeLists.txt` files along with their contents to an OpenAI Chat Completions-compatible JSON.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmake2chat-0.1.0a0.tar.gz",
+  "download_time": "2026-01-25T17:22:50.499772",
+  "package_url": "https://pypi.org/project/cmake2chat/"
+}
