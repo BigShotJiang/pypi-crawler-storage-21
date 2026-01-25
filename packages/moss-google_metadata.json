@@ -1,0 +1,11 @@
+{
+  "name": "moss-google",
+  "version": "1.0.0",
+  "summary": "MOSS cryptographic signing integration for Google Gemini",
+  "author": null,
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "moss_google-1.0.0.tar.gz",
+  "download_time": "2026-01-25T20:48:54.610101",
+  "package_url": "https://pypi.org/project/moss-google/"
+}

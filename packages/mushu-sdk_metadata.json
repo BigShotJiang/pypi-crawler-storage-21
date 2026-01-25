@@ -1,0 +1,11 @@
+{
+  "name": "mushu-sdk",
+  "version": "0.1.1",
+  "summary": "Python types for Mushu API - auto-generated from OpenAPI specs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mushu_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-25T20:48:53.582937",
+  "package_url": "https://pypi.org/project/mushu-sdk/"
+}

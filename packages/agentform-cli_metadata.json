@@ -1,0 +1,11 @@
+{
+  "name": "agentform-cli",
+  "version": "0.0.811",
+  "summary": "CLI interface for Agentform",
+  "author": "Agentform Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentform_cli-0.0.811.tar.gz",
+  "download_time": "2026-01-25T20:49:10.818675",
+  "package_url": "https://pypi.org/project/agentform-cli/"
+}

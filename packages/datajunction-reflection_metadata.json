@@ -1,11 +1,11 @@
 {
   "name": "datajunction-reflection",
-  "version": "0.0.47",
+  "version": "0.0.48",
   "summary": "OSS Implementation of a DataJunction Reflection Service",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datajunction_reflection-0.0.47.tar.gz",
-  "download_time": "2026-01-24T20:45:45.377173",
+  "download_filename": "datajunction_reflection-0.0.48.tar.gz",
+  "download_time": "2026-01-25T20:49:21.846185",
   "package_url": "https://pypi.org/project/datajunction-reflection/"
 }

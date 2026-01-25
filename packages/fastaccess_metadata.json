@@ -1,0 +1,11 @@
+{
+  "name": "fastaccess",
+  "version": "0.2.1",
+  "summary": "Efficient random access to subsequences in large FASTA files",
+  "author": "Asaf Zorea",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastaccess-0.2.1.tar.gz",
+  "download_time": "2026-01-25T20:48:55.658614",
+  "package_url": "https://pypi.org/project/fastaccess/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "titangpt",
+  "version": "0.2.0",
+  "summary": "Official Python client for TitanGPT API",
+  "author": "TitanGPT",
+  "license": null,
+  "home_page": "https://github.com/TitanGPT/titangpt",
+  "download_filename": "titangpt-0.2.0.tar.gz",
+  "download_time": "2026-01-25T20:49:07.162682",
+  "package_url": "https://pypi.org/project/titangpt/"
+}

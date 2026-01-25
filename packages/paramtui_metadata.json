@@ -1,11 +1,11 @@
 {
   "name": "paramtui",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A modern terminal user interface for managing HPC clusters via SSH",
   "author": "Ayush Saxena",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "paramtui-0.1.1.tar.gz",
-  "download_time": "2026-01-25T20:28:32.961628",
+  "download_filename": "paramtui-0.1.2.tar.gz",
+  "download_time": "2026-01-25T20:49:04.027566",
   "package_url": "https://pypi.org/project/paramtui/"
 }

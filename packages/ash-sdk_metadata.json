@@ -1,11 +1,11 @@
 {
   "name": "ash-sdk",
-  "version": "2.3.2",
-  "summary": "ASH SDK for Python - Request integrity and anti-replay protection library",
+  "version": "2.3.3",
+  "summary": "ASH (Application Security Hash) - RFC 8785 compliant request integrity verification with server-signed seals, anti-replay protection, and zero client secrets",
   "author": "3maem",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ash_sdk-2.3.2.tar.gz",
-  "download_time": "2026-01-25T19:41:44.481982",
+  "download_filename": "ash_sdk-2.3.3.tar.gz",
+  "download_time": "2026-01-25T20:49:05.074409",
   "package_url": "https://pypi.org/project/ash-sdk/"
 }

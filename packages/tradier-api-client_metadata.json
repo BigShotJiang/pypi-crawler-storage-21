@@ -1,0 +1,11 @@
+{
+  "name": "tradier-api-client",
+  "version": "0.1.1",
+  "summary": "Tradier REST + Streaming API client",
+  "author": "Your Name",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "tradier_api_client-0.1.1.tar.gz",
+  "download_time": "2026-01-25T20:49:29.044608",
+  "package_url": "https://pypi.org/project/tradier-api-client/"
+}
