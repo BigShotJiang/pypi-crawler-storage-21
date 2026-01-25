@@ -1,11 +1,11 @@
 {
   "name": "cell-imaging-utils",
-  "version": "1.15.8",
+  "version": "1.16.0",
   "summary": null,
   "author": "Lion Ben Nedava",
   "license": "MIT",
   "home_page": "https://github.com/lionben89/BGU_cell_imaging_utils",
-  "download_filename": "cell_imaging_utils-1.15.8.tar.gz",
-  "download_time": "2026-01-25T11:21:03.141237",
+  "download_filename": "cell_imaging_utils-1.16.0.tar.gz",
+  "download_time": "2026-01-25T12:46:15.116034",
   "package_url": "https://pypi.org/project/cell-imaging-utils/"
 }

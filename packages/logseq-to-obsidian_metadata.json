@@ -1,0 +1,11 @@
+{
+  "name": "logseq-to-obsidian",
+  "version": "0.1.2",
+  "summary": "Convert a Logseq vault to Obsidian-friendly Markdown",
+  "author": "Georg Lutz",
+  "license": null,
+  "home_page": "https://github.com/sercxanto/logseq-to-obsidian",
+  "download_filename": "logseq_to_obsidian-0.1.2.tar.gz",
+  "download_time": "2026-01-25T12:46:30.675498",
+  "package_url": "https://pypi.org/project/logseq-to-obsidian/"
+}

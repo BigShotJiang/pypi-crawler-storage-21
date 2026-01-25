@@ -1,0 +1,11 @@
+{
+  "name": "codem",
+  "version": "0.26.2",
+  "summary": "A package for co-registering geospatial data",
+  "author": "Jesse Shanahan, Bahirah Adewunmi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codem-0.26.2.tar.gz",
+  "download_time": "2026-01-25T12:46:18.712894",
+  "package_url": "https://pypi.org/project/codem/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nuvu-scan",
-  "version": "1.2.1",
+  "version": "1.3.6",
   "summary": "Multi-Cloud Data Asset Control - CLI tool for discovering and analyzing cloud data infrastructure",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nuvu_scan-1.2.1.tar.gz",
-  "download_time": "2026-01-24T20:25:40.891064",
+  "download_filename": "nuvu_scan-1.3.6.tar.gz",
+  "download_time": "2026-01-25T12:46:17.689819",
   "package_url": "https://pypi.org/project/nuvu-scan/"
 }

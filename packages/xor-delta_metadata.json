@@ -1,0 +1,11 @@
+{
+  "name": "xor-delta",
+  "version": "1.0.0",
+  "summary": "Reversible adjacent XOR differencing transform algo",
+  "author": "DJ Stomp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xor_delta-1.0.0.tar.gz",
+  "download_time": "2026-01-25T12:46:11.483066",
+  "package_url": "https://pypi.org/project/xor-delta/"
+}

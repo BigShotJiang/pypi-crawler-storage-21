@@ -1,0 +1,11 @@
+{
+  "name": "lbkit",
+  "version": "0.9.5",
+  "summary": "Tools provided by litebmc.com",
+  "author": "xuhj@litebmc.com",
+  "license": null,
+  "home_page": "https://www.litebmc.com",
+  "download_filename": "lbkit-0.9.5.tar.gz",
+  "download_time": "2026-01-25T12:46:46.972986",
+  "package_url": "https://pypi.org/project/lbkit/"
+}

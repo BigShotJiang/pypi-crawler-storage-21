@@ -1,0 +1,11 @@
+{
+  "name": "pysharekit",
+  "version": "1.0.2",
+  "summary": "Effortless screen sharing via browser - no installation required on viewer devices",
+  "author": "Raghav Anthwal",
+  "license": null,
+  "home_page": "https://github.com/niterousnebula/sharer",
+  "download_filename": "pysharekit-1.0.2.tar.gz",
+  "download_time": "2026-01-25T12:46:46.460054",
+  "package_url": "https://pypi.org/project/pysharekit/"
+}

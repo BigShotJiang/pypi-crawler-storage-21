@@ -1,11 +1,11 @@
 {
   "name": "hsr_getyundata_v1",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "HSR 云雨平台数据获取 MCP 工具 - 用于获取和对比 CVM 性能测试报告",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hsr_getyundata_v1-0.2.0.tar.gz",
-  "download_time": "2026-01-24T13:23:33.282237",
+  "download_filename": "hsr_getyundata_v1-0.2.1.tar.gz",
+  "download_time": "2026-01-25T12:46:12.524212",
   "package_url": "https://pypi.org/project/hsr_getyundata_v1/"
 }
