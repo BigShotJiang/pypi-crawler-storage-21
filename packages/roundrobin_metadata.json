@@ -1,0 +1,11 @@
+{
+  "name": "roundrobin",
+  "version": "0.1.0",
+  "summary": "Collection of roundrobin utilities",
+  "author": "Vyacheslav Linnik",
+  "license": "MIT",
+  "home_page": "https://github.com/linnik/roundrobin",
+  "download_filename": "roundrobin-0.1.0.tar.gz",
+  "download_time": "2026-01-25T09:46:44.439417",
+  "package_url": "https://pypi.org/project/roundrobin/"
+}

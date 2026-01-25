@@ -1,0 +1,11 @@
+{
+  "name": "pelutils",
+  "version": "3.6.0",
+  "summary": "Utility functions that are often useful",
+  "author": "Asger Laurits Schultz, Søren Winkel Holm",
+  "license": "MIT",
+  "home_page": "https://github.com/peleiden/pelutils",
+  "download_filename": "pelutils-3.6.0.tar.gz",
+  "download_time": "2026-01-25T09:46:29.990868",
+  "package_url": "https://pypi.org/project/pelutils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nytid",
+  "version": "9.9",
+  "summary": "Library to manage teaching schedules",
+  "author": "Daniel Bosk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nytid-9.9.tar.gz",
+  "download_time": "2026-01-25T09:46:41.873157",
+  "package_url": "https://pypi.org/project/nytid/"
+}

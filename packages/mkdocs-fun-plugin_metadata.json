@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-fun-plugin",
+  "version": "0.2.1",
+  "summary": "Dead simple custom python functions with mkdocs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_fun_plugin-0.2.1.tar.gz",
+  "download_time": "2026-01-25T09:46:32.037219",
+  "package_url": "https://pypi.org/project/mkdocs-fun-plugin/"
+}

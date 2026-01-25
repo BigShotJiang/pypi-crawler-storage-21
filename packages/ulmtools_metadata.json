@@ -1,0 +1,11 @@
+{
+  "name": "ulmtools",
+  "version": "0.1.1",
+  "summary": "A collection of tools for ultrasound localization microscopy (ULM).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ulmtools-0.1.1.tar.gz",
+  "download_time": "2026-01-25T09:46:36.704306",
+  "package_url": "https://pypi.org/project/ulmtools/"
+}

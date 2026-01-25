@@ -1,0 +1,11 @@
+{
+  "name": "candlestix",
+  "version": "2.0.4",
+  "summary": "Library to get candlesticks info",
+  "author": "Amit Kumar Sharma",
+  "license": null,
+  "home_page": "https://github.com/sharmaak/candlestix",
+  "download_filename": "candlestix-2.0.4-py3-none-any.whl",
+  "download_time": "2026-01-25T09:46:46.592614",
+  "package_url": "https://pypi.org/project/candlestix/"
+}

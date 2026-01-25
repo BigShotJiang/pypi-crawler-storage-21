@@ -1,11 +1,11 @@
 {
   "name": "monocr",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Optical Character Recognition for Mon text",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "monocr-0.1.8.tar.gz",
-  "download_time": "2026-01-25T07:53:50.753890",
+  "download_filename": "monocr-0.1.10.tar.gz",
+  "download_time": "2026-01-25T09:46:40.835161",
   "package_url": "https://pypi.org/project/monocr/"
 }

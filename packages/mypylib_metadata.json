@@ -1,0 +1,11 @@
+{
+  "name": "mypylib",
+  "version": "0.2.74",
+  "summary": "Your package description",
+  "author": "William Chen",
+  "license": null,
+  "home_page": "https://github.com/williamchen180/mypylib",
+  "download_filename": "mypylib-0.2.74.tar.gz",
+  "download_time": "2026-01-25T09:46:25.661398",
+  "package_url": "https://pypi.org/project/mypylib/"
+}

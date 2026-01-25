@@ -1,0 +1,11 @@
+{
+  "name": "zipreport-lib",
+  "version": "2.3.0",
+  "summary": "Python HTML to PDF reporting engine",
+  "author": "João Pinheiro",
+  "license": "MIT",
+  "home_page": "https://github.com/zipreport/zipreport",
+  "download_filename": "zipreport_lib-2.3.0.tar.gz",
+  "download_time": "2026-01-25T09:46:37.728779",
+  "package_url": "https://pypi.org/project/zipreport-lib/"
+}

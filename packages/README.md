@@ -1,23 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T09:26:00.848988
-- **Total Packages**: 80
-- **Total Size**: 38.66 MB
+- **Download Time**: 2026-01-25T09:47:09.491812
+- **Total Packages**: 86
+- **Total Size**: 22.85 MB
 
 ## Packages List
-- langchain-tzafon
+- broccoli-ml
+- tfp-nightly
+- geek-cafe-saas-sdk
+- mypylib
+- scnr2
+- mcp-roblox-docs
+- celldetective
+- asymetry
+- kimi-code
+- kimi-cli
+- moai-adk
+- pelutils
+- ikali
+- HydrogenLib-Ctypes
+- funpaybotengine
+- mkdocs-fun-plugin
+- funpayparsers
+- microlane
+- debugaid
+- sailor-remote-agent
+- kuaijs-ios
+- nlp2cmd
+- mokit-tui
+- ulmtools
+- geniable
+- zipreport-lib
+- gsd-lite
+- biglup-cometa
+- cell-imaging-utils
+- tonie_sync
+- bamboo-database
+- monocr
+- aiohomematic-test-support
+- nytid
+- aiohomematic
 - audiogen-mcp
+- performante
+- vasprocar
+- roundrobin
+- xlwings-server
+- ansible-less
+- tracyspot
+- candlestix
+- pynooj
+- interactive-topic-model
+- getBISy
+- pycorex
+- langchain-tzafon
 - adop-cli
 - openwebui-bootstrap
 - hcl-processor
-- cell-imaging-utils
 - kcli
 - lunalib
 - mm-base6
 - gh-task
 - chronosx
-- vasprocar
 - pip-toolbox
 - sentry-dingtalk-notify
 - wordslab-notebooks-lib
@@ -29,11 +73,9 @@
 - integration-smoke-test
 - littrs
 - p2pstore
-- nlp2cmd
 - data-time-machine
 - media-downloader
 - rtm-mcp
-- sailor-remote-agent
 - structRFM
 - chess-post-analyst
 - mcstatusio
@@ -50,39 +92,3 @@
 - fbuild
 - fh-matui
 - nitro-cli
-- vicoa
-- janus-labs
-- autogluon
-- aiqa-client
-- autogluon.timeseries
-- pymordial
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- awepatch
-- autogluon.core
-- autogluon.common
-- demsys
-- bakefile
-- pymeili
-- filmsmik
-- llmops-observability
-- deepchecks-llm-client
-- brutax
-- mech-interp-toolkit
-- mathai
-- pypac4http2
-- kleiven-azure-storage
-- lintro
-- tiwave
-- whywhytools
-- voiceground
-- cascaqit
-- mcp-roblox-docs
-- msffs
-- projectdavid
-- jai-STT
-- solyanka
-- lucid-dl
-- ikali
-- um80
