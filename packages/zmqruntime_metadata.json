@@ -1,0 +1,11 @@
+{
+  "name": "zmqruntime",
+  "version": "0.1.0",
+  "summary": "Generic ZMQ-based distributed execution framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zmqruntime-0.1.0.tar.gz",
+  "download_time": "2026-01-25T22:47:59.136615",
+  "package_url": "https://pypi.org/project/zmqruntime/"
+}
