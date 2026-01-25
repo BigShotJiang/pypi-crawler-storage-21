@@ -1,11 +1,11 @@
 {
   "name": "dhi",
-  "version": "1.1.15",
+  "version": "1.1.16",
   "summary": "Ultra-fast data validation for Python - 28M validations/sec, 3x faster than Rust alternatives",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dhi-1.1.15.tar.gz",
-  "download_time": "2026-01-25T10:26:30.032570",
+  "download_filename": "dhi-1.1.16.tar.gz",
+  "download_time": "2026-01-25T10:49:56.884837",
   "package_url": "https://pypi.org/project/dhi/"
 }

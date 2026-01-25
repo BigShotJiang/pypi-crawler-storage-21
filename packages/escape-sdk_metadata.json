@@ -1,0 +1,11 @@
+{
+  "name": "escape-sdk",
+  "version": "2.1.2",
+  "summary": "OSRS Bot Development SDK with game-native structure",
+  "author": "Escape Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "escape_sdk-2.1.2.tar.gz",
+  "download_time": "2026-01-25T10:49:41.112843",
+  "package_url": "https://pypi.org/project/escape-sdk/"
+}

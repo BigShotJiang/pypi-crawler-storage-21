@@ -1,11 +1,11 @@
 {
   "name": "ynab-unlinked",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ynab_unlinked-0.6.0.tar.gz",
-  "download_time": "2026-01-25T10:26:33.151489",
+  "download_filename": "ynab_unlinked-0.6.1.tar.gz",
+  "download_time": "2026-01-25T10:49:54.727666",
   "package_url": "https://pypi.org/project/ynab-unlinked/"
 }
