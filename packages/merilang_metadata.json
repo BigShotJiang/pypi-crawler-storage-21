@@ -1,0 +1,11 @@
+{
+  "name": "merilang",
+  "version": "1.0.2",
+  "summary": "A desi toy programming language built with Python",
+  "author": "DesiLang Community",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "merilang-1.0.2.tar.gz",
+  "download_time": "2026-01-25T05:34:31.966943",
+  "package_url": "https://pypi.org/project/merilang/"
+}

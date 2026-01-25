@@ -1,0 +1,11 @@
+{
+  "name": "NitroExpose",
+  "version": "2.7",
+  "summary": "Advanced CLI To Expose Port To Your Domain.",
+  "author": "@NacDevs",
+  "license": null,
+  "home_page": "https://github.com/yuvrajmodz/NitroExpose",
+  "download_filename": "nitroexpose-2.7.tar.gz",
+  "download_time": "2026-01-25T05:34:38.731347",
+  "package_url": "https://pypi.org/project/NitroExpose/"
+}

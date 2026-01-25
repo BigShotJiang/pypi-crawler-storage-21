@@ -1,0 +1,11 @@
+{
+  "name": "barkr",
+  "version": "0.11.0",
+  "summary": "Yet another cross-posting tool in Python",
+  "author": "Andrés Ignacio Torres",
+  "license": null,
+  "home_page": null,
+  "download_filename": "barkr-0.11.0.tar.gz",
+  "download_time": "2026-01-25T05:34:25.189289",
+  "package_url": "https://pypi.org/project/barkr/"
+}

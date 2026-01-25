@@ -1,0 +1,11 @@
+{
+  "name": "playgodot",
+  "version": "0.5.1",
+  "summary": "External automation and testing framework for Godot Engine games",
+  "author": "PlayGodot Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "playgodot-0.5.1.tar.gz",
+  "download_time": "2026-01-25T05:34:35.594242",
+  "package_url": "https://pypi.org/project/playgodot/"
+}

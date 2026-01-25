@@ -1,0 +1,11 @@
+{
+  "name": "osn-selenium",
+  "version": "1.0.0",
+  "summary": "An advanced, asynchronous wrapper for Selenium designed for fine-grained browser control. It leverages `trio` for async operations, provides human-like action chains for more natural automation, and offers deep integration with the Chrome DevTools Protocol (CDP) for advanced features like network interception. The library is structured to be extensible, with built-in support for Blink-based browsers like Chrome, Edge, and Yandex.",
+  "author": "oddshellnick",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osn_selenium-1.0.0.tar.gz",
+  "download_time": "2026-01-25T05:34:38.211799",
+  "package_url": "https://pypi.org/project/osn-selenium/"
+}

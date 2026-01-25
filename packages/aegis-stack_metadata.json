@@ -1,11 +1,11 @@
 {
   "name": "aegis-stack",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "A production-ready Python foundation for builders who refuse to wait. Try: uvx aegis-stack init my-project",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aegis_stack-0.5.3.tar.gz",
-  "download_time": "2026-01-21T19:19:31.972961",
+  "download_filename": "aegis_stack-0.5.4.tar.gz",
+  "download_time": "2026-01-25T05:34:57.651592",
   "package_url": "https://pypi.org/project/aegis-stack/"
 }

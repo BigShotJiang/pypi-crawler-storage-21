@@ -1,0 +1,11 @@
+{
+  "name": "txt2ebook",
+  "version": "0.1.176",
+  "summary": "CLI tool to convert txt file to ebook format",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txt2ebook-0.1.176.tar.gz",
+  "download_time": "2026-01-25T05:34:56.057528",
+  "package_url": "https://pypi.org/project/txt2ebook/"
+}

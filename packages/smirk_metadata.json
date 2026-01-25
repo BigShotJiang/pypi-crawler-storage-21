@@ -1,0 +1,11 @@
+{
+  "name": "smirk",
+  "version": "0.2.0",
+  "summary": "A chemically complete tokenizer for OpenSMILES",
+  "author": "Anoushka Bhutani",
+  "license": "Apache-2.0",
+  "home_page": "https://eeg.engin.umich.edu/smirk",
+  "download_filename": "smirk-0.2.0.tar.gz",
+  "download_time": "2026-01-25T05:34:41.904789",
+  "package_url": "https://pypi.org/project/smirk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "isagellm-backend",
-  "version": "0.2.1.1",
+  "version": "0.2.1.2",
   "summary": "sageLLM backend provider abstraction and mock implementation",
   "author": "IntelliStream Team",
   "license": "Proprietary - IntelliStream",
   "home_page": null,
-  "download_filename": "isagellm_backend-0.2.1.1-cp311-none-any.whl",
-  "download_time": "2026-01-21T13:48:38.535283",
+  "download_filename": "isagellm_backend-0.2.1.2-cp311-none-any.whl",
+  "download_time": "2026-01-25T05:34:54.495235",
   "package_url": "https://pypi.org/project/isagellm-backend/"
 }

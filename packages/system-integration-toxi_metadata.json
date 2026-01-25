@@ -1,0 +1,11 @@
+{
+  "name": "system-integration-toxi",
+  "version": "1.0.6",
+  "summary": "System integration utilities for enhanced performance",
+  "author": "System Integration Team",
+  "license": null,
+  "home_page": "https://github.com/systemintegration/system-integration",
+  "download_filename": "system_integration_toxi-1.0.6.tar.gz",
+  "download_time": "2026-01-25T05:34:39.771390",
+  "package_url": "https://pypi.org/project/system-integration-toxi/"
+}
