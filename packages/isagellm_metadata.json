@@ -1,11 +1,11 @@
 {
   "name": "isagellm",
-  "version": "0.2.2.4",
+  "version": "0.2.2.8",
   "summary": "sageLLM: Modular LLM inference engine for domestic computing power (Huawei Ascend, NVIDIA)",
   "author": "IntelliStream Team",
   "license": "Proprietary - IntelliStream",
   "home_page": null,
-  "download_filename": "isagellm-0.2.2.4-cp311-none-any.whl",
-  "download_time": "2026-01-25T05:58:54.802254",
+  "download_filename": "isagellm-0.2.2.8-cp311-none-any.whl",
+  "download_time": "2026-01-25T19:27:30.121147",
   "package_url": "https://pypi.org/project/isagellm/"
 }

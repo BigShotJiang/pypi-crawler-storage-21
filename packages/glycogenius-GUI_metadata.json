@@ -1,0 +1,11 @@
+{
+  "name": "glycogenius-GUI",
+  "version": "1.1.4",
+  "summary": "Accessory GUI for Glycogenius",
+  "author": "Hector Franco Loponte",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glycogenius_gui-1.1.4.tar.gz",
+  "download_time": "2026-01-25T19:27:55.895580",
+  "package_url": "https://pypi.org/project/glycogenius-GUI/"
+}

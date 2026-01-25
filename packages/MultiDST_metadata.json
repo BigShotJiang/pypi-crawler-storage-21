@@ -1,11 +1,11 @@
 {
   "name": "MultiDST",
-  "version": "0.1.10",
-  "summary": "MultiDST is a Python library for multiple hypothesis testing, providing FWER and FDR control methods along with the Significant Index Plot to easily visualize significant hypotheses.",
+  "version": "0.1.11",
+  "summary": "A toolkit for multiple hypothesis testing that implements common FWER and FDR control procedures, with intuitive significance visualisation using the Significant Index Plot.",
   "author": "R.A.S. Ouchithya",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "multidst-0.1.10.tar.gz",
-  "download_time": "2026-01-25T19:00:34.202669",
+  "download_filename": "multidst-0.1.11.tar.gz",
+  "download_time": "2026-01-25T19:27:47.534559",
   "package_url": "https://pypi.org/project/MultiDST/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "honeyannote",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A library for dealing with segmented data",
   "author": "Lawrence Borst",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "honeyannote-0.2.0.tar.gz",
-  "download_time": "2026-01-24T22:47:15.041678",
+  "download_filename": "honeyannote-0.3.0.tar.gz",
+  "download_time": "2026-01-25T19:27:44.394279",
   "package_url": "https://pypi.org/project/honeyannote/"
 }

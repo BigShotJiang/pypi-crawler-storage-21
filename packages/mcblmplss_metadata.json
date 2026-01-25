@@ -1,0 +1,11 @@
+{
+  "name": "mcblmplss",
+  "version": "2024.12.3",
+  "summary": "MCP server for querying BLM land data: PLSS coordinates, surface management agency, and mining claims",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcblmplss-2024.12.3.tar.gz",
+  "download_time": "2026-01-25T19:27:46.444003",
+  "package_url": "https://pypi.org/project/mcblmplss/"
+}

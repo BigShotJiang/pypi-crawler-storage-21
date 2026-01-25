@@ -1,0 +1,11 @@
+{
+  "name": "glycogenius",
+  "version": "1.3.2",
+  "summary": "GlycoGenius is an all-in-one solution for data analysis of glycomics data.",
+  "author": "Hector Franco Loponte",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glycogenius-1.3.2.tar.gz",
+  "download_time": "2026-01-25T19:27:57.629773",
+  "package_url": "https://pypi.org/project/glycogenius/"
+}

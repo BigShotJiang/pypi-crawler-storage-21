@@ -1,0 +1,11 @@
+{
+  "name": "tart",
+  "version": "1.4.5",
+  "summary": "Transient Array Radio Telescope Imaging and Operation Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tart-1.4.5.tar.gz",
+  "download_time": "2026-01-25T19:27:28.522768",
+  "package_url": "https://pypi.org/project/tart/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyquipu-engine",
+  "version": "0.1.0",
+  "summary": "The state and history engine for Quipu, powered by Git plumbing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyquipu_engine-0.1.0.tar.gz",
+  "download_time": "2026-01-25T19:28:03.994306",
+  "package_url": "https://pypi.org/project/pyquipu-engine/"
+}

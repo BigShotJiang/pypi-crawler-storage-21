@@ -1,0 +1,11 @@
+{
+  "name": "sumtyme",
+  "version": "1.3.2",
+  "summary": "Python Client for Causal Intelligence Layer",
+  "author": "sumteam",
+  "license": null,
+  "home_page": "https://docs.sumtyme.ai/",
+  "download_filename": "sumtyme-1.3.2.tar.gz",
+  "download_time": "2026-01-25T19:27:28.001473",
+  "package_url": "https://pypi.org/project/sumtyme/"
+}

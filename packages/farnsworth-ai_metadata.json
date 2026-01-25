@@ -1,0 +1,11 @@
+{
+  "name": "farnsworth-ai",
+  "version": "1.0.0",
+  "summary": "Self-evolving companion AI with MemGPT-style memory and LangGraph agent swarm",
+  "author": "Farnsworth Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "farnsworth_ai-1.0.0.tar.gz",
+  "download_time": "2026-01-25T19:27:34.848556",
+  "package_url": "https://pypi.org/project/farnsworth-ai/"
+}

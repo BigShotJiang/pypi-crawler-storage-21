@@ -1,11 +1,11 @@
 {
   "name": "nrp-cmd",
-  "version": "0.8.8",
+  "version": "0.9.0",
   "summary": "Python and commandline client for NRP repositories",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nrp_cmd-0.8.8.tar.gz",
-  "download_time": "2026-01-19T21:43:06.344887",
+  "download_filename": "nrp_cmd-0.9.0.tar.gz",
+  "download_time": "2026-01-25T19:27:54.016772",
   "package_url": "https://pypi.org/project/nrp-cmd/"
 }

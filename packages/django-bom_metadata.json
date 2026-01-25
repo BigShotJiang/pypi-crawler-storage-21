@@ -1,11 +1,11 @@
 {
   "name": "django-bom",
-  "version": "1.262",
+  "version": "1.263",
   "summary": "A simple Django app to manage a bill of materials.",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "django_bom-1.262.tar.gz",
-  "download_time": "2026-01-25T02:01:40.110419",
+  "download_filename": "django_bom-1.263.tar.gz",
+  "download_time": "2026-01-25T19:27:41.224185",
   "package_url": "https://pypi.org/project/django-bom/"
 }
