@@ -1,0 +1,11 @@
+{
+  "name": "django-sqlite-tenants",
+  "version": "0.1.0",
+  "summary": "Sqlite Based Multi Tenancy With Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_sqlite_tenants-0.1.0.tar.gz",
+  "download_time": "2026-01-25T07:03:03.162245",
+  "package_url": "https://pypi.org/project/django-sqlite-tenants/"
+}

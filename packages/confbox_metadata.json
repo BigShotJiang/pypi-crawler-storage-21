@@ -1,0 +1,11 @@
+{
+  "name": "confbox",
+  "version": "0.1.1",
+  "summary": "Cross-platform application configuration manager for Python",
+  "author": "Jeff Mirabile",
+  "license": "MIT",
+  "home_page": "https://github.com/jmmirabile/confbox",
+  "download_filename": "confbox-0.1.1.tar.gz",
+  "download_time": "2026-01-25T07:02:50.649110",
+  "package_url": "https://pypi.org/project/confbox/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "causing",
+  "version": "2.4.6",
+  "summary": "Causing: CAUSal INterpretation using Graphs",
+  "author": "Dr. Holger Bartel",
+  "license": null,
+  "home_page": "https://github.com/realrate/Causing",
+  "download_filename": "causing-2.4.6.tar.gz",
+  "download_time": "2026-01-25T07:02:48.565927",
+  "package_url": "https://pypi.org/project/causing/"
+}

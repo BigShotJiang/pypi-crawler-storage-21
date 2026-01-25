@@ -1,11 +1,11 @@
 {
   "name": "opera-cloud-mcp",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Unofficial MCP Server for the Opera Cloud API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opera_cloud_mcp-0.3.3.tar.gz",
-  "download_time": "2026-01-23T05:06:30.710409",
+  "download_filename": "opera_cloud_mcp-0.3.4.tar.gz",
+  "download_time": "2026-01-25T07:02:52.770308",
   "package_url": "https://pypi.org/project/opera-cloud-mcp/"
 }

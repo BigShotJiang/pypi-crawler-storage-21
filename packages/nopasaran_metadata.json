@@ -1,0 +1,11 @@
+{
+  "name": "nopasaran",
+  "version": "0.2.118",
+  "summary": "NoPASARAN is an advanced network tool designed to detect, fingerprint, and locate network middleboxes in a unified framework.",
+  "author": "Ilies Benhabbour",
+  "license": null,
+  "home_page": "https://github.com/BenIlies/NoPASARAN",
+  "download_filename": "nopasaran-0.2.118.tar.gz",
+  "download_time": "2026-01-25T07:02:58.428368",
+  "package_url": "https://pypi.org/project/nopasaran/"
+}

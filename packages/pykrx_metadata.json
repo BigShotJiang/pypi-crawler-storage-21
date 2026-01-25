@@ -1,0 +1,11 @@
+{
+  "name": "pykrx",
+  "version": "1.2.3",
+  "summary": "KRX data scraping",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykrx-1.2.3.tar.gz",
+  "download_time": "2026-01-25T07:02:52.240997",
+  "package_url": "https://pypi.org/project/pykrx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wikinet-link-prediction",
+  "version": "1.0.0",
+  "summary": "WikiLinks Graph Neural Network for Link Prediction",
+  "author": "inneedloveBu",
+  "license": "MIT",
+  "home_page": "https://github.com/inneedloveBu/wikinet-link-prediction",
+  "download_filename": "wikinet_link_prediction-1.0.0.tar.gz",
+  "download_time": "2026-01-25T07:02:55.330031",
+  "package_url": "https://pypi.org/project/wikinet-link-prediction/"
+}
