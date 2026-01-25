@@ -1,59 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T17:45:53.240752
-- **Total Packages**: 90
-- **Total Size**: 38.35 MB
+- **Download Time**: 2026-01-25T17:57:38.003498
+- **Total Packages**: 91
+- **Total Size**: 16.4 MB
 
 ## Packages List
-- smart-ocr
-- valanga
-- fuellhorn
-- ScriptCollection
-- scruby-plugin
-- novnc
-- pretix-thepay
-- agentv2
-- anime-from-terminal
-- sqlsession
-- ytp-dl
-- sentry-dingtalk-notify
-- debugsnacks
-- railway-framework
-- ucapi-framework
-- aininja
-- gregium
-- pypomes-jwt
-- yaramod
-- VantaEther
-- crossplane-function-pythonic
-- aiptx
-- did-webs-resolver
-- gammarers.aws-secure-log-bucket
-- netbox-aci-plugin
-- flask-commands
-- odoo14-addon-pos-order-to-sale-order
-- pypomes-crypto
-- chutes
-- svy
-- rds-proxy-password-rotation
-- policyengine-us
-- broccoli-ml
-- TopDownHockey-Scraper
-- nordlys
-- codexapi
-- authcheck
-- clawd-code-sdk
-- comfy-env
-- email-processor
 - jolt-docker
 - vuer
 - adaptivegears
 - rdynamics-py
 - kadepy
+- aiptx
 - urdu-g2p
 - pyrig
 - scruby
+- pretix-thepay
 - upathtools
 - etlplus
 - hyrax-lib
@@ -67,6 +29,7 @@
 - cognite-pygen-spark
 - lumpy-log
 - opencode-agent-hub
+- smart-ocr
 - norm-findings
 - su-master-mind-llm
 - docling-graph
@@ -96,3 +59,41 @@
 - faxter-clerk
 - velmu
 - cli-base-utilities
+- freckle
+- policyengine-us
+- aiauto-client
+- project-initializer
+- partsdb-tools
+- timerun
+- CV-reality-check
+- pulka
+- amigo_sdk
+- alibabacloud-rdsai20250507
+- debugsnacks
+- unihttp
+- collider-py
+- kcwsqlite
+- kcws
+- iwa
+- banana-timer
+- kcwmysql
+- mcp-mesh-tsuite
+- docp-loaders
+- nlp3
+- deckgl-dash
+- pomera-ai-commander
+- codexapi
+- orche
+- hookpulse
+- kcwebps
+- agent-framework-lib
+- abstract-utilities
+- kcwcache
+- pyserde
+- mediplot
+- kcwebs
+- pyneatR
+- kcwhttp
+- gsd-lite
+- kcwredis
+- fmtr.tools

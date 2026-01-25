@@ -1,0 +1,11 @@
+{
+  "name": "collider-py",
+  "version": "0.0.1",
+  "summary": "An experimental collision-detection library.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/agroudiev/collider",
+  "download_filename": "collider_py-0.0.1.tar.gz",
+  "download_time": "2026-01-25T17:57:23.061418",
+  "package_url": "https://pypi.org/project/collider-py/"
+}

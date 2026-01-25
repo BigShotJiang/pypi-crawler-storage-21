@@ -1,0 +1,11 @@
+{
+  "name": "project-initializer",
+  "version": "0.1.1",
+  "summary": "CLI tool to scaffold full-stack projects with FastAPI, Angular, and Docker",
+  "author": "Silvio Baratto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "project_initializer-0.1.1.tar.gz",
+  "download_time": "2026-01-25T17:57:17.823375",
+  "package_url": "https://pypi.org/project/project-initializer/"
+}
