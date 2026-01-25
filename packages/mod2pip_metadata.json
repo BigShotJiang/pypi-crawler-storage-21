@@ -1,11 +1,11 @@
 {
   "name": "mod2pip",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Enhanced pip requirements.txt generator with dynamic import detection and conda support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mod2pip-0.8.0.tar.gz",
-  "download_time": "2026-01-25T05:34:24.670022",
+  "download_filename": "mod2pip-0.9.0.tar.gz",
+  "download_time": "2026-01-25T05:59:12.095875",
   "package_url": "https://pypi.org/project/mod2pip/"
 }

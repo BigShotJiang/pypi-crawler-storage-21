@@ -1,0 +1,11 @@
+{
+  "name": "filanti",
+  "version": "1.0.0",
+  "summary": "A modular, security-focused file framework for encryption, hashing, and integrity verification",
+  "author": "Decliqe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "filanti-1.0.0.tar.gz",
+  "download_time": "2026-01-25T05:59:00.623181",
+  "package_url": "https://pypi.org/project/filanti/"
+}

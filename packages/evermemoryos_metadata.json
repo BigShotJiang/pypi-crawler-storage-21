@@ -1,0 +1,11 @@
+{
+  "name": "evermemoryos",
+  "version": "0.5.0",
+  "summary": "一个简单的 Python 调试辅助工具包",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evermemoryos-0.5.0.tar.gz",
+  "download_time": "2026-01-25T05:58:55.353969",
+  "package_url": "https://pypi.org/project/evermemoryos/"
+}

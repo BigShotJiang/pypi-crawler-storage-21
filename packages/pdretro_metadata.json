@@ -1,11 +1,11 @@
 {
   "name": "pdretro",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "Python wrapper for libretro cores",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdretro-0.1.2.tar.gz",
-  "download_time": "2026-01-23T02:00:40.676856",
+  "download_filename": "pdretro-0.2.1.tar.gz",
+  "download_time": "2026-01-25T05:58:59.596506",
   "package_url": "https://pypi.org/project/pdretro/"
 }

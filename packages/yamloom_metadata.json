@@ -1,11 +1,11 @@
 {
   "name": "yamloom",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Generate GitHub Actions workflows with a Pythonic API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yamloom-0.2.2.tar.gz",
-  "download_time": "2026-01-22T19:06:11.098066",
+  "download_filename": "yamloom-0.3.0.tar.gz",
+  "download_time": "2026-01-25T05:59:03.218999",
   "package_url": "https://pypi.org/project/yamloom/"
 }

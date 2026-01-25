@@ -1,27 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T05:34:58.162797
+- **Download Time**: 2026-01-25T05:59:34.102623
 - **Total Packages**: 76
-- **Total Size**: 28.38 MB
+- **Total Size**: 12.29 MB
 
 ## Packages List
+- fbuild
+- isagellm
+- evermemoryos
+- scruby-plugin
+- ferp
+- blocksolver
+- chromaroute
+- barkr
+- opencc-pyo3
+- kuaijs-ios
+- pdretro
 - llmstxt2skill
+- filanti
+- mcp-roblox-docs
+- cronctrl
+- clouvel
+- claude-code-transcripts
+- yamloom
+- ascii-tee
+- ikali
+- evermind-eos
+- valanga
+- ripgrep-rs
+- skypilot-nightly
+- ralphx
+- filmsmik
+- numwordify
+- odoo-addon-stock-restrict-lot
+- geniable
+- dworshak
+- tombi
+- codehydra
+- projectdavid
+- pydantic-variants
+- mod2pip
+- obra
 - smrpgpatchbuilder
 - ast-tool-py
 - fabric-monitor
-- clouvel
 - iterfzf
 - uloger
 - isage-vdb
 - evesky-docapi
 - vellum-workflow-server
 - py-adtools
-- numwordify
-- ripgrep-rs
 - tsmasterapi
-- mod2pip
-- barkr
 - torchada
 - bobblob
 - projectdavid-common
@@ -32,13 +62,9 @@
 - MF-Algebra
 - servicenow-api
 - mathai
-- geniable
 - adop-cli
 - merilang
 - ez-chess
-- ikali
-- mcp-roblox-docs
-- kuaijs-ios
 - sqlalchemy-easy-softdelete
 - playgodot
 - pycnp
@@ -50,35 +76,9 @@
 - agentic-threat-hunting-framework
 - system-integration-toxi
 - dycw-utilities
-- blocksolver
 - mimic-video
 - smirk
 - llmops-observability
 - datadog-mcp
 - iamdata
 - ha-sync
-- pydcce
-- sdkrouter
-- user-scanner
-- bluer-sbc
-- hezor-common
-- stigg-api-client-v2
-- cocoindex
-- pylibmspack
-- stigg-api-client
-- pypowerwall-server
-- snipara-mcp
-- ufo-spacing-lib
-- dokku-api
-- pulumi-spotinst
-- moai-adk
-- intentkit
-- medicafe
-- dc-securex
-- isagellm-backend
-- VertexEngine-WebEngine
-- sfq
-- txt2ebook
-- fastmodules
-- envdrift
-- aegis-stack

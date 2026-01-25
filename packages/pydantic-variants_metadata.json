@@ -1,11 +1,11 @@
 {
   "name": "pydantic-variants",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "summary": "Create Pydantic model variants with transformation pipelines for different use cases (Input/Output/Update)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pydantic_variants-0.5.1.tar.gz",
-  "download_time": "2026-01-24T19:40:02.974251",
+  "download_filename": "pydantic_variants-0.6.0.tar.gz",
+  "download_time": "2026-01-25T05:59:11.584235",
   "package_url": "https://pypi.org/project/pydantic-variants/"
 }
