@@ -1,11 +1,11 @@
 {
   "name": "CoMBCR",
-  "version": "0.1.9",
+  "version": "0.2.3",
   "summary": "A python lib for CoMBCR",
   "author": "Yiping Zou",
   "license": "MIT",
   "home_page": "https://github.com/deepomicslab/CoMBCR.git/",
-  "download_filename": "combcr-0.1.9.tar.gz",
-  "download_time": "2026-01-20T07:06:37.819779",
+  "download_filename": "combcr-0.2.3.tar.gz",
+  "download_time": "2026-01-25T04:09:44.504336",
   "package_url": "https://pypi.org/project/CoMBCR/"
 }

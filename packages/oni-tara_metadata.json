@@ -1,0 +1,11 @@
+{
+  "name": "oni-tara",
+  "version": "0.5.1",
+  "summary": "TARA - Telemetry Awareness and Response Analyzer. A neural security platform for brain-computer interfaces with Kohno threat taxonomy and BCI privacy filtering.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oni_tara-0.5.1.tar.gz",
+  "download_time": "2026-01-25T04:09:53.355077",
+  "package_url": "https://pypi.org/project/oni-tara/"
+}

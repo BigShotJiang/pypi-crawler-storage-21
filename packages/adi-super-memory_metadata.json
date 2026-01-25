@@ -1,0 +1,11 @@
+{
+  "name": "adi-super-memory",
+  "version": "0.4.0",
+  "summary": "ADI Super Memory: STM + LTM + distilled Super Memory with full adapters, Postgres/Qdrant backends, RBAC API keys, and policy-gated tool execution.",
+  "author": "Adi's American Soft LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "adi_super_memory-0.4.0.tar.gz",
+  "download_time": "2026-01-25T04:09:49.271908",
+  "package_url": "https://pypi.org/project/adi-super-memory/"
+}

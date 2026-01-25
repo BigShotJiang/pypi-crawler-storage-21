@@ -1,0 +1,11 @@
+{
+  "name": "quantapy",
+  "version": "0.0.1",
+  "summary": "QuantaPy library",
+  "author": "Andrew Simin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/quantafied/quantapy",
+  "download_filename": "quantapy-0.0.1.tar.gz",
+  "download_time": "2026-01-25T04:10:03.715757",
+  "package_url": "https://pypi.org/project/quantapy/"
+}

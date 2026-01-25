@@ -1,11 +1,11 @@
 {
   "name": "py-rowboat",
-  "version": "1.0.0.11",
+  "version": "1.0.0.15",
   "summary": "MCP server for querying CSV files with SQL",
   "author": "Danny Heskett",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "py_rowboat-1.0.0.11.tar.gz",
-  "download_time": "2026-01-24T22:46:59.276345",
+  "download_filename": "py_rowboat-1.0.0.15.tar.gz",
+  "download_time": "2026-01-25T04:09:59.959850",
   "package_url": "https://pypi.org/project/py-rowboat/"
 }

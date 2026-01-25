@@ -1,0 +1,11 @@
+{
+  "name": "cybrushwifi",
+  "version": "1.0.0",
+  "summary": "Professional Wi-Fi security scanning and monitoring tool",
+  "author": "Cybrush Security",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cybrushwifi-1.0.0.tar.gz",
+  "download_time": "2026-01-25T04:09:54.519644",
+  "package_url": "https://pypi.org/project/cybrushwifi/"
+}

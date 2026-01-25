@@ -1,11 +1,11 @@
 {
   "name": "paskia",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Passkey Auth made easy: all sites and APIs can be guarded even without any changes on the protected site.",
   "author": "Leo Vasanko",
   "license": null,
   "home_page": null,
-  "download_filename": "paskia-0.8.0-py3-none-any.whl",
-  "download_time": "2026-01-24T01:48:47.178443",
+  "download_filename": "paskia-0.8.1.tar.gz",
+  "download_time": "2026-01-25T04:10:12.743404",
   "package_url": "https://pypi.org/project/paskia/"
 }
