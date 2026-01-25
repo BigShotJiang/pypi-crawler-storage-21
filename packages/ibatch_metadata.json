@@ -1,11 +1,11 @@
 {
   "name": "ibatch",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": null,
   "author": "David Polák",
   "license": null,
   "home_page": null,
-  "download_filename": "ibatch-0.1.0.tar.gz",
-  "download_time": "2026-01-24T11:21:03.940972",
+  "download_filename": "ibatch-0.2.0.tar.gz",
+  "download_time": "2026-01-25T20:28:25.728510",
   "package_url": "https://pypi.org/project/ibatch/"
 }

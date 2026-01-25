@@ -1,0 +1,11 @@
+{
+  "name": "quantum-simulator",
+  "version": "0.2.0",
+  "summary": "A Python library for simulating quantum computers and quantum algorithms",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "quantum_simulator-0.2.0.tar.gz",
+  "download_time": "2026-01-25T20:28:16.101414",
+  "package_url": "https://pypi.org/project/quantum-simulator/"
+}

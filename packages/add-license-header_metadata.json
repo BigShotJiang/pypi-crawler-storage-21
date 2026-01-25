@@ -1,0 +1,11 @@
+{
+  "name": "add-license-header",
+  "version": "2.4.1",
+  "summary": "A tool for automatically adding your license as a header in your source code.",
+  "author": "Arkin Modi",
+  "license": "MIT",
+  "home_page": "https://github.com/arkinmodi/add-license-header",
+  "download_filename": "add_license_header-2.4.1.tar.gz",
+  "download_time": "2026-01-25T20:28:24.706416",
+  "package_url": "https://pypi.org/project/add-license-header/"
+}

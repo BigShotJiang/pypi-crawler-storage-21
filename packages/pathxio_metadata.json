@@ -1,0 +1,11 @@
+{
+  "name": "pathxio",
+  "version": "0.2.0",
+  "summary": "Safe, predictable filesystem operations for Python.",
+  "author": "holy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pathxio-0.2.0.tar.gz",
+  "download_time": "2026-01-25T20:28:28.821991",
+  "package_url": "https://pypi.org/project/pathxio/"
+}

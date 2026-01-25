@@ -1,11 +1,11 @@
 {
   "name": "tgedr-simplepipe",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "this is an example of a simple data pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgedr_simplepipe-0.0.5.tar.gz",
-  "download_time": "2026-01-25T19:41:58.716296",
+  "download_filename": "tgedr_simplepipe-0.0.6.tar.gz",
+  "download_time": "2026-01-25T20:28:22.065649",
   "package_url": "https://pypi.org/project/tgedr-simplepipe/"
 }

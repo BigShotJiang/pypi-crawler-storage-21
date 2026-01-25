@@ -1,0 +1,11 @@
+{
+  "name": "qwenvpfcode-ai",
+  "version": "1.0.0",
+  "summary": "Fast local AI assistant based on Qwen2.5-Coder-1.5B - No filters, complete memory",
+  "author": "Adriano (litaliano00-dev)",
+  "license": "MIT",
+  "home_page": "https://github.com/litaliano00-dev/QwenVPFCode-AI",
+  "download_filename": "qwenvpfcode_ai-1.0.0.tar.gz",
+  "download_time": "2026-01-25T20:28:24.194413",
+  "package_url": "https://pypi.org/project/qwenvpfcode-ai/"
+}

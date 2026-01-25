@@ -1,0 +1,11 @@
+{
+  "name": "triagent",
+  "version": "1.4.0",
+  "summary": "Claude-powered CLI for Azure DevOps automation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "triagent-1.4.0.tar.gz",
+  "download_time": "2026-01-25T20:28:11.964218",
+  "package_url": "https://pypi.org/project/triagent/"
+}

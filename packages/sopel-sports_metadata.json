@@ -1,11 +1,11 @@
 {
   "name": "sopel-sports",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Sopel Sports Module",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sopel_sports-2.3.0.tar.gz",
-  "download_time": "2026-01-25T14:22:58.633647",
+  "download_filename": "sopel_sports-2.3.1.tar.gz",
+  "download_time": "2026-01-25T20:28:15.587858",
   "package_url": "https://pypi.org/project/sopel-sports/"
 }

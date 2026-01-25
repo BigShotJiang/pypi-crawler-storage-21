@@ -1,11 +1,11 @@
 {
   "name": "antevresto-lib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Shared utilities for Antevresto",
   "author": "John Sk",
   "license": null,
   "home_page": null,
-  "download_filename": "antevresto_lib-0.1.1.tar.gz",
-  "download_time": "2026-01-25T19:54:40.812140",
+  "download_filename": "antevresto_lib-0.1.2.tar.gz",
+  "download_time": "2026-01-25T20:28:36.606338",
   "package_url": "https://pypi.org/project/antevresto-lib/"
 }

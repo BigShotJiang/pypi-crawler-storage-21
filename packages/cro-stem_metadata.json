@@ -1,11 +1,11 @@
 {
   "name": "cro-stem",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cro_stem-0.1.3.tar.gz",
-  "download_time": "2026-01-25T19:54:54.390660",
+  "download_filename": "cro_stem-0.1.4.tar.gz",
+  "download_time": "2026-01-25T20:28:37.695236",
   "package_url": "https://pypi.org/project/cro-stem/"
 }
