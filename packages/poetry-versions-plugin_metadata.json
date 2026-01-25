@@ -1,0 +1,11 @@
+{
+  "name": "poetry-versions-plugin",
+  "version": "1.1.1",
+  "summary": "Poetry plugin that automates version management and records Git information for Python projects.",
+  "author": "xy.kong",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/xykong/poetry-versions-plugin",
+  "download_filename": "poetry_versions_plugin-1.1.1.tar.gz",
+  "download_time": "2026-01-25T19:00:22.686812",
+  "package_url": "https://pypi.org/project/poetry-versions-plugin/"
+}

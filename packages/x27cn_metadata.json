@@ -1,11 +1,11 @@
 {
   "name": "x27cn",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "summary": "X27CN - Advanced code obfuscation, encryption and anti-crawl protection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x27cn-1.4.1.tar.gz",
-  "download_time": "2026-01-25T17:22:36.362850",
+  "download_filename": "x27cn-1.4.3.tar.gz",
+  "download_time": "2026-01-25T19:00:31.912613",
   "package_url": "https://pypi.org/project/x27cn/"
 }

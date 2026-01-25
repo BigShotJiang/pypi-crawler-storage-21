@@ -1,11 +1,11 @@
 {
   "name": "databricks-modules-vy",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "summary": "Databricks modules for Vy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "databricks_modules_vy-1.1.14.tar.gz",
-  "download_time": "2026-01-25T18:34:24.585229",
+  "download_filename": "databricks_modules_vy-1.1.15.tar.gz",
+  "download_time": "2026-01-25T19:00:54.792755",
   "package_url": "https://pypi.org/project/databricks-modules-vy/"
 }

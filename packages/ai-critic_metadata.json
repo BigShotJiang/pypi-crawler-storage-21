@@ -1,11 +1,11 @@
 {
   "name": "ai-critic",
-  "version": "0.2.4",
+  "version": "1.0.0",
   "summary": "Fast AI evaluator for scikit-learn models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_critic-0.2.4.tar.gz",
-  "download_time": "2026-01-23T22:58:06.680528",
+  "download_filename": "ai_critic-1.0.0.tar.gz",
+  "download_time": "2026-01-25T19:00:31.275312",
   "package_url": "https://pypi.org/project/ai-critic/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sec-edgar-mcp",
+  "version": "1.0.8",
+  "summary": "SEC EDGAR MCP server for company filings and financial data",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "sec_edgar_mcp-1.0.8.tar.gz",
+  "download_time": "2026-01-25T19:00:38.106920",
+  "package_url": "https://pypi.org/project/sec-edgar-mcp/"
+}
