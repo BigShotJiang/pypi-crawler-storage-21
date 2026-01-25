@@ -1,11 +1,11 @@
 {
   "name": "railway-framework",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Railway Oriented Programming framework for Python",
   "author": "aoisakanana",
   "license": null,
   "home_page": null,
-  "download_filename": "railway_framework-0.11.1-py3-none-any.whl",
-  "download_time": "2026-01-25T17:45:11.924747",
+  "download_filename": "railway_framework-0.11.2.tar.gz",
+  "download_time": "2026-01-25T18:34:36.040440",
   "package_url": "https://pypi.org/project/railway-framework/"
 }

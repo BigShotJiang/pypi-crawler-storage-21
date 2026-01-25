@@ -1,11 +1,11 @@
 {
   "name": "kcwebps",
-  "version": "3.4",
+  "version": "3.11",
   "summary": "kcwebps是建立在 kcwebs 框架的基础上研发的一套 linux 服务器容器系统",
   "author": "百里",
   "license": "Apache License 2.0",
   "home_page": "https://docs.kwebapp.cn/index/index/3",
-  "download_filename": "kcwebps-3.4.tar.gz",
-  "download_time": "2026-01-25T17:22:39.924935",
+  "download_filename": "kcwebps-3.11.tar.gz",
+  "download_time": "2026-01-25T18:34:05.294875",
   "package_url": "https://pypi.org/project/kcwebps/"
 }
