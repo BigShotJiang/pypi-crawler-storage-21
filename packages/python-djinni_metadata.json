@@ -1,11 +1,11 @@
 {
   "name": "python-djinni",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "dependency injection for python",
-  "author": "Your Name",
+  "author": "robot.pizza",
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": "https://github.com/robot-pizza/djinni-python",
-  "download_filename": "python_djinni-0.2.0.tar.gz",
-  "download_time": "2026-01-25T08:32:14.514597",
+  "download_filename": "python_djinni-0.2.2.tar.gz",
+  "download_time": "2026-01-25T16:54:09.285520",
   "package_url": "https://pypi.org/project/python-djinni/"
 }

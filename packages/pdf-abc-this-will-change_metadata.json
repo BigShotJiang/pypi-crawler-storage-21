@@ -1,11 +1,11 @@
 {
   "name": "pdf-abc-this-will-change",
-  "version": "0.1.2",
+  "version": "0.1.9",
   "summary": "PDF Generation Library",
   "author": "Try3D",
   "license": null,
   "home_page": null,
-  "download_filename": "pdf_abc_this_will_change-0.1.2.tar.gz",
-  "download_time": "2026-01-25T16:29:48.333993",
+  "download_filename": "pdf_abc_this_will_change-0.1.9.tar.gz",
+  "download_time": "2026-01-25T16:53:41.392896",
   "package_url": "https://pypi.org/project/pdf-abc-this-will-change/"
 }

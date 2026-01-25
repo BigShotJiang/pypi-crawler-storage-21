@@ -1,20 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T16:30:35.376058
-- **Total Packages**: 91
-- **Total Size**: 35.68 MB
+- **Download Time**: 2026-01-25T16:54:31.172338
+- **Total Packages**: 86
+- **Total Size**: 37.67 MB
 
 ## Packages List
+- freckle
+- pyquery-polars
+- map-with-tree
+- vuer
+- railway-framework
+- wagtail-localize
+- su-master-mind-llm
+- math-helper
+- aa-captrack
+- pdf-abc-this-will-change
+- kcwsqlite
+- kcws
+- keytorch
+- gammarers.aws-secure-bucket
+- selenium-integration
+- pulsing
+- starplot
+- sentimentscopeai
+- nordlys-core-cu12
+- nordlys-core
+- fabricatio
+- aedev-project-tpls
+- fabricatio-diff
+- fabricatio-rag
+- fabricatio-memory
+- abstract-utilities
+- fabricatio-milvus
+- aleph-rlm
+- ebook-reader-supertonic
+- pylxpweb
+- x27cn
+- twshtd
+- fpl-mcp-server
+- yara-gen
+- aiolocust
+- empirica-mcp
+- pyneedle-spec
+- todoosy
+- pyneedle-runtime
+- pyneedle-pointer
+- pyneedle-monorepo
+- empirica
+- pyneedle
+- coreason-refinery
+- crunch-cli
+- spicelib
+- chutes
+- databricks-modules-vy
+- xrayradar
+- python-djinni
+- agent-framework-lib
+- omnibase_core
+- zpdatafetch
 - kikusan
 - ai-todo
 - coati-payroll
 - pyneatR
 - workpulse
 - keplar-api
-- pdf-abc-this-will-change
 - piwave
-- databricks-modules-vy
 - velbus-aio
 - pyspector
 - vgate
@@ -40,60 +91,4 @@
 - stats-compass-mcp
 - tallyfy
 - netbox-plugin-dhcp
-- pylxpweb
-- math-helper
 - odsbox
-- reflowfy
-- cartonnage
-- pytorchcocotools
-- mcp-mesh-tsuite
-- nolite
-- aa-charlink
-- comfy-test
-- claudechic
-- spectra-cli
-- c3a3-config-loader
-- aepp
-- clearml
-- survival
-- metacontroller-pytorch
-- su_master_mind
-- smartXML
-- tklr-dgraham
-- metpysdk
-- scim2-client
-- sayer
-- kcwversion
-- magic-ocr
-- openrewrite
-- xivgear-wrapper-Cedohran
-- gyoza
-- iatoolkit
-- ppnotify
-- agent-framework-lib
-- ecodev-core
-- reposort
-- SubTextHighlight
-- ifcfactory
-- wandas
-- simba-uw-tf-dev
-- inmanta-module-sops
-- linear-term
-- edgartools
-- moai-adk
-- pyqcm
-- cangjie-mcp
-- pycodesage
-- lilya
-- torchgeo
-- conan-unified-api
-- micro-sidebar
-- code-assembler-pro
-- usdb-syncer
-- kivy-chess-board
-- comfyui-nuvu
-- policyengine-canada
-- mars-risk
-- Kea2-python
-- ragscore
-- qwen3-tts-app

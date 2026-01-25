@@ -1,0 +1,11 @@
+{
+  "name": "selenium-integration",
+  "version": "1.0.1",
+  "summary": "Selenium integration utilities for enhanced performance",
+  "author": "Selenium Integration Team",
+  "license": null,
+  "home_page": "https://github.com/selenium/selenium-integration",
+  "download_filename": "selenium_integration-1.0.1.tar.gz",
+  "download_time": "2026-01-25T16:53:44.664054",
+  "package_url": "https://pypi.org/project/selenium-integration/"
+}

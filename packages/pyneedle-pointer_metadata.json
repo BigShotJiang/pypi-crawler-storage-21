@@ -1,0 +1,11 @@
+{
+  "name": "pyneedle-pointer",
+  "version": "0.1.0",
+  "summary": "Standard implementation of Semantic Pointers (L) for PyNeedle.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyneedle_pointer-0.1.0.tar.gz",
+  "download_time": "2026-01-25T16:54:02.745751",
+  "package_url": "https://pypi.org/project/pyneedle-pointer/"
+}

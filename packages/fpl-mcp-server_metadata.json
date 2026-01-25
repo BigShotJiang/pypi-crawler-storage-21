@@ -1,11 +1,11 @@
 {
   "name": "fpl-mcp-server",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Fantasy Premier League MCP Server",
   "author": "Anh Duc Nguyen",
   "license": null,
   "home_page": null,
-  "download_filename": "fpl_mcp_server-0.1.5.tar.gz",
-  "download_time": "2026-01-20T08:42:33.332394",
+  "download_filename": "fpl_mcp_server-0.1.6.tar.gz",
+  "download_time": "2026-01-25T16:53:58.183754",
   "package_url": "https://pypi.org/project/fpl-mcp-server/"
 }
