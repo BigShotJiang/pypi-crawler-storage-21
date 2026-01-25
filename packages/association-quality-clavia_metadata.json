@@ -1,0 +1,11 @@
+{
+  "name": "association-quality-clavia",
+  "version": "0.3.0",
+  "summary": "Enable binary classification of the association in multiple-object tracking.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "association_quality_clavia-0.3.0.tar.gz",
+  "download_time": "2026-01-25T10:26:53.725821",
+  "package_url": "https://pypi.org/project/association-quality-clavia/"
+}

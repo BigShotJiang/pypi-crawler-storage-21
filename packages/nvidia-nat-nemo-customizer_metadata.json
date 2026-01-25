@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-nemo-customizer",
-  "version": "1.5.0a20260124",
+  "version": "1.5.0a20260125",
   "summary": "Subpackage for NeMo Customizer integration in NeMo Agent toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_nemo_customizer-1.5.0a20260124-py3-none-any.whl",
-  "download_time": "2026-01-24T10:24:24.207444",
+  "download_filename": "nvidia_nat_nemo_customizer-1.5.0a20260125-py3-none-any.whl",
+  "download_time": "2026-01-25T10:26:15.536926",
   "package_url": "https://pypi.org/project/nvidia-nat-nemo-customizer/"
 }

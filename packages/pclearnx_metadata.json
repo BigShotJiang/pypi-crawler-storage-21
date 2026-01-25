@@ -1,11 +1,11 @@
 {
   "name": "pclearnx",
-  "version": "2.8",
+  "version": "2.9",
   "summary": "A package to create folders and copy predefined files",
   "author": "jerrry",
   "license": null,
   "home_page": null,
-  "download_filename": "pclearnx-2.8.tar.gz",
-  "download_time": "2026-01-25T09:57:16.528296",
+  "download_filename": "pclearnx-2.9.tar.gz",
+  "download_time": "2026-01-25T10:26:28.503984",
   "package_url": "https://pypi.org/project/pclearnx/"
 }

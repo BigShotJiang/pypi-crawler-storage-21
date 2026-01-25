@@ -1,0 +1,11 @@
+{
+  "name": "nepalpy",
+  "version": "0.2.0",
+  "summary": "Nepali date, Nepal Sambat, and calendar utilities",
+  "author": "Sushil Shrestha",
+  "license": "MIT",
+  "home_page": "https://github.com/mrsushilshrestha",
+  "download_filename": "nepalpy-0.2.0.tar.gz",
+  "download_time": "2026-01-25T10:26:44.250770",
+  "package_url": "https://pypi.org/project/nepalpy/"
+}

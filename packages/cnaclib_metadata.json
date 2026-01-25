@@ -1,11 +1,11 @@
 {
   "name": "cnaclib",
-  "version": "0.1.26",
+  "version": "0.1.28",
   "summary": "Simulateur RAC",
   "author": "BENHAMADA Nadir",
   "license": null,
   "home_page": null,
-  "download_filename": "cnaclib-0.1.26.tar.gz",
-  "download_time": "2026-01-22T15:04:20.616375",
+  "download_filename": "cnaclib-0.1.28.tar.gz",
+  "download_time": "2026-01-25T10:26:06.425056",
   "package_url": "https://pypi.org/project/cnaclib/"
 }

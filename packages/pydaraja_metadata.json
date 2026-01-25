@@ -1,0 +1,11 @@
+{
+  "name": "pydaraja",
+  "version": "1.0.0",
+  "summary": "Python wrapper for Mpesa's Daraja API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydaraja-1.0.0.tar.gz",
+  "download_time": "2026-01-25T10:26:38.263754",
+  "package_url": "https://pypi.org/project/pydaraja/"
+}

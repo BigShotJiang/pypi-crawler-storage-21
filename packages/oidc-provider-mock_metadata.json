@@ -1,0 +1,11 @@
+{
+  "name": "oidc-provider-mock",
+  "version": "0.3.4",
+  "summary": "OpenID Connect provider server for testing authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oidc_provider_mock-0.3.4.tar.gz",
+  "download_time": "2026-01-25T10:26:08.728563",
+  "package_url": "https://pypi.org/project/oidc-provider-mock/"
+}

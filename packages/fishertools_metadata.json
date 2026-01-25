@@ -1,0 +1,11 @@
+{
+  "name": "fishertools",
+  "version": "0.1.0",
+  "summary": "FisherTools - библиотека для быстрой и удобной разработки на Python",
+  "author": "f1sherFM",
+  "license": "MIT",
+  "home_page": "https://github.com/f1sherFM/My_1st_library_python",
+  "download_filename": "fishertools-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-25T10:26:30.545942",
+  "package_url": "https://pypi.org/project/fishertools/"
+}
