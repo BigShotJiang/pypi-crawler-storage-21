@@ -1,0 +1,11 @@
+{
+  "name": "spotizerr-auth-phoenix",
+  "version": "0.0.15",
+  "summary": "A Spotizerr authentication utility for configuring Spotify credentials",
+  "author": "spotizerr-phoenix",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://lavaforge.org/spotizerrphoenix/spotizerr-auth-phoenix",
+  "download_filename": "spotizerr_auth_phoenix-0.0.15.tar.gz",
+  "download_time": "2026-01-25T09:25:38.153840",
+  "package_url": "https://pypi.org/project/spotizerr-auth-phoenix/"
+}

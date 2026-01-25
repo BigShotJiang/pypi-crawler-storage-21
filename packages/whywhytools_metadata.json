@@ -1,0 +1,11 @@
+{
+  "name": "whywhytools",
+  "version": "0.6.0",
+  "summary": "A lightweight Python package for reading and writing JSON/JSON Lines files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whywhytools-0.6.0.tar.gz",
+  "download_time": "2026-01-25T09:25:55.077787",
+  "package_url": "https://pypi.org/project/whywhytools/"
+}

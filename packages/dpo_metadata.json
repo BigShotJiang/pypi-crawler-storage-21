@@ -1,11 +1,11 @@
 {
   "name": "dpo",
-  "version": "1.0.3",
-  "summary": "DPO Neural Architecture Search ",
+  "version": "1.5.0",
+  "summary": "DPO Neural Architecture Search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dpo-1.0.3.tar.gz",
-  "download_time": "2026-01-23T09:03:14.458738",
+  "download_filename": "dpo-1.5.0.tar.gz",
+  "download_time": "2026-01-25T09:25:37.624220",
   "package_url": "https://pypi.org/project/dpo/"
 }
