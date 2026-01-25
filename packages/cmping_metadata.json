@@ -1,11 +1,11 @@
 {
   "name": "cmping",
-  "version": "0.12.0",
+  "version": "0.14.0",
   "summary": "ping messages between chatmail relays",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmping-0.12.0.tar.gz",
-  "download_time": "2026-01-24T13:23:20.042600",
+  "download_filename": "cmping-0.14.0.tar.gz",
+  "download_time": "2026-01-25T14:57:22.737599",
   "package_url": "https://pypi.org/project/cmping/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "yaml-config-manager",
+  "version": "0.2.1",
+  "summary": "A package to manage YAML configuration with command line overrides",
+  "author": "Moreno La quatra",
+  "license": null,
+  "home_page": "https://github.com/MorenoLaQuatra/yaml_config_manager",
+  "download_filename": "yaml_config_manager-0.2.1.tar.gz",
+  "download_time": "2026-01-25T14:57:27.299663",
+  "package_url": "https://pypi.org/project/yaml-config-manager/"
+}

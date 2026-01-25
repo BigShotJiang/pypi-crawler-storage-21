@@ -1,11 +1,11 @@
 {
   "name": "GameBoxUtils",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "A set of helpful code for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gameboxutils-0.2.0.tar.gz",
-  "download_time": "2026-01-25T14:22:41.407978",
+  "download_filename": "gameboxutils-0.2.3.tar.gz",
+  "download_time": "2026-01-25T14:57:11.069139",
   "package_url": "https://pypi.org/project/GameBoxUtils/"
 }

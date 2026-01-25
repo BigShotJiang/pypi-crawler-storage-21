@@ -1,0 +1,11 @@
+{
+  "name": "shaping-network",
+  "version": "0.1.1",
+  "summary": "A neural network implementation using shaping functions",
+  "author": "Brissach",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shaping_network-0.1.1.tar.gz",
+  "download_time": "2026-01-25T14:57:21.968908",
+  "package_url": "https://pypi.org/project/shaping-network/"
+}
