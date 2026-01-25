@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-auditlog",
+  "version": "19.0.1.0.0.7",
+  "summary": "Audit Log",
+  "author": "ABF OSIELL, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_auditlog-19.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2026-01-25T22:24:51.752625",
+  "package_url": "https://pypi.org/project/odoo-addon-auditlog/"
+}

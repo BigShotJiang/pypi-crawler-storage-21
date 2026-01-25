@@ -1,0 +1,11 @@
+{
+  "name": "ownership",
+  "version": "0.0.1",
+  "summary": "Enrich CODEOWNERS files with metadata via owners.toml",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ownership-0.0.1.tar.gz",
+  "download_time": "2026-01-25T22:25:05.223334",
+  "package_url": "https://pypi.org/project/ownership/"
+}

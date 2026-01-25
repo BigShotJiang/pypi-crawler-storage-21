@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-zap",
+  "version": "0.6.0",
+  "summary": "Zero-copy Agent Protocol (ZAP) SDK - 1000x faster than MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hanzo_zap-0.6.0.tar.gz",
+  "download_time": "2026-01-25T22:25:04.701986",
+  "package_url": "https://pypi.org/project/hanzo-zap/"
+}

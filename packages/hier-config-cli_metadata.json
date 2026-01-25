@@ -1,0 +1,11 @@
+{
+  "name": "hier-config-cli",
+  "version": "0.2.0",
+  "summary": "A command-line interface tool for network configuration analysis, remediation, and rollback built on top of the Hier Config library",
+  "author": "James Williams",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/netdevops/hier-config-cli",
+  "download_filename": "hier_config_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-25T22:24:38.056378",
+  "package_url": "https://pypi.org/project/hier-config-cli/"
+}

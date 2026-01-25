@@ -1,0 +1,11 @@
+{
+  "name": "pyVPRM",
+  "version": "5.3",
+  "summary": "Vegetation Photosynthesis and Respiration Model",
+  "author": "Theo Glauch",
+  "license": "MIT",
+  "home_page": "https://github.com/tglauch/pyVPRM/",
+  "download_filename": "pyvprm-5.3.tar.gz",
+  "download_time": "2026-01-25T22:24:55.955557",
+  "package_url": "https://pypi.org/project/pyVPRM/"
+}

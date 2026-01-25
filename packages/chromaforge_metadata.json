@@ -1,0 +1,11 @@
+{
+  "name": "chromaforge",
+  "version": "1.0.0",
+  "summary": "Advanced terminal coloring library for Python - Beyond colorama and rich",
+  "author": "PyIDE Team",
+  "license": "MIT",
+  "home_page": "https://github.com/AeonLtd/chromaforge",
+  "download_filename": "chromaforge-1.0.0.tar.gz",
+  "download_time": "2026-01-25T22:24:48.604514",
+  "package_url": "https://pypi.org/project/chromaforge/"
+}

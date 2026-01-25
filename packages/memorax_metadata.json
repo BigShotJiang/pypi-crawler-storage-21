@@ -1,0 +1,11 @@
+{
+  "name": "memorax",
+  "version": "1.0.0",
+  "summary": "A unified JAX/Flax framework for memory-augmented reinforcement learning with support for RNNs, SSMs, and Transformers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memorax-1.0.0.tar.gz",
+  "download_time": "2026-01-25T22:24:42.213238",
+  "package_url": "https://pypi.org/project/memorax/"
+}

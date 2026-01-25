@@ -1,0 +1,11 @@
+{
+  "name": "pandas_market_calendars",
+  "version": "5.3.0",
+  "summary": "Market and exchange trading calendars for pandas",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pandas_market_calendars-5.3.0.tar.gz",
+  "download_time": "2026-01-25T22:25:07.295328",
+  "package_url": "https://pypi.org/project/pandas_market_calendars/"
+}

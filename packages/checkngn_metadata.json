@@ -1,0 +1,11 @@
+{
+  "name": "checkngn",
+  "version": "0.1.4",
+  "summary": "A lightweight Python DSL for setting up business intelligence rules that can be configured without code.",
+  "author": "AhnafCodes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "checkngn-0.1.4.tar.gz",
+  "download_time": "2026-01-25T22:24:47.582241",
+  "package_url": "https://pypi.org/project/checkngn/"
+}

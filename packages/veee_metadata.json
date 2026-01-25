@@ -1,0 +1,11 @@
+{
+  "name": "veee",
+  "version": "0.0.19",
+  "summary": "API Integrations for Social Media Platforms",
+  "author": "clivern",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/clivern/veee/",
+  "download_filename": "veee-0.0.19.tar.gz",
+  "download_time": "2026-01-25T22:24:59.567044",
+  "package_url": "https://pypi.org/project/veee/"
+}

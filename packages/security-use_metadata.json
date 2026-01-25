@@ -1,11 +1,11 @@
 {
   "name": "security-use",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Security scanning tool for dependencies and Infrastructure as Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "security_use-0.2.2.tar.gz",
-  "download_time": "2026-01-25T21:44:35.715266",
+  "download_filename": "security_use-0.2.4.tar.gz",
+  "download_time": "2026-01-25T22:24:53.874323",
   "package_url": "https://pypi.org/project/security-use/"
 }
