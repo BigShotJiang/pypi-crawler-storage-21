@@ -1,11 +1,11 @@
 {
   "name": "mi-crow",
-  "version": "1.0.0",
+  "version": "1.0.0.post1",
   "summary": "Engineer Thesis: Explaining and modifying LLM responses using SAE and concepts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mi_crow-1.0.0.tar.gz",
-  "download_time": "2026-01-25T12:46:14.604304",
+  "download_filename": "mi_crow-1.0.0.post1-py3-none-any.whl",
+  "download_time": "2026-01-25T13:25:46.010293",
   "package_url": "https://pypi.org/project/mi-crow/"
 }

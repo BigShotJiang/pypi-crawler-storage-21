@@ -1,0 +1,11 @@
+{
+  "name": "mhc",
+  "version": "0.5.3",
+  "summary": "Manifold-Constrained Hyper-Connections: Stable multi-history skip connections for deep neural networks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mhc-0.5.3.tar.gz",
+  "download_time": "2026-01-25T13:25:27.225943",
+  "package_url": "https://pypi.org/project/mhc/"
+}

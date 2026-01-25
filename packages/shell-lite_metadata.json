@@ -1,0 +1,11 @@
+{
+  "name": "shell-lite",
+  "version": "0.5",
+  "summary": "ShellLite: The English-Like Programming Language with LLVM Backend",
+  "author": "Shrey Naithani",
+  "license": null,
+  "home_page": "https://github.com/Shrey-N/ShellDesk",
+  "download_filename": "shell_lite-0.5.tar.gz",
+  "download_time": "2026-01-25T13:25:24.583715",
+  "package_url": "https://pypi.org/project/shell-lite/"
+}

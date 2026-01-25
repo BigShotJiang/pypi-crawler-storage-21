@@ -1,0 +1,11 @@
+{
+  "name": "geronimo",
+  "version": "0.2.2",
+  "summary": "ML deployment framework - from local development to production with one command",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "geronimo-0.2.2.tar.gz",
+  "download_time": "2026-01-25T13:25:40.673597",
+  "package_url": "https://pypi.org/project/geronimo/"
+}

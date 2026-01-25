@@ -1,11 +1,11 @@
 {
   "name": "blueair-api",
-  "version": "1.45.1",
+  "version": "1.45.2",
   "summary": "Blueair Api Wrapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blueair_api-1.45.1.tar.gz",
-  "download_time": "2026-01-24T16:28:42.122473",
+  "download_filename": "blueair_api-1.45.2.tar.gz",
+  "download_time": "2026-01-25T13:26:08.754617",
   "package_url": "https://pypi.org/project/blueair-api/"
 }

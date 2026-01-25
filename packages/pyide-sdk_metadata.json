@@ -1,0 +1,11 @@
+{
+  "name": "pyide-sdk",
+  "version": "1.0.0",
+  "summary": "Plugin SDK for PyIDE - Create extensions and plugins for PyIDE",
+  "author": "PyIDE Team",
+  "license": "MIT",
+  "home_page": "https://github.com/AeonLtd/pyide-sdk",
+  "download_filename": "pyide_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-25T13:25:54.306189",
+  "package_url": "https://pypi.org/project/pyide-sdk/"
+}
