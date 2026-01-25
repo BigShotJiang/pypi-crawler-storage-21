@@ -1,0 +1,11 @@
+{
+  "name": "xdem",
+  "version": "0.2.1",
+  "summary": "Analysis of digital elevation models and elevation point clouds",
+  "author": "xDEM developers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/GlacioHack/xdem",
+  "download_filename": "xdem-0.2.1-py3-none-any.whl",
+  "download_time": "2026-01-25T23:24:34.802469",
+  "package_url": "https://pypi.org/project/xdem/"
+}

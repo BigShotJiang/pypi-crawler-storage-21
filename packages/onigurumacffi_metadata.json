@@ -1,0 +1,11 @@
+{
+  "name": "onigurumacffi",
+  "version": "1.5.0",
+  "summary": "python cffi bindings for the oniguruma regex engine",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/asottile/onigurumacffi",
+  "download_filename": "onigurumacffi-1.5.0.tar.gz",
+  "download_time": "2026-01-25T23:24:13.132116",
+  "package_url": "https://pypi.org/project/onigurumacffi/"
+}

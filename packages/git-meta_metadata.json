@@ -1,0 +1,11 @@
+{
+  "name": "git-meta",
+  "version": "0.3",
+  "summary": "Git repository manager",
+  "author": "Jules DAVID",
+  "license": null,
+  "home_page": "https://github.com/galactics/git-meta",
+  "download_filename": "git_meta-0.3.tar.gz",
+  "download_time": "2026-01-25T23:24:35.344056",
+  "package_url": "https://pypi.org/project/git-meta/"
+}

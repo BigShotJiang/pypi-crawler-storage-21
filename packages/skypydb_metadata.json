@@ -1,11 +1,11 @@
 {
   "name": "skypydb",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Open Source Reactive Database",
   "author": "Ahen Studio",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skypydb-0.1.7.tar.gz",
-  "download_time": "2026-01-25T22:25:11.317731",
+  "download_filename": "skypydb-0.1.8.tar.gz",
+  "download_time": "2026-01-25T23:24:15.264967",
   "package_url": "https://pypi.org/project/skypydb/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kcws",
-  "version": "3.11",
+  "version": "3.15",
   "summary": "kcwebs作为web开发而设计的高性能框架",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": "https://docs.kwebapp.cn/index/index/2",
-  "download_filename": "kcws-3.11.tar.gz",
-  "download_time": "2026-01-25T18:34:14.129913",
+  "download_filename": "kcws-3.15.tar.gz",
+  "download_time": "2026-01-25T23:24:01.284681",
   "package_url": "https://pypi.org/project/kcws/"
 }

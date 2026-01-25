@@ -1,0 +1,11 @@
+{
+  "name": "hf-deepali",
+  "version": "0.6.5",
+  "summary": "Image, point set, and surface registration library for PyTorch.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hf_deepali-0.6.5.tar.gz",
+  "download_time": "2026-01-25T23:24:24.896428",
+  "package_url": "https://pypi.org/project/hf-deepali/"
+}
