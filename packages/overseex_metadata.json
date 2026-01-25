@@ -1,0 +1,11 @@
+{
+  "name": "overseex",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for OverseeX - AI Agent Testing & Monitoring",
+  "author": "OverseeX Team",
+  "license": null,
+  "home_page": "https://github.com/overseex/python-sdk",
+  "download_filename": "overseex-1.0.0.tar.gz",
+  "download_time": "2026-01-25T08:54:26.512388",
+  "package_url": "https://pypi.org/project/overseex/"
+}

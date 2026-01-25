@@ -1,0 +1,11 @@
+{
+  "name": "pytest-fixture-cache",
+  "version": "0.1.0",
+  "summary": "Smart fixture caching for pytest with SQLite storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytest_fixture_cache-0.1.0.tar.gz",
+  "download_time": "2026-01-25T08:54:33.323803",
+  "package_url": "https://pypi.org/project/pytest-fixture-cache/"
+}

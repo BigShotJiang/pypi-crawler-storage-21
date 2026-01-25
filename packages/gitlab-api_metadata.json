@@ -1,11 +1,11 @@
 {
   "name": "gitlab-api",
-  "version": "25.14.6",
+  "version": "25.14.8",
   "summary": "GitLab API + MCP Server + A2A Server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitlab_api-25.14.6.tar.gz",
-  "download_time": "2026-01-21T05:53:20.294217",
+  "download_filename": "gitlab_api-25.14.8.tar.gz",
+  "download_time": "2026-01-25T08:54:25.474666",
   "package_url": "https://pypi.org/project/gitlab-api/"
 }
