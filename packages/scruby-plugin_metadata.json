@@ -1,11 +1,11 @@
 {
   "name": "scruby-plugin",
-  "version": "0.3.8",
+  "version": "0.4.2",
   "summary": "Library for creating Scruby plugins.",
   "author": "kebasyaty",
   "license": null,
   "home_page": null,
-  "download_filename": "scruby_plugin-0.3.8-py3-none-any.whl",
-  "download_time": "2026-01-25T05:58:55.866939",
+  "download_filename": "scruby_plugin-0.4.2-py3-none-any.whl",
+  "download_time": "2026-01-25T17:45:07.176350",
   "package_url": "https://pypi.org/project/scruby-plugin/"
 }

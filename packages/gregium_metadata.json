@@ -1,11 +1,11 @@
 {
   "name": "gregium",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "A package with a ton of different useful code snippets",
   "author": "LavaTigerUnicrn",
   "license": "MIT",
   "home_page": "https://github.com/LavaTigerUnicrn/Gregium",
-  "download_filename": "gregium-2.0.2.tar.gz",
-  "download_time": "2026-01-25T02:01:54.217578",
+  "download_filename": "gregium-2.0.3.tar.gz",
+  "download_time": "2026-01-25T17:45:13.482775",
   "package_url": "https://pypi.org/project/gregium/"
 }

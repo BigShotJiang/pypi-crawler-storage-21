@@ -1,11 +1,11 @@
 {
   "name": "authcheck",
-  "version": "0.0.16",
+  "version": "0.0.19",
   "summary": "Find if characret is registered in auth",
   "author": "Aleksey Misyagin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "authcheck-0.0.16-py3-none-any.whl",
-  "download_time": "2026-01-25T15:57:15.022689",
+  "download_filename": "authcheck-0.0.19.tar.gz",
+  "download_time": "2026-01-25T17:45:24.060844",
   "package_url": "https://pypi.org/project/authcheck/"
 }

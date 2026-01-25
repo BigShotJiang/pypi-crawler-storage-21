@@ -1,11 +1,11 @@
 {
   "name": "kadepy",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "High-performance P2P Swarm implementation in C/Python with Signed RPC and IPC",
   "author": "KadePy Contributors",
   "license": "MIT",
   "home_page": "https://github.com/ON00dev/KadePy",
-  "download_filename": "kadepy-0.2.2.tar.gz",
-  "download_time": "2026-01-24T01:48:34.917780",
+  "download_filename": "kadepy-0.2.3.tar.gz",
+  "download_time": "2026-01-25T17:45:28.772722",
   "package_url": "https://pypi.org/project/kadepy/"
 }

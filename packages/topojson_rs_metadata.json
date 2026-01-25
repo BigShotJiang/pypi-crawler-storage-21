@@ -1,0 +1,11 @@
+{
+  "name": "topojson_rs",
+  "version": "0.2",
+  "summary": "Implementation of topojson-client in Rust for creating native Python extension.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "topojson_rs-0.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-01-25T17:45:39.859775",
+  "package_url": "https://pypi.org/project/topojson_rs/"
+}

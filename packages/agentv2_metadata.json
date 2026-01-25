@@ -1,0 +1,11 @@
+{
+  "name": "agentv2",
+  "version": "0.1.4",
+  "summary": "A production-ready Python framework for building autonomous AI agents that can plan, validate, and execute complex tasks using LLMs and custom tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentv2-0.1.4.tar.gz",
+  "download_time": "2026-01-25T17:45:08.782497",
+  "package_url": "https://pypi.org/project/agentv2/"
+}

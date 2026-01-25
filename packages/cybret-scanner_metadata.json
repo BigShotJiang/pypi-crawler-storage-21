@@ -1,0 +1,11 @@
+{
+  "name": "cybret-scanner",
+  "version": "1.0.0",
+  "summary": "AI-Powered Logic Vulnerability Scanner with Autonomous Remediation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cybret_scanner-1.0.0.tar.gz",
+  "download_time": "2026-01-25T17:45:46.335076",
+  "package_url": "https://pypi.org/project/cybret-scanner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dockerctl",
+  "version": "1.2",
+  "summary": "Python Script to steer (multiple) docker-compose-yaml's from everywhere.",
+  "author": "Oskar Roesler (bionade24)",
+  "license": "GPLv3",
+  "home_page": "https://github.com/bionade24/dockerctl",
+  "download_filename": "dockerctl-1.2-py3-none-any.whl",
+  "download_time": "2026-01-25T17:45:47.391216",
+  "package_url": "https://pypi.org/project/dockerctl/"
+}

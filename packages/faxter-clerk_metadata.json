@@ -1,0 +1,11 @@
+{
+  "name": "faxter-clerk",
+  "version": "1.0.0",
+  "summary": "Command-line interface for AI Accounting OS - Talk to your books like you're texting a friend",
+  "author": "AI Accounting Team",
+  "license": "MIT",
+  "home_page": "https://ai.faxter.com",
+  "download_filename": "faxter_clerk-1.0.0.tar.gz",
+  "download_time": "2026-01-25T17:45:51.657428",
+  "package_url": "https://pypi.org/project/faxter-clerk/"
+}
