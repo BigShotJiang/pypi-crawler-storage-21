@@ -1,0 +1,11 @@
+{
+  "name": "cycletls",
+  "version": "0.0.3",
+  "summary": "Advanced TLS fingerprinting library with JA3, JA4, HTTP/2, HTTP/3, WebSocket, and SSE support - bypass anti-bot detection by impersonating real browsers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cycletls-0.0.3.tar.gz",
+  "download_time": "2026-01-25T06:42:15.212902",
+  "package_url": "https://pypi.org/project/cycletls/"
+}

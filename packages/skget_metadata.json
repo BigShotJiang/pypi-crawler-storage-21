@@ -1,11 +1,11 @@
 {
   "name": "skget",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A CLI to add skills to your coding agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skget-0.4.0.tar.gz",
-  "download_time": "2026-01-25T02:02:22.285702",
+  "download_filename": "skget-0.5.0.tar.gz",
+  "download_time": "2026-01-25T06:42:16.259341",
   "package_url": "https://pypi.org/project/skget/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wedopython-rpi4",
+  "version": "1.2.0",
+  "summary": "Python BLE library for LEGO WeDo 2.0 using gattlib (Raspberry Pi 4)",
+  "author": "Evangelia Anastasaki",
+  "license": null,
+  "home_page": "https://github.com/eveanast/wedopython_rpi4",
+  "download_filename": "wedopython_rpi4-1.2.0.tar.gz",
+  "download_time": "2026-01-25T06:42:11.133203",
+  "package_url": "https://pypi.org/project/wedopython-rpi4/"
+}

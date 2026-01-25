@@ -1,11 +1,11 @@
 {
   "name": "ascii-tee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Generate custom ASCII art t-shirts from the command line",
   "author": "Clark Developer",
   "license": null,
   "home_page": null,
-  "download_filename": "ascii_tee-0.1.0.tar.gz",
-  "download_time": "2026-01-25T05:59:03.758414",
+  "download_filename": "ascii_tee-0.1.1.tar.gz",
+  "download_time": "2026-01-25T06:41:52.787272",
   "package_url": "https://pypi.org/project/ascii-tee/"
 }

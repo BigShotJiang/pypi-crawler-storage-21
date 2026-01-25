@@ -1,0 +1,11 @@
+{
+  "name": "PySimpleEven",
+  "version": "0.1.0",
+  "summary": "Ver se um número é par ou impar.",
+  "author": "Daniel Menezes",
+  "license": null,
+  "home_page": "https://github.com/oDaniel728/py-simple-even",
+  "download_filename": "pysimpleeven-0.1.0.tar.gz",
+  "download_time": "2026-01-25T06:42:03.001890",
+  "package_url": "https://pypi.org/project/PySimpleEven/"
+}

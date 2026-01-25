@@ -1,0 +1,11 @@
+{
+  "name": "pyinla",
+  "version": "0.1.0",
+  "summary": "Python interface for INLA (Integrated Nested Laplace Approximation) with bundled binaries.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "pyinla-0.1.0.tar.gz",
+  "download_time": "2026-01-25T06:42:04.811183",
+  "package_url": "https://pypi.org/project/pyinla/"
+}

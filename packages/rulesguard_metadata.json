@@ -1,11 +1,11 @@
 {
   "name": "rulesguard",
-  "version": "0.1.1",
-  "summary": "Security scanner for AI coding assistant configuration files",
+  "version": "0.1.2",
+  "summary": "Security scanner and policy enforcement for AI, IDE, and automation configuration files",
   "author": "RulesGuard Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "rulesguard-0.1.1.tar.gz",
-  "download_time": "2026-01-24T03:29:19.713896",
+  "download_filename": "rulesguard-0.1.2.tar.gz",
+  "download_time": "2026-01-25T06:41:50.215505",
   "package_url": "https://pypi.org/project/rulesguard/"
 }

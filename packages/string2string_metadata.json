@@ -1,0 +1,11 @@
+{
+  "name": "string2string",
+  "version": "0.0.151",
+  "summary": "String-to-String Algorithms for Natural Language Processing",
+  "author": "Mirac Suzgun",
+  "license": "MIT",
+  "home_page": "https://github.com/stanfordnlp/string2string",
+  "download_filename": "string2string-0.0.151.tar.gz",
+  "download_time": "2026-01-25T06:41:46.380245",
+  "package_url": "https://pypi.org/project/string2string/"
+}

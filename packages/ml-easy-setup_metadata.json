@@ -1,11 +1,11 @@
 {
   "name": "ml-easy-setup",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "一键配置机器学习/深度学习环境，解决依赖冲突和配置难题",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ml_easy_setup-0.2.0.tar.gz",
-  "download_time": "2026-01-25T04:59:11.823095",
+  "download_filename": "ml_easy_setup-0.4.0.tar.gz",
+  "download_time": "2026-01-25T06:42:23.299936",
   "package_url": "https://pypi.org/project/ml-easy-setup/"
 }
