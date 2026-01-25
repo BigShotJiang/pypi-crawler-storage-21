@@ -1,11 +1,11 @@
 {
   "name": "ash-sdk",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "summary": "ASH SDK for Python - Request integrity and anti-replay protection library",
   "author": "3maem",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ash_sdk-2.3.1.tar.gz",
-  "download_time": "2026-01-25T15:57:06.018182",
+  "download_filename": "ash_sdk-2.3.2.tar.gz",
+  "download_time": "2026-01-25T19:41:44.481982",
   "package_url": "https://pypi.org/project/ash-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ida-hcli",
+  "version": "0.15.12",
+  "summary": "HCLI - Hex-Rays CLI Utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ida_hcli-0.15.12.tar.gz",
+  "download_time": "2026-01-25T19:41:48.789948",
+  "package_url": "https://pypi.org/project/ida-hcli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "viking-log-keeper",
+  "version": "2.7.0",
+  "summary": "661 VGS - Package to collate 2965D log sheets into a master log, database, and dashboard.",
+  "author": "Michael Jennings",
+  "license": "MIT",
+  "home_page": "https://github.com/mjennings061/viking-log-keeper",
+  "download_filename": "viking_log_keeper-2.7.0.tar.gz",
+  "download_time": "2026-01-25T19:41:42.854160",
+  "package_url": "https://pypi.org/project/viking-log-keeper/"
+}
