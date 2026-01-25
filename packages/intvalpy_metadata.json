@@ -1,0 +1,11 @@
+{
+  "name": "intvalpy",
+  "version": "2.0.0",
+  "summary": "IntvalPy - a Python interval computation library",
+  "author": "Андросов Артем Станиславович, Шарый Сергей Петрович",
+  "license": "MIT License",
+  "home_page": "https://github.com/AndrosovAS/intvalpy",
+  "download_filename": "intvalpy-2.0.0.tar.gz",
+  "download_time": "2026-01-25T07:53:48.662611",
+  "package_url": "https://pypi.org/project/intvalpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fleb-esq",
+  "version": "0.1.2",
+  "summary": "Escape SeQuence Generator: Another ANSI escape-code tool",
+  "author": "FLEB (a.k.a. SuperFLEB)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fleb_esq-0.1.2.tar.gz",
+  "download_time": "2026-01-25T07:54:02.298685",
+  "package_url": "https://pypi.org/project/fleb-esq/"
+}

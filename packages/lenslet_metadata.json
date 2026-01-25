@@ -1,11 +1,11 @@
 {
   "name": "lenslet",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Lightweight image gallery server - no database, no files left behind",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lenslet-0.2.9.tar.gz",
-  "download_time": "2026-01-24T23:43:39.154418",
+  "download_filename": "lenslet-0.2.10.tar.gz",
+  "download_time": "2026-01-25T07:54:03.341821",
   "package_url": "https://pypi.org/project/lenslet/"
 }

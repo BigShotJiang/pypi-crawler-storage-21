@@ -1,11 +1,11 @@
 {
   "name": "llmstxt2skill",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Convert llms.txt to Claude Code Skill format",
   "author": "llmstxt2skill contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "llmstxt2skill-0.2.2.tar.gz",
-  "download_time": "2026-01-25T05:59:00.110303",
+  "download_filename": "llmstxt2skill-0.2.3.tar.gz",
+  "download_time": "2026-01-25T07:54:14.771609",
   "package_url": "https://pypi.org/project/llmstxt2skill/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "athena-code",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "A semantic code analysis tool designed to help Claude Code navigate repositories efficiently while dramatically reducing token consumption.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "athena_code-0.0.19.tar.gz",
-  "download_time": "2026-01-24T09:24:14.630832",
+  "download_filename": "athena_code-0.0.20.tar.gz",
+  "download_time": "2026-01-25T07:54:17.405013",
   "package_url": "https://pypi.org/project/athena-code/"
 }
