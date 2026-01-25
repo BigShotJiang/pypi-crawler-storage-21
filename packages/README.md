@@ -1,12 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T09:47:09.491812
-- **Total Packages**: 86
-- **Total Size**: 22.85 MB
+- **Download Time**: 2026-01-25T09:58:01.288479
+- **Total Packages**: 87
+- **Total Size**: 2.46 MB
 
 ## Packages List
+- nlbone
+- nlp2cmd
+- pclearnx
+- spritepro
+- nvfuser-cu126
+- clouvel
+- nvfuser-cu128
+- remoroo
+- nvfuser-cu130
+- rtdi-kafkaavro
+- majoplot
+- microcode
+- alak-acl
+- yomail
 - broccoli-ml
+- HydrogenLib-Core
+- ynab-unlinked
+- ikali
+- ayechat-dev
+- sahges-sdk
+- test-poc-package-for-session-2
+- agent-diff
+- wordslab-notebooks-lib
+- kitsunekko-tools
+- legit-api-client
+- testgres.os-ops
+- awepatch
 - tfp-nightly
 - geek-cafe-saas-sdk
 - mypylib
@@ -18,7 +44,6 @@
 - kimi-cli
 - moai-adk
 - pelutils
-- ikali
 - HydrogenLib-Ctypes
 - funpaybotengine
 - mkdocs-fun-plugin
@@ -27,7 +52,6 @@
 - debugaid
 - sailor-remote-agent
 - kuaijs-ios
-- nlp2cmd
 - mokit-tui
 - ulmtools
 - geniable
@@ -64,31 +88,8 @@
 - chronosx
 - pip-toolbox
 - sentry-dingtalk-notify
-- wordslab-notebooks-lib
 - ksupk
 - comdirect-api-wrapper
 - tosend
 - splat64
 - TikLocal
-- integration-smoke-test
-- littrs
-- p2pstore
-- data-time-machine
-- media-downloader
-- rtm-mcp
-- structRFM
-- chess-post-analyst
-- mcstatusio
-- security-use
-- cyntrisec
-- llcat
-- boto3-assist
-- flyhiawa-math
-- netHighTech
-- bayspec
-- dpo
-- spotizerr-auth-phoenix
-- agentic-dashboard-ai
-- fbuild
-- fh-matui
-- nitro-cli

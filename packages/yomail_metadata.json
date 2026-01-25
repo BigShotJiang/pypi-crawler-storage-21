@@ -1,0 +1,11 @@
+{
+  "name": "yomail",
+  "version": "0.1.0",
+  "summary": "Extract body text from Japanese business emails",
+  "author": "terallite, Linus Tan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yomail-0.1.0.tar.gz",
+  "download_time": "2026-01-25T09:57:22.778564",
+  "package_url": "https://pypi.org/project/yomail/"
+}

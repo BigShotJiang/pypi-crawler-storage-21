@@ -1,11 +1,11 @@
 {
   "name": "HydrogenLib-Core",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hydrogenlib_core-0.4.0-py3-none-any.whl",
-  "download_time": "2026-01-24T09:44:33.715892",
+  "download_filename": "hydrogenlib_core-0.4.1-py3-none-any.whl",
+  "download_time": "2026-01-25T09:57:24.333880",
   "package_url": "https://pypi.org/project/HydrogenLib-Core/"
 }
