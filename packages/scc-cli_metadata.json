@@ -1,11 +1,11 @@
 {
   "name": "scc-cli",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "summary": "Run Claude Code in Docker sandboxes with team configs and git worktree support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scc_cli-1.7.1.tar.gz",
-  "download_time": "2026-01-22T19:55:26.160728",
+  "download_filename": "scc_cli-1.7.2.tar.gz",
+  "download_time": "2026-01-25T11:42:12.614144",
   "package_url": "https://pypi.org/project/scc-cli/"
 }

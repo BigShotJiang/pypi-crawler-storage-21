@@ -1,0 +1,11 @@
+{
+  "name": "microesb",
+  "version": "1.1.1",
+  "summary": "A Small OOP Based Enterprise Service Bus Implementation.",
+  "author": "Claus Prüfer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "microesb-1.1.1.tar.gz",
+  "download_time": "2026-01-25T11:42:01.004869",
+  "package_url": "https://pypi.org/project/microesb/"
+}

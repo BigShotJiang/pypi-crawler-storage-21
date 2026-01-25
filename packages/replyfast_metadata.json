@@ -1,0 +1,11 @@
+{
+  "name": "replyfast",
+  "version": "0.1.0",
+  "summary": "Signal messaging library for Python using Presage (Rust)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "replyfast-0.1.0.tar.gz",
+  "download_time": "2026-01-25T11:42:07.846094",
+  "package_url": "https://pypi.org/project/replyfast/"
+}
