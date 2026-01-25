@@ -1,11 +1,11 @@
 {
   "name": "ikali",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "iKali, runs a command when typing ikali into the terminal.",
   "author": "Hypa",
   "license": null,
   "home_page": "https://github.com/HypaTobaYT/ikali",
-  "download_filename": "ikali-1.0.5.tar.gz",
-  "download_time": "2026-01-25T07:02:55.842814",
+  "download_filename": "ikali-1.0.6.tar.gz",
+  "download_time": "2026-01-25T07:36:04.330411",
   "package_url": "https://pypi.org/project/ikali/"
 }

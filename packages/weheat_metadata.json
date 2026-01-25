@@ -1,0 +1,11 @@
+{
+  "name": "weheat",
+  "version": "2026.1.25",
+  "summary": "Weheat Backend client",
+  "author": "Jesper Raemaekers",
+  "license": "MIT",
+  "home_page": "https://github.com/wefabricate/wh-python",
+  "download_filename": "weheat-2026.1.25.tar.gz",
+  "download_time": "2026-01-25T07:36:08.691968",
+  "package_url": "https://pypi.org/project/weheat/"
+}

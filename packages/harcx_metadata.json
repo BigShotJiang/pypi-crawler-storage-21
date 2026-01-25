@@ -1,0 +1,11 @@
+{
+  "name": "harcx",
+  "version": "0.1.1",
+  "summary": "Verify .bib file citations against academic databases (Semantic Scholar, DBLP, Open Library)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "harcx-0.1.1.tar.gz",
+  "download_time": "2026-01-25T07:35:55.835328",
+  "package_url": "https://pypi.org/project/harcx/"
+}

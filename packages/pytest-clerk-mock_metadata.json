@@ -1,0 +1,11 @@
+{
+  "name": "pytest-clerk-mock",
+  "version": "0.1.0",
+  "summary": "A pytest plugin for mocking Clerk authentication",
+  "author": "Julien Kmec",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_clerk_mock-0.1.0.tar.gz",
+  "download_time": "2026-01-25T07:35:52.629236",
+  "package_url": "https://pypi.org/project/pytest-clerk-mock/"
+}

@@ -1,16 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T07:03:25.845739
-- **Total Packages**: 77
-- **Total Size**: 25.66 MB
+- **Download Time**: 2026-01-25T07:36:34.970665
+- **Total Packages**: 70
+- **Total Size**: 14.43 MB
 
 ## Packages List
+- hbllmutils
+- py-abu
+- pytest-clerk-mock
+- pixie-prompts
+- effdim
+- stabilize
+- harcx
+- magic_hour
+- linear-mcp-fast
+- caicurator
+- gudupao-backend-frontend-demo
+- upathtools
+- mttf
+- drawio2pptx
+- prismcode
+- streamlit-nightly
+- ikali
+- agent-cli
+- sailor-remote-agent
+- ha-mcp-dev
+- mineai
+- bleak-esphome
+- pytypeinput
+- weheat
+- pycodata
+- look-bench
 - lib-x17-datawork
 - projectdavid-common
 - sqlitepool
 - claude-mpm
-- caicurator
 - polymcp
 - yamlgraph
 - pinkyclawd
@@ -19,18 +44,14 @@
 - platformx
 - silars
 - confbox
-- ha-mcp-dev
 - dycw-actions
 - pykrx
 - opera-cloud-mcp
 - user-context-remote
 - genome-entropy
 - string2string
-- pixie-prompts
 - wikinet-link-prediction
-- ikali
 - ccb-essentials
-- mineai
 - discord-shared-db
 - vectorwave
 - nopasaran
@@ -40,7 +61,6 @@
 - karaoke-gen
 - terraform-guardrail
 - fbuild
-- hbllmutils
 - leafmap
 - django-sqlite-tenants
 - loopflow
@@ -48,38 +68,11 @@
 - moai-adk
 - localsage
 - ipulse-shared-base-ftredge
-- sailor-remote-agent
 - fdpbundle
 - ripgrep-rs
 - castella
-- gudupao-backend-frontend-demo
 - openlearning
 - zrb
 - solyanka
 - gha-utils
 - SURE-tools
-- linear-mcp-fast
-- velocity-python
-- rulesguard
-- holoviz-mcp
-- panel-bie
-- sprime
-- ascii-tee
-- polars-readstat
-- sentienceapi
-- turtles
-- photos_drive
-- scriptbook
-- spacekernel
-- magic_hour
-- mcp-roblox-docs
-- unitysvc-services
-- machineconfig
-- math3d-py
-- intentkit
-- empathy-framework
-- rosetta-ce
-- x-anylabeling-cvhub
-- Yuku
-- PySimpleEven
-- fake-bpy-module

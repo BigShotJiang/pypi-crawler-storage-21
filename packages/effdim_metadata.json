@@ -1,0 +1,11 @@
+{
+  "name": "effdim",
+  "version": "0.1.1",
+  "summary": "A unified library for estimating effective dimensionality.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "effdim-0.1.1.tar.gz",
+  "download_time": "2026-01-25T07:35:54.541377",
+  "package_url": "https://pypi.org/project/effdim/"
+}
