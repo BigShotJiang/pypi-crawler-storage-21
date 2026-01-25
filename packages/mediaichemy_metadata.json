@@ -1,11 +1,11 @@
 {
   "name": "mediaichemy",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "AI powered cost-effective content creation 🧪",
-  "author": "Pedro Blaya Luz",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/pedroblayaluz/mediaichemy",
-  "download_filename": "mediaichemy-1.0.6.tar.gz",
-  "download_time": "2026-01-24T20:25:37.637931",
+  "home_page": null,
+  "download_filename": "mediaichemy-1.0.7.tar.gz",
+  "download_time": "2026-01-25T16:30:00.623177",
   "package_url": "https://pypi.org/project/mediaichemy/"
 }

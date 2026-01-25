@@ -1,11 +1,11 @@
 {
   "name": "SubTextHighlight",
-  "version": "2.0",
+  "version": "2.1",
   "summary": "This is a Package for generating and formatting subtitles while focusing on user-friendliness and providing many features.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "subtexthighlight-2.0.tar.gz",
-  "download_time": "2026-01-25T15:24:26.797766",
+  "download_filename": "subtexthighlight-2.1.tar.gz",
+  "download_time": "2026-01-25T16:30:22.067861",
   "package_url": "https://pypi.org/project/SubTextHighlight/"
 }

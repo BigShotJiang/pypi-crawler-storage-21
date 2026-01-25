@@ -1,11 +1,11 @@
 {
   "name": "spectra-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Generate production-ready DevOps files for your projects using AI",
   "author": "Spectra Team",
   "license": null,
   "home_page": "https://github.com/yourusername/spectra-cli",
-  "download_filename": "spectra_cli-0.1.1.tar.gz",
-  "download_time": "2026-01-25T15:57:11.746476",
+  "download_filename": "spectra_cli-0.1.2.tar.gz",
+  "download_time": "2026-01-25T16:30:10.028922",
   "package_url": "https://pypi.org/project/spectra-cli/"
 }

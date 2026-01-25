@@ -1,11 +1,11 @@
 {
   "name": "ecodev-core",
-  "version": "0.0.80",
+  "version": "0.0.81",
   "summary": "Low level sqlmodel/fastapi/pydantic building blocks",
   "author": "Thomas Epelbaum",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ecodev_core-0.0.80.tar.gz",
-  "download_time": "2026-01-25T10:26:32.115699",
+  "download_filename": "ecodev_core-0.0.81.tar.gz",
+  "download_time": "2026-01-25T16:30:20.973219",
   "package_url": "https://pypi.org/project/ecodev-core/"
 }

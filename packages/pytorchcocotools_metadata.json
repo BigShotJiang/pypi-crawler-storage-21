@@ -1,0 +1,11 @@
+{
+  "name": "pytorchcocotools",
+  "version": "0.2.0",
+  "summary": "Unofficial APIs for the MS-COCO dataset using PyTorch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytorchcocotools-0.2.0.tar.gz",
+  "download_time": "2026-01-25T16:30:06.760220",
+  "package_url": "https://pypi.org/project/pytorchcocotools/"
+}

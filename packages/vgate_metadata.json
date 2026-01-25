@@ -1,0 +1,11 @@
+{
+  "name": "vgate",
+  "version": "0.1.4",
+  "summary": "ACDC Presentation Handler library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vgate-0.1.4.tar.gz",
+  "download_time": "2026-01-25T16:29:51.238140",
+  "package_url": "https://pypi.org/project/vgate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "inmanta-module-sops",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Reference and use secrets defined in sops file in project repo",
   "author": "Guillaume Everarts de Velp",
   "license": "ASL 2.0",
   "home_page": null,
-  "download_filename": "inmanta_module_sops-0.3.0.tar.gz",
-  "download_time": "2026-01-25T14:23:08.965995",
+  "download_filename": "inmanta_module_sops-0.3.1.tar.gz",
+  "download_time": "2026-01-25T16:30:24.325611",
   "package_url": "https://pypi.org/project/inmanta-module-sops/"
 }

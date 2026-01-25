@@ -1,0 +1,11 @@
+{
+  "name": "c3a3-config-loader",
+  "version": "2.0.0",
+  "summary": "Loads configurations from different files with ease",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "c3a3_config_loader-2.0.0.tar.gz",
+  "download_time": "2026-01-25T16:30:10.586971",
+  "package_url": "https://pypi.org/project/c3a3-config-loader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ifcfactory",
+  "version": "0.2.2",
+  "summary": "A modular geometry system for creating BIM elements with composable geometry creation",
+  "author": "Ahmed Salem",
+  "license": "LGPL-2.1",
+  "home_page": null,
+  "download_filename": "ifcfactory-0.2.2.tar.gz",
+  "download_time": "2026-01-25T16:30:22.623502",
+  "package_url": "https://pypi.org/project/ifcfactory/"
+}

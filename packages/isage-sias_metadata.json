@@ -1,0 +1,11 @@
+{
+  "name": "isage-sias",
+  "version": "0.1.0",
+  "summary": "Sample-Importance-Aware Selection (SIAS) - Continual learning and coreset selection algorithms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_sias-0.1.0-cp311-none-any.whl",
+  "download_time": "2026-01-25T16:29:57.877065",
+  "package_url": "https://pypi.org/project/isage-sias/"
+}
