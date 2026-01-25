@@ -1,0 +1,11 @@
+{
+  "name": "yapper-tts",
+  "version": "0.7.2",
+  "summary": "AI powered text-ehancer and offline text-to-speech",
+  "author": "Nitesh Yadav",
+  "license": "MIT",
+  "home_page": "https://github.com/n1teshy/yapper-tts",
+  "download_filename": "yapper_tts-0.7.2.tar.gz",
+  "download_time": "2026-01-25T23:45:26.132859",
+  "package_url": "https://pypi.org/project/yapper-tts/"
+}

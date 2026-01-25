@@ -1,0 +1,11 @@
+{
+  "name": "embpred-deploy",
+  "version": "1.0.1",
+  "summary": "Emb Deployment Package for Image Inference using Faster-RCNN and custom classification networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "embpred_deploy-1.0.1.tar.gz",
+  "download_time": "2026-01-25T23:45:15.422205",
+  "package_url": "https://pypi.org/project/embpred-deploy/"
+}

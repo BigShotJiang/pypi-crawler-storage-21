@@ -1,11 +1,11 @@
 {
   "name": "nordlys",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Intelligent LLM Infrastructure with Smart Model Selection",
   "author": "Botir Khaltaev",
   "license": null,
   "home_page": null,
-  "download_filename": "nordlys-0.2.4.tar.gz",
-  "download_time": "2026-01-25T22:48:19.576833",
+  "download_filename": "nordlys-0.2.5.tar.gz",
+  "download_time": "2026-01-25T23:45:07.267677",
   "package_url": "https://pypi.org/project/nordlys/"
 }

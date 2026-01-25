@@ -1,11 +1,11 @@
 {
   "name": "kontra",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "Developer-first data quality engine",
   "author": "Saevarlb",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "kontra-0.5.1.tar.gz",
-  "download_time": "2026-01-25T15:57:01.790765",
+  "download_filename": "kontra-0.5.3.tar.gz",
+  "download_time": "2026-01-25T23:45:09.465844",
   "package_url": "https://pypi.org/project/kontra/"
 }

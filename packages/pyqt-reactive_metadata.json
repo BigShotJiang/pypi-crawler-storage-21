@@ -1,0 +1,11 @@
+{
+  "name": "pyqt-reactive",
+  "version": "0.1.3",
+  "summary": "React-quality reactive form generation framework for PyQt6",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyqt_reactive-0.1.3.tar.gz",
+  "download_time": "2026-01-25T23:45:05.623117",
+  "package_url": "https://pypi.org/project/pyqt-reactive/"
+}

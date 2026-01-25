@@ -1,0 +1,11 @@
+{
+  "name": "saltext.prometheus",
+  "version": "2.2.0",
+  "summary": "Salt Extension for interacting with Prometheus",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "saltext_prometheus-2.2.0.tar.gz",
+  "download_time": "2026-01-25T23:45:17.537294",
+  "package_url": "https://pypi.org/project/saltext.prometheus/"
+}
