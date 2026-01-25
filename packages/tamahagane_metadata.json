@@ -1,11 +1,11 @@
 {
   "name": "tamahagane",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Forge your application registries.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tamahagane-0.1.1.tar.gz",
-  "download_time": "2026-01-25T11:21:02.103087",
+  "download_filename": "tamahagane-0.2.0.tar.gz",
+  "download_time": "2026-01-25T13:52:34.578034",
   "package_url": "https://pypi.org/project/tamahagane/"
 }

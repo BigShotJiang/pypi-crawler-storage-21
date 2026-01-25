@@ -1,0 +1,11 @@
+{
+  "name": "python-abraflexi",
+  "version": "1.0.0",
+  "summary": "Python library for AbraFlexi REST API",
+  "author": "Vítězslav Dvořák",
+  "license": "MIT",
+  "home_page": "https://github.com/VitexSoftware/python-abraflexi",
+  "download_filename": "python_abraflexi-1.0.0.tar.gz",
+  "download_time": "2026-01-25T13:52:20.945905",
+  "package_url": "https://pypi.org/project/python-abraflexi/"
+}

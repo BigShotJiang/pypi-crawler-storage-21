@@ -1,11 +1,11 @@
 {
   "name": "classixclustering",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "summary": "Fast and explainable clustering based on sorting",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "classixclustering-1.4.0.tar.gz",
-  "download_time": "2026-01-25T12:46:25.485250",
+  "download_filename": "classixclustering-1.4.2.tar.gz",
+  "download_time": "2026-01-25T13:52:16.255936",
   "package_url": "https://pypi.org/project/classixclustering/"
 }

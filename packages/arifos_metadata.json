@@ -1,0 +1,11 @@
+{
+  "name": "arifos",
+  "version": "52.5.1",
+  "summary": "A filter that stops AI from lying, harming, or being overconfident. 5 rules (TEACH), 4 verdicts (SEAL/SABAR/VOID/888_HOLD), smart routing (CRISIS/FACTUAL/CARE/SOCIAL). Works with any AI - copy system prompt or connect via MCP. Live at https://arifos.arif-fazil.com/",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arifos-52.5.1.tar.gz",
+  "download_time": "2026-01-25T13:52:18.346399",
+  "package_url": "https://pypi.org/project/arifos/"
+}

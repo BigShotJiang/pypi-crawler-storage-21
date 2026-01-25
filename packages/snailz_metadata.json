@@ -1,0 +1,11 @@
+{
+  "name": "snailz",
+  "version": "4.2.1",
+  "summary": "Synthetic data generator for snail mutation survey",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snailz-4.2.1.tar.gz",
+  "download_time": "2026-01-25T13:52:36.651376",
+  "package_url": "https://pypi.org/project/snailz/"
+}

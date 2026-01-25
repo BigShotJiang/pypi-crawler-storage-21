@@ -1,0 +1,11 @@
+{
+  "name": "openapioktaipranges",
+  "version": "1.1.0",
+  "summary": "OpenAPI Okta IP Ranges",
+  "author": "OpenAPI Okta IP Ranges",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/oapicf/openapi-okta-ip-ranges",
+  "download_filename": "openapioktaipranges-1.1.0.tar.gz",
+  "download_time": "2026-01-25T13:52:10.911917",
+  "package_url": "https://pypi.org/project/openapioktaipranges/"
+}

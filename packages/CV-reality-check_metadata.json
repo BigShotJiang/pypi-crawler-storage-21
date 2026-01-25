@@ -1,11 +1,11 @@
 {
   "name": "CV-reality-check",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Kaggle-oriented cross-validation reliability checker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cv_reality_check-0.2.1.tar.gz",
-  "download_time": "2026-01-25T13:25:52.677315",
+  "download_filename": "cv_reality_check-0.2.2.tar.gz",
+  "download_time": "2026-01-25T13:52:42.973698",
   "package_url": "https://pypi.org/project/CV-reality-check/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "signalzero-sdk",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for SIGNAL.ZERO",
+  "author": "SIGNAL.ZERO",
+  "license": "UNLICENSED",
+  "home_page": null,
+  "download_filename": "signalzero_sdk-0.1.0.tar.gz",
+  "download_time": "2026-01-25T13:52:23.091483",
+  "package_url": "https://pypi.org/project/signalzero-sdk/"
+}

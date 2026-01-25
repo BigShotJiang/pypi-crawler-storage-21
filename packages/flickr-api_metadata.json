@@ -1,0 +1,11 @@
+{
+  "name": "flickr-api",
+  "version": "0.8.0",
+  "summary": "Python wrapper for the Flickr API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flickr_api-0.8.0.tar.gz",
+  "download_time": "2026-01-25T13:52:27.765848",
+  "package_url": "https://pypi.org/project/flickr-api/"
+}
