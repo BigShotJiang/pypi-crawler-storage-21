@@ -1,18 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T11:42:32.036168
-- **Total Packages**: 76
-- **Total Size**: 8.42 MB
+- **Download Time**: 2026-01-25T11:54:05.106397
+- **Total Packages**: 75
+- **Total Size**: 9.66 MB
 
 ## Packages List
+- servify
+- py-pve-cloud
+- odoo-addon-nsca-client
+- caicurator
+- cycls
+- refua-mcp
+- hookpulse
+- mlaunch
+- fso-cli
+- pymocd
+- pylxpweb
+- hicrafter
+- pybiolib
+- dirigera
+- ragscore
+- gudupao-backend-frontend-demo
+- ovinc-client
+- h5io-browser
+- fujin-cli
+- fujin-secrets-1password
+- fujin-secrets-doppler
+- fujin-secrets-bitwarden
+- prisme
+- aiptx
+- gradio-image-annotation-v2
+- pychord
 - vws-cli
 - conviertlo
 - odoo-addon-base-domain-inverse-function
 - odoo-addon-fetchmail-attach-from-folder
-- odoo-addon-nsca-client
 - deepanalysts
-- servify
 - vellum-workflow-server
 - kladml
 - kivy-chess-board
@@ -23,18 +47,14 @@
 - clouvel
 - lana1028
 - microesb
-- aiptx
 - sandwitches
 - django-jwt-allauth
 - scikit-base
 - aepp
 - django-email-learning
-- hookpulse
 - positive-tool
 - enumeraite
 - torchx-nightly
-- cycls
-- py-pve-cloud
 - replyfast
 - valanga
 - vellum-ai
@@ -53,8 +73,6 @@
 - cfspider
 - qfilmplayer
 - jarvis-ai-assistant
-- hicrafter
-- gudupao-backend-frontend-demo
 - tamahagane
 - genro-mail-proxy
 - cell-imaging-utils
@@ -63,22 +81,3 @@
 - hexin-server
 - amsdal
 - interfacy
-- LscNumbers
-- pytuck
-- simstudio-sdk
-- bbstrader
-- llmstxt2skill
-- metaai-sdk
-- nmaipy
-- lynxkite
-- safecmd
-- polyhush
-- torchfea
-- smartXML
-- amniotic
-- bspmap
-- comfy-test
-- deepdrift
-- naply
-- build-cub
-- nlp2cmd

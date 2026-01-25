@@ -1,0 +1,11 @@
+{
+  "name": "gradio-image-annotation-v2",
+  "version": "0.2.2",
+  "summary": "A Gradio component that can be used to annotate images with bounding boxes and point.",
+  "author": "yama-is-bocchi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradio_image_annotation_v2-0.2.2.tar.gz",
+  "download_time": "2026-01-25T11:53:39.047381",
+  "package_url": "https://pypi.org/project/gradio-image-annotation-v2/"
+}

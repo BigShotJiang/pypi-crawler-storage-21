@@ -1,11 +1,11 @@
 {
   "name": "hookpulse",
-  "version": "1.0.0",
-  "summary": "Official Python SDK for HookPulse - Enterprise-grade serverless task scheduling and webhook orchestration",
+  "version": "1.0.1",
+  "summary": "Official Python SDK for HookPulse - Enterprise-grade serverless task scheduling and webhook orchestration. Built with Elixir/OTP for 99.9% uptime and millisecond precision.",
   "author": "HookPulse",
   "license": null,
   "home_page": "https://hookpulse.io",
-  "download_filename": "hookpulse-1.0.0.tar.gz",
-  "download_time": "2026-01-25T11:42:04.698924",
+  "download_filename": "hookpulse-1.0.1.tar.gz",
+  "download_time": "2026-01-25T11:53:29.133675",
   "package_url": "https://pypi.org/project/hookpulse/"
 }

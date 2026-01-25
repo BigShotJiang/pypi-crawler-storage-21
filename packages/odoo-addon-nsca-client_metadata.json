@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-nsca-client",
-  "version": "16.0.1.0.1",
+  "version": "16.0.1.0.2",
   "summary": "Send passive alerts to monitor your Odoo application.",
   "author": "ABF OSIELL, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/server-tools",
-  "download_filename": "odoo_addon_nsca_client-16.0.1.0.1-py3-none-any.whl",
-  "download_time": "2026-01-25T11:41:54.709066",
+  "download_filename": "odoo_addon_nsca_client-16.0.1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-25T11:53:27.029578",
   "package_url": "https://pypi.org/project/odoo-addon-nsca-client/"
 }

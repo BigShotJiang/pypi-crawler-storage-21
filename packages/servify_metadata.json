@@ -1,11 +1,11 @@
 {
   "name": "servify",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Commons utilitários para projetos Spark",
   "author": "Felipe Pegoraro",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "servify-0.0.4.tar.gz",
-  "download_time": "2026-01-25T11:41:55.747283",
+  "download_filename": "servify-0.0.5.tar.gz",
+  "download_time": "2026-01-25T11:53:25.979242",
   "package_url": "https://pypi.org/project/servify/"
 }
