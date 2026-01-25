@@ -1,11 +1,11 @@
 {
   "name": "vlm-engine",
-  "version": "0.8.41",
+  "version": "0.8.42",
   "summary": "Advanced Vision-Language Model Engine for content tagging",
   "author": "HAVEN Network",
   "license": null,
   "home_page": "https://github.com/Haven-hvn/haven-vlm-engine-package",
-  "download_filename": "vlm_engine-0.8.41.tar.gz",
-  "download_time": "2026-01-24T23:43:30.178568",
+  "download_filename": "vlm_engine-0.8.42.tar.gz",
+  "download_time": "2026-01-25T15:56:53.288273",
   "package_url": "https://pypi.org/project/vlm-engine/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ideal-genom",
+  "version": "1.0.0",
+  "summary": "package to run a genotype quality control pipeline",
+  "author": "Luis Giraldo González",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ideal_genom-1.0.0.tar.gz",
+  "download_time": "2026-01-25T15:57:16.636447",
+  "package_url": "https://pypi.org/project/ideal-genom/"
+}

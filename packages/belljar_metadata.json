@@ -1,11 +1,11 @@
 {
   "name": "belljar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Extremely simple to use callable memoization decorator library.",
   "author": "Wannes Vantorre",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "belljar-0.1.0.tar.gz",
-  "download_time": "2026-01-25T15:23:51.085245",
+  "download_filename": "belljar-0.1.1.tar.gz",
+  "download_time": "2026-01-25T15:57:00.126721",
   "package_url": "https://pypi.org/project/belljar/"
 }
