@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_binance",
+  "version": "2026.1.25",
+  "summary": "BINANCE trading gateway for VeighNa.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_binance-2026.1.25.tar.gz",
+  "download_time": "2026-01-25T04:59:04.115685",
+  "package_url": "https://pypi.org/project/vnpy_binance/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kg-fuse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "FUSE filesystem for Knowledge Graph - mount your knowledge graph as a filesystem",
   "author": "Aaron Bockelie",
   "license": null,
   "home_page": null,
-  "download_filename": "kg_fuse-0.1.1.tar.gz",
-  "download_time": "2026-01-24T21:21:34.710118",
+  "download_filename": "kg_fuse-0.1.2.tar.gz",
+  "download_time": "2026-01-25T04:59:19.534375",
   "package_url": "https://pypi.org/project/kg-fuse/"
 }

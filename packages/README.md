@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T04:10:21.609017
-- **Total Packages**: 84
-- **Total Size**: 40.77 MB
+- **Download Time**: 2026-01-25T04:59:54.601042
+- **Total Packages**: 85
+- **Total Size**: 7.2 MB
 
 ## Packages List
+- vnpy_binance
+- policyengine-core
+- pylxpweb
+- aicippy
+- libasterix
+- toothfairyai
+- polars-normal-stats
+- stillwater-kpu
+- agent-nexus-cli
+- claudechic
+- panel-bie
+- py-rowboat
+- ml-easy-setup
+- seqlogic
+- amrita
+- dworshak-access
+- ripgrep-rs
+- fdpbundle
+- randum
+- just-cli
+- blurry-cli
+- karaoke-gen
+- ai-todo
+- service-forge
+- kg-fuse
 - splitnow
 - invokelint
 - plykos
@@ -22,7 +47,6 @@
 - pybinbot
 - vocal-bridge
 - arakawa
-- ripgrep-rs
 - abfinance-python-api
 - python-demo-yeah
 - mcp-roblox-docs
@@ -56,7 +80,6 @@
 - sdcvalidator
 - deltacycle
 - dyno-viewer
-- py-rowboat
 - odoo-addons-oca-multi-company
 - fuzzyevolve
 - pythonbible
@@ -68,25 +91,3 @@
 - solyanka
 - siglab-py
 - metricsfirst
-- claude-agent-toolkit
-- mathai
-- Notebookrender
-- ai-parrot
-- astreum
-- agent-nexus-cli
-- cqc-quam-state
-- aider-ce
-- paskia
-- supabase-audit-framework
-- pysociety
-- cecli-dev
-- zrb
-- textual-searchable-selectionlist
-- flyto-core
-- parallel-web-tools
-- Undefined-bot
-- france-travail-api
-- osn-system-utils
-- karaoke-gen
-- defender2yara
-- keplar-api

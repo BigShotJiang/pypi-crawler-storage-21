@@ -1,11 +1,11 @@
 {
   "name": "fdpbundle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "CLI tool for managing FDP Workflow Engine bundles",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fdpbundle-0.1.0.tar.gz",
-  "download_time": "2026-01-24T17:44:30.731233",
+  "download_filename": "fdpbundle-0.2.0.tar.gz",
+  "download_time": "2026-01-25T04:59:15.067999",
   "package_url": "https://pypi.org/project/fdpbundle/"
 }
