@@ -1,18 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-25T21:45:14.630497
-- **Total Packages**: 83
-- **Total Size**: 38.63 MB
+- **Download Time**: 2026-01-25T21:56:23.307878
+- **Total Packages**: 78
+- **Total Size**: 7.57 MB
 
 ## Packages List
+- codeshift
+- tools4rdf
+- pyimagecuda-studio
+- ltq
+- dagster-ray
+- gpsd
+- pyimagecuda
+- ezvals
+- epicenv
+- django-cachex
+- smart-ocr
+- veloce-api
+- djangocommand-client
+- pypnm-docsis
+- explainerdashboard
+- decision
+- aa-campaign
+- celery-salt
+- taipy-utils
+- crucible-mcp
+- policyengine-us
+- aiden-first-pypi
+- vallignus
+- mlx-audio
+- nano-arpes-browser
+- phydroperiod
+- fast-agent-mcp
+- fast-agent-acp
+- hf-inference-acp
+- servicex
+- dash-mantine-components
+- celery-chain-router
+- pydasa
+- agent-diff
+- trendsagi
+- dv-flow-mgr
+- vlm-engine
+- umbi
+- lore-framework-mcp
+- py-splat
+- notice-me-sensei
 - niemafs
 - naas-abi-cli
 - tarumba
-- policyengine-us
 - MRArbGrad
 - iqtoolkit-analyzer
-- veloce-api
 - ringkernel
 - scruby-return-dict
 - jupytext
@@ -21,10 +60,8 @@
 - svg-text2path
 - pathetic-cli
 - paracord
-- ltq
 - dev-health-ops
 - EzQt-Widgets
-- trendsagi
 - security-use
 - trackremux
 - cz-uv-dynamic-version
@@ -36,56 +73,14 @@
 - lintro
 - sprocket-carball
 - fuellhorn
-- vlm-engine
 - aury-agent
 - py-vreport
 - jleechanorg-pr-automation
 - aury-ai-model
 - lorenzcycletoolkit
 - aury-boot
-- notice-me-sensei
 - ttrpg-control-desk
 - autodocgenerator
 - kececifractals
 - libreyolo
 - simple-icd-10-cm
-- python-trueconf-bot
-- mkdocs-terminal
-- obra
-- pybFoam
-- coreason-codex
-- phaze
-- check-pfda
-- tgedr-simplepipe
-- tls-sessions
-- passagemath-rankwidth
-- passagemath-plot
-- passagemath-planarity
-- passagemath-objects
-- tls-xession
-- passagemath-modules
-- gobby
-- yamloom
-- passagemath-m4ri-m4rie
-- ossiq
-- passagemath-homfly
-- passagemath-graphs
-- passagemath-glpk
-- passagemath-combinat
-- passagemath-cmr
-- pictologics
-- passagemath-cliquer
-- passagemath-cddlib
-- diffid
-- sg-core
-- passagemath-categories
-- precogs-sdk
-- edfh-data
-- pycpfcnpj
-- tencentcloud-sdk-python-intl-en
-- rcsssmj
-- py-splat
-- geocicd
-- django-orbit
-- zigger
-- tencentcloud-sdk-python-wedata

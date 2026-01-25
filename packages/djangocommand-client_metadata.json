@@ -1,0 +1,11 @@
+{
+  "name": "djangocommand-client",
+  "version": "0.0.2",
+  "summary": "Client library for Django Command (coming soon)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangocommand_client-0.0.2.tar.gz",
+  "download_time": "2026-01-25T21:55:44.956866",
+  "package_url": "https://pypi.org/project/djangocommand-client/"
+}

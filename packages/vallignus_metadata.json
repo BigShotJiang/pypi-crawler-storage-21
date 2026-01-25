@@ -1,11 +1,11 @@
 {
   "name": "vallignus",
-  "version": "0.4.0",
-  "summary": "Local runtime wrapper for AI agents: sessions, replay, and hard caps",
+  "version": "0.4.2",
+  "summary": "Local runtime for AI agents: sessions, replay, and hard caps",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vallignus-0.4.0.tar.gz",
-  "download_time": "2026-01-24T17:20:43.824244",
+  "download_filename": "vallignus-0.4.2.tar.gz",
+  "download_time": "2026-01-25T21:55:50.798363",
   "package_url": "https://pypi.org/project/vallignus/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyimagecuda-studio",
+  "version": "0.1.7",
+  "summary": "Node-based image processing powered by CUDA - Design visually, execute programmatically",
+  "author": "Beltrán Offerrall Selma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyimagecuda_studio-0.1.7.tar.gz",
+  "download_time": "2026-01-25T21:55:38.975288",
+  "package_url": "https://pypi.org/project/pyimagecuda-studio/"
+}

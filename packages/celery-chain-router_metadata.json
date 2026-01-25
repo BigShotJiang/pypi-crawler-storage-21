@@ -1,0 +1,11 @@
+{
+  "name": "celery-chain-router",
+  "version": "0.2.0",
+  "summary": "A Celery router that uses consistent hashing for data locality",
+  "author": "Petrit Avdylaj",
+  "license": null,
+  "home_page": "https://github.com/petritavd/celery-chain-router",
+  "download_filename": "celery_chain_router-0.2.0.tar.gz",
+  "download_time": "2026-01-25T21:55:56.113937",
+  "package_url": "https://pypi.org/project/celery-chain-router/"
+}

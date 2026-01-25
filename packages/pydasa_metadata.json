@@ -1,0 +1,11 @@
+{
+  "name": "pydasa",
+  "version": "0.6.0",
+  "summary": "Python package for Dimensional Analysis for Scientific Applications and Software Architecture (PyDASA).",
+  "author": "@SFAM",
+  "license": null,
+  "home_page": "https://github.com/DASA-Design/PyDASA",
+  "download_filename": "pydasa-0.6.0.tar.gz",
+  "download_time": "2026-01-25T21:55:56.703033",
+  "package_url": "https://pypi.org/project/pydasa/"
+}

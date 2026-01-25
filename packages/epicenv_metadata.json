@@ -1,11 +1,11 @@
 {
   "name": "epicenv",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Schema-based environment variable management for Python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "epicenv-1.0.0.tar.gz",
-  "download_time": "2026-01-25T02:02:23.894189",
+  "download_filename": "epicenv-1.2.0.tar.gz",
+  "download_time": "2026-01-25T21:55:42.539187",
   "package_url": "https://pypi.org/project/epicenv/"
 }

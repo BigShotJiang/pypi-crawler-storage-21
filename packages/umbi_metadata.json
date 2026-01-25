@@ -1,0 +1,11 @@
+{
+  "name": "umbi",
+  "version": "0.1.26",
+  "summary": "Library for input/output of transition systems in a unified Markov binary (UMB) format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umbi-0.1.26.tar.gz",
+  "download_time": "2026-01-25T21:55:59.594465",
+  "package_url": "https://pypi.org/project/umbi/"
+}

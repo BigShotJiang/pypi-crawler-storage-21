@@ -1,0 +1,11 @@
+{
+  "name": "nano-arpes-browser",
+  "version": "0.1.0",
+  "summary": "nano-ARPES data browser and analysis tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nano_arpes_browser-0.1.0.tar.gz",
+  "download_time": "2026-01-25T21:55:51.983958",
+  "package_url": "https://pypi.org/project/nano-arpes-browser/"
+}
