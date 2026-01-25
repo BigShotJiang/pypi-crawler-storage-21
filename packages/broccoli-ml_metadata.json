@@ -1,11 +1,11 @@
 {
   "name": "broccoli-ml",
-  "version": "13.0.4",
+  "version": "13.0.5",
   "summary": "Some useful Pytorch models, circa 2025",
   "author": "Nicholas Bailey",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "broccoli_ml-13.0.4.tar.gz",
-  "download_time": "2026-01-25T10:26:39.297623",
+  "download_filename": "broccoli_ml-13.0.5.tar.gz",
+  "download_time": "2026-01-25T11:21:18.271586",
   "package_url": "https://pypi.org/project/broccoli-ml/"
 }

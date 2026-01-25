@@ -1,0 +1,11 @@
+{
+  "name": "city-ch-autocomplete",
+  "version": "0.4.9",
+  "summary": "A Django app to query the Swiss Post API for postcodes and localities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "city_ch_autocomplete-0.4.9.tar.gz",
+  "download_time": "2026-01-25T11:21:04.167001",
+  "package_url": "https://pypi.org/project/city-ch-autocomplete/"
+}

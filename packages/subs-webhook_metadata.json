@@ -1,0 +1,11 @@
+{
+  "name": "subs-webhook",
+  "version": "0.2.0",
+  "summary": "A lightweight, asynchronous FastAPI extension designed to handle SaaS subscriptions, API key management, and plan-based access control. It integrates directly with Pabbly (and is extensible for other providers) to sync subscription statuses and automates access control using Redis caching for high performance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "subs_webhook-0.2.0.tar.gz",
+  "download_time": "2026-01-25T11:21:22.908892",
+  "package_url": "https://pypi.org/project/subs-webhook/"
+}

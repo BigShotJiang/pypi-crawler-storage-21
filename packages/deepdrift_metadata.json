@@ -1,0 +1,11 @@
+{
+  "name": "deepdrift",
+  "version": "0.4.0",
+  "summary": "Production-grade Kinetic Monitoring for Neural Networks (Semantic Velocity)",
+  "author": "Alexey Evtushenko",
+  "license": null,
+  "home_page": "https://github.com/Eutonics/DeepDrift",
+  "download_filename": "deepdrift-0.4.0.tar.gz",
+  "download_time": "2026-01-25T11:21:15.703657",
+  "package_url": "https://pypi.org/project/deepdrift/"
+}

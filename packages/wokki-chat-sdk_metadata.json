@@ -1,11 +1,11 @@
 {
   "name": "wokki-chat-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python SDK to make bots for Wokki Chat",
   "author": "Bjarnos & wokki20",
   "license": "Apache-2.0",
   "home_page": "https://github.com/levkris/Wokki-Chat-Python-SDK",
-  "download_filename": "wokki_chat_sdk-1.0.1.tar.gz",
-  "download_time": "2026-01-23T20:29:40.268441",
+  "download_filename": "wokki_chat_sdk-1.0.2.tar.gz",
+  "download_time": "2026-01-25T11:21:18.783419",
   "package_url": "https://pypi.org/project/wokki-chat-sdk/"
 }

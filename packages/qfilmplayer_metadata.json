@@ -1,0 +1,11 @@
+{
+  "name": "qfilmplayer",
+  "version": "1.0",
+  "summary": "Видеоплеер для Qt 6",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qfilmplayer-1.0.tar.gz",
+  "download_time": "2026-01-25T11:20:58.987609",
+  "package_url": "https://pypi.org/project/qfilmplayer/"
+}

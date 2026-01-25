@@ -1,11 +1,11 @@
 {
   "name": "tamahagane",
-  "version": "0.0.0",
-  "summary": "Forge your app registry.",
-  "author": "Guillaume Gauvrit",
+  "version": "0.1.1",
+  "summary": "Forge your application registries.",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tamahagane-0.0.0.tar.gz",
-  "download_time": "2026-01-25T10:49:55.237801",
+  "download_filename": "tamahagane-0.1.1.tar.gz",
+  "download_time": "2026-01-25T11:21:02.103087",
   "package_url": "https://pypi.org/project/tamahagane/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "simstudio-sdk",
+  "version": "0.1.2",
+  "summary": "Sim SDK - Execute workflows programmatically",
+  "author": "Sim",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/simstudioai/sim",
+  "download_filename": "simstudio_sdk-0.1.2.tar.gz",
+  "download_time": "2026-01-25T11:21:07.776481",
+  "package_url": "https://pypi.org/project/simstudio-sdk/"
+}
