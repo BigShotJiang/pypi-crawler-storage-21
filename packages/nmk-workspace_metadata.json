@@ -1,0 +1,11 @@
+{
+  "name": "nmk-workspace",
+  "version": "1.2.1",
+  "summary": "VWorkspace handling plugin for nmk build system",
+  "author": "The dynod project",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "nmk_workspace-1.2.1-py3-none-any.whl",
+  "download_time": "2026-01-25T15:24:14.759930",
+  "package_url": "https://pypi.org/project/nmk-workspace/"
+}

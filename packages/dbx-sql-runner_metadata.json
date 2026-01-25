@@ -1,0 +1,11 @@
+{
+  "name": "dbx-sql-runner",
+  "version": "0.2.2",
+  "summary": "A lightweight SQL transformation tool for Databricks SQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbx_sql_runner-0.2.2.tar.gz",
+  "download_time": "2026-01-25T15:24:08.843502",
+  "package_url": "https://pypi.org/project/dbx-sql-runner/"
+}

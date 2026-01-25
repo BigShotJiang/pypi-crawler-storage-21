@@ -1,11 +1,11 @@
 {
   "name": "grok-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP server for Grok X.com search integration using xAI API",
   "author": "guzus",
   "license": null,
   "home_page": null,
-  "download_filename": "grok_mcp-0.2.0.tar.gz",
-  "download_time": "2026-01-25T14:57:12.363399",
+  "download_filename": "grok_mcp-0.2.1.tar.gz",
+  "download_time": "2026-01-25T15:24:20.450185",
   "package_url": "https://pypi.org/project/grok-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-include-markdown-plugin",
+  "version": "7.2.1",
+  "summary": "Mkdocs Markdown includer plugin.",
+  "author": "Joe Rickerby",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_include_markdown_plugin-7.2.1.tar.gz",
+  "download_time": "2026-01-25T15:24:08.197740",
+  "package_url": "https://pypi.org/project/mkdocs-include-markdown-plugin/"
+}
