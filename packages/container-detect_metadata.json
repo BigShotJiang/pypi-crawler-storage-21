@@ -1,0 +1,11 @@
+{
+  "name": "container-detect",
+  "version": "1.0.0",
+  "summary": "Detect if your Python process is running inside a container. Supports Docker, Podman, Kubernetes, containerd, LXC, and more. Inspired by the popular is-inside-container npm package. Supports cached results with optional refresh.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "container_detect-1.0.0.tar.gz",
+  "download_time": "2026-01-25T14:23:05.360000",
+  "package_url": "https://pypi.org/project/container-detect/"
+}

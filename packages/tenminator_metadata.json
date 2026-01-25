@@ -1,0 +1,11 @@
+{
+  "name": "tenminator",
+  "version": "0.1.0",
+  "summary": "Framework de Deep Learning ultraligero inspirado en PyTorch para dispositivos con almacenamiento limitado",
+  "author": "TenMiNaTor Team",
+  "license": null,
+  "home_page": "https://github.com/tu-usuario/tenminator",
+  "download_filename": "tenminator-0.1.0.tar.gz",
+  "download_time": "2026-01-25T14:22:49.204845",
+  "package_url": "https://pypi.org/project/tenminator/"
+}

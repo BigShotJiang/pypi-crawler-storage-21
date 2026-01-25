@@ -1,0 +1,11 @@
+{
+  "name": "lightodm",
+  "version": "0.1.0",
+  "summary": "Lightweight MongoDB ODM - Simple async/sync Object-Document Mapper for MongoDB",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lightodm-0.1.0.tar.gz",
+  "download_time": "2026-01-25T14:23:18.734161",
+  "package_url": "https://pypi.org/project/lightodm/"
+}
