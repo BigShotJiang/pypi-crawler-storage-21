@@ -1,0 +1,11 @@
+{
+  "name": "petal-qc",
+  "version": "0.0.26",
+  "summary": "A collection of scripts for Petal CORE QC.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "petal_qc-0.0.26.tar.gz",
+  "download_time": "2026-01-25T19:54:35.700832",
+  "package_url": "https://pypi.org/project/petal-qc/"
+}

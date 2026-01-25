@@ -1,11 +1,11 @@
 {
   "name": "pylib-free",
-  "version": "0.0.0",
-  "summary": null,
+  "version": "0.0.1",
+  "summary": "Mein erstes Python-Modul",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "pylib_free-0.0.0.tar.gz",
-  "download_time": "2026-01-25T19:41:40.658508",
+  "download_filename": "pylib_free-0.0.1.tar.gz",
+  "download_time": "2026-01-25T19:54:31.506704",
   "package_url": "https://pypi.org/project/pylib-free/"
 }

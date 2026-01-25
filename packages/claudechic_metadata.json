@@ -1,11 +1,11 @@
 {
   "name": "claudechic",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Claude Chic - A stylish terminal UI for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claudechic-0.4.2.tar.gz",
-  "download_time": "2026-01-25T19:27:36.384240",
+  "download_filename": "claudechic-0.4.3.tar.gz",
+  "download_time": "2026-01-25T19:54:45.007448",
   "package_url": "https://pypi.org/project/claudechic/"
 }

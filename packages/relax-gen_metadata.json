@@ -1,0 +1,11 @@
+{
+  "name": "relax-gen",
+  "version": "0.4.1",
+  "summary": "Optimization algorithms library focused on evolutionary methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "relax_gen-0.4.1.tar.gz",
+  "download_time": "2026-01-25T19:54:43.920371",
+  "package_url": "https://pypi.org/project/relax-gen/"
+}

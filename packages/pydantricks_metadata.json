@@ -1,0 +1,11 @@
+{
+  "name": "pydantricks",
+  "version": "0.1.1",
+  "summary": "Faker for pydantic models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantricks-0.1.1.tar.gz",
+  "download_time": "2026-01-25T19:54:36.211404",
+  "package_url": "https://pypi.org/project/pydantricks/"
+}
