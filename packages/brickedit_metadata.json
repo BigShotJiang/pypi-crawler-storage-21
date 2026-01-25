@@ -1,0 +1,11 @@
+{
+  "name": "brickedit",
+  "version": "5.0.0",
+  "summary": "BrickEdit is a tool for creating and editing Brick Rigs vehicle files (.brv & .brm).",
+  "author": "MrPerruche, FateUnix29",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brickedit-5.0.0.tar.gz",
+  "download_time": "2026-01-25T02:02:13.525456",
+  "package_url": "https://pypi.org/project/brickedit/"
+}

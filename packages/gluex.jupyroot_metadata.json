@@ -1,11 +1,11 @@
 {
   "name": "gluex.jupyroot",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "summary": "Automate common data analysis and visualization tasks using the CERN pyroot library in a jupyter notebook.",
   "author": "Richard Jones",
   "license": null,
   "home_page": "https://github.com/rjones30/jupyroot",
-  "download_filename": "gluex_jupyroot-1.0.18.tar.gz",
-  "download_time": "2026-01-23T14:47:13.302818",
+  "download_filename": "gluex_jupyroot-1.0.19.tar.gz",
+  "download_time": "2026-01-25T02:02:21.731163",
   "package_url": "https://pypi.org/project/gluex.jupyroot/"
 }

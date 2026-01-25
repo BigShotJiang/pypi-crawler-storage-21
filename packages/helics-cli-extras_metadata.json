@@ -1,0 +1,11 @@
+{
+  "name": "helics-cli-extras",
+  "version": "0.0.2",
+  "summary": "Python HELICS bindings",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "helics_cli_extras-0.0.2.tar.gz",
+  "download_time": "2026-01-25T02:02:09.163635",
+  "package_url": "https://pypi.org/project/helics-cli-extras/"
+}

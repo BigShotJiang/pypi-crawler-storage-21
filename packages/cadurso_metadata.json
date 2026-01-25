@@ -1,11 +1,11 @@
 {
   "name": "cadurso",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "summary": "Authorization framework for Python-based applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cadurso-0.5.2.tar.gz",
-  "download_time": "2026-01-24T23:54:36.381982",
+  "download_filename": "cadurso-0.6.0.tar.gz",
+  "download_time": "2026-01-25T02:02:20.036325",
   "package_url": "https://pypi.org/project/cadurso/"
 }

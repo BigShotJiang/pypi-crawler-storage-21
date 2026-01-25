@@ -1,0 +1,11 @@
+{
+  "name": "ezvals",
+  "version": "0.1.2",
+  "summary": "A lightweight, code-first evaluation framework for testing AI agents and LLM applications",
+  "author": "EZVals Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezvals-0.1.2.tar.gz",
+  "download_time": "2026-01-25T02:01:49.548676",
+  "package_url": "https://pypi.org/project/ezvals/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fh-saas",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "Production-ready multi-tenant SaaS toolkit for FastHTML applications with authentication, billing, and integrations",
   "author": "abhishek sreesaila",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/abhisheksreesaila/fh-saas",
-  "download_filename": "fh_saas-0.9.5.tar.gz",
-  "download_time": "2026-01-23T05:46:53.917509",
+  "download_filename": "fh_saas-0.9.6.tar.gz",
+  "download_time": "2026-01-25T02:01:52.318447",
   "package_url": "https://pypi.org/project/fh-saas/"
 }

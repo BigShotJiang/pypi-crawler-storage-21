@@ -1,0 +1,11 @@
+{
+  "name": "liblaf-melon",
+  "version": "1.1.1",
+  "summary": "🍉 A comprehensive Python library for 3D mesh processing with advanced I/O capabilities, proximity analysis, and integration with external mesh processing tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "liblaf_melon-1.1.1.tar.gz",
+  "download_time": "2026-01-25T02:02:25.550676",
+  "package_url": "https://pypi.org/project/liblaf-melon/"
+}

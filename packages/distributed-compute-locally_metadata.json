@@ -1,11 +1,11 @@
 {
   "name": "distributed-compute-locally",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A library for distributing computational workloads across multiple devices",
   "author": "Nebu0528",
   "license": "MIT",
   "home_page": "https://github.com/Nebu0528/distributor",
-  "download_filename": "distributed_compute_locally-0.1.4.tar.gz",
-  "download_time": "2026-01-23T03:45:29.655147",
+  "download_filename": "distributed_compute_locally-0.1.5.tar.gz",
+  "download_time": "2026-01-25T02:02:07.516802",
   "package_url": "https://pypi.org/project/distributed-compute-locally/"
 }

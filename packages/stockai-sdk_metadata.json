@@ -1,0 +1,11 @@
+{
+  "name": "stockai-sdk",
+  "version": "1.0.0",
+  "summary": "SDK for Stock AI Protected Endpoints",
+  "author": "Stock AI Dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stockai_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-25T02:01:54.760630",
+  "package_url": "https://pypi.org/project/stockai-sdk/"
+}
