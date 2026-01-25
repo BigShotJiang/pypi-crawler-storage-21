@@ -1,0 +1,11 @@
+{
+  "name": "edfh-data",
+  "version": "0.11.0",
+  "summary": "Python library for the E:D Faction Hub application backend data services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edfh_data-0.11.0.tar.gz",
+  "download_time": "2026-01-25T21:45:09.182609",
+  "package_url": "https://pypi.org/project/edfh-data/"
+}

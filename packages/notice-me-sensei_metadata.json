@@ -1,0 +1,11 @@
+{
+  "name": "notice-me-sensei",
+  "version": "0.1.1",
+  "summary": "AI-powered personal learning coach with spaced repetition",
+  "author": "Tom Firth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "notice_me_sensei-0.1.1.tar.gz",
+  "download_time": "2026-01-25T21:44:46.426613",
+  "package_url": "https://pypi.org/project/notice-me-sensei/"
+}

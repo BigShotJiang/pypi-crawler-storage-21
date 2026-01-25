@@ -1,0 +1,11 @@
+{
+  "name": "tls-xession",
+  "version": "1.0.1",
+  "summary": "TLS fingerprinted HTTP client replacement for requests.Session",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tls_xession-1.0.1.tar.gz",
+  "download_time": "2026-01-25T21:44:58.101473",
+  "package_url": "https://pypi.org/project/tls-xession/"
+}

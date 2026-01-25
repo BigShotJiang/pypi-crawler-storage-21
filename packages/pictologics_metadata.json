@@ -1,0 +1,11 @@
+{
+  "name": "pictologics",
+  "version": "0.3.0",
+  "summary": "IBSI-compliant radiomic feature extraction package",
+  "author": "Márton Kolossváry",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pictologics-0.3.0.tar.gz",
+  "download_time": "2026-01-25T21:45:05.073034",
+  "package_url": "https://pypi.org/project/pictologics/"
+}

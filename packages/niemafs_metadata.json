@@ -1,11 +1,11 @@
 {
   "name": "niemafs",
-  "version": "0.0.12",
+  "version": "0.0.15",
   "summary": "Niema's Python library for reading data from various file system standards",
   "author": "Niema Moshiri",
   "license": null,
   "home_page": "https://github.com/niemasd/NiemaFS",
-  "download_filename": "niemafs-0.0.12.tar.gz",
-  "download_time": "2026-01-20T21:02:49.953734",
+  "download_filename": "niemafs-0.0.15.tar.gz",
+  "download_time": "2026-01-25T21:44:23.362769",
   "package_url": "https://pypi.org/project/niemafs/"
 }

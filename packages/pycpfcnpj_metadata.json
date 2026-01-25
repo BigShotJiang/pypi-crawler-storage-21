@@ -1,0 +1,11 @@
+{
+  "name": "pycpfcnpj",
+  "version": "1.9",
+  "summary": "Python module for brazilian register numbers for persons (CPF) and companies (CNPJ).",
+  "author": "Matheus CAS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycpfcnpj-1.9.tar.gz",
+  "download_time": "2026-01-25T21:45:09.822028",
+  "package_url": "https://pypi.org/project/pycpfcnpj/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ttrpg-control-desk",
+  "version": "0.1.1",
+  "summary": "Dual-screen display tool for tabletop RPG game masters with fog of war, character portraits, and pointer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ttrpg_control_desk-0.1.1.tar.gz",
+  "download_time": "2026-01-25T21:44:47.011291",
+  "package_url": "https://pypi.org/project/ttrpg-control-desk/"
+}

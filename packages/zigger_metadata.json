@@ -1,11 +1,11 @@
 {
   "name": "zigger",
-  "version": "0.0.1a0",
+  "version": "0.0.1a1",
   "summary": "Terrain Zigger",
   "author": "J Joe",
   "license": null,
   "home_page": "https://github.com/JosefAlbers/TerrainZigger",
-  "download_filename": "zigger-0.0.1a0.tar.gz",
-  "download_time": "2026-01-25T17:45:35.680203",
+  "download_filename": "zigger-0.0.1a1.tar.gz",
+  "download_time": "2026-01-25T21:45:13.532546",
   "package_url": "https://pypi.org/project/zigger/"
 }

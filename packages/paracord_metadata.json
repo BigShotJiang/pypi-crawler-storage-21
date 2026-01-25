@@ -1,0 +1,11 @@
+{
+  "name": "paracord",
+  "version": "0.0.8",
+  "summary": "A modern CLI tool for Paracord projects - wraps copier, uv, and rav into a unified developer experience",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paracord-0.0.8.tar.gz",
+  "download_time": "2026-01-25T21:44:32.719724",
+  "package_url": "https://pypi.org/project/paracord/"
+}

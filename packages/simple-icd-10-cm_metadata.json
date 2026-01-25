@@ -1,0 +1,11 @@
+{
+  "name": "simple-icd-10-cm",
+  "version": "1.4.0",
+  "summary": "A simple python library for ICD-10-CM codes",
+  "author": "Stefano Travasci",
+  "license": null,
+  "home_page": "https://github.com/StefanoTrv/simple_icd_10_CM",
+  "download_filename": "simple_icd_10_cm-1.4.0.tar.gz",
+  "download_time": "2026-01-25T21:44:49.899239",
+  "package_url": "https://pypi.org/project/simple-icd-10-cm/"
+}

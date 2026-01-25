@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-terminal",
-  "version": "4.7.7",
+  "version": "4.7.8",
   "summary": "Terminal.css theme for MkDocs",
   "author": "Natan Organick",
   "license": null,
   "home_page": null,
-  "download_filename": "mkdocs_terminal-4.7.7.tar.gz",
-  "download_time": "2026-01-25T20:28:11.426142",
+  "download_filename": "mkdocs_terminal-4.7.8.tar.gz",
+  "download_time": "2026-01-25T21:44:51.064742",
   "package_url": "https://pypi.org/project/mkdocs-terminal/"
 }

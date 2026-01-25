@@ -1,11 +1,11 @@
 {
   "name": "MRArbGrad",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "summary": "Gradient waveform design tool for arbitrary k-space trajectories.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mrarbgrad-4.1.0.tar.gz",
-  "download_time": "2026-01-25T17:45:49.503593",
+  "download_filename": "mrarbgrad-4.1.1.tar.gz",
+  "download_time": "2026-01-25T21:44:26.239230",
   "package_url": "https://pypi.org/project/MRArbGrad/"
 }

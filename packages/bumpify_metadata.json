@@ -1,0 +1,11 @@
+{
+  "name": "bumpify",
+  "version": "0.5.0",
+  "summary": "Semantic versioning automation tool for software projects",
+  "author": "Maciej Wiatrzyk",
+  "license": "MIT",
+  "home_page": "https://github.com/mwiatrzyk/bumpify",
+  "download_filename": "bumpify-0.5.0.tar.gz",
+  "download_time": "2026-01-25T21:44:30.404611",
+  "package_url": "https://pypi.org/project/bumpify/"
+}
