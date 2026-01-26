@@ -1,11 +1,11 @@
 {
   "name": "dgread",
-  "version": "1.1.0",
-  "summary": "Fast reader for dg/dgz dynamic group data files",
+  "version": "1.1.4",
+  "summary": "Python reader for dg/dgz dynamic group data files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dgread-1.1.0.tar.gz",
-  "download_time": "2026-01-24T22:22:42.535384",
+  "download_filename": "dgread-1.1.4.tar.gz",
+  "download_time": "2026-01-26T02:05:02.165244",
   "package_url": "https://pypi.org/project/dgread/"
 }

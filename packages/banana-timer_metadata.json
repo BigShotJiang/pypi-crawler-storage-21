@@ -1,11 +1,11 @@
 {
   "name": "banana-timer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A professional countdown Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "banana_timer-1.0.2.tar.gz",
-  "download_time": "2026-01-25T17:22:40.501959",
+  "download_filename": "banana_timer-1.0.3.tar.gz",
+  "download_time": "2026-01-26T02:05:12.892322",
   "package_url": "https://pypi.org/project/banana-timer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "astpass",
+  "version": "0.1.0",
+  "summary": "A collection of AST-based analysis and transformation passes",
+  "author": "Tong Zhou",
+  "license": null,
+  "home_page": "https://github.com/habanero-lab/astpass",
+  "download_filename": "astpass-0.1.0.tar.gz",
+  "download_time": "2026-01-26T02:04:57.389524",
+  "package_url": "https://pypi.org/project/astpass/"
+}

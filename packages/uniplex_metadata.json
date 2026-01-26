@@ -1,0 +1,11 @@
+{
+  "name": "uniplex",
+  "version": "2026.1.25",
+  "summary": "Python SDK for the Uniplex protocol - AI agent trust infrastructure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uniplex-2026.1.25.tar.gz",
+  "download_time": "2026-01-26T02:04:50.593210",
+  "package_url": "https://pypi.org/project/uniplex/"
+}
