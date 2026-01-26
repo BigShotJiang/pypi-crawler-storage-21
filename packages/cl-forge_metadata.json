@@ -1,11 +1,11 @@
 {
   "name": "cl-forge",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Simple yet powerful Chilean and other tools written in Rust and Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cl_forge-0.4.0.tar.gz",
-  "download_time": "2026-01-22T05:55:52.182082",
+  "download_filename": "cl_forge-0.5.1.tar.gz",
+  "download_time": "2026-01-26T19:28:31.742429",
   "package_url": "https://pypi.org/project/cl-forge/"
 }

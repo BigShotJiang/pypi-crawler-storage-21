@@ -1,0 +1,11 @@
+{
+  "name": "dotprmpt",
+  "version": "0.1.0",
+  "summary": "System-enforced LLM contracts - define, validate, and enforce behavioral constraints on AI interactions",
+  "author": "Saurav Venkat",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dotprmpt-0.1.0.tar.gz",
+  "download_time": "2026-01-26T19:28:12.660401",
+  "package_url": "https://pypi.org/project/dotprmpt/"
+}

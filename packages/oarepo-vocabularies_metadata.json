@@ -1,0 +1,11 @@
+{
+  "name": "oarepo-vocabularies",
+  "version": "2.2.6",
+  "summary": "Support for custom fields and hierarchy on Invenio vocabularies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oarepo_vocabularies-2.2.6.tar.gz",
+  "download_time": "2026-01-26T19:28:28.338769",
+  "package_url": "https://pypi.org/project/oarepo-vocabularies/"
+}

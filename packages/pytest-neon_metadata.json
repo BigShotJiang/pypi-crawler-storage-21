@@ -1,11 +1,11 @@
 {
   "name": "pytest-neon",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "summary": "Pytest plugin for Neon database branch isolation in tests",
   "author": "Zain Rizvi",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_neon-2.1.2.tar.gz",
-  "download_time": "2026-01-26T16:51:06.106929",
+  "download_filename": "pytest_neon-2.1.3.tar.gz",
+  "download_time": "2026-01-26T19:28:43.432922",
   "package_url": "https://pypi.org/project/pytest-neon/"
 }

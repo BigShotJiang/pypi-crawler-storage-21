@@ -1,0 +1,11 @@
+{
+  "name": "RobustDocOCR",
+  "version": "1.0.0",
+  "summary": "A robust preprocessing pipeline for document OCR that significantly improves Tesseract accuracy on mobile-captured ID documents",
+  "author": "Ahmed Mohamed",
+  "license": "MIT",
+  "home_page": "https://github.com/3bsalam-1/RobustDocOCR",
+  "download_filename": "robustdococr-1.0.0.tar.gz",
+  "download_time": "2026-01-26T19:28:26.021490",
+  "package_url": "https://pypi.org/project/RobustDocOCR/"
+}

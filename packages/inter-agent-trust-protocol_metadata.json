@@ -1,11 +1,11 @@
 {
   "name": "inter-agent-trust-protocol",
-  "version": "0.3.1",
-  "summary": "Inter-Agent Trust Protocol - Envoy for Agents",
+  "version": "0.4.0",
+  "summary": "Inter-Agent Trust Protocol (IATP) - The Envoy for AI Agents. A sidecar architecture with typed IPC pipes for preventing cascading hallucinations in autonomous agent networks.",
   "author": "Imran Siddique",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/imran-siddique/inter-agent-trust-protocol",
-  "download_filename": "inter_agent_trust_protocol-0.3.1.tar.gz",
-  "download_time": "2026-01-23T19:54:46.040847",
+  "download_filename": "inter_agent_trust_protocol-0.4.0.tar.gz",
+  "download_time": "2026-01-26T19:28:41.746425",
   "package_url": "https://pypi.org/project/inter-agent-trust-protocol/"
 }

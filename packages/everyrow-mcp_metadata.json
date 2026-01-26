@@ -1,11 +1,11 @@
 {
   "name": "everyrow-mcp",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "MCP server for everyrow: agent ops at spreadsheet scale",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "everyrow_mcp-0.1.8.tar.gz",
-  "download_time": "2026-01-24T04:13:50.361062",
+  "download_filename": "everyrow_mcp-0.1.10.tar.gz",
+  "download_time": "2026-01-26T19:28:17.387856",
   "package_url": "https://pypi.org/project/everyrow-mcp/"
 }

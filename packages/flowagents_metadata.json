@@ -1,0 +1,11 @@
+{
+  "name": "flowagents",
+  "version": "0.1.1",
+  "summary": "A zero-code AI workflow orchestration framework with state-driven agents",
+  "author": "FlowAgents Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowagents-0.1.1.tar.gz",
+  "download_time": "2026-01-26T19:28:16.827630",
+  "package_url": "https://pypi.org/project/flowagents/"
+}

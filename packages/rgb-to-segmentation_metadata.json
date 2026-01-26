@@ -1,11 +1,11 @@
 {
   "name": "rgb-to-segmentation",
-  "version": "0.1.13",
+  "version": "0.2.0",
   "summary": "Tools for processing and cleaning segmentation images using palette mapping and neural networks",
   "author": "Alex Senden",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rgb_to_segmentation-0.1.13.tar.gz",
-  "download_time": "2026-01-24T19:25:08.425373",
+  "download_filename": "rgb_to_segmentation-0.2.0.tar.gz",
+  "download_time": "2026-01-26T19:28:36.805223",
   "package_url": "https://pypi.org/project/rgb-to-segmentation/"
 }

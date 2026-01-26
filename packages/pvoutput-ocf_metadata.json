@@ -1,11 +1,11 @@
 {
   "name": "pvoutput-ocf",
-  "version": "0.1.37",
+  "version": "0.1.38",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pvoutput_ocf-0.1.37.tar.gz",
-  "download_time": "2026-01-23T18:37:31.885905",
+  "download_filename": "pvoutput_ocf-0.1.38.tar.gz",
+  "download_time": "2026-01-26T19:28:45.073079",
   "package_url": "https://pypi.org/project/pvoutput-ocf/"
 }

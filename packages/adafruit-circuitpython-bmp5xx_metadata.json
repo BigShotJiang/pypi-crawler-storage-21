@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-bmp5xx",
+  "version": "1.1.1",
+  "summary": "CircuitPython library for the BMP580 / BMP581 / BMP585 / etc barometric pressure sensors.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_bmp5xx-1.1.1.tar.gz",
+  "download_time": "2026-01-26T19:28:42.888301",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-bmp5xx/"
+}

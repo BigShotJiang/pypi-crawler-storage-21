@@ -1,11 +1,11 @@
 {
   "name": "scale-gp-beta",
-  "version": "0.1.0a41",
+  "version": "0.1.0a42",
   "summary": "The official Python library for the Scale GP API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "scale_gp_beta-0.1.0a41.tar.gz",
-  "download_time": "2026-01-22T21:27:08.757673",
+  "download_filename": "scale_gp_beta-0.1.0a42.tar.gz",
+  "download_time": "2026-01-26T19:28:46.918870",
   "package_url": "https://pypi.org/project/scale-gp-beta/"
 }

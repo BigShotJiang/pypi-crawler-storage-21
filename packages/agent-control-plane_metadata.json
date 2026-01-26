@@ -1,0 +1,11 @@
+{
+  "name": "agent-control-plane",
+  "version": "1.2.0",
+  "summary": "Layer 3: The Framework - A governance and management layer for autonomous AI agents",
+  "author": "Agent Control Plane Contributors",
+  "license": null,
+  "home_page": "https://github.com/imran-siddique/agent-control-plane",
+  "download_filename": "agent_control_plane-1.2.0.tar.gz",
+  "download_time": "2026-01-26T19:28:40.616630",
+  "package_url": "https://pypi.org/project/agent-control-plane/"
+}

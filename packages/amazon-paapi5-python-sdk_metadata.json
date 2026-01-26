@@ -1,0 +1,11 @@
+{
+  "name": "amazon-paapi5-python-sdk",
+  "version": "1.0.7",
+  "summary": "Amazon Product Advertising API v5 Python SDK (Most Advance SDK)",
+  "author": "Hitesh Rajpurohit",
+  "license": null,
+  "home_page": "https://github.com/rajpurohithitesh/amazon-paapi5-python-sdk",
+  "download_filename": "amazon_paapi5_python_sdk-1.0.7.tar.gz",
+  "download_time": "2026-01-26T19:28:46.373318",
+  "package_url": "https://pypi.org/project/amazon-paapi5-python-sdk/"
+}

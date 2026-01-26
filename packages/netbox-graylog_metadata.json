@@ -1,11 +1,11 @@
 {
   "name": "netbox-graylog",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "NetBox plugin to display Graylog logs in device and VM detail pages",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "netbox_graylog-1.0.2.tar.gz",
-  "download_time": "2026-01-23T21:24:50.069810",
+  "download_filename": "netbox_graylog-1.1.0.tar.gz",
+  "download_time": "2026-01-26T19:28:48.022690",
   "package_url": "https://pypi.org/project/netbox-graylog/"
 }
