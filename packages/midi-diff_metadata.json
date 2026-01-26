@@ -1,11 +1,11 @@
 {
   "name": "midi-diff",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Output the differences between two MIDI files, using the command-line.",
   "author": "Taylor-Jayde Blackstone",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "midi_diff-1.0.4.tar.gz",
-  "download_time": "2026-01-26T02:05:06.486767",
+  "download_filename": "midi_diff-1.0.5.tar.gz",
+  "download_time": "2026-01-26T05:51:28.670876",
   "package_url": "https://pypi.org/project/midi-diff/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jira-tools-mcp",
+  "version": "0.2.1",
+  "summary": "Jira MCP for controlling Jira through Jira Command Line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jira_tools_mcp-0.2.1.tar.gz",
+  "download_time": "2026-01-26T05:51:38.406225",
+  "package_url": "https://pypi.org/project/jira-tools-mcp/"
+}

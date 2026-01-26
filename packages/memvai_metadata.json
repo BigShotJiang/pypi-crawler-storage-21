@@ -1,11 +1,11 @@
 {
   "name": "memvai",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "The official Python library for the memv API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "memvai-0.3.1.tar.gz",
-  "download_time": "2026-01-26T04:05:48.395974",
+  "download_filename": "memvai-0.4.1.tar.gz",
+  "download_time": "2026-01-26T05:51:55.613237",
   "package_url": "https://pypi.org/project/memvai/"
 }

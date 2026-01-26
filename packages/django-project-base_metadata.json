@@ -1,0 +1,11 @@
+{
+  "name": "django-project-base",
+  "version": "0.81.18",
+  "summary": "Everything revolves around it: users, roles, permissions, tags, etc.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "django_project_base-0.81.18.tar.gz",
+  "download_time": "2026-01-26T05:52:00.342343",
+  "package_url": "https://pypi.org/project/django-project-base/"
+}

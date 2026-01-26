@@ -1,11 +1,11 @@
 {
   "name": "lineoa",
-  "version": "4.4.4",
+  "version": "4.4.5",
   "summary": "LINE Official User API wrapper library for Python",
   "author": "madoa5561",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lineoa-4.4.4.tar.gz",
-  "download_time": "2026-01-26T05:06:56.552869",
+  "download_filename": "lineoa-4.4.5.tar.gz",
+  "download_time": "2026-01-26T05:52:02.936672",
   "package_url": "https://pypi.org/project/lineoa/"
 }

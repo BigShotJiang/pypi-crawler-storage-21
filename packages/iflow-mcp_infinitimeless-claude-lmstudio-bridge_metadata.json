@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_infinitimeless-claude-lmstudio-bridge",
+  "version": "1.0.0",
+  "summary": "An MCP server that bridges Claude with local LLMs running in LM Studio",
+  "author": "infinitimeless",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_infinitimeless_claude_lmstudio_bridge-1.0.0.tar.gz",
+  "download_time": "2026-01-26T05:51:34.343312",
+  "package_url": "https://pypi.org/project/iflow-mcp_infinitimeless-claude-lmstudio-bridge/"
+}

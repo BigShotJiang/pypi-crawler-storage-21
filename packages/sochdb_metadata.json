@@ -1,11 +1,11 @@
 {
   "name": "sochdb",
-  "version": "0.4.6",
+  "version": "0.4.8",
   "summary": "SochDB is an AI-native database with token-optimized output, O(|path|) lookups, built-in vector search, and durable transactions.",
   "author": null,
-  "license": "Apache-2.0",
+  "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "sochdb-0.4.6.tar.gz",
-  "download_time": "2026-01-25T20:48:59.899538",
+  "download_filename": "sochdb-0.4.8.tar.gz",
+  "download_time": "2026-01-26T05:51:55.096364",
   "package_url": "https://pypi.org/project/sochdb/"
 }
