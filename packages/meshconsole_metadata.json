@@ -1,0 +1,11 @@
+{
+  "name": "meshconsole",
+  "version": "2.2.2",
+  "summary": "A powerful CLI and web interface for Meshtastic mesh networking devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meshconsole-2.2.2.tar.gz",
+  "download_time": "2026-01-26T14:58:30.405481",
+  "package_url": "https://pypi.org/project/meshconsole/"
+}

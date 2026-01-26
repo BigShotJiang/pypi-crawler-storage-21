@@ -1,0 +1,11 @@
+{
+  "name": "another-sd-client",
+  "version": "5.0.0",
+  "summary": "Client for communicating with SD Løn",
+  "author": "Magenta ApS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "another_sd_client-5.0.0.tar.gz",
+  "download_time": "2026-01-26T14:58:36.133866",
+  "package_url": "https://pypi.org/project/another-sd-client/"
+}

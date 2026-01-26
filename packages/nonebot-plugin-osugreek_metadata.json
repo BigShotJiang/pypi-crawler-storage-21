@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-osugreek",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "在图片中央贴上神秘4k希腊字母并添加色散效果的 NoneBot2 插件",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_osugreek-1.0.7.tar.gz",
-  "download_time": "2026-01-22T11:48:01.457539",
+  "download_filename": "nonebot_plugin_osugreek-1.0.9.tar.gz",
+  "download_time": "2026-01-26T14:58:39.794016",
   "package_url": "https://pypi.org/project/nonebot-plugin-osugreek/"
 }

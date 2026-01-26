@@ -1,0 +1,11 @@
+{
+  "name": "make-future",
+  "version": "0.2.2",
+  "summary": "Miniam yet powerful parallelization tool",
+  "author": "Vidal Attias",
+  "license": null,
+  "home_page": null,
+  "download_filename": "make_future-0.2.2.tar.gz",
+  "download_time": "2026-01-26T14:58:16.811501",
+  "package_url": "https://pypi.org/project/make-future/"
+}

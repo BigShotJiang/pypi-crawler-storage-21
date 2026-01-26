@@ -1,0 +1,11 @@
+{
+  "name": "neutron-vpnaas",
+  "version": "27.0.0",
+  "summary": "OpenStack Networking VPN as a Service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/neutron-vpnaas/latest/",
+  "download_filename": "neutron_vpnaas-27.0.0.tar.gz",
+  "download_time": "2026-01-26T14:58:38.750406",
+  "package_url": "https://pypi.org/project/neutron-vpnaas/"
+}

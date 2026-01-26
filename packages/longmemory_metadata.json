@@ -1,0 +1,11 @@
+{
+  "name": "longmemory",
+  "version": "0.1.0a1",
+  "summary": "Official Python client for LongMemory.io",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "longmemory-0.1.0a1.tar.gz",
+  "download_time": "2026-01-26T14:58:18.370338",
+  "package_url": "https://pypi.org/project/longmemory/"
+}

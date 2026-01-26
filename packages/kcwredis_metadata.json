@@ -1,11 +1,11 @@
 {
   "name": "kcwredis",
-  "version": "3.15",
+  "version": "3.18",
   "summary": "kcwcache",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "kcwredis-3.15.tar.gz",
-  "download_time": "2026-01-25T23:23:59.230857",
+  "download_filename": "kcwredis-3.18.tar.gz",
+  "download_time": "2026-01-26T14:58:27.271836",
   "package_url": "https://pypi.org/project/kcwredis/"
 }

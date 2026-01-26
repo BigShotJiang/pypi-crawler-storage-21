@@ -1,11 +1,11 @@
 {
   "name": "quickdistill",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Fast and easy toolkit for distilling AI models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quickdistill-0.1.4.tar.gz",
-  "download_time": "2026-01-26T11:46:50.712903",
+  "download_filename": "quickdistill-0.1.5.tar.gz",
+  "download_time": "2026-01-26T14:57:59.315554",
   "package_url": "https://pypi.org/project/quickdistill/"
 }

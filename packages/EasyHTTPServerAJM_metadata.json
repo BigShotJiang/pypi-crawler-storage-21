@@ -1,11 +1,11 @@
 {
   "name": "EasyHTTPServerAJM",
-  "version": "0.3",
+  "version": "0.5.1",
   "summary": "quick and dirty http server",
   "author": "Amcsparron",
   "license": "MIT License",
   "home_page": "https://github.com/amcsparron2793-Water/EasyHTTPServerAJM",
-  "download_filename": "easyhttpserverajm-0.3.tar.gz",
-  "download_time": "2026-01-22T17:17:28.169888",
+  "download_filename": "easyhttpserverajm-0.5.1.tar.gz",
+  "download_time": "2026-01-26T14:58:14.215576",
   "package_url": "https://pypi.org/project/EasyHTTPServerAJM/"
 }

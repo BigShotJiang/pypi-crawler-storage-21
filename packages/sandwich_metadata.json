@@ -1,0 +1,11 @@
+{
+  "name": "sandwich",
+  "version": "0.2.2",
+  "summary": "DataVault 2.0 code gen",
+  "author": "Andrey Morozov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sandwich-0.2.2.tar.gz",
+  "download_time": "2026-01-26T14:58:33.538358",
+  "package_url": "https://pypi.org/project/sandwich/"
+}
