@@ -1,0 +1,11 @@
+{
+  "name": "LLNL-PyDV",
+  "version": "3.9.0",
+  "summary": "PyDV: Python Data Visualizer",
+  "author": "Jorge Moreno",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "llnl_pydv-3.9.0.tar.gz",
+  "download_time": "2026-01-26T21:37:48.759982",
+  "package_url": "https://pypi.org/project/LLNL-PyDV/"
+}

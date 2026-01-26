@@ -1,0 +1,11 @@
+{
+  "name": "cyforge",
+  "version": "0.2",
+  "summary": "A lightweight Python framework for building and orchestrating AI pipelines with message-based workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyforge-0.2.tar.gz",
+  "download_time": "2026-01-26T21:37:42.564171",
+  "package_url": "https://pypi.org/project/cyforge/"
+}

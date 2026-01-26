@@ -1,0 +1,11 @@
+{
+  "name": "tenneteu-py",
+  "version": "0.1.5",
+  "summary": "A python API wrapper for tennet.eu API",
+  "author": "Frank Boerman",
+  "license": "MIT",
+  "home_page": "https://github.com/fboerman/TenneTeu-py",
+  "download_filename": "tenneteu_py-0.1.5.tar.gz",
+  "download_time": "2026-01-26T21:37:01.164443",
+  "package_url": "https://pypi.org/project/tenneteu-py/"
+}

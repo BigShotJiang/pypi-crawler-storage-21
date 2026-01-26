@@ -1,0 +1,11 @@
+{
+  "name": "pyzwoasi",
+  "version": "0.2.3",
+  "summary": "Python binding for the ZWO ASI SDK library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyzwoasi-0.2.3.tar.gz",
+  "download_time": "2026-01-26T21:37:18.602681",
+  "package_url": "https://pypi.org/project/pyzwoasi/"
+}

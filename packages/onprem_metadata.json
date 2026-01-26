@@ -1,0 +1,11 @@
+{
+  "name": "onprem",
+  "version": "0.21.4",
+  "summary": "A tool for running on-premises large language models on non-public data",
+  "author": "Arun S. Maiya",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/amaiya/onprem",
+  "download_filename": "onprem-0.21.4.tar.gz",
+  "download_time": "2026-01-26T21:37:04.396643",
+  "package_url": "https://pypi.org/project/onprem/"
+}

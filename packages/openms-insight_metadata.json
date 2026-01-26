@@ -1,11 +1,11 @@
 {
   "name": "openms-insight",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Interactive visualization components for mass spectrometry data in Streamlit",
   "author": "Tom David Müller",
   "license": null,
   "home_page": null,
-  "download_filename": "openms_insight-0.1.8.tar.gz",
-  "download_time": "2026-01-25T22:24:40.167306",
+  "download_filename": "openms_insight-0.1.10.tar.gz",
+  "download_time": "2026-01-26T21:37:12.773156",
   "package_url": "https://pypi.org/project/openms-insight/"
 }

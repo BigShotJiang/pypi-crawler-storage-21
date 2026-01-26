@@ -1,11 +1,11 @@
 {
   "name": "cycls",
-  "version": "0.0.2.99",
+  "version": "0.0.2.100",
   "summary": "Distribute Intelligence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cycls-0.0.2.99.tar.gz",
-  "download_time": "2026-01-26T20:01:06.599782",
+  "download_filename": "cycls-0.0.2.100.tar.gz",
+  "download_time": "2026-01-26T21:37:39.410580",
   "package_url": "https://pypi.org/project/cycls/"
 }

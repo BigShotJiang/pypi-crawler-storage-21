@@ -1,0 +1,11 @@
+{
+  "name": "yardstick",
+  "version": "0.16.0",
+  "summary": "Tool for comparing the results from vulnerability scanners",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "yardstick-0.16.0.tar.gz",
+  "download_time": "2026-01-26T21:37:25.405291",
+  "package_url": "https://pypi.org/project/yardstick/"
+}

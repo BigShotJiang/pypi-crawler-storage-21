@@ -1,0 +1,11 @@
+{
+  "name": "babi-grammars",
+  "version": "0.0.70",
+  "summary": "grammars for babi",
+  "author": "Anthony Sottile",
+  "license": "MIT",
+  "home_page": "https://github.com/asottile/babi-grammars",
+  "download_filename": "babi_grammars-0.0.70.tar.gz",
+  "download_time": "2026-01-26T21:37:31.188011",
+  "package_url": "https://pypi.org/project/babi-grammars/"
+}
