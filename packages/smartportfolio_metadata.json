@@ -1,11 +1,11 @@
 {
   "name": "smartportfolio",
-  "version": "2.1.1",
+  "version": "2.1.5",
   "summary": "GNN + Prophet + DRL Portfolio Optimization TUI - A terminal-based intelligent asset allocation system",
-  "author": "Akash Upadhyay, Asma Shaikh, Dhruvi Shah",
+  "author": "Anonymous",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartportfolio-2.1.1.tar.gz",
-  "download_time": "2026-01-26T07:44:48.744718",
+  "download_filename": "smartportfolio-2.1.5.tar.gz",
+  "download_time": "2026-01-26T07:59:08.224339",
   "package_url": "https://pypi.org/project/smartportfolio/"
 }

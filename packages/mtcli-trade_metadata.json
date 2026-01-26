@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-trade",
+  "version": "1.6.2",
+  "summary": "Plugin mtcli para gerenciamento de órdens",
+  "author": "Valmir França da Silva",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/vfranca/mtcli-trade",
+  "download_filename": "mtcli_trade-1.6.2.tar.gz",
+  "download_time": "2026-01-26T07:59:15.078163",
+  "package_url": "https://pypi.org/project/mtcli-trade/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bayesml",
+  "version": "0.4.1",
+  "summary": "Your First Library for Bayesian Machine Learning",
+  "author": "Yuta Nakahara et al.",
+  "license": null,
+  "home_page": "https://bayesml.github.io/BayesML/",
+  "download_filename": "bayesml-0.4.1.tar.gz",
+  "download_time": "2026-01-26T07:58:56.774891",
+  "package_url": "https://pypi.org/project/bayesml/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "IndianConstitution",
-  "version": "0.8",
-  "summary": "A Python module for accessing and managing Constitution data with advanced features like DataFrame support, fuzzy search, and export capabilities.",
+  "version": "1.0.0",
+  "summary": "AI- and NLP-enabled Python framework for programmatic access, analysis, and research on the Constitution of India.",
   "author": "Vikhram S",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/Vikhram-S/IndianConstitution",
-  "download_filename": "indianconstitution-0.8.tar.gz",
-  "download_time": "2026-01-20T04:36:14.340704",
+  "download_filename": "indianconstitution-1.0.0.tar.gz",
+  "download_time": "2026-01-26T07:59:01.442887",
   "package_url": "https://pypi.org/project/IndianConstitution/"
 }

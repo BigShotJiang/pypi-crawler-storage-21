@@ -1,0 +1,11 @@
+{
+  "name": "nancal-lanchain-base",
+  "version": "0.1.4",
+  "summary": "A collection of utilities for Nancal LangGraph projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nancal_lanchain_base-0.1.4.tar.gz",
+  "download_time": "2026-01-26T07:59:16.120289",
+  "package_url": "https://pypi.org/project/nancal-lanchain-base/"
+}
