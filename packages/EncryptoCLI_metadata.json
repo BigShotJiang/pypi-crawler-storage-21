@@ -1,11 +1,11 @@
 {
   "name": "EncryptoCLI",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A command-line program for encrypting, decrypting, and hashing files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "encryptocli-0.2.1.tar.gz",
-  "download_time": "2026-01-26T20:01:12.900745",
+  "download_filename": "encryptocli-0.2.2.tar.gz",
+  "download_time": "2026-01-26T20:37:29.718354",
   "package_url": "https://pypi.org/project/EncryptoCLI/"
 }

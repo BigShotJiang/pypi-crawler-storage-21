@@ -1,0 +1,11 @@
+{
+  "name": "mcp-pypi",
+  "version": "3.0.0",
+  "summary": "🐍 AI-powered Python package intelligence - search, analyze, and understand PyPI packages through MCP",
+  "author": null,
+  "license": "MIT OR Commercial",
+  "home_page": null,
+  "download_filename": "mcp_pypi-3.0.0.tar.gz",
+  "download_time": "2026-01-26T20:37:19.160090",
+  "package_url": "https://pypi.org/project/mcp-pypi/"
+}

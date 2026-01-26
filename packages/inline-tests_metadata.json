@@ -1,0 +1,11 @@
+{
+  "name": "inline-tests",
+  "version": "0.1.0",
+  "summary": "Colocate your Python tests, Rust-style",
+  "author": "Windsor Nguyen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inline_tests-0.1.0.tar.gz",
+  "download_time": "2026-01-26T20:37:02.254201",
+  "package_url": "https://pypi.org/project/inline-tests/"
+}

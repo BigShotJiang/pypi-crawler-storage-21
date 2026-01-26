@@ -1,0 +1,11 @@
+{
+  "name": "in-layers-data",
+  "version": "0.4.22",
+  "summary": "A data layer for In Layers Core. (in-layers-core). Part of the Node in Layers ecosystem",
+  "author": "Mike Cornwell",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "in_layers_data-0.4.22.tar.gz",
+  "download_time": "2026-01-26T20:37:00.684868",
+  "package_url": "https://pypi.org/project/in-layers-data/"
+}
