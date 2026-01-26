@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework-plugin-result-upload",
+  "version": "113.0",
+  "summary": "Avocado Plugin to propagate Job results to remote host",
+  "author": "Avocado Developers",
+  "license": null,
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "avocado_framework_plugin_result_upload-113.0.tar.gz",
+  "download_time": "2026-01-26T11:46:35.771220",
+  "package_url": "https://pypi.org/project/avocado-framework-plugin-result-upload/"
+}

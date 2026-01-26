@@ -1,0 +1,11 @@
+{
+  "name": "fhiry",
+  "version": "5.2.2",
+  "summary": "FHIR to pandas.dataframe for AI and ML",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fhiry-5.2.2.tar.gz",
+  "download_time": "2026-01-26T11:46:30.648406",
+  "package_url": "https://pypi.org/project/fhiry/"
+}

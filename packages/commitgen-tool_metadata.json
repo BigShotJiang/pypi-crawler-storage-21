@@ -1,0 +1,11 @@
+{
+  "name": "commitgen-tool",
+  "version": "0.1.6",
+  "summary": "AI-powered Conventional Commit message generator for Git using OpenAI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "commitgen_tool-0.1.6.tar.gz",
+  "download_time": "2026-01-26T11:46:49.670400",
+  "package_url": "https://pypi.org/project/commitgen-tool/"
+}

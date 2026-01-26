@@ -1,0 +1,11 @@
+{
+  "name": "pq-side-channel",
+  "version": "0.0.1",
+  "summary": "Side-channel resistant helpers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pq_side_channel-0.0.1.tar.gz",
+  "download_time": "2026-01-26T11:46:12.539415",
+  "package_url": "https://pypi.org/project/pq-side-channel/"
+}

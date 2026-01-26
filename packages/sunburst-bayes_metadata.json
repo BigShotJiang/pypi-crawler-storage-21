@@ -1,0 +1,11 @@
+{
+  "name": "sunburst-bayes",
+  "version": "1.0.0",
+  "summary": "GPU-accelerated Bayesian evidence calculation via radial shooting techniques",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sunburst_bayes-1.0.0.tar.gz",
+  "download_time": "2026-01-26T11:46:46.588730",
+  "package_url": "https://pypi.org/project/sunburst-bayes/"
+}

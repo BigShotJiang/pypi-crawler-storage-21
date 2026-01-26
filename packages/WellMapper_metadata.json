@@ -1,0 +1,11 @@
+{
+  "name": "WellMapper",
+  "version": "0.1.0",
+  "summary": "well plate layout designer and exporter for napari",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "wellmapper-0.1.0.tar.gz",
+  "download_time": "2026-01-26T11:46:46.071245",
+  "package_url": "https://pypi.org/project/WellMapper/"
+}

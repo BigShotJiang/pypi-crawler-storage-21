@@ -1,0 +1,11 @@
+{
+  "name": "pq-dtls",
+  "version": "0.0.1",
+  "summary": "DTLS with PQ for UDP applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pq_dtls-0.0.1.tar.gz",
+  "download_time": "2026-01-26T11:46:48.637039",
+  "package_url": "https://pypi.org/project/pq-dtls/"
+}

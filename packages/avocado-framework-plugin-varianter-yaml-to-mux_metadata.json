@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework-plugin-varianter-yaml-to-mux",
+  "version": "113.0",
+  "summary": "Avocado Varianter plugin to parse YAML file into variants",
+  "author": "Avocado Developers",
+  "license": null,
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "avocado_framework_plugin_varianter_yaml_to_mux-113.0.tar.gz",
+  "download_time": "2026-01-26T11:46:32.183234",
+  "package_url": "https://pypi.org/project/avocado-framework-plugin-varianter-yaml-to-mux/"
+}

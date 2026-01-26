@@ -1,0 +1,11 @@
+{
+  "name": "adept-evo",
+  "version": "0.9.6",
+  "summary": "Automated Dynamics-Aware Evolutionary Profiling Tool (ADEPT)",
+  "author": "Taner Karagol",
+  "license": null,
+  "home_page": "https://github.com/karagol-taner/Dynamics-aware-Evolutionary-Profiling",
+  "download_filename": "adept_evo-0.9.6.tar.gz",
+  "download_time": "2026-01-26T11:46:17.711118",
+  "package_url": "https://pypi.org/project/adept-evo/"
+}

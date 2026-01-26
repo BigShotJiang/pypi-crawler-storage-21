@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework-plugin-result-html",
+  "version": "113.0",
+  "summary": "Avocado HTML Report for Jobs",
+  "author": "Avocado Developers",
+  "license": null,
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "avocado_framework_plugin_result_html-113.0.tar.gz",
+  "download_time": "2026-01-26T11:46:36.795891",
+  "package_url": "https://pypi.org/project/avocado-framework-plugin-result-html/"
+}

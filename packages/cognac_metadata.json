@@ -1,0 +1,11 @@
+{
+  "name": "cognac",
+  "version": "0.1.8",
+  "summary": "Cooperative Graph-based Networked Agent Challenges for Multi-Agent Reinforcement Learning.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognac-0.1.8.tar.gz",
+  "download_time": "2026-01-26T11:46:21.404719",
+  "package_url": "https://pypi.org/project/cognac/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework-plugin-ansible",
+  "version": "113.0",
+  "summary": "Adds to Avocado the ability to use ansible modules as dependencies for tests",
+  "author": "Avocado Developers",
+  "license": null,
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "avocado_framework_plugin_ansible-113.0.tar.gz",
+  "download_time": "2026-01-26T11:46:37.821097",
+  "package_url": "https://pypi.org/project/avocado-framework-plugin-ansible/"
+}

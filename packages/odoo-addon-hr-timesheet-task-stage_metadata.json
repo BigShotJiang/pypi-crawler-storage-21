@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-timesheet-task-stage",
+  "version": "19.0.1.0.0.2",
+  "summary": "Open/Close task from corresponding Task Log entry",
+  "author": "Tecnativa, CorporateHub, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/timesheet",
+  "download_filename": "odoo_addon_hr_timesheet_task_stage-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-26T11:46:20.321140",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-timesheet-task-stage/"
+}

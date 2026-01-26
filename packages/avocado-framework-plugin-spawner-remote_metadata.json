@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework-plugin-spawner-remote",
+  "version": "113.0",
+  "summary": "Remote (host) based spawner",
+  "author": "Avocado Developers",
+  "license": null,
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "avocado_framework_plugin_spawner_remote-113.0.tar.gz",
+  "download_time": "2026-01-26T11:46:34.233185",
+  "package_url": "https://pypi.org/project/avocado-framework-plugin-spawner-remote/"
+}

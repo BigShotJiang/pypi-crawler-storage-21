@@ -1,0 +1,11 @@
+{
+  "name": "smartem-workspace",
+  "version": "0.5.0",
+  "summary": "CLI tool to automate SmartEM multi-repo workspace setup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartem_workspace-0.5.0.tar.gz",
+  "download_time": "2026-01-26T11:46:38.857061",
+  "package_url": "https://pypi.org/project/smartem-workspace/"
+}

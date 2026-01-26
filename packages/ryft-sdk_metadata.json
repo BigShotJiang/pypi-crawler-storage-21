@@ -1,0 +1,11 @@
+{
+  "name": "ryft-sdk",
+  "version": "1.4.0",
+  "summary": "Python SDK for Ryft API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ryft_sdk-1.4.0.tar.gz",
+  "download_time": "2026-01-26T11:46:39.367761",
+  "package_url": "https://pypi.org/project/ryft-sdk/"
+}

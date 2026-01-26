@@ -1,0 +1,11 @@
+{
+  "name": "pylocuszoom",
+  "version": "0.1.0",
+  "summary": "Regional association plots for GWAS results with LD coloring, gene tracks, and recombination rate overlays",
+  "author": "Michael Denyer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylocuszoom-0.1.0.tar.gz",
+  "download_time": "2026-01-26T11:46:18.737646",
+  "package_url": "https://pypi.org/project/pylocuszoom/"
+}

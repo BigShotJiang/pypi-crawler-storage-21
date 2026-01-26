@@ -1,0 +1,11 @@
+{
+  "name": "openbao-pydantic-settings-adapter",
+  "version": "1.0.4",
+  "summary": "OpenBao/Vault secrets source for pydantic-settings with AppRole authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openbao_pydantic_settings_adapter-1.0.4.tar.gz",
+  "download_time": "2026-01-26T11:46:02.143207",
+  "package_url": "https://pypi.org/project/openbao-pydantic-settings-adapter/"
+}
