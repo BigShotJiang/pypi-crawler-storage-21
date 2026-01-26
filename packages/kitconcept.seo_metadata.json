@@ -1,0 +1,11 @@
+{
+  "name": "kitconcept.seo",
+  "version": "2.1.2",
+  "summary": "SEO optimizations plugin for Plone",
+  "author": "kitconcept GmbH",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.python.org/pypi/kitconcept.seo",
+  "download_filename": "kitconcept_seo-2.1.2.tar.gz",
+  "download_time": "2026-01-26T17:33:38.754591",
+  "package_url": "https://pypi.org/project/kitconcept.seo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ultracart-rest-sdk",
-  "version": "4.1.46",
+  "version": "4.1.47",
   "summary": "UltraCart Rest API V2",
   "author": "UltraCart Support",
   "license": null,
   "home_page": null,
-  "download_filename": "ultracart_rest_sdk-4.1.46.tar.gz",
-  "download_time": "2026-01-26T16:50:52.368429",
+  "download_filename": "ultracart_rest_sdk-4.1.47.tar.gz",
+  "download_time": "2026-01-26T17:33:29.528910",
   "package_url": "https://pypi.org/project/ultracart-rest-sdk/"
 }

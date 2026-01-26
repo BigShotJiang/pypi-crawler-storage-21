@@ -1,0 +1,11 @@
+{
+  "name": "beamer-gen",
+  "version": "1.6.0",
+  "summary": "Preprocessor to generate LaTeX/beamer files",
+  "author": "Francis Colas",
+  "license": "BSD",
+  "home_page": "https://github.com/fcolas/beamer_gen",
+  "download_filename": "beamer_gen-1.6.0.tar.gz",
+  "download_time": "2026-01-26T17:34:09.988714",
+  "package_url": "https://pypi.org/project/beamer-gen/"
+}

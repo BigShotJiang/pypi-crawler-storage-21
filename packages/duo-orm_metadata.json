@@ -1,11 +1,11 @@
 {
   "name": "duo-orm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An opinionated, modern ORM for Python combining the power of SQLAlchemy 2.0 with a clean, symmetrical API for sync and async operations.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "duo_orm-0.1.0.tar.gz",
-  "download_time": "2026-01-24T14:22:42.111536",
+  "download_filename": "duo_orm-0.1.1.tar.gz",
+  "download_time": "2026-01-26T17:33:48.249856",
   "package_url": "https://pypi.org/project/duo-orm/"
 }

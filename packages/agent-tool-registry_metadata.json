@@ -1,11 +1,11 @@
 {
   "name": "agent-tool-registry",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A decentralized marketplace for agent capabilities - The Hands of AI Agents",
   "author": "Agent Tool Registry Contributors",
   "license": "MIT",
   "home_page": "https://github.com/imran-siddique/atr",
-  "download_filename": "agent_tool_registry-0.1.0.tar.gz",
-  "download_time": "2026-01-23T22:46:42.432014",
+  "download_filename": "agent_tool_registry-0.2.0.tar.gz",
+  "download_time": "2026-01-26T17:34:04.645956",
   "package_url": "https://pypi.org/project/agent-tool-registry/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tracklms-to-qti-results",
+  "version": "0.2.1",
+  "summary": "Convert Track LMS exports into QTI 3.0 Results Reporting XML.",
+  "author": "metyatech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracklms_to_qti_results-0.2.1.tar.gz",
+  "download_time": "2026-01-26T17:33:55.021162",
+  "package_url": "https://pypi.org/project/tracklms-to-qti-results/"
+}

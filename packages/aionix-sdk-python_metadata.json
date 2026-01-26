@@ -1,0 +1,11 @@
+{
+  "name": "aionix-sdk-python",
+  "version": "0.1.2",
+  "summary": "AionixOne Python SDK - High-performance serverless platform client",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aionix_sdk_python-0.1.2-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-26T17:34:08.735984",
+  "package_url": "https://pypi.org/project/aionix-sdk-python/"
+}

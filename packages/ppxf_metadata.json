@@ -1,0 +1,11 @@
+{
+  "name": "ppxf",
+  "version": "9.4.3",
+  "summary": "pPXF: Full Spectrum and SED Fitting of Galactic and Stellar Spectra",
+  "author": "Michele Cappellari",
+  "license": "Other/Proprietary License",
+  "home_page": "https://pypi.org/project/ppxf/",
+  "download_filename": "ppxf-9.4.3-py3-none-any.whl",
+  "download_time": "2026-01-26T17:33:27.848153",
+  "package_url": "https://pypi.org/project/ppxf/"
+}

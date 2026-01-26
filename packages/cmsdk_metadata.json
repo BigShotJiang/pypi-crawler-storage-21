@@ -1,0 +1,11 @@
+{
+  "name": "cmsdk",
+  "version": "1.0.1",
+  "summary": "A modern Python SDK for generating dynamic JSON interfaces",
+  "author": "JsonApp Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmsdk-1.0.1.tar.gz",
+  "download_time": "2026-01-26T17:33:31.197265",
+  "package_url": "https://pypi.org/project/cmsdk/"
+}

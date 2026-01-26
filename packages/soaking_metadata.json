@@ -1,11 +1,11 @@
 {
   "name": "soaking",
-  "version": "0.3.7",
+  "version": "0.3.11",
   "summary": "soak: graph-based pipelines and tools for LLM-assisted qualitative text analysis",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "soaking-0.3.7.tar.gz",
-  "download_time": "2026-01-26T16:51:18.117722",
+  "download_filename": "soaking-0.3.11.tar.gz",
+  "download_time": "2026-01-26T17:33:34.215620",
   "package_url": "https://pypi.org/project/soaking/"
 }

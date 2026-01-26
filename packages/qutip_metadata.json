@@ -1,0 +1,11 @@
+{
+  "name": "qutip",
+  "version": "5.2.3",
+  "summary": "QuTiP: The Quantum Toolbox in Python",
+  "author": "Alexander Pitchford, Paul D. Nation, Robert J. Johansson, Chris Granade, Arne Grimsmo, Nathan Shammah, Shahnawaz Ahmed, Neill Lambert, Eric Giguère, Boxi Li, Jake Lishman, Simon Cross",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qutip-5.2.3.tar.gz",
+  "download_time": "2026-01-26T17:33:40.243371",
+  "package_url": "https://pypi.org/project/qutip/"
+}

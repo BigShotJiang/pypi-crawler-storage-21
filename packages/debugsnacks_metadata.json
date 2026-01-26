@@ -1,11 +1,11 @@
 {
   "name": "debugsnacks",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A playful Python utility library for fun, facts, and chaos.",
   "author": "Mohammad Razi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "debugsnacks-0.2.0.tar.gz",
-  "download_time": "2026-01-25T17:45:11.407776",
+  "download_filename": "debugsnacks-0.2.1.tar.gz",
+  "download_time": "2026-01-26T17:33:52.820254",
   "package_url": "https://pypi.org/project/debugsnacks/"
 }
