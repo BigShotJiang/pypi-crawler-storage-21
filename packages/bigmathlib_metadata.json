@@ -1,0 +1,11 @@
+{
+  "name": "bigmathlib",
+  "version": "1.0.0",
+  "summary": "A small, easy-to-use wrapper around Python's Decimal with configurable precision and rounding.",
+  "author": "Jason",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigmathlib-1.0.0.tar.gz",
+  "download_time": "2026-01-26T14:19:41.250342",
+  "package_url": "https://pypi.org/project/bigmathlib/"
+}

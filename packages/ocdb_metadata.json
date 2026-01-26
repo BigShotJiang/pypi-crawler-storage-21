@@ -1,0 +1,11 @@
+{
+  "name": "ocdb",
+  "version": "0.2.1",
+  "summary": "Optical constants for elements and various materials in the EUV and VUV wavelengths",
+  "author": "Till Biskup",
+  "license": "GPLv3",
+  "home_page": "https://www.ocdb.ptb.de/",
+  "download_filename": "ocdb-0.2.1.tar.gz",
+  "download_time": "2026-01-26T14:19:17.128248",
+  "package_url": "https://pypi.org/project/ocdb/"
+}

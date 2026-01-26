@@ -1,11 +1,11 @@
 {
   "name": "sparqlkit",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "summary": "This package provides parsers and serializers for the SPARQL 1.1 Query and Update Language.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sparqlkit-0.3.0.tar.gz",
-  "download_time": "2026-01-25T13:26:03.071273",
+  "download_filename": "sparqlkit-0.4.1.tar.gz",
+  "download_time": "2026-01-26T14:19:22.995997",
   "package_url": "https://pypi.org/project/sparqlkit/"
 }

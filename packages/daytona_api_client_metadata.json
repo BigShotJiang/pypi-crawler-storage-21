@@ -1,11 +1,11 @@
 {
   "name": "daytona_api_client",
-  "version": "0.133.0",
+  "version": "0.135.0",
   "summary": "Daytona",
   "author": "Daytona Platforms Inc.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/daytonaio/daytona",
-  "download_filename": "daytona_api_client-0.133.0.tar.gz",
-  "download_time": "2026-01-20T12:53:26.141351",
+  "download_filename": "daytona_api_client-0.135.0.tar.gz",
+  "download_time": "2026-01-26T14:19:10.837980",
   "package_url": "https://pypi.org/project/daytona_api_client/"
 }

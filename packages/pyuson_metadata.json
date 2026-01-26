@@ -1,0 +1,11 @@
+{
+  "name": "pyuson",
+  "version": "0.7.5",
+  "summary": "Ultra-sound attenuation and phase-shift computation during high magnetic field.",
+  "author": "Guillaume Le Goc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyuson-0.7.5.tar.gz",
+  "download_time": "2026-01-26T14:19:46.927922",
+  "package_url": "https://pypi.org/project/pyuson/"
+}

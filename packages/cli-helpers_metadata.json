@@ -1,11 +1,11 @@
 {
   "name": "cli-helpers",
-  "version": "2.8.1",
+  "version": "2.9.0",
   "summary": "Helpers for building command-line apps",
   "author": "dbcli",
   "license": null,
   "home_page": "https://github.com/dbcli/cli_helpers",
-  "download_filename": "cli_helpers-2.8.1.tar.gz",
-  "download_time": "2026-01-24T19:24:46.039647",
+  "download_filename": "cli_helpers-2.9.0.tar.gz",
+  "download_time": "2026-01-26T14:19:36.578182",
   "package_url": "https://pypi.org/project/cli-helpers/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "NucDetect",
+  "version": "1.0",
+  "summary": "Module to quantify intranuclear foci on basis of immunofluorescence images.",
+  "author": "Romano Weiss",
+  "license": null,
+  "home_page": "https://github.com/SilMon/NucDetect",
+  "download_filename": "nucdetect-1.0-py3-none-any.whl",
+  "download_time": "2026-01-26T14:19:45.877962",
+  "package_url": "https://pypi.org/project/NucDetect/"
+}

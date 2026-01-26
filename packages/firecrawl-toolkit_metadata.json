@@ -1,11 +1,11 @@
 {
   "name": "firecrawl-toolkit",
-  "version": "0.0.4",
+  "version": "0.0.9",
   "summary": "A high-performance, asynchronous MCP server for Firecrawl Search, featuring connection pooling, request retries, and intelligent input parsing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "firecrawl_toolkit-0.0.4.tar.gz",
-  "download_time": "2026-01-24T11:41:43.107763",
+  "download_filename": "firecrawl_toolkit-0.0.9.tar.gz",
+  "download_time": "2026-01-26T14:19:11.373143",
   "package_url": "https://pypi.org/project/firecrawl-toolkit/"
 }

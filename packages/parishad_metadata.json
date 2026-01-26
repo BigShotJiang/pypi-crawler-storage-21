@@ -1,11 +1,11 @@
 {
   "name": "parishad",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "A cost-aware, local-first council of heterogeneous LLMs for reliable reasoning, coding, and factual correctness",
   "author": "Parishad Team",
   "license": null,
   "home_page": null,
-  "download_filename": "parishad-0.1.5.tar.gz",
-  "download_time": "2026-01-26T12:55:13.435786",
+  "download_filename": "parishad-0.1.7.tar.gz",
+  "download_time": "2026-01-26T14:19:33.431072",
   "package_url": "https://pypi.org/project/parishad/"
 }

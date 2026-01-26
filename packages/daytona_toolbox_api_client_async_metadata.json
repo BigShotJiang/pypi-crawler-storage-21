@@ -1,11 +1,11 @@
 {
   "name": "daytona_toolbox_api_client_async",
-  "version": "0.133.0",
+  "version": "0.135.0",
   "summary": "Daytona Toolbox API",
   "author": "OpenAPI Generator Community",
   "license": "Apache-2.0",
   "home_page": "https://github.com/daytonaio/daytona",
-  "download_filename": "daytona_toolbox_api_client_async-0.133.0.tar.gz",
-  "download_time": "2026-01-20T12:53:23.545320",
+  "download_filename": "daytona_toolbox_api_client_async-0.135.0.tar.gz",
+  "download_time": "2026-01-26T14:19:09.250517",
   "package_url": "https://pypi.org/project/daytona_toolbox_api_client_async/"
 }
