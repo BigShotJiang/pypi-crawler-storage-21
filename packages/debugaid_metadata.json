@@ -1,11 +1,11 @@
 {
   "name": "debugaid",
-  "version": "1.0",
+  "version": "1.0.0",
   "summary": "A lightweight Python toolkit for debugging and performance analysis",
   "author": "FelineFantasy",
   "license": null,
   "home_page": null,
-  "download_filename": "debugaid-1.0.tar.gz",
-  "download_time": "2026-01-25T09:46:34.075651",
+  "download_filename": "debugaid-1.0.0.tar.gz",
+  "download_time": "2026-01-26T23:26:50.623065",
   "package_url": "https://pypi.org/project/debugaid/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mca-sdk",
-  "version": "0.3.0",
-  "summary": "Model Collector Agent SDK for OpenTelemetry monitoring",
-  "author": null,
+  "version": "0.4.0",
+  "summary": "Model & Clinical AI (MCA) SDK for HIPAA-compliant OpenTelemetry instrumentation",
+  "author": "Baptist Health South Florida",
   "license": null,
-  "home_page": null,
-  "download_filename": "mca_sdk-0.3.0.tar.gz",
-  "download_time": "2026-01-23T17:41:14.357789",
+  "home_page": "https://github.com/baptisthealth/mca-sdk",
+  "download_filename": "mca_sdk-0.4.0.tar.gz",
+  "download_time": "2026-01-26T23:26:52.171251",
   "package_url": "https://pypi.org/project/mca-sdk/"
 }

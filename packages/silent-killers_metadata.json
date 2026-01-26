@@ -1,0 +1,11 @@
+{
+  "name": "silent-killers",
+  "version": "0.1.8",
+  "summary": "Audit pipeline that detects unsafe exception handling in LLM‑generated Python code",
+  "author": "Julian Quick",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "silent_killers-0.1.8.tar.gz",
+  "download_time": "2026-01-26T23:26:50.111497",
+  "package_url": "https://pypi.org/project/silent-killers/"
+}
