@@ -1,11 +1,11 @@
 {
   "name": "termflow-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A minimalist terminal productivity hub built with Textual",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "termflow_cli-0.1.1.tar.gz",
-  "download_time": "2026-01-26T10:57:31.673900",
+  "download_filename": "termflow_cli-0.1.2.tar.gz",
+  "download_time": "2026-01-26T11:24:51.129256",
   "package_url": "https://pypi.org/project/termflow-cli/"
 }

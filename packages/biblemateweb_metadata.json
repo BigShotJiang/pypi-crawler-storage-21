@@ -1,11 +1,11 @@
 {
   "name": "biblemateweb",
-  "version": "0.3.44",
+  "version": "0.3.45",
   "summary": "BibleMate AI - Automate Your Bible Study",
   "author": "Eliran Wong",
   "license": "GNU General Public License (GPL)",
   "home_page": "https://biblemate.ai",
-  "download_filename": "biblemateweb-0.3.44.tar.gz",
-  "download_time": "2026-01-26T10:57:33.220677",
+  "download_filename": "biblemateweb-0.3.45.tar.gz",
+  "download_time": "2026-01-26T11:24:52.889732",
   "package_url": "https://pypi.org/project/biblemateweb/"
 }
