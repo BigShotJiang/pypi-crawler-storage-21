@@ -1,0 +1,11 @@
+{
+  "name": "meta-tooling-protocol",
+  "version": "0.1.0",
+  "summary": "Lightweight Python runtime for Meta Tooling Protocol (MTP)",
+  "author": "APG Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meta_tooling_protocol-0.1.0.tar.gz",
+  "download_time": "2026-01-26T08:42:10.746642",
+  "package_url": "https://pypi.org/project/meta-tooling-protocol/"
+}

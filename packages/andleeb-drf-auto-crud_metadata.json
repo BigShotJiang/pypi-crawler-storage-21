@@ -1,0 +1,11 @@
+{
+  "name": "andleeb-drf-auto-crud",
+  "version": "1.0.0",
+  "summary": "Automatic CRUD API generator for Django models using DRF, dynamic and reusable.",
+  "author": "Andleeb Miraan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "andleeb_drf_auto_crud-1.0.0.tar.gz",
+  "download_time": "2026-01-26T08:41:45.936122",
+  "package_url": "https://pypi.org/project/andleeb-drf-auto-crud/"
+}

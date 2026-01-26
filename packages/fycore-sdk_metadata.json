@@ -1,0 +1,11 @@
+{
+  "name": "fycore-sdk",
+  "version": "1.0.0",
+  "summary": "Consciousness-aware AI orchestration SDK built on the CCFy framework (PyArmor protected).",
+  "author": "Fatih Yenen",
+  "license": "Proprietary",
+  "home_page": "https://github.com/fthynn/fycore-sdk",
+  "download_filename": "fycore_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-26T08:41:29.204646",
+  "package_url": "https://pypi.org/project/fycore-sdk/"
+}

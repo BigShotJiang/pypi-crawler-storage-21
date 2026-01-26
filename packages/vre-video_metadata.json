@@ -1,0 +1,11 @@
+{
+  "name": "vre-video",
+  "version": "0.5.1",
+  "summary": "Video Representations Extractor (VRE) Video reader",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://gitlab.com/video-representations-extractor/vre-video",
+  "download_filename": "vre_video-0.5.1.tar.gz",
+  "download_time": "2026-01-26T08:41:33.574866",
+  "package_url": "https://pypi.org/project/vre-video/"
+}

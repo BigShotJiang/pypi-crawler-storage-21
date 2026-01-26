@@ -1,0 +1,11 @@
+{
+  "name": "snakemake-storage-plugin-cached-http",
+  "version": "0.2",
+  "summary": "Snakemake storage plugin for downloading files via HTTP with caching and rate limiting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakemake_storage_plugin_cached_http-0.2.tar.gz",
+  "download_time": "2026-01-26T08:41:36.883629",
+  "package_url": "https://pypi.org/project/snakemake-storage-plugin-cached-http/"
+}

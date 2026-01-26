@@ -1,0 +1,11 @@
+{
+  "name": "sectra",
+  "version": "0.2.0",
+  "summary": "Shodan-style CLI for the SecurityTrails API",
+  "author": "Sectra Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sectra-0.2.0.tar.gz",
+  "download_time": "2026-01-26T08:41:59.862882",
+  "package_url": "https://pypi.org/project/sectra/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Liquid",
+  "version": "2.0.0",
+  "summary": "A Flask extension for rendering Liquid templates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_liquid-2.0.0.tar.gz",
+  "download_time": "2026-01-26T08:41:50.054986",
+  "package_url": "https://pypi.org/project/Flask-Liquid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gopad",
+  "version": "2.1.1",
+  "summary": "Gopad OpenAPI",
+  "author": "Thomas Boerger",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gopad-2.1.1.tar.gz",
+  "download_time": "2026-01-26T08:42:06.362959",
+  "package_url": "https://pypi.org/project/gopad/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "netmiko-multihop",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Out of tree netmiko monkeypatch for multihop capability",
   "author": "Wilhelm Putz",
   "license": "ASL V2",
   "home_page": "https://github.com/jinjamator/netmiko_multihop",
-  "download_filename": "netmiko_multihop-0.3.3-py3-none-any.whl",
-  "download_time": "2026-01-26T07:08:32.634862",
+  "download_filename": "netmiko_multihop-0.3.4-py3-none-any.whl",
+  "download_time": "2026-01-26T08:41:59.313480",
   "package_url": "https://pypi.org/project/netmiko-multihop/"
 }

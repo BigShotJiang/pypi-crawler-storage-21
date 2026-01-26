@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-base-duration",
+  "version": "14.0.1.1.3",
+  "summary": "Base Duration",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_base_duration-14.0.1.1.3-py3-none-any.whl",
+  "download_time": "2026-01-26T08:41:26.440721",
+  "package_url": "https://pypi.org/project/odoo14-addon-base-duration/"
+}
