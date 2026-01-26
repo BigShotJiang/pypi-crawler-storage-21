@@ -1,0 +1,11 @@
+{
+  "name": "sfz-pitechcar",
+  "version": "0.1.1",
+  "summary": "Control software for remote Fischertechnik Maker Car with SFZ PCB.",
+  "author": "Falko Schmidt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sfz_pitechcar-0.1.1.tar.gz",
+  "download_time": "2026-01-26T15:34:44.075895",
+  "package_url": "https://pypi.org/project/sfz-pitechcar/"
+}

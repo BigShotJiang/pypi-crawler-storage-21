@@ -1,0 +1,11 @@
+{
+  "name": "xpart",
+  "version": "0.23.8",
+  "summary": "Generation of Particle Ensembles",
+  "author": "G. Iadarola et al.",
+  "license": "Apache 2.0",
+  "home_page": "https://xsuite.readthedocs.io/",
+  "download_filename": "xpart-0.23.8.tar.gz",
+  "download_time": "2026-01-26T15:35:18.976747",
+  "package_url": "https://pypi.org/project/xpart/"
+}

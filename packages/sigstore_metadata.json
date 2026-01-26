@@ -1,0 +1,11 @@
+{
+  "name": "sigstore",
+  "version": "4.2.0",
+  "summary": "A tool for signing Python package distributions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigstore-4.2.0.tar.gz",
+  "download_time": "2026-01-26T15:34:47.247248",
+  "package_url": "https://pypi.org/project/sigstore/"
+}

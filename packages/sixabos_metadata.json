@@ -1,0 +1,11 @@
+{
+  "name": "sixabos",
+  "version": "1.1.1",
+  "summary": "6S-based Atmospheric Background Offset Subtraction for EnMAP Atmospheric Correction",
+  "author": "Gabriel Caballero",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/PhD-Gabriel-Caballero/6ABOS",
+  "download_filename": "sixabos-1.1.1.tar.gz",
+  "download_time": "2026-01-26T15:35:06.688260",
+  "package_url": "https://pypi.org/project/sixabos/"
+}

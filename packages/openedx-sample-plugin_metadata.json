@@ -1,11 +1,11 @@
 {
   "name": "openedx-sample-plugin",
-  "version": "1.2.0",
+  "version": "1.3.1",
   "summary": "A sample backend plugin for the Open edX Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openedx_sample_plugin-1.2.0.tar.gz",
-  "download_time": "2026-01-23T17:06:42.387268",
+  "download_filename": "openedx_sample_plugin-1.3.1.tar.gz",
+  "download_time": "2026-01-26T15:34:31.345792",
   "package_url": "https://pypi.org/project/openedx-sample-plugin/"
 }

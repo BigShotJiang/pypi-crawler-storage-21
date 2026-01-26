@@ -1,11 +1,11 @@
 {
   "name": "cloudcat",
-  "version": "0.3.2",
-  "summary": "Preview and analyze data files in Google Cloud Storage, AWS S3, and Azure Blob Storage from your terminal",
+  "version": "0.3.3",
+  "summary": "Preview and analyze data files in Google Cloud Storage, AWS S3, and Azure Data Lake Storage Gen2 from your terminal",
   "author": "Jonathan Sudhakar",
   "license": null,
   "home_page": "https://github.com/jonathansudhakar1/cloudcat",
-  "download_filename": "cloudcat-0.3.2.tar.gz",
-  "download_time": "2026-01-26T04:05:43.971198",
+  "download_filename": "cloudcat-0.3.3.tar.gz",
+  "download_time": "2026-01-26T15:34:42.770815",
   "package_url": "https://pypi.org/project/cloudcat/"
 }

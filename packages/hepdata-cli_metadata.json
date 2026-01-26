@@ -1,0 +1,11 @@
+{
+  "name": "hepdata-cli",
+  "version": "0.3.1",
+  "summary": "CLI and API to allow users to search, download from and upload to HEPData",
+  "author": "Giuseppe De Laurentis",
+  "license": "GPLv3",
+  "home_page": "https://github.com/HEPData/hepdata-cli",
+  "download_filename": "hepdata_cli-0.3.1.tar.gz",
+  "download_time": "2026-01-26T15:35:21.586782",
+  "package_url": "https://pypi.org/project/hepdata-cli/"
+}

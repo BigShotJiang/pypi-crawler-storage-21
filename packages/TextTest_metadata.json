@@ -1,0 +1,11 @@
+{
+  "name": "TextTest",
+  "version": "4.4.6",
+  "summary": "A tool for text-based Approval Testing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "texttest-4.4.6.tar.gz",
+  "download_time": "2026-01-26T15:35:10.861876",
+  "package_url": "https://pypi.org/project/TextTest/"
+}

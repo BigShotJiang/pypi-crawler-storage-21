@@ -1,0 +1,11 @@
+{
+  "name": "snmpbox",
+  "version": "0.1.1",
+  "summary": "Intelligent SNMP data collection system for telecom devices with automatic discovery and reverse engineering",
+  "author": "Yusef Ulum",
+  "license": null,
+  "home_page": "https://github.com/mexyusef/snmp-manager",
+  "download_filename": "snmpbox-0.1.1.tar.gz",
+  "download_time": "2026-01-26T15:34:55.726660",
+  "package_url": "https://pypi.org/project/snmpbox/"
+}

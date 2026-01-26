@@ -1,0 +1,11 @@
+{
+  "name": "mic-stream-util",
+  "version": "0.2.3",
+  "summary": "Library for simplifying microphone streaming and VAD.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mic_stream_util-0.2.3.tar.gz",
+  "download_time": "2026-01-26T15:35:26.813399",
+  "package_url": "https://pypi.org/project/mic-stream-util/"
+}

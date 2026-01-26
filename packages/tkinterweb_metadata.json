@@ -1,11 +1,11 @@
 {
   "name": "tkinterweb",
-  "version": "4.16.10",
+  "version": "4.17.0",
   "summary": "HTML/CSS viewer, editor, and app builder for Tkinter",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/Andereoo/TkinterWeb",
-  "download_filename": "tkinterweb-4.16.10.tar.gz",
-  "download_time": "2026-01-24T13:50:22.904252",
+  "download_filename": "tkinterweb-4.17.0.tar.gz",
+  "download_time": "2026-01-26T15:35:12.820887",
   "package_url": "https://pypi.org/project/tkinterweb/"
 }
