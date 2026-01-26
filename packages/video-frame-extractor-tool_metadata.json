@@ -1,0 +1,11 @@
+{
+  "name": "video-frame-extractor-tool",
+  "version": "0.2.0",
+  "summary": "Video Frame Extractor - Extract frames from videos using FFmpeg",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_frame_extractor_tool-0.2.0.tar.gz",
+  "download_time": "2026-01-26T09:52:20.673748",
+  "package_url": "https://pypi.org/project/video-frame-extractor-tool/"
+}

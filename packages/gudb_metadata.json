@@ -1,0 +1,11 @@
+{
+  "name": "gudb",
+  "version": "0.1.0",
+  "summary": "gudb: The Database Seatbelt 🛡️ - A professional database guardian SDK with AI-backed query interception and safety guardrails.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gudb-0.1.0.tar.gz",
+  "download_time": "2026-01-26T09:52:14.163563",
+  "package_url": "https://pypi.org/project/gudb/"
+}

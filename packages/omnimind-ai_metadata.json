@@ -1,11 +1,11 @@
 {
   "name": "omnimind-ai",
-  "version": "0.2.4",
+  "version": "0.2.7",
   "summary": "State-Space Language Model - Scalable AI for any device with unlimited memory",
   "author": "OMNIMIND Team",
   "license": null,
   "home_page": "https://github.com/kue-kid/omnimind",
-  "download_filename": "omnimind_ai-0.2.4.tar.gz",
-  "download_time": "2026-01-25T23:45:15.938442",
+  "download_filename": "omnimind_ai-0.2.7.tar.gz",
+  "download_time": "2026-01-26T09:52:42.458091",
   "package_url": "https://pypi.org/project/omnimind-ai/"
 }

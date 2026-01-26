@@ -1,0 +1,11 @@
+{
+  "name": "foliantcontrib.includes",
+  "version": "1.1.20",
+  "summary": "Powerful includes for Foliant doc maker.",
+  "author": "Konstantin Molchanov",
+  "license": "MIT",
+  "home_page": "https://github.com/foliant-docs/foliantcontrib.includes",
+  "download_filename": "foliantcontrib_includes-1.1.20.tar.gz",
+  "download_time": "2026-01-26T09:52:36.987991",
+  "package_url": "https://pypi.org/project/foliantcontrib.includes/"
+}

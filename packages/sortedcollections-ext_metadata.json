@@ -1,0 +1,11 @@
+{
+  "name": "sortedcollections-ext",
+  "version": "0.1.0",
+  "summary": "sortedcollections as a CPython extension module",
+  "author": "Alberto Azzari",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sortedcollections_ext-0.1.0.tar.gz",
+  "download_time": "2026-01-26T09:52:28.375460",
+  "package_url": "https://pypi.org/project/sortedcollections-ext/"
+}

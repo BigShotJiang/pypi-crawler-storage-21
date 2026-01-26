@@ -1,11 +1,11 @@
 {
   "name": "moti",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Automatically runs run.py in background",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/jaydeepgajera/moti",
-  "download_filename": "moti-0.1.0.tar.gz",
-  "download_time": "2026-01-26T07:59:15.598870",
+  "download_filename": "moti-0.1.2.tar.gz",
+  "download_time": "2026-01-26T09:52:38.145292",
   "package_url": "https://pypi.org/project/moti/"
 }

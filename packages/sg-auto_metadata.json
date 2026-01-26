@@ -1,0 +1,11 @@
+{
+  "name": "sg-auto",
+  "version": "1.0.5.3",
+  "summary": "A short description of this project",
+  "author": "sg",
+  "license": null,
+  "home_page": "https://github.com/yourusername/example",
+  "download_filename": "sg_auto-1.0.5.3.tar.gz",
+  "download_time": "2026-01-26T09:52:13.091433",
+  "package_url": "https://pypi.org/project/sg-auto/"
+}

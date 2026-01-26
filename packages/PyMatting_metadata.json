@@ -1,0 +1,11 @@
+{
+  "name": "PyMatting",
+  "version": "1.1.15",
+  "summary": "Python package for alpha matting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymatting-1.1.15.tar.gz",
+  "download_time": "2026-01-26T09:52:39.764228",
+  "package_url": "https://pypi.org/project/PyMatting/"
+}

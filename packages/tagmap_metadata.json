@@ -1,11 +1,11 @@
 {
   "name": "tagmap",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "summary": "Fast data structure for managing tags and metadata with efficient queries",
   "author": "originalsouth",
   "license": "UNICODE",
   "home_page": null,
-  "download_filename": "tagmap-0.1.15.tar.gz",
-  "download_time": "2026-01-25T20:28:38.207127",
+  "download_filename": "tagmap-0.1.17-cp311-cp311-macosx_10_9_universal2.whl",
+  "download_time": "2026-01-26T09:51:57.217085",
   "package_url": "https://pypi.org/project/tagmap/"
 }

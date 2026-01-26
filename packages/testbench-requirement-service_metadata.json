@@ -1,0 +1,11 @@
+{
+  "name": "testbench-requirement-service",
+  "version": "1.0.0b1",
+  "summary": "REST API service for imbus TestBench to manage and serve requirements from Jira, Excel, and JSONL sources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "testbench_requirement_service-1.0.0b1.tar.gz",
+  "download_time": "2026-01-26T09:51:58.425146",
+  "package_url": "https://pypi.org/project/testbench-requirement-service/"
+}

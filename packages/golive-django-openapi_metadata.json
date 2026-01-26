@@ -1,0 +1,11 @@
+{
+  "name": "golive-django-openapi",
+  "version": "0.6.0",
+  "summary": "青橄榄Django OpenAPI框架",
+  "author": "fk",
+  "license": null,
+  "home_page": "https://jh-golive-gitlab.goliveplus.cn/golive-project-manage/golive-django-openapi",
+  "download_filename": "golive_django_openapi-0.6.0.tar.gz",
+  "download_time": "2026-01-26T09:52:32.140983",
+  "package_url": "https://pypi.org/project/golive-django-openapi/"
+}
