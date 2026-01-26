@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-excelsage",
+  "version": "1.1.2",
+  "summary": "A package for integrating Robot Framework with Excel using openpyxl and pandas",
+  "author": "Deekshith Poojary",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/deekshith-poojary98/robotframework-excelsage",
+  "download_filename": "robotframework_excelsage-1.1.2.tar.gz",
+  "download_time": "2026-01-26T18:53:22.874243",
+  "package_url": "https://pypi.org/project/robotframework-excelsage/"
+}

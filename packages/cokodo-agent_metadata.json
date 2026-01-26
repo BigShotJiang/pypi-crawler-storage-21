@@ -1,11 +1,11 @@
 {
   "name": "cokodo-agent",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "summary": "AI Agent Collaboration Protocol Generator - Create standardized .agent protocol for your projects",
   "author": "dinwind",
   "license": null,
   "home_page": null,
-  "download_filename": "cokodo_agent-1.1.0.tar.gz",
-  "download_time": "2026-01-24T11:20:55.087499",
+  "download_filename": "cokodo_agent-1.3.0.tar.gz",
+  "download_time": "2026-01-26T18:53:16.149153",
   "package_url": "https://pypi.org/project/cokodo-agent/"
 }

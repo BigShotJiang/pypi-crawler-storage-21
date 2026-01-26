@@ -1,11 +1,11 @@
 {
   "name": "django-app-parameter",
-  "version": "3.0.1",
+  "version": "3.2.0",
   "summary": "App-Parameter is a very simple Django app to save application's parameter in the database.",
   "author": "Swann",
   "license": "CC0 1.0 Universal",
   "home_page": null,
-  "download_filename": "django_app_parameter-3.0.1.tar.gz",
-  "download_time": "2026-01-23T14:17:09.183583",
+  "download_filename": "django_app_parameter-3.2.0.tar.gz",
+  "download_time": "2026-01-26T18:53:32.738121",
   "package_url": "https://pypi.org/project/django-app-parameter/"
 }

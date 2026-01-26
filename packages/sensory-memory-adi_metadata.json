@@ -1,0 +1,11 @@
+{
+  "name": "sensory-memory-adi",
+  "version": "0.1.2.1",
+  "summary": "Sensory Memory ADI: iconic/echoic/haptic short-buffers with attention routing, feeling-aware touch interpretation, and AGI-ready hooks for agentic systems.",
+  "author": "Adi's American Soft LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sensory_memory_adi-0.1.2.1.tar.gz",
+  "download_time": "2026-01-26T18:53:10.413554",
+  "package_url": "https://pypi.org/project/sensory-memory-adi/"
+}

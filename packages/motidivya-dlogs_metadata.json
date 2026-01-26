@@ -1,11 +1,11 @@
 {
   "name": "motidivya-dlogs",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "dLogs - one command installer/bootstrapper for your logging & monitoring stack",
   "author": "Divyesh Vishwakarma",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "motidivya_dlogs-0.1.5.tar.gz",
-  "download_time": "2026-01-26T12:55:23.750205",
+  "download_filename": "motidivya_dlogs-0.1.6.tar.gz",
+  "download_time": "2026-01-26T18:53:31.191238",
   "package_url": "https://pypi.org/project/motidivya-dlogs/"
 }

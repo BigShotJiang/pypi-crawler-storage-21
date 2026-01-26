@@ -1,11 +1,11 @@
 {
   "name": "atlas-compute",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "summary": "Atlas Compute SDK",
   "author": "Thomas Tsuma",
   "license": null,
   "home_page": "https://github.com/coreoutline/atlas-compute",
-  "download_filename": "atlas_compute-0.1.5.tar.gz",
-  "download_time": "2026-01-25T16:29:54.519863",
+  "download_filename": "atlas_compute-0.1.9.tar.gz",
+  "download_time": "2026-01-26T18:53:03.187806",
   "package_url": "https://pypi.org/project/atlas-compute/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "webcam-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for webcam access - capture photos and video for LLM agents",
+  "author": "Pavel Kirienko <pavel.kirienko@zubax.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webcam_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-26T18:52:54.835904",
+  "package_url": "https://pypi.org/project/webcam-mcp/"
+}

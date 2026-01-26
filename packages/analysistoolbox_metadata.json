@@ -1,0 +1,11 @@
+{
+  "name": "analysistoolbox",
+  "version": "3.9.9",
+  "summary": "A collection tools in Python for data collection and processing, statistics, analytics, and intelligence analysis.",
+  "author": "Kyle Protho",
+  "license": "MIT",
+  "home_page": "https://github.com/KyleProtho/AnalysisToolBox/tree/master/analysistoolbox",
+  "download_filename": "analysistoolbox-3.9.9.tar.gz",
+  "download_time": "2026-01-26T18:53:02.671409",
+  "package_url": "https://pypi.org/project/analysistoolbox/"
+}
