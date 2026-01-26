@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-tabular",
+  "version": "1.2.0",
+  "summary": "A standard framework for using Deep Learning for tabular data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytorch_tabular-1.2.0.tar.gz",
+  "download_time": "2026-01-26T22:00:40.431756",
+  "package_url": "https://pypi.org/project/pytorch-tabular/"
+}

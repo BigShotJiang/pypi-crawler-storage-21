@@ -1,11 +1,11 @@
 {
   "name": "hpyhex-rs",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Simplified implementations of the HappyHex game components and hexagonal system in Rust.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hpyhex_rs-0.2.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-24T03:29:45.985519",
+  "download_filename": "hpyhex_rs-0.2.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-26T22:01:03.809772",
   "package_url": "https://pypi.org/project/hpyhex-rs/"
 }

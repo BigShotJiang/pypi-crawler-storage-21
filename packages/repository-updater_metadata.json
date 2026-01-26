@@ -1,0 +1,11 @@
+{
+  "name": "repository-updater",
+  "version": "2.0.0",
+  "summary": null,
+  "author": "Franck Nijhof",
+  "license": "MIT",
+  "home_page": "https://github.com/hassio-addons/repository-updater",
+  "download_filename": "repository_updater-2.0.0.tar.gz",
+  "download_time": "2026-01-26T22:00:54.404863",
+  "package_url": "https://pypi.org/project/repository-updater/"
+}

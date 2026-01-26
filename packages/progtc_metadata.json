@@ -1,0 +1,11 @@
+{
+  "name": "progtc",
+  "version": "0.1.9",
+  "summary": "Programmatic tool calling for your agent.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "progtc-0.1.9.tar.gz",
+  "download_time": "2026-01-26T22:00:47.623699",
+  "package_url": "https://pypi.org/project/progtc/"
+}

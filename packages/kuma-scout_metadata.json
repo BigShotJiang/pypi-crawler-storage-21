@@ -1,0 +1,11 @@
+{
+  "name": "kuma-scout",
+  "version": "0.1.0",
+  "summary": "Uptime Kuma monitoring agent for internal server monitoring. Execute custom checks, scan ports, monitor backups and storage—then report to Uptime Kuma via push API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kuma_scout-0.1.0.tar.gz",
+  "download_time": "2026-01-26T22:00:31.012536",
+  "package_url": "https://pypi.org/project/kuma-scout/"
+}

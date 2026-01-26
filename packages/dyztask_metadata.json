@@ -1,0 +1,11 @@
+{
+  "name": "dyztask",
+  "version": "0.1.0",
+  "summary": "发布订阅注解方式快速使用",
+  "author": "dyz",
+  "license": null,
+  "home_page": "https://gitee.com/d-yz/task-manager",
+  "download_filename": "dyztask-0.1.0.tar.gz",
+  "download_time": "2026-01-26T22:00:33.087942",
+  "package_url": "https://pypi.org/project/dyztask/"
+}

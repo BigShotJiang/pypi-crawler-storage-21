@@ -1,11 +1,11 @@
 {
   "name": "thailint",
-  "version": "0.15.6",
+  "version": "0.16.0",
   "summary": "The AI Linter - Enterprise-grade linting and governance for AI-generated code across multiple languages",
   "author": "Steve Jackson",
   "license": "MIT",
   "home_page": "https://github.com/be-wise-be-kind/thai-lint",
-  "download_filename": "thailint-0.15.6.tar.gz",
-  "download_time": "2026-01-26T18:03:11.177129",
+  "download_filename": "thailint-0.16.0.tar.gz",
+  "download_time": "2026-01-26T22:00:56.975614",
   "package_url": "https://pypi.org/project/thailint/"
 }

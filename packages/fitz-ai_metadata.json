@@ -1,11 +1,11 @@
 {
   "name": "fitz-ai",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "summary": "A modular, production-ready knowledge engine platform with clean architecture and multi-paradigm support (RAG, CLaRa).",
   "author": "Yan Fitzner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fitz_ai-0.6.2.tar.gz",
-  "download_time": "2026-01-24T06:39:45.099614",
+  "download_filename": "fitz_ai-0.7.0.tar.gz",
+  "download_time": "2026-01-26T22:00:27.049676",
   "package_url": "https://pypi.org/project/fitz-ai/"
 }

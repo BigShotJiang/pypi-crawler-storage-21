@@ -1,0 +1,11 @@
+{
+  "name": "osqp-cu12",
+  "version": "1.1.0",
+  "summary": "OSQP: The Operator Splitting QP Solver",
+  "author": "Goran Banjac",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osqp_cu12-1.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2026-01-26T22:00:50.403430",
+  "package_url": "https://pypi.org/project/osqp-cu12/"
+}

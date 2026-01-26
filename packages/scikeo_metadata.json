@@ -1,11 +1,11 @@
 {
   "name": "scikeo",
-  "version": "0.2.45",
+  "version": "0.2.47",
   "summary": "Remote Sensing Tools",
   "author": "Yonatan Tarazona",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/yotarazona/scikit-eo",
-  "download_filename": "scikeo-0.2.45.tar.gz",
-  "download_time": "2026-01-23T13:45:22.422870",
+  "download_filename": "scikeo-0.2.47.tar.gz",
+  "download_time": "2026-01-26T22:00:53.889544",
   "package_url": "https://pypi.org/project/scikeo/"
 }
