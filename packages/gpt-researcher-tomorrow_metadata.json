@@ -1,11 +1,11 @@
 {
   "name": "gpt-researcher-tomorrow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "GPT Researcher Tomorrow - A fork of GPT Researcher, an autonomous agent for comprehensive online research on a variety of tasks.",
   "author": "maowei",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gpt_researcher_tomorrow-0.2.0.tar.gz",
-  "download_time": "2026-01-24T05:25:17.928664",
+  "download_filename": "gpt_researcher_tomorrow-0.2.1.tar.gz",
+  "download_time": "2026-01-26T16:03:27.760347",
   "package_url": "https://pypi.org/project/gpt-researcher-tomorrow/"
 }

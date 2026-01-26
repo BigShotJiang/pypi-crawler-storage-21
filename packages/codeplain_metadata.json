@@ -1,11 +1,11 @@
 {
   "name": "codeplain",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Transform plain language specifications into working code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codeplain-0.2.1.tar.gz",
-  "download_time": "2026-01-26T13:48:21.964057",
+  "download_filename": "codeplain-0.2.2.tar.gz",
+  "download_time": "2026-01-26T16:03:36.664085",
   "package_url": "https://pypi.org/project/codeplain/"
 }

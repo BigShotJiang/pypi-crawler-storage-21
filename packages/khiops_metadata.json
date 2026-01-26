@@ -1,0 +1,11 @@
+{
+  "name": "khiops",
+  "version": "11.0.0.2",
+  "summary": "Python library for the Khiops AutoML suite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "khiops-11.0.0.2.tar.gz",
+  "download_time": "2026-01-26T16:03:27.239566",
+  "package_url": "https://pypi.org/project/khiops/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "docling-parse",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "summary": "Simple package to extract text with coordinates from programmatic PDFs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docling_parse-5.0.0-cp310-cp310-macosx_14_0_arm64.whl",
-  "download_time": "2026-01-20T09:55:34.052611",
+  "download_filename": "docling_parse-5.1.0-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2026-01-26T16:03:45.558916",
   "package_url": "https://pypi.org/project/docling-parse/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "maplib",
-  "version": "0.19.10",
+  "version": "0.19.11",
   "summary": "Dataframe-based interactive knowledge graph construction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maplib-0.19.10.tar.gz",
-  "download_time": "2026-01-25T13:52:20.427405",
+  "download_filename": "maplib-0.19.11.tar.gz",
+  "download_time": "2026-01-26T16:03:20.409373",
   "package_url": "https://pypi.org/project/maplib/"
 }

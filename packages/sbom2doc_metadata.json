@@ -1,0 +1,11 @@
+{
+  "name": "sbom2doc",
+  "version": "0.6.2",
+  "summary": "SBOM documentation tool",
+  "author": "Anthony Harrison",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/anthonyharrison/sbom2doc",
+  "download_filename": "sbom2doc-0.6.2-py3-none-any.whl",
+  "download_time": "2026-01-26T16:03:24.109317",
+  "package_url": "https://pypi.org/project/sbom2doc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "muflon",
+  "version": "1.0.3",
+  "summary": "Library for martice operations",
+  "author": "YJakub Kiryła",
+  "license": null,
+  "home_page": "https://github.com/Kiryl24/muflon",
+  "download_filename": "muflon-1.0.3.tar.gz",
+  "download_time": "2026-01-26T16:03:24.628978",
+  "package_url": "https://pypi.org/project/muflon/"
+}

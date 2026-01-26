@@ -1,11 +1,11 @@
 {
   "name": "py-splat",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Automatic GitHub issue creation + PR fix on runtime errors",
   "author": "Andreas Lordos",
   "license": null,
   "home_page": null,
-  "download_filename": "py_splat-0.2.4.tar.gz",
-  "download_time": "2026-01-26T15:34:42.126615",
+  "download_filename": "py_splat-0.2.5.tar.gz",
+  "download_time": "2026-01-26T16:03:11.990687",
   "package_url": "https://pypi.org/project/py-splat/"
 }
