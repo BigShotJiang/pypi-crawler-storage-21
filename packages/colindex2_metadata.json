@@ -1,0 +1,11 @@
+{
+  "name": "colindex2",
+  "version": "2.10.5",
+  "summary": "depression detection/tracking schemes",
+  "author": "Satoru Kasuga",
+  "license": null,
+  "home_page": "https://gitlab.com/kasugab3621/colindex2.git",
+  "download_filename": "colindex2-2.10.5.tar.gz",
+  "download_time": "2026-01-26T05:07:14.500671",
+  "package_url": "https://pypi.org/project/colindex2/"
+}

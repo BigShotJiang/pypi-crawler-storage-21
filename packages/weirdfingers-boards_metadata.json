@@ -1,11 +1,11 @@
 {
   "name": "weirdfingers-boards",
-  "version": "0.10.6",
+  "version": "0.10.8",
   "summary": "Backend API server for Boards - AI creative toolkit with GraphQL, auth adapters, and generation workers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "weirdfingers_boards-0.10.6.tar.gz",
-  "download_time": "2026-01-26T04:05:12.330742",
+  "download_filename": "weirdfingers_boards-0.10.8.tar.gz",
+  "download_time": "2026-01-26T05:06:55.909550",
   "package_url": "https://pypi.org/project/weirdfingers-boards/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vectorcalculus",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Small pure-Python vector calculus utilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vectorcalculus-0.1.0.tar.gz",
-  "download_time": "2026-01-25T23:24:12.592837",
+  "download_filename": "vectorcalculus-0.3.0.tar.gz",
+  "download_time": "2026-01-26T05:07:19.333577",
   "package_url": "https://pypi.org/project/vectorcalculus/"
 }

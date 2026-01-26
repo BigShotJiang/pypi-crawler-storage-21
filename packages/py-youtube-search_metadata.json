@@ -1,0 +1,11 @@
+{
+  "name": "py-youtube-search",
+  "version": "0.2.2",
+  "summary": "A lightweight, regex-based YouTube search library without API keys.",
+  "author": "VishvaRam",
+  "license": "MIT",
+  "home_page": "https://github.com/VishvaRam/py-youtube-search",
+  "download_filename": "py_youtube_search-0.2.2.tar.gz",
+  "download_time": "2026-01-26T05:07:07.824509",
+  "package_url": "https://pypi.org/project/py-youtube-search/"
+}

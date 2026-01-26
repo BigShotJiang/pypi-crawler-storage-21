@@ -1,0 +1,11 @@
+{
+  "name": "ai-scrm",
+  "version": "1.0.1",
+  "summary": "AI Supply Chain Risk Management - Auto-discovery, signing, and continuous validation for AI systems",
+  "author": "Shawn Kahalewai Reilly",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ai_scrm-1.0.1.tar.gz",
+  "download_time": "2026-01-26T05:07:23.087857",
+  "package_url": "https://pypi.org/project/ai-scrm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rationalbloks-mcp",
-  "version": "0.1.4",
+  "version": "0.1.12",
   "summary": "Enterprise-grade MCP Server for RationalBloks - Connect AI agents to your backend projects",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "rationalbloks_mcp-0.1.4.tar.gz",
-  "download_time": "2026-01-25T23:45:21.333495",
+  "download_filename": "rationalbloks_mcp-0.1.12.tar.gz",
+  "download_time": "2026-01-26T05:07:01.174790",
   "package_url": "https://pypi.org/project/rationalbloks-mcp/"
 }

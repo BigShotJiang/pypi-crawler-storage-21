@@ -1,11 +1,11 @@
 {
   "name": "backend.ai-test",
-  "version": "25.19.2",
+  "version": "26.1.0",
   "summary": "Backend.AI Integration Test Suite",
   "author": "Lablup Inc. and contributors",
   "license": "MIT",
   "home_page": "https://github.com/lablup/backend.ai",
-  "download_filename": "backend_ai_test-25.19.2.tar.gz",
-  "download_time": "2026-01-21T10:31:23.612376",
+  "download_filename": "backend_ai_test-26.1.0.tar.gz",
+  "download_time": "2026-01-26T05:07:29.221546",
   "package_url": "https://pypi.org/project/backend.ai-test/"
 }
