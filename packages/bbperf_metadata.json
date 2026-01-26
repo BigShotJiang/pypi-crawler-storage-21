@@ -1,0 +1,11 @@
+{
+  "name": "bbperf",
+  "version": "0.0.32",
+  "summary": "An end-to-end performance and bufferbloat measurement tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbperf-0.0.32.tar.gz",
+  "download_time": "2026-01-26T16:50:57.099532",
+  "package_url": "https://pypi.org/project/bbperf/"
+}

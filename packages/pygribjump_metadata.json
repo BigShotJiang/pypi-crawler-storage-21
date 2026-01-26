@@ -1,0 +1,11 @@
+{
+  "name": "pygribjump",
+  "version": "0.10.3.9",
+  "summary": "Python interface to GribJump",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygribjump-0.10.3.9-1-py3-none-any.whl",
+  "download_time": "2026-01-26T16:51:20.200820",
+  "package_url": "https://pypi.org/project/pygribjump/"
+}

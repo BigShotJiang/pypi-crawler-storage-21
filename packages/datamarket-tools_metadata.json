@@ -1,11 +1,11 @@
 {
   "name": "datamarket-tools",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "summary": "Different tools to Set6pool Repositories to make easier and more readable code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datamarket_tools-1.0.0.tar.gz",
-  "download_time": "2026-01-26T09:52:21.749838",
+  "download_filename": "datamarket_tools-1.1.2.tar.gz",
+  "download_time": "2026-01-26T16:51:37.699835",
   "package_url": "https://pypi.org/project/datamarket-tools/"
 }

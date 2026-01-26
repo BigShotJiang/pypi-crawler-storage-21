@@ -1,0 +1,11 @@
+{
+  "name": "tidysdmx",
+  "version": "0.7.5",
+  "summary": "A toolbox to work with SDMX data",
+  "author": "Tony Fujs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tidysdmx-0.7.5.tar.gz",
+  "download_time": "2026-01-26T16:51:32.396381",
+  "package_url": "https://pypi.org/project/tidysdmx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MicroLIA-Simulate",
+  "version": "0.1.0",
+  "summary": "A standalone simulation engine for the MicroLIA framework, designed as a lightweight sister package for generating synthetic astronomical datasets.",
+  "author": "Daniel Godines",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Professor-G/MicroLIA-Simulate",
+  "download_filename": "microlia_simulate-0.1.0.tar.gz",
+  "download_time": "2026-01-26T16:51:35.591375",
+  "package_url": "https://pypi.org/project/MicroLIA-Simulate/"
+}

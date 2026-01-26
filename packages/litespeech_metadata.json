@@ -1,0 +1,11 @@
+{
+  "name": "litespeech",
+  "version": "0.2.0",
+  "summary": "Unified SDK for speech operations (ASR/TTS) with streaming support across multiple providers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litespeech-0.2.0.tar.gz",
+  "download_time": "2026-01-26T16:51:12.364488",
+  "package_url": "https://pypi.org/project/litespeech/"
+}

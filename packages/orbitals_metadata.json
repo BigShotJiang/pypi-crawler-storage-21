@@ -1,0 +1,11 @@
+{
+  "name": "orbitals",
+  "version": "0.1.0",
+  "summary": "LLM Guardrails tailored to your Principles",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "orbitals-0.1.0.tar.gz",
+  "download_time": "2026-01-26T16:51:02.439620",
+  "package_url": "https://pypi.org/project/orbitals/"
+}

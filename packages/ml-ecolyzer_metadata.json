@@ -1,0 +1,11 @@
+{
+  "name": "ml-ecolyzer",
+  "version": "1.1.2",
+  "summary": "Machine Learning Environmental Impact Analysis Framework supporting HuggingFace, scikit-learn, and PyTorch",
+  "author": "Jose Marie Antonio Minoza, Rex Gregor Laylo, Christian Villarin, Sebastian Ibanez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ml_ecolyzer-1.1.2.tar.gz",
+  "download_time": "2026-01-26T16:51:33.954198",
+  "package_url": "https://pypi.org/project/ml-ecolyzer/"
+}
