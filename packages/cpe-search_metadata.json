@@ -1,11 +1,11 @@
 {
   "name": "cpe-search",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Search for Common Platform Enumeration (CPE) strings using software names and titles.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cpe_search-0.2.3.tar.gz",
-  "download_time": "2026-01-26T20:37:10.609616",
+  "download_filename": "cpe_search-0.2.4.tar.gz",
+  "download_time": "2026-01-26T23:49:04.593237",
   "package_url": "https://pypi.org/project/cpe-search/"
 }

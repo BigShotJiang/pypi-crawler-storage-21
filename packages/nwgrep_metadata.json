@@ -1,0 +1,11 @@
+{
+  "name": "nwgrep",
+  "version": "0.1.0",
+  "summary": "Grep-like tool for dataframes using Narwhals",
+  "author": "Eric Hutchins",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nwgrep-0.1.0.tar.gz",
+  "download_time": "2026-01-26T23:49:05.636917",
+  "package_url": "https://pypi.org/project/nwgrep/"
+}

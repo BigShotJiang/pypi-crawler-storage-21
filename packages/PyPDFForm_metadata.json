@@ -1,11 +1,11 @@
 {
   "name": "PyPDFForm",
-  "version": "4.3.1",
+  "version": "4.4.0",
   "summary": "The Python library for PDF forms.",
   "author": "Jinge Li",
   "license": null,
   "home_page": null,
-  "download_filename": "pypdfform-4.3.1.tar.gz",
-  "download_time": "2026-01-21T04:35:45.424366",
+  "download_filename": "pypdfform-4.4.0.tar.gz",
+  "download_time": "2026-01-26T23:49:01.436906",
   "package_url": "https://pypi.org/project/PyPDFForm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "geoaugment",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Constraint-aware synthetic geospatial data augmentation engine for GeoAI",
   "author": "Chidiebere V. Christopher",
   "license": null,
   "home_page": "https://github.com/93Chidiebere/GeoAugment-Algorithm",
-  "download_filename": "geoaugment-0.1.7.tar.gz",
-  "download_time": "2026-01-26T22:52:29.598327",
+  "download_filename": "geoaugment-0.1.8.tar.gz",
+  "download_time": "2026-01-26T23:49:15.005379",
   "package_url": "https://pypi.org/project/geoaugment/"
 }

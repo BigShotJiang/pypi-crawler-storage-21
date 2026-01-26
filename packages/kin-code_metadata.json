@@ -1,0 +1,11 @@
+{
+  "name": "kin-code",
+  "version": "1.0.5",
+  "summary": "CLI coding agent by Kinra",
+  "author": "Kinra",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kin_code-1.0.5.tar.gz",
+  "download_time": "2026-01-26T23:48:54.073596",
+  "package_url": "https://pypi.org/project/kin-code/"
+}

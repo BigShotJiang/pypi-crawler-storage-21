@@ -1,0 +1,11 @@
+{
+  "name": "hifi-solves-run-humanwgs",
+  "version": "2.8.0",
+  "summary": "Upload required files and run [PacBio's Human WGS workflow](https://github.com/PacificBiosciences/HiFi-human-WGS-WDL) via [DNAstack's Workbench](https://omics.ai/workbench/)",
+  "author": "DNAstack",
+  "license": "GPLv2",
+  "home_page": null,
+  "download_filename": "hifi_solves_run_humanwgs-2.8.0.tar.gz",
+  "download_time": "2026-01-26T23:49:04.069741",
+  "package_url": "https://pypi.org/project/hifi-solves-run-humanwgs/"
+}

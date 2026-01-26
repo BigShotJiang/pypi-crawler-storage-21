@@ -1,0 +1,11 @@
+{
+  "name": "rag-local-mcp",
+  "version": "0.1.8",
+  "summary": "Local RAG MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rag_local_mcp-0.1.8.tar.gz",
+  "download_time": "2026-01-26T23:49:28.249722",
+  "package_url": "https://pypi.org/project/rag-local-mcp/"
+}
