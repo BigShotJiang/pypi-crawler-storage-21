@@ -1,0 +1,11 @@
+{
+  "name": "slafdb",
+  "version": "0.3.2",
+  "summary": "Sparse Lazy Array Format - MVP for single-cell data",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "slafdb-0.3.2.tar.gz",
+  "download_time": "2026-01-26T22:52:51.203621",
+  "package_url": "https://pypi.org/project/slafdb/"
+}

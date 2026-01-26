@@ -1,11 +1,11 @@
 {
   "name": "datex-studio-cli",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "CLI for Datex Studio low-code platform, designed for LLM-based AI agents",
   "author": "Datex",
   "license": null,
   "home_page": null,
-  "download_filename": "datex_studio_cli-0.1.8.tar.gz",
-  "download_time": "2026-01-26T18:53:05.782005",
+  "download_filename": "datex_studio_cli-0.1.10.tar.gz",
+  "download_time": "2026-01-26T22:52:47.425155",
   "package_url": "https://pypi.org/project/datex-studio-cli/"
 }

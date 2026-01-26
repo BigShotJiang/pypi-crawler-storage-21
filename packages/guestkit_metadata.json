@@ -1,0 +1,11 @@
+{
+  "name": "guestkit",
+  "version": "0.3.1",
+  "summary": "Pure Rust VM disk toolkit with beautiful output, Windows registry parsing, and VM migration support - Python bindings",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "guestkit-0.3.1-cp314-cp314-manylinux_2_39_x86_64.whl",
+  "download_time": "2026-01-26T22:52:42.163159",
+  "package_url": "https://pypi.org/project/guestkit/"
+}

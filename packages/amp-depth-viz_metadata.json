@@ -1,11 +1,11 @@
 {
   "name": "amp-depth-viz",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A short description of your package",
   "author": "Josh Zhang",
   "license": null,
   "home_page": null,
-  "download_filename": "amp_depth_viz-0.1.4.tar.gz",
-  "download_time": "2026-01-22T05:30:55.200554",
+  "download_filename": "amp_depth_viz-0.1.5.tar.gz",
+  "download_time": "2026-01-26T22:52:22.516256",
   "package_url": "https://pypi.org/project/amp-depth-viz/"
 }
