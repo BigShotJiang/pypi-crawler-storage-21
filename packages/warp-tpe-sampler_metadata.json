@@ -1,11 +1,11 @@
 {
   "name": "warp-tpe-sampler",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "WarpTpeSampler: Cached TPE + embedded budget policy for Optuna",
   "author": "Mikhail Tovarnov",
   "license": null,
   "home_page": null,
-  "download_filename": "warp_tpe_sampler-0.1.3.tar.gz",
-  "download_time": "2026-01-24T20:45:50.024808",
+  "download_filename": "warp_tpe_sampler-0.1.4.tar.gz",
+  "download_time": "2026-01-26T13:48:31.900892",
   "package_url": "https://pypi.org/project/warp-tpe-sampler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "baidu-ai-search-mcp",
+  "version": "0.1.0",
+  "summary": "百度AI搜索 MCP服务 - 在Cursor等支持MCP的应用中使用百度AI搜索功能",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "baidu_ai_search_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-26T13:48:10.396198",
+  "package_url": "https://pypi.org/project/baidu-ai-search-mcp/"
+}

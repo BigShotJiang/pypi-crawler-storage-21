@@ -1,0 +1,11 @@
+{
+  "name": "bangla-text-normalizer",
+  "version": "0.1.0",
+  "summary": "A robust text normalizer tool for Bangla language",
+  "author": "Code User",
+  "license": null,
+  "home_page": "https://github.com/user/bangla-text-normalizer",
+  "download_filename": "bangla_text_normalizer-0.1.0.tar.gz",
+  "download_time": "2026-01-26T13:48:14.610445",
+  "package_url": "https://pypi.org/project/bangla-text-normalizer/"
+}

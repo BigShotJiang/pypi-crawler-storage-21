@@ -1,11 +1,11 @@
 {
   "name": "suhail-nlp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Suhail - Morphology-aware tokenizer for Arabic/English bilingual text",
   "author": null,
   "license": "CC-BY-NC-4.0",
   "home_page": null,
-  "download_filename": "suhail_nlp-0.1.4.tar.gz",
-  "download_time": "2026-01-25T19:41:38.488840",
+  "download_filename": "suhail_nlp-0.1.5.tar.gz",
+  "download_time": "2026-01-26T13:48:33.999548",
   "package_url": "https://pypi.org/project/suhail-nlp/"
 }

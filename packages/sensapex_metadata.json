@@ -1,0 +1,11 @@
+{
+  "name": "sensapex",
+  "version": "1.504.2",
+  "summary": "Python wrapper for the Sensapex SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sensapex-1.504.2.tar.gz",
+  "download_time": "2026-01-26T13:48:37.137449",
+  "package_url": "https://pypi.org/project/sensapex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "haystack-experimental",
+  "version": "0.17.0",
+  "summary": "Experimental components and features for the Haystack LLM framework.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "haystack_experimental-0.17.0.tar.gz",
+  "download_time": "2026-01-26T13:48:02.375982",
+  "package_url": "https://pypi.org/project/haystack-experimental/"
+}

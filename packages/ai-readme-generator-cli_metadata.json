@@ -1,11 +1,11 @@
 {
   "name": "ai-readme-generator-cli",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "A stateful AI-powered README generator using LangGraph and multi-model orchestration.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_readme_generator_cli-0.1.0.tar.gz",
-  "download_time": "2026-01-26T12:55:29.513940",
+  "download_filename": "ai_readme_generator_cli-0.1.3.tar.gz",
+  "download_time": "2026-01-26T13:48:32.412264",
   "package_url": "https://pypi.org/project/ai-readme-generator-cli/"
 }

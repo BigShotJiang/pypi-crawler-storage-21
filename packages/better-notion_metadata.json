@@ -1,11 +1,11 @@
 {
   "name": "better-notion",
-  "version": "0.5.2",
+  "version": "0.6.4",
   "summary": "A high-level Python SDK for the Notion API with developer experience in mind.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "better_notion-0.5.2.tar.gz",
-  "download_time": "2026-01-26T12:55:27.978193",
+  "download_filename": "better_notion-0.6.4.tar.gz",
+  "download_time": "2026-01-26T13:47:59.049984",
   "package_url": "https://pypi.org/project/better-notion/"
 }

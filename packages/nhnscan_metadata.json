@@ -1,0 +1,11 @@
+{
+  "name": "nhnscan",
+  "version": "0.1.1",
+  "summary": "Security Scanner - CLI wrapper for nmap and snmpwalk",
+  "author": "David",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nhnscan-0.1.1.tar.gz",
+  "download_time": "2026-01-26T13:48:24.553900",
+  "package_url": "https://pypi.org/project/nhnscan/"
+}

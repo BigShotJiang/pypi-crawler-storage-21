@@ -1,0 +1,11 @@
+{
+  "name": "x-twitter-mcp",
+  "version": "0.1.14",
+  "summary": "Twitter search tool for FastMCP using Tweepy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "x_twitter_mcp-0.1.14.tar.gz",
+  "download_time": "2026-01-26T13:48:09.883785",
+  "package_url": "https://pypi.org/project/x-twitter-mcp/"
+}

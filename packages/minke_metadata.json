@@ -1,0 +1,11 @@
+{
+  "name": "minke",
+  "version": "2.1.1",
+  "summary": "A package to make generating gravitational waveforms easier.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minke-2.1.1-py2.py3-none-any.whl",
+  "download_time": "2026-01-26T13:48:29.809052",
+  "package_url": "https://pypi.org/project/minke/"
+}
