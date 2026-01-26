@@ -1,0 +1,11 @@
+{
+  "name": "solarviewer",
+  "version": "1.2.2",
+  "summary": "SolarViewer - A comprehensive tool for visualizing and analyzing solar radio images",
+  "author": "Soham Dey",
+  "license": "MIT",
+  "home_page": "https://github.com/dey-soham/solarviewer/",
+  "download_filename": "solarviewer-1.2.2.tar.gz",
+  "download_time": "2026-01-26T07:08:45.835816",
+  "package_url": "https://pypi.org/project/solarviewer/"
+}

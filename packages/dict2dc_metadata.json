@@ -1,0 +1,11 @@
+{
+  "name": "dict2dc",
+  "version": "0.0.1",
+  "summary": "Helpers to parse dicts, e.g., from JSON parsing, to dataclasses.",
+  "author": "Tim Walter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dict2dc-0.0.1.tar.gz",
+  "download_time": "2026-01-26T07:08:13.759146",
+  "package_url": "https://pypi.org/project/dict2dc/"
+}

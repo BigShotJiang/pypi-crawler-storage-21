@@ -1,0 +1,11 @@
+{
+  "name": "rpmfluff",
+  "version": "0.6.7",
+  "summary": "Lightweight way of building RPMs, and sabotaging them",
+  "author": "David Malcolm",
+  "license": "GPL-2.0+",
+  "home_page": "https://pagure.io/rpmfluff",
+  "download_filename": "rpmfluff-0.6.7.tar.gz",
+  "download_time": "2026-01-26T07:08:27.755384",
+  "package_url": "https://pypi.org/project/rpmfluff/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fosslight-scanner",
-  "version": "2.1.13",
+  "version": "2.1.15",
   "summary": "FOSSLight Scanner",
   "author": "LG Electronics",
   "license": "Apache-2.0",
   "home_page": "https://github.com/fosslight/fosslight_scanner",
-  "download_filename": "fosslight_scanner-2.1.13.tar.gz",
-  "download_time": "2026-01-23T08:43:23.451309",
+  "download_filename": "fosslight_scanner-2.1.15.tar.gz",
+  "download_time": "2026-01-26T07:08:14.837309",
   "package_url": "https://pypi.org/project/fosslight-scanner/"
 }

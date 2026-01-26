@@ -1,11 +1,11 @@
 {
   "name": "fosslight-util",
-  "version": "2.1.37",
+  "version": "2.1.38",
   "summary": "FOSSLight Util",
   "author": "LG Electronics",
   "license": "Apache-2.0",
   "home_page": "https://github.com/fosslight/fosslight_util",
-  "download_filename": "fosslight_util-2.1.37.tar.gz",
-  "download_time": "2026-01-20T05:17:45.771983",
+  "download_filename": "fosslight_util-2.1.38.tar.gz",
+  "download_time": "2026-01-26T07:08:28.289445",
   "package_url": "https://pypi.org/project/fosslight-util/"
 }

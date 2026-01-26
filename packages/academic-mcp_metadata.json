@@ -1,0 +1,11 @@
+{
+  "name": "academic-mcp",
+  "version": "0.1.6",
+  "summary": "A MCP server for searching and downloading academic papers from multiple sources.",
+  "author": "Xueyuan Lin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "academic_mcp-0.1.6.tar.gz",
+  "download_time": "2026-01-26T07:08:12.169558",
+  "package_url": "https://pypi.org/project/academic-mcp/"
+}

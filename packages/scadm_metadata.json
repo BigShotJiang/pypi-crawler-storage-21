@@ -1,0 +1,11 @@
+{
+  "name": "scadm",
+  "version": "0.4.5",
+  "summary": "OpenSCAD dependency manager - Install OpenSCAD and manage library dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scadm-0.4.5.tar.gz",
+  "download_time": "2026-01-26T07:08:35.940696",
+  "package_url": "https://pypi.org/project/scadm/"
+}

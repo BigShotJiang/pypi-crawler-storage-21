@@ -1,0 +1,11 @@
+{
+  "name": "msprechecker",
+  "version": "0.3.4",
+  "summary": "MindStudio Prechecker",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "msprechecker-0.3.4.tar.gz",
+  "download_time": "2026-01-26T07:08:38.651130",
+  "package_url": "https://pypi.org/project/msprechecker/"
+}

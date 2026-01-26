@@ -1,0 +1,11 @@
+{
+  "name": "amberprep",
+  "version": "0.1.2",
+  "summary": "Web-based MD simulation pipeline with AMBER, ESMFold, docking, and PLUMED",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amberprep-0.1.2.tar.gz",
+  "download_time": "2026-01-26T07:08:08.629036",
+  "package_url": "https://pypi.org/project/amberprep/"
+}
