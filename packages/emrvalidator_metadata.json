@@ -1,0 +1,11 @@
+{
+  "name": "emrvalidator",
+  "version": "1.0.2",
+  "summary": "A Data Validation Tool for Healthcare Data",
+  "author": "Rohan Desai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "emrvalidator-1.0.2.tar.gz",
+  "download_time": "2026-01-26T21:01:52.289995",
+  "package_url": "https://pypi.org/project/emrvalidator/"
+}

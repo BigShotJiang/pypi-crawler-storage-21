@@ -1,11 +1,11 @@
 {
   "name": "cognitive-orchestra",
-  "version": "5.0.0",
+  "version": "5.0.2",
   "summary": "Cognitive orchestration system with work/delegate/protect decision model",
   "author": "Orchestra Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cognitive_orchestra-5.0.0.tar.gz",
-  "download_time": "2026-01-25T16:29:55.635617",
+  "download_filename": "cognitive_orchestra-5.0.2.tar.gz",
+  "download_time": "2026-01-26T21:01:39.305305",
   "package_url": "https://pypi.org/project/cognitive-orchestra/"
 }

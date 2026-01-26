@@ -1,11 +1,11 @@
 {
   "name": "navaltoolbox",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "High-performance naval architecture library for hydrostatics, stability, and tank calculations",
   "author": "Antoine ANCEAU",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/NavalToolbox/navaltoolbox-lib",
-  "download_filename": "navaltoolbox-0.2.0.tar.gz",
-  "download_time": "2026-01-22T03:49:57.537154",
+  "download_filename": "navaltoolbox-0.3.0.tar.gz",
+  "download_time": "2026-01-26T21:01:37.204030",
   "package_url": "https://pypi.org/project/navaltoolbox/"
 }

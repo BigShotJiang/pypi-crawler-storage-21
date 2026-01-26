@@ -1,0 +1,11 @@
+{
+  "name": "decor8ai",
+  "version": "0.33",
+  "summary": "Decor8 AI SDK for virtual staging, interior design generation, landscaping, remodeling, wall/cabinet color changes, sky replacement, and sketch-to-3D rendering.",
+  "author": "Akhilesh Joshi",
+  "license": "MIT",
+  "home_page": "https://www.decor8.ai",
+  "download_filename": "decor8ai-0.33.tar.gz",
+  "download_time": "2026-01-26T21:01:33.527187",
+  "package_url": "https://pypi.org/project/decor8ai/"
+}

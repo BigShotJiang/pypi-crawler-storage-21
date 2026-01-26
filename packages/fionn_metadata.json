@@ -1,0 +1,11 @@
+{
+  "name": "fionn",
+  "version": "0.1.0",
+  "summary": "Fast JSON library with SIMD acceleration - drop-in orjson replacement + extended features",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "fionn-0.1.0-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-26T21:01:35.107718",
+  "package_url": "https://pypi.org/project/fionn/"
+}

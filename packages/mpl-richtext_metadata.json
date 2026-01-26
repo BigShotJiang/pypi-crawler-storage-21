@@ -1,0 +1,11 @@
+{
+  "name": "mpl-richtext",
+  "version": "0.1.7",
+  "summary": "Rich text rendering for Matplotlib with multi-color and multi-style support",
+  "author": "Rabin Katel",
+  "license": "MIT",
+  "home_page": "https://github.com/ra8in/mpl-richtext",
+  "download_filename": "mpl_richtext-0.1.7.tar.gz",
+  "download_time": "2026-01-26T21:01:30.757841",
+  "package_url": "https://pypi.org/project/mpl-richtext/"
+}

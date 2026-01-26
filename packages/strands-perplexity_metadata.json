@@ -1,0 +1,11 @@
+{
+  "name": "strands-perplexity",
+  "version": "0.1.0",
+  "summary": "Perplexity Search API tool for Strands Agents - enables real-time web search with citations",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strands_perplexity-0.1.0.tar.gz",
+  "download_time": "2026-01-26T21:01:24.421262",
+  "package_url": "https://pypi.org/project/strands-perplexity/"
+}

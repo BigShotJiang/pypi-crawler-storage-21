@@ -1,11 +1,11 @@
 {
   "name": "pdftl",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "A capable CLI tool for PDF manipulation inspired by pdftk.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdftl-0.9.1.tar.gz",
-  "download_time": "2026-01-21T12:53:56.567542",
+  "download_filename": "pdftl-0.9.2.tar.gz",
+  "download_time": "2026-01-26T21:01:08.951813",
   "package_url": "https://pypi.org/project/pdftl/"
 }

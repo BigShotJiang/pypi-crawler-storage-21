@@ -1,0 +1,11 @@
+{
+  "name": "multiplex2brightfield",
+  "version": "0.2.7",
+  "summary": "A package to convert a multiplex image in OME-TIFF file format to a virtual brightfield image such as H&E or IHC.",
+  "author": "Tristan Whitmarsh",
+  "license": null,
+  "home_page": "https://github.com/TristanWhitmarsh/multiplex2brightfield",
+  "download_filename": "multiplex2brightfield-0.2.7.tar.gz",
+  "download_time": "2026-01-26T21:01:46.199706",
+  "package_url": "https://pypi.org/project/multiplex2brightfield/"
+}

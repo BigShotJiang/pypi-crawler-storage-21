@@ -1,0 +1,11 @@
+{
+  "name": "altamus-py",
+  "version": "0.1.0",
+  "summary": "Library for interacting with EOS2 Scanners and their binary scan files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "altamus_py-0.1.0.tar.gz",
+  "download_time": "2026-01-26T21:01:34.577656",
+  "package_url": "https://pypi.org/project/altamus-py/"
+}

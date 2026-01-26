@@ -1,0 +1,11 @@
+{
+  "name": "django-htmx-forms",
+  "version": "0.1.5",
+  "summary": "A Django helper app to add editing capabilities to the frontend using Django, HTMX and modal forms.",
+  "author": "Mario Orlandi",
+  "license": "MIT",
+  "home_page": "http://github.com/morlandi/django-htmx-forms",
+  "download_filename": "django_htmx_forms-0.1.5.tar.gz",
+  "download_time": "2026-01-26T21:01:52.814627",
+  "package_url": "https://pypi.org/project/django-htmx-forms/"
+}

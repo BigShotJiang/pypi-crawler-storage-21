@@ -1,0 +1,11 @@
+{
+  "name": "apc-ups-security-auditor",
+  "version": "0.2.0",
+  "summary": "Automated security auditing and UI-driven hardening for APC UPS NMC3 using Playwright.",
+  "author": "Bruno Teixeira",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apc_ups_security_auditor-0.2.0.tar.gz",
+  "download_time": "2026-01-26T21:01:32.480931",
+  "package_url": "https://pypi.org/project/apc-ups-security-auditor/"
+}

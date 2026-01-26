@@ -1,0 +1,11 @@
+{
+  "name": "catwoman",
+  "version": "1.1.0",
+  "summary": "Transit modelling package for asymmetric light curves",
+  "author": "Kathryn Jones",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/KathrynJones1/catwoman",
+  "download_filename": "catwoman-1.1.0.tar.gz",
+  "download_time": "2026-01-26T21:01:25.480660",
+  "package_url": "https://pypi.org/project/catwoman/"
+}

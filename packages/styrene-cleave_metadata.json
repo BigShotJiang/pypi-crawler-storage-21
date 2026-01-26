@@ -1,0 +1,11 @@
+{
+  "name": "styrene-cleave",
+  "version": "0.2.0",
+  "summary": "Recursive task decomposition for Claude Code - domain-aware splitting and reunification",
+  "author": "styrene-lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "styrene_cleave-0.2.0.tar.gz",
+  "download_time": "2026-01-26T21:01:11.046249",
+  "package_url": "https://pypi.org/project/styrene-cleave/"
+}

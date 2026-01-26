@@ -1,11 +1,11 @@
 {
   "name": "panel-bie",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Panel-based boundary integral equation solvers for 2D Laplace and Stokes problems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "panel_bie-0.6.0.tar.gz",
-  "download_time": "2026-01-25T06:41:51.688831",
+  "download_filename": "panel_bie-0.7.0.tar.gz",
+  "download_time": "2026-01-26T21:01:18.540332",
   "package_url": "https://pypi.org/project/panel-bie/"
 }
