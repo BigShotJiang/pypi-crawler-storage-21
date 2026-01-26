@@ -1,11 +1,11 @@
 {
   "name": "finmetry",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "summary": "Persnal project for stock market data analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finmetry-2.0.4.tar.gz",
-  "download_time": "2026-01-22T05:30:49.441817",
+  "download_filename": "finmetry-2.0.6.tar.gz",
+  "download_time": "2026-01-26T09:22:48.566399",
   "package_url": "https://pypi.org/project/finmetry/"
 }

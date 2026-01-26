@@ -1,0 +1,11 @@
+{
+  "name": "pq-key-fingerprint",
+  "version": "0.0.1",
+  "summary": "Generate fingerprints/hashes of PQ public keys",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pq_key_fingerprint-0.0.1.tar.gz",
+  "download_time": "2026-01-26T09:22:41.795653",
+  "package_url": "https://pypi.org/project/pq-key-fingerprint/"
+}

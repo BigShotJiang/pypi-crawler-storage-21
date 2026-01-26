@@ -1,0 +1,11 @@
+{
+  "name": "netstrength",
+  "version": "1.0.0",
+  "summary": "Beautiful network quality analyzer with real-world usage estimates",
+  "author": "chibokocl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netstrength-1.0.0.tar.gz",
+  "download_time": "2026-01-26T09:22:51.202040",
+  "package_url": "https://pypi.org/project/netstrength/"
+}
