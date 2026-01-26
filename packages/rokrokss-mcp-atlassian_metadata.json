@@ -1,0 +1,11 @@
+{
+  "name": "rokrokss-mcp-atlassian",
+  "version": "1.0.2",
+  "summary": "The Model Context Protocol (MCP) Atlassian integration is an open-source implementation that bridges Atlassian products (Jira and Confluence) with AI language models following Anthropic's MCP specification. This project enables secure, contextual AI interactions with Atlassian tools while maintaining data privacy and security. Key features include:",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rokrokss_mcp_atlassian-1.0.2.tar.gz",
+  "download_time": "2026-01-26T22:29:19.087435",
+  "package_url": "https://pypi.org/project/rokrokss-mcp-atlassian/"
+}

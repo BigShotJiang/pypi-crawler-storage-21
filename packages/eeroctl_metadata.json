@@ -1,11 +1,11 @@
 {
   "name": "eeroctl",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "summary": "Command-line interface for Eero network management",
   "author": "Eero CLI Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eeroctl-2.9.0.tar.gz",
-  "download_time": "2026-01-23T22:21:11.353699",
+  "download_filename": "eeroctl-2.10.0.tar.gz",
+  "download_time": "2026-01-26T22:29:17.504397",
   "package_url": "https://pypi.org/project/eeroctl/"
 }

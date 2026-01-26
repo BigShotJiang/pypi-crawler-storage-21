@@ -1,11 +1,11 @@
 {
   "name": "fastapi-toolsets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Reusable tools for FastAPI: async CRUD, fixtures, CLI, and standardized responses for SQLAlchemy + PostgreSQL",
   "author": "d3vyce",
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_toolsets-0.1.0.tar.gz",
-  "download_time": "2026-01-25T16:29:53.429398",
+  "download_filename": "fastapi_toolsets-0.2.0.tar.gz",
+  "download_time": "2026-01-26T22:29:21.670271",
   "package_url": "https://pypi.org/project/fastapi-toolsets/"
 }

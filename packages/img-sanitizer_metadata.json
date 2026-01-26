@@ -1,0 +1,11 @@
+{
+  "name": "img-sanitizer",
+  "version": "0.1.1",
+  "summary": "Python library designed to prepare, clean, and normalize JPEG images before publishing or archiving. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "img_sanitizer-0.1.1.tar.gz",
+  "download_time": "2026-01-26T22:29:57.425746",
+  "package_url": "https://pypi.org/project/img-sanitizer/"
+}

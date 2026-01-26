@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-mailchimp",
-  "version": "0.1.14",
+  "version": "0.1.18",
   "summary": "Airbyte Mailchimp Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_mailchimp-0.1.14.tar.gz",
-  "download_time": "2026-01-23T02:00:42.425875",
+  "download_filename": "airbyte_agent_mailchimp-0.1.18.tar.gz",
+  "download_time": "2026-01-26T22:30:04.205364",
   "package_url": "https://pypi.org/project/airbyte-agent-mailchimp/"
 }

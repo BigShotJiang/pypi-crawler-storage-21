@@ -1,11 +1,11 @@
 {
   "name": "securitybench",
-  "version": "0.1.8",
+  "version": "0.1.16",
   "summary": "Security Bench - Security testing for LLM pipelines",
   "author": "Security Bench Team",
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "securitybench-0.1.8.tar.gz",
-  "download_time": "2026-01-26T14:58:04.078192",
+  "download_filename": "securitybench-0.1.16.tar.gz",
+  "download_time": "2026-01-26T22:29:27.861319",
   "package_url": "https://pypi.org/project/securitybench/"
 }
