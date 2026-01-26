@@ -1,11 +1,11 @@
 {
   "name": "virtui-manager",
-  "version": "1.0.5",
+  "version": "1.1.1",
   "summary": "Terminal-based interface to manage virtual machines using libvirt",
-  "author": null,
+  "author": "Antoine Ginies",
   "license": null,
-  "home_page": null,
-  "download_filename": "virtui_manager-1.0.5.tar.gz",
-  "download_time": "2026-01-22T17:17:19.310237",
+  "home_page": "https://aginies.github.io/virtui-manager/",
+  "download_filename": "virtui_manager-1.1.1.tar.gz",
+  "download_time": "2026-01-26T10:57:34.246056",
   "package_url": "https://pypi.org/project/virtui-manager/"
 }

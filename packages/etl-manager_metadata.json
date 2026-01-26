@@ -1,0 +1,11 @@
+{
+  "name": "etl-manager",
+  "version": "9.0.2",
+  "summary": "A python package to manage etl processes on AWS",
+  "author": "Karik Isichei",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "etl_manager-9.0.2.tar.gz",
+  "download_time": "2026-01-26T10:57:52.716604",
+  "package_url": "https://pypi.org/project/etl-manager/"
+}

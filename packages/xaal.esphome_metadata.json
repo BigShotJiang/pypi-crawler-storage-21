@@ -1,0 +1,11 @@
+{
+  "name": "xaal.esphome",
+  "version": "0.2.5",
+  "summary": "xAAL gateway for ESPHome devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xaal_esphome-0.2.5.tar.gz",
+  "download_time": "2026-01-26T10:57:48.102570",
+  "package_url": "https://pypi.org/project/xaal.esphome/"
+}

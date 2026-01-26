@@ -1,11 +1,11 @@
 {
   "name": "ctd-processing",
-  "version": "1.11.6",
+  "version": "1.11.7",
   "summary": "Custom CTD processing tools and a runner to use these interchangeable with the standard seabird modules.",
   "author": "Emil Michels",
   "license": null,
   "home_page": "https://git.iow.de/CTD-Software/processing",
-  "download_filename": "ctd_processing-1.11.6.tar.gz",
-  "download_time": "2026-01-26T09:52:06.083935",
+  "download_filename": "ctd_processing-1.11.7.tar.gz",
+  "download_time": "2026-01-26T10:57:28.593431",
   "package_url": "https://pypi.org/project/ctd-processing/"
 }

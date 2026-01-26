@@ -1,11 +1,11 @@
 {
   "name": "ergane",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "High-performance async web scraper with selectolax parsing",
   "author": "pyamin1878",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ergane-0.3.1.tar.gz",
-  "download_time": "2026-01-26T09:51:55.581344",
+  "download_filename": "ergane-0.4.0.tar.gz",
+  "download_time": "2026-01-26T10:57:22.388203",
   "package_url": "https://pypi.org/project/ergane/"
 }

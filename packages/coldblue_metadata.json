@@ -1,0 +1,11 @@
+{
+  "name": "coldblue",
+  "version": "0.1.1",
+  "summary": "Modern dark theme for Django Admin",
+  "author": "JIYO P V",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coldblue-0.1.1.tar.gz",
+  "download_time": "2026-01-26T10:57:46.571505",
+  "package_url": "https://pypi.org/project/coldblue/"
+}

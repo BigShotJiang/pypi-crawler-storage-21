@@ -1,11 +1,11 @@
 {
   "name": "VertexEngine",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vertexengine-1.0.1.tar.gz",
-  "download_time": "2026-01-21T13:48:08.009813",
+  "download_filename": "vertexengine-1.1.0.tar.gz",
+  "download_time": "2026-01-26T10:57:55.794239",
   "package_url": "https://pypi.org/project/VertexEngine/"
 }
