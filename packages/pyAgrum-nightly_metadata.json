@@ -1,11 +1,11 @@
 {
   "name": "pyAgrum-nightly",
-  "version": "2.3.1.9.dev202601211768580955",
+  "version": "2.3.2.dev202601261769343055",
   "summary": "Bayesian networks and other Probabilistic Graphical Models.",
   "author": "Pierre-Henri Wuillemin and Christophe Gonzales",
   "license": null,
   "home_page": "https://agrum.gitlab.io/",
-  "download_filename": "pyagrum_nightly-2.3.1.9.dev202601211768580955-cp310-abi3-macosx_10_15_x86_64.whl",
-  "download_time": "2026-01-21T03:46:41.958930",
+  "download_filename": "pyagrum_nightly-2.3.2.dev202601261769343055-cp310-abi3-macosx_10_15_x86_64.whl",
+  "download_time": "2026-01-26T04:05:32.369544",
   "package_url": "https://pypi.org/project/pyAgrum-nightly/"
 }

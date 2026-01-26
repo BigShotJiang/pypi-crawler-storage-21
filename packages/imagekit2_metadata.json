@@ -1,0 +1,11 @@
+{
+  "name": "imagekit2",
+  "version": "0.1.5",
+  "summary": "A high-performance, Rust-powered image watermarking library. Supports text and logo watermarks, smart contrast, tiling, rotation, and precise positioning.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imagekit2-0.1.5-cp37-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-26T04:05:08.666284",
+  "package_url": "https://pypi.org/project/imagekit2/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pinionai",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "The official Python client library for the PinionAI platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pinionai-0.2.3.tar.gz",
-  "download_time": "2026-01-24T05:25:22.563535",
+  "download_filename": "pinionai-0.2.4.tar.gz",
+  "download_time": "2026-01-26T04:05:50.912232",
   "package_url": "https://pypi.org/project/pinionai/"
 }

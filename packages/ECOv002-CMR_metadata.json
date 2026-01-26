@@ -1,0 +1,11 @@
+{
+  "name": "ECOv002-CMR",
+  "version": "1.2.0",
+  "summary": "Common Metadata Repository (CMR) Search for ECOSTRESS Collection 2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecov002_cmr-1.2.0.tar.gz",
+  "download_time": "2026-01-26T04:05:46.448952",
+  "package_url": "https://pypi.org/project/ECOv002-CMR/"
+}

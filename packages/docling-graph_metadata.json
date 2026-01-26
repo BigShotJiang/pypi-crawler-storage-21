@@ -1,11 +1,11 @@
 {
   "name": "docling-graph",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A tool to convert documents into knowledge graphs using Docling.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "docling_graph-1.2.1.tar.gz",
-  "download_time": "2026-01-25T17:45:38.810365",
+  "download_filename": "docling_graph-1.2.2.tar.gz",
+  "download_time": "2026-01-26T04:05:34.380421",
   "package_url": "https://pypi.org/project/docling-graph/"
 }

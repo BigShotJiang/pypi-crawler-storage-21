@@ -1,0 +1,11 @@
+{
+  "name": "fastmdui",
+  "version": "0.1.3",
+  "summary": "Material Design UI components for FastHTML",
+  "author": "Lissan Zahid",
+  "license": "MIT",
+  "home_page": "https://github.com/seekerquest/fastmdui",
+  "download_filename": "fastmdui-0.1.3.tar.gz",
+  "download_time": "2026-01-26T04:05:41.989715",
+  "package_url": "https://pypi.org/project/fastmdui/"
+}

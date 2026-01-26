@@ -1,0 +1,11 @@
+{
+  "name": "rscm",
+  "version": "0.5.0",
+  "summary": "Simple Climate Model framework implemented in Rust",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rscm-0.5.0.tar.gz",
+  "download_time": "2026-01-26T04:05:21.853912",
+  "package_url": "https://pypi.org/project/rscm/"
+}

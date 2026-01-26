@@ -1,0 +1,11 @@
+{
+  "name": "openground",
+  "version": "0.10.4",
+  "summary": "Ingest official documentation into a local vector database and expose it via MCP for AI coding agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openground-0.10.4.tar.gz",
+  "download_time": "2026-01-26T04:05:47.650365",
+  "package_url": "https://pypi.org/project/openground/"
+}
