@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-nacos",
+  "version": "0.0.7",
+  "summary": "A FastAPI-friendly integration with Nacos that provides configuration management, service registration and discovery, and client-side load-balanced service calls.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_nacos-0.0.7.tar.gz",
+  "download_time": "2026-01-26T06:42:00.336594",
+  "package_url": "https://pypi.org/project/fastapi-nacos/"
+}

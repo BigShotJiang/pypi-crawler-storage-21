@@ -1,0 +1,11 @@
+{
+  "name": "boron-parallax",
+  "version": "1.0.4",
+  "summary": "The World's First Timeline-Oriented Programming Language",
+  "author": "Harsith",
+  "license": null,
+  "home_page": "https://github.com/harsith/parallax",
+  "download_filename": "boron_parallax-1.0.4.tar.gz",
+  "download_time": "2026-01-26T06:42:13.084817",
+  "package_url": "https://pypi.org/project/boron-parallax/"
+}

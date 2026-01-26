@@ -1,0 +1,11 @@
+{
+  "name": "tilert",
+  "version": "0.1.1",
+  "summary": "TileRT: Tile-Based Runtime for Ultra-Low-Latency LLM Inference.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tilert-0.1.1-py3-none-manylinux2014_x86_64.whl",
+  "download_time": "2026-01-26T06:42:12.037511",
+  "package_url": "https://pypi.org/project/tilert/"
+}

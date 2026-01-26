@@ -1,11 +1,11 @@
 {
   "name": "nia-mcp-server",
-  "version": "1.0.73",
+  "version": "1.0.74",
   "summary": "Nia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nia_mcp_server-1.0.73.tar.gz",
-  "download_time": "2026-01-23T20:29:48.167416",
+  "download_filename": "nia_mcp_server-1.0.74.tar.gz",
+  "download_time": "2026-01-26T06:42:11.502128",
   "package_url": "https://pypi.org/project/nia-mcp-server/"
 }

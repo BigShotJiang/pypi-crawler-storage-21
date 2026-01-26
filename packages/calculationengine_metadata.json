@@ -1,0 +1,11 @@
+{
+  "name": "calculationengine",
+  "version": "0.1.1",
+  "summary": "A simple Python calculator library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "calculationengine-0.1.1.tar.gz",
+  "download_time": "2026-01-26T06:42:07.743964",
+  "package_url": "https://pypi.org/project/calculationengine/"
+}

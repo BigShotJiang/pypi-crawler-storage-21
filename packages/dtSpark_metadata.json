@@ -1,11 +1,11 @@
 {
   "name": "dtSpark",
-  "version": "1.0.5",
+  "version": "1.0.10",
   "summary": "Secure Personal AI Research Kit - Multi-provider LLM CLI/Web interface with MCP tool integration",
   "author": "Matthew Westwood-Hill",
   "license": "MIT",
   "home_page": "https://github.com/digital-thought/dtSpark",
-  "download_filename": "dtspark-1.0.5.tar.gz",
-  "download_time": "2026-01-23T11:31:24.526353",
+  "download_filename": "dtspark-1.0.10.tar.gz",
+  "download_time": "2026-01-26T06:42:18.438001",
   "package_url": "https://pypi.org/project/dtSpark/"
 }

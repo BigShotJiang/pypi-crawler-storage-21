@@ -1,0 +1,11 @@
+{
+  "name": "yamlpyconfig",
+  "version": "0.1.9",
+  "summary": "A unified YAML configuration manager supporting local files and dynamic Nacos configuration with hot-reloading, environment variable substitution, and built-in encryption (SM2/SM4) support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yamlpyconfig-0.1.9.tar.gz",
+  "download_time": "2026-01-26T06:42:12.570098",
+  "package_url": "https://pypi.org/project/yamlpyconfig/"
+}

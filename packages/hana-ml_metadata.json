@@ -1,0 +1,11 @@
+{
+  "name": "hana-ml",
+  "version": "2.27.26012900",
+  "summary": "Python Machine Learning Client for SAP HANA",
+  "author": "SAP SE",
+  "license": "SAP DEVELOPER LICENSE AGREEMENT",
+  "home_page": "https://www.sap.com/",
+  "download_filename": "hana_ml-2.27.26012900-py3-none-any.whl",
+  "download_time": "2026-01-26T06:42:09.374170",
+  "package_url": "https://pypi.org/project/hana-ml/"
+}

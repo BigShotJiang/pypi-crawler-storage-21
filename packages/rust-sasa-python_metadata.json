@@ -1,0 +1,11 @@
+{
+  "name": "rust-sasa-python",
+  "version": "0.7.2",
+  "summary": "An ultra-fast package for computing Solvent Accessible Surface Area (SASA/ASA) for proteins",
+  "author": "Max Campbell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rust_sasa_python-0.7.2.tar.gz",
+  "download_time": "2026-01-26T06:42:19.976573",
+  "package_url": "https://pypi.org/project/rust-sasa-python/"
+}

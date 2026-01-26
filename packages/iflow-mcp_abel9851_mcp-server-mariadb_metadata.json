@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_abel9851_mcp-server-mariadb",
+  "version": "0.1.2",
+  "summary": "MCP Server for MariaDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_abel9851_mcp_server_mariadb-0.1.2.tar.gz",
+  "download_time": "2026-01-26T06:41:56.198829",
+  "package_url": "https://pypi.org/project/iflow-mcp_abel9851_mcp-server-mariadb/"
+}
