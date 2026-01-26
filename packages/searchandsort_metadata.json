@@ -1,0 +1,11 @@
+{
+  "name": "searchandsort",
+  "version": "1.0.0",
+  "summary": "Python package for searching and sorting algorithms with time analysis",
+  "author": "M P Nithish Praba",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "searchandsort-1.0.0.tar.gz",
+  "download_time": "2026-01-26T07:45:14.888510",
+  "package_url": "https://pypi.org/project/searchandsort/"
+}

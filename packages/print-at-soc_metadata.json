@@ -1,0 +1,11 @@
+{
+  "name": "print-at-soc",
+  "version": "0.1.0",
+  "summary": "Print@SoC - Smart Printing for NUS SoC - Python CLI wrapper for desktop application",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "print_at_soc-0.1.0.tar.gz",
+  "download_time": "2026-01-26T07:44:43.016036",
+  "package_url": "https://pypi.org/project/print-at-soc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sb-mongodb-common",
+  "version": "0.0.1",
+  "summary": "A set of db wrappers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sb_mongodb_common-0.0.1.tar.gz",
+  "download_time": "2026-01-26T07:44:48.225304",
+  "package_url": "https://pypi.org/project/sb-mongodb-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lineage",
+  "version": "4.5.0",
+  "summary": "tools for analyzing and exploring genetic relationships",
+  "author": "Andrew Riha",
+  "license": "MIT",
+  "home_page": "https://github.com/apriha/lineage",
+  "download_filename": "lineage-4.5.0.tar.gz",
+  "download_time": "2026-01-26T07:44:55.034869",
+  "package_url": "https://pypi.org/project/lineage/"
+}

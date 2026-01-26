@@ -1,11 +1,11 @@
 {
   "name": "task-schedule",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "A powerful Python task scheduling framework with web UI",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/task_schedule",
-  "download_filename": "task_schedule-1.4.0.tar.gz",
-  "download_time": "2026-01-26T06:41:45.723513",
+  "download_filename": "task_schedule-1.5.0.tar.gz",
+  "download_time": "2026-01-26T07:45:23.725659",
   "package_url": "https://pypi.org/project/task-schedule/"
 }

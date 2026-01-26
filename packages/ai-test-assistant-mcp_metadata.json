@@ -1,0 +1,11 @@
+{
+  "name": "ai-test-assistant-mcp",
+  "version": "1.0.0",
+  "summary": "AI 驱动的自动化测试助手 MCP Server - 生成AC、测试用例、UI/API自动化代码",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_test_assistant_mcp-1.0.0.tar.gz",
+  "download_time": "2026-01-26T07:45:23.205061",
+  "package_url": "https://pypi.org/project/ai-test-assistant-mcp/"
+}

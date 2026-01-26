@@ -1,0 +1,11 @@
+{
+  "name": "xpcs-viewer",
+  "version": "1.0.6",
+  "summary": "pyXPCSViewer: A python-based interactive tool to visualize and model XPCS dataset",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xpcs_viewer-1.0.6.tar.gz",
+  "download_time": "2026-01-26T07:45:11.775761",
+  "package_url": "https://pypi.org/project/xpcs-viewer/"
+}

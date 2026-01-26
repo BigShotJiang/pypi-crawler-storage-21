@@ -1,11 +1,11 @@
 {
   "name": "flowrra",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Async task executor built on asyncio - a lightweight Celery alternative",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "flowrra-0.1.5.tar.gz",
-  "download_time": "2026-01-25T15:23:57.001297",
+  "download_filename": "flowrra-0.1.6.tar.gz",
+  "download_time": "2026-01-26T07:44:53.996742",
   "package_url": "https://pypi.org/project/flowrra/"
 }

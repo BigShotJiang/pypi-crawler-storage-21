@@ -1,11 +1,11 @@
 {
   "name": "llm-greenpt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A plugin to add support for the GreenPT AI inference service to llm",
   "author": "Chris Adams",
   "license": null,
   "home_page": null,
-  "download_filename": "llm_greenpt-0.0.1.tar.gz",
-  "download_time": "2026-01-24T16:51:10.845970",
+  "download_filename": "llm_greenpt-0.0.2.tar.gz",
+  "download_time": "2026-01-26T07:45:03.385631",
   "package_url": "https://pypi.org/project/llm-greenpt/"
 }

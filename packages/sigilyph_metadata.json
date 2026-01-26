@@ -1,0 +1,11 @@
+{
+  "name": "sigilyph",
+  "version": "0.5.4",
+  "summary": "Text Front for TTS",
+  "author": "Yixiang Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/yixiangchen1995/python-Sigilyph",
+  "download_filename": "sigilyph-0.5.4.tar.gz",
+  "download_time": "2026-01-26T07:45:04.989489",
+  "package_url": "https://pypi.org/project/sigilyph/"
+}

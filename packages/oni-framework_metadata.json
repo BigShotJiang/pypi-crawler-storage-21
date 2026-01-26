@@ -1,11 +1,11 @@
 {
   "name": "oni-framework",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Neural security framework for brain-computer interfaces. Calculate signal trust scores, filter suspicious signals, anonymize neural data, and validate BCI communications against the 14-layer ONI model.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "oni_framework-0.2.1.tar.gz",
-  "download_time": "2026-01-26T04:05:16.937165",
+  "download_filename": "oni_framework-0.2.2.tar.gz",
+  "download_time": "2026-01-26T07:45:00.285179",
   "package_url": "https://pypi.org/project/oni-framework/"
 }

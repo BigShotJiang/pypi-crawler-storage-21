@@ -1,11 +1,11 @@
 {
   "name": "unihttp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A modern and fast library for developing API clients.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unihttp-0.1.1.tar.gz",
-  "download_time": "2026-01-25T17:57:22.484287",
+  "download_filename": "unihttp-0.1.2.tar.gz",
+  "download_time": "2026-01-26T07:44:49.314606",
   "package_url": "https://pypi.org/project/unihttp/"
 }
