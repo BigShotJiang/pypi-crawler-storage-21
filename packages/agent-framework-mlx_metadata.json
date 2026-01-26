@@ -1,0 +1,11 @@
+{
+  "name": "agent-framework-mlx",
+  "version": "0.4.0",
+  "summary": "MLX integration for the Agent Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_framework_mlx-0.4.0.tar.gz",
+  "download_time": "2026-01-26T18:03:37.590988",
+  "package_url": "https://pypi.org/project/agent-framework-mlx/"
+}

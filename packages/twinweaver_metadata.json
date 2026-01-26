@@ -1,0 +1,11 @@
+{
+  "name": "twinweaver",
+  "version": "0.1.3",
+  "summary": "Converting longitudinal patient data into text for LLM-based event prediction and forecasting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twinweaver-0.1.3.tar.gz",
+  "download_time": "2026-01-26T18:03:06.008817",
+  "package_url": "https://pypi.org/project/twinweaver/"
+}

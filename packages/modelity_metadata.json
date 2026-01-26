@@ -1,0 +1,11 @@
+{
+  "name": "modelity",
+  "version": "0.27.0",
+  "summary": "Data parsing and validation library for Python",
+  "author": "Maciej Wiatrzyk",
+  "license": "MIT",
+  "home_page": "https://github.com/mwiatrzyk/modelity",
+  "download_filename": "modelity-0.27.0.tar.gz",
+  "download_time": "2026-01-26T18:03:06.522096",
+  "package_url": "https://pypi.org/project/modelity/"
+}

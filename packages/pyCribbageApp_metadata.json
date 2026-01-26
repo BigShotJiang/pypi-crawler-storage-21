@@ -1,0 +1,11 @@
+{
+  "name": "pyCribbageApp",
+  "version": "0.1.3",
+  "summary": "pyCribbageApp is a python package that provides a tkinter based GUI for playing cribbage games using the CribbageSim package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycribbageapp-0.1.3.tar.gz",
+  "download_time": "2026-01-26T18:02:54.437046",
+  "package_url": "https://pypi.org/project/pyCribbageApp/"
+}

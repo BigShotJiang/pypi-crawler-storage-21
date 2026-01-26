@@ -1,11 +1,11 @@
 {
   "name": "skill-creator-mcp",
-  "version": "0.3.0",
+  "version": "0.3.3",
   "summary": "Agent-Skills 开发与质量保证 MCP Server",
   "author": "Skill Creator Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skill_creator_mcp-0.3.0.tar.gz",
-  "download_time": "2026-01-26T08:41:37.705659",
+  "download_filename": "skill_creator_mcp-0.3.3.tar.gz",
+  "download_time": "2026-01-26T18:03:32.391415",
   "package_url": "https://pypi.org/project/skill-creator-mcp/"
 }

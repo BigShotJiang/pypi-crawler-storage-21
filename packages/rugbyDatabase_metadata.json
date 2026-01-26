@@ -1,11 +1,11 @@
 {
   "name": "rugbyDatabase",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.2",
+  "summary": "Python package to access rugby datasets.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rugbydatabase-0.1.0.tar.gz",
-  "download_time": "2026-01-26T11:46:04.828660",
+  "download_filename": "rugbydatabase-0.1.2.tar.gz",
+  "download_time": "2026-01-26T18:03:23.968568",
   "package_url": "https://pypi.org/project/rugbyDatabase/"
 }

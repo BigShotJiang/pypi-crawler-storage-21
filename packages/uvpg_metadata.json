@@ -1,11 +1,11 @@
 {
   "name": "uvpg",
-  "version": "1.0.5",
+  "version": "1.1.1",
   "summary": "UV Project Generator - Create Python monorepos with workspaces.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uvpg-1.0.5.tar.gz",
-  "download_time": "2026-01-22T22:25:47.823439",
+  "download_filename": "uvpg-1.1.1.tar.gz",
+  "download_time": "2026-01-26T18:03:31.811463",
   "package_url": "https://pypi.org/project/uvpg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "finetuning-scheduler",
+  "version": "2.10.0",
+  "summary": "A PyTorch Lightning extension that enhances model experimentation with flexible fine-tuning schedules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finetuning_scheduler-2.10.0.tar.gz",
+  "download_time": "2026-01-26T18:03:01.213951",
+  "package_url": "https://pypi.org/project/finetuning-scheduler/"
+}

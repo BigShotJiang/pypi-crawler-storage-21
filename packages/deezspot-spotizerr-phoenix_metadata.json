@@ -1,0 +1,11 @@
+{
+  "name": "deezspot-spotizerr-phoenix",
+  "version": "0.0.14",
+  "summary": "Downloads songs, albums or playlists from deezer and spotify (clone from deezloader)",
+  "author": "spotizerr-phoenix",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://lavaforge.org/spotizerrphoenix/deezspot-spotizerr-phoenix",
+  "download_filename": "deezspot_spotizerr_phoenix-0.0.14.tar.gz",
+  "download_time": "2026-01-26T18:03:33.934560",
+  "package_url": "https://pypi.org/project/deezspot-spotizerr-phoenix/"
+}

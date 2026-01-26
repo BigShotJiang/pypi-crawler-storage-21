@@ -1,0 +1,11 @@
+{
+  "name": "torch_to_nnef",
+  "version": "0.20.3",
+  "summary": "Any PyTorch Model to NNEF file format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_to_nnef-0.20.3.tar.gz",
+  "download_time": "2026-01-26T18:03:21.869751",
+  "package_url": "https://pypi.org/project/torch_to_nnef/"
+}

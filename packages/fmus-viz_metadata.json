@@ -1,0 +1,11 @@
+{
+  "name": "fmus-viz",
+  "version": "0.1.0",
+  "summary": "A human-oriented visualization library with unified interface across multiple backends",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmus_viz-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-26T18:03:43.858168",
+  "package_url": "https://pypi.org/project/fmus-viz/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nepalpy",
-  "version": "0.2.0",
-  "summary": "Nepali date, Nepal Sambat, and calendar utilities",
+  "version": "1.3.2",
+  "summary": "Nepali name generator, surname and caste/ethnic group utilities",
   "author": "Sushil Shrestha",
   "license": "MIT",
-  "home_page": "https://github.com/mrsushilshrestha",
-  "download_filename": "nepalpy-0.2.0.tar.gz",
-  "download_time": "2026-01-25T10:26:44.250770",
+  "home_page": "https://github.com/mrsushilshrestha/nepalpy",
+  "download_filename": "nepalpy-1.3.2.tar.gz",
+  "download_time": "2026-01-26T18:03:12.753400",
   "package_url": "https://pypi.org/project/nepalpy/"
 }

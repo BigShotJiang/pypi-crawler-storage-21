@@ -1,0 +1,11 @@
+{
+  "name": "json2qti",
+  "version": "0.1.0",
+  "summary": "Convert simple JSON quizzes to QTI format for LMS import",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json2qti-0.1.0.tar.gz",
+  "download_time": "2026-01-26T18:03:32.903923",
+  "package_url": "https://pypi.org/project/json2qti/"
+}

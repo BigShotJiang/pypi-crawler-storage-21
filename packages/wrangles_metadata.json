@@ -1,0 +1,11 @@
+{
+  "name": "wrangles",
+  "version": "1.16.0",
+  "summary": "Wrangle your data into shape with AI",
+  "author": "WrangleWorks",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/wrangleworks/WranglesPy",
+  "download_filename": "wrangles-1.16.0.tar.gz",
+  "download_time": "2026-01-26T18:03:35.498316",
+  "package_url": "https://pypi.org/project/wrangles/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "svy",
-  "version": "0.7.0",
+  "version": "0.9.0",
   "summary": "End-to-end surveys: design, sample, analyze, report.",
   "author": "Mamadou S Diallo",
   "license": null,
   "home_page": null,
-  "download_filename": "svy-0.7.0-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-25T17:45:20.317909",
+  "download_filename": "svy-0.9.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-26T18:03:22.940174",
   "package_url": "https://pypi.org/project/svy/"
 }
