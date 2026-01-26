@@ -1,0 +1,11 @@
+{
+  "name": "ukaea-multiparser",
+  "version": "1.0.5",
+  "summary": "Multiple File Parser for monitoring and processing updates to a given set of output files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ukaea_multiparser-1.0.5.tar.gz",
+  "download_time": "2026-01-26T12:55:55.716584",
+  "package_url": "https://pypi.org/project/ukaea-multiparser/"
+}

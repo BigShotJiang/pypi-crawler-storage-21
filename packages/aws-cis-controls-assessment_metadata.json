@@ -1,11 +1,11 @@
 {
   "name": "aws-cis-controls-assessment",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Production-ready AWS CIS Controls compliance assessment framework with 145 comprehensive rules",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aws_cis_controls_assessment-1.0.5.tar.gz",
-  "download_time": "2026-01-26T11:46:04.316944",
+  "download_filename": "aws_cis_controls_assessment-1.0.7.tar.gz",
+  "download_time": "2026-01-26T12:55:56.228061",
   "package_url": "https://pypi.org/project/aws-cis-controls-assessment/"
 }

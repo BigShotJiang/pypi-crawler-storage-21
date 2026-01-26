@@ -1,0 +1,11 @@
+{
+  "name": "brainrender-napari",
+  "version": "0.1.4",
+  "summary": "A napari plugin to render BrainGlobe atlases and associated data as layers.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "brainrender_napari-0.1.4.tar.gz",
+  "download_time": "2026-01-26T12:55:57.247548",
+  "package_url": "https://pypi.org/project/brainrender-napari/"
+}

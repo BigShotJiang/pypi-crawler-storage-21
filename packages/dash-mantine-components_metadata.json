@@ -1,11 +1,11 @@
 {
   "name": "dash-mantine-components",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Plotly Dash Components based on Mantine",
   "author": "Snehil Vijay <snehilvj@outlook.com>",
   "license": "MIT",
   "home_page": "https://github.com/snehilvj/dash-mantine-components",
-  "download_filename": "dash_mantine_components-2.5.0.tar.gz",
-  "download_time": "2026-01-25T21:55:55.536609",
+  "download_filename": "dash_mantine_components-2.5.1.tar.gz",
+  "download_time": "2026-01-26T12:55:46.906319",
   "package_url": "https://pypi.org/project/dash-mantine-components/"
 }

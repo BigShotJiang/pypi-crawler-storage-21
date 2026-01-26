@@ -1,0 +1,11 @@
+{
+  "name": "nextebook-sdk",
+  "version": "1.1.0",
+  "summary": "NextEbook OEM API Python SDK",
+  "author": "YIZXIY",
+  "license": "MIT",
+  "home_page": "https://github.com/YIZXIY/nextebook-sdk",
+  "download_filename": "nextebook_sdk-1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-26T12:55:33.096667",
+  "package_url": "https://pypi.org/project/nextebook-sdk/"
+}

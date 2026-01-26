@@ -1,0 +1,11 @@
+{
+  "name": "ng-slice-download",
+  "version": "0.2",
+  "summary": "Download slices from a neuroglancer view",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ng_slice_download-0.2.tar.gz",
+  "download_time": "2026-01-26T12:55:55.193936",
+  "package_url": "https://pypi.org/project/ng-slice-download/"
+}

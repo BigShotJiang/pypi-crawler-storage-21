@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-mgmt-activity",
+  "version": "18.0.1.0.0.2",
+  "summary": "Create Activities for Odoo records from the Helpdesk",
+  "author": "=?utf-8?q?Cetmix_O=C3=9C=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_mgmt_activity-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-26T12:55:10.756067",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-mgmt-activity/"
+}
