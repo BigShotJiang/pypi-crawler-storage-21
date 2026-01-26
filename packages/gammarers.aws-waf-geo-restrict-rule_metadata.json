@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-waf-geo-restrict-rule",
+  "version": "2.0.59",
+  "summary": "This is an AWS CDK Geo Restric Rule on WAF V2",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-waf-geo-restrict-rule.git",
+  "download_filename": "gammarers_aws_waf_geo_restrict_rule-2.0.59.tar.gz",
+  "download_time": "2026-01-26T19:49:16.281141",
+  "package_url": "https://pypi.org/project/gammarers.aws-waf-geo-restrict-rule/"
+}

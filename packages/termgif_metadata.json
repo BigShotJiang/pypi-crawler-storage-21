@@ -1,11 +1,11 @@
 {
   "name": "termgif",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Dead simple terminal GIF recorder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "termgif-0.2.0.tar.gz",
-  "download_time": "2026-01-26T19:28:34.047574",
+  "download_filename": "termgif-0.2.1.tar.gz",
+  "download_time": "2026-01-26T19:49:04.044608",
   "package_url": "https://pypi.org/project/termgif/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "civis",
+  "version": "2.8.0",
+  "summary": "Civis API Python Client",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "civis-2.8.0.tar.gz",
+  "download_time": "2026-01-26T19:49:14.235394",
+  "package_url": "https://pypi.org/project/civis/"
+}

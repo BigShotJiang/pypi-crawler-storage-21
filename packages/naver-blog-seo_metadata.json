@@ -1,11 +1,11 @@
 {
   "name": "naver-blog-seo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python wrapper for Naver Blog SEO optimization skills",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "naver_blog_seo-0.1.0.tar.gz",
-  "download_time": "2026-01-26T19:28:31.181837",
+  "download_filename": "naver_blog_seo-0.1.1.tar.gz",
+  "download_time": "2026-01-26T19:49:01.905496",
   "package_url": "https://pypi.org/project/naver-blog-seo/"
 }

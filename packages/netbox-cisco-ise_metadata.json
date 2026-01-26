@@ -1,11 +1,11 @@
 {
   "name": "netbox-cisco-ise",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "NetBox plugin for Cisco ISE integration - endpoint tracking, NAD management, and session visibility",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "netbox_cisco_ise-0.1.3.tar.gz",
-  "download_time": "2026-01-23T23:26:19.396901",
+  "download_filename": "netbox_cisco_ise-0.1.4.tar.gz",
+  "download_time": "2026-01-26T19:49:34.114388",
   "package_url": "https://pypi.org/project/netbox-cisco-ise/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "projektor",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "LLM-orchestrated project management with DevOps automation for iterative development",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "projektor-0.1.14.tar.gz",
-  "download_time": "2026-01-26T18:53:03.725439",
+  "download_filename": "projektor-0.1.15.tar.gz",
+  "download_time": "2026-01-26T19:49:22.486913",
   "package_url": "https://pypi.org/project/projektor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pymilo",
+  "version": "1.5",
+  "summary": "PyMilo: Python for ML I/O",
+  "author": "PyMilo Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openscilab/pymilo",
+  "download_filename": "pymilo-1.5.tar.gz",
+  "download_time": "2026-01-26T19:49:17.816485",
+  "package_url": "https://pypi.org/project/pymilo/"
+}
