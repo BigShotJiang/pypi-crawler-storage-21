@@ -1,11 +1,11 @@
 {
   "name": "zview",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "ZView, a Zephyr RTOS runtime visualizer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zview-0.3.2.tar.gz",
-  "download_time": "2026-01-22T03:49:45.474521",
+  "download_filename": "zview-0.4.0.tar.gz",
+  "download_time": "2026-01-26T20:01:25.518587",
   "package_url": "https://pypi.org/project/zview/"
 }

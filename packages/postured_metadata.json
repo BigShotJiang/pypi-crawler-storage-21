@@ -1,11 +1,11 @@
 {
   "name": "postured",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A Linux app that dims your screen when you slouch",
   "author": "Vadim Peretokin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "postured-1.0.0.tar.gz",
-  "download_time": "2026-01-26T13:48:07.033168",
+  "download_filename": "postured-1.0.2.tar.gz",
+  "download_time": "2026-01-26T20:01:07.206956",
   "package_url": "https://pypi.org/project/postured/"
 }

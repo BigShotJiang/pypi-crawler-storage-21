@@ -1,0 +1,11 @@
+{
+  "name": "cuquantum",
+  "version": "26.1.0",
+  "summary": "NVIDIA cuQuantum SDK",
+  "author": "NVIDIA Corporation",
+  "license": "NVIDIA Proprietary Software",
+  "home_page": "https://developer.nvidia.com/cuquantum-sdk",
+  "download_filename": "cuquantum-26.1.0.tar.gz",
+  "download_time": "2026-01-26T20:01:09.384811",
+  "package_url": "https://pypi.org/project/cuquantum/"
+}

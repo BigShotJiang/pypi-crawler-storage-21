@@ -1,0 +1,11 @@
+{
+  "name": "pysysctllib",
+  "version": "0.0.1",
+  "summary": "Simple libary for control status of systemctl service",
+  "author": "hlnikniky",
+  "license": null,
+  "home_page": "https://github.com/Sesdear/Python-Systemctl-Libary",
+  "download_filename": "pysysctllib-0.0.1-py3-none-any.whl",
+  "download_time": "2026-01-26T20:01:07.718214",
+  "package_url": "https://pypi.org/project/pysysctllib/"
+}
