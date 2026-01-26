@@ -1,0 +1,11 @@
+{
+  "name": "xclient-python-sdk",
+  "version": "0.0.2",
+  "summary": "XClient Python SDK for XCloud Service API",
+  "author": "xclient",
+  "license": "MIT",
+  "home_page": "https://xclient.cloud/",
+  "download_filename": "xclient_python_sdk-0.0.2.tar.gz",
+  "download_time": "2026-01-26T10:31:42.156322",
+  "package_url": "https://pypi.org/project/xclient-python-sdk/"
+}

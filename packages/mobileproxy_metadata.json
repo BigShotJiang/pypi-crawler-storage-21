@@ -1,0 +1,11 @@
+{
+  "name": "mobileproxy",
+  "version": "1.0.4",
+  "summary": "Unofficial python library for working with mobileproxy.space",
+  "author": "abuztrade",
+  "license": "MIT License",
+  "home_page": "https://github.com/makarworld/mobileproxy.git",
+  "download_filename": "mobileproxy-1.0.4-py3-none-any.whl",
+  "download_time": "2026-01-26T10:31:32.488683",
+  "package_url": "https://pypi.org/project/mobileproxy/"
+}

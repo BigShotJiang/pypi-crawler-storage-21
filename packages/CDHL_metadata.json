@@ -1,0 +1,11 @@
+{
+  "name": "CDHL",
+  "version": "0.1.2",
+  "summary": "Automation tool that cleans up Downloads folder and places items in appropriate locations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cdhl-0.1.2.tar.gz",
+  "download_time": "2026-01-26T10:31:34.807648",
+  "package_url": "https://pypi.org/project/CDHL/"
+}

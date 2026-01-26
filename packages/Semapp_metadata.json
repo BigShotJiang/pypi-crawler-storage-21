@@ -1,11 +1,11 @@
 {
   "name": "Semapp",
-  "version": "1.0.16",
+  "version": "1.0.19",
   "summary": "Package for SEM visualization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "semapp-1.0.16.tar.gz",
-  "download_time": "2026-01-22T10:57:26.575238",
+  "download_filename": "semapp-1.0.19.tar.gz",
+  "download_time": "2026-01-26T10:31:43.876225",
   "package_url": "https://pypi.org/project/Semapp/"
 }

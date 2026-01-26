@@ -1,11 +1,11 @@
 {
   "name": "payelink-agent-search",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Python client for the Payelink Agent Search API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "payelink_agent_search-0.1.5.tar.gz",
-  "download_time": "2026-01-24T07:30:20.341737",
+  "download_filename": "payelink_agent_search-0.1.6.tar.gz",
+  "download_time": "2026-01-26T10:31:18.885989",
   "package_url": "https://pypi.org/project/payelink-agent-search/"
 }

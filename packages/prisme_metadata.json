@@ -1,11 +1,11 @@
 {
   "name": "prisme",
-  "version": "0.11.3",
+  "version": "0.11.5",
   "summary": "Code generation framework for full-stack applications from Pydantic models",
   "author": "Prism Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "prisme-0.11.3.tar.gz",
-  "download_time": "2026-01-26T09:52:00.177980",
+  "download_filename": "prisme-0.11.5.tar.gz",
+  "download_time": "2026-01-26T10:31:31.922499",
   "package_url": "https://pypi.org/project/prisme/"
 }
