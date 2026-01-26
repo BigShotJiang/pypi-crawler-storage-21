@@ -1,11 +1,11 @@
 {
   "name": "excel-to-sql",
-  "version": "0.2.0",
+  "version": "0.4.1",
   "summary": "CLI tool and Python SDK for importing Excel files to SQLite with advanced transformations and validation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "excel_to_sql-0.2.0.tar.gz",
-  "download_time": "2026-01-20T10:29:35.979640",
+  "download_filename": "excel_to_sql-0.4.1-py3-none-any.whl",
+  "download_time": "2026-01-26T11:57:49.170644",
   "package_url": "https://pypi.org/project/excel-to-sql/"
 }

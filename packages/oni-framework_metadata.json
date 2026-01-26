@@ -1,11 +1,11 @@
 {
   "name": "oni-framework",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Cₛ Core - Mathematical API for detection signatures and anomaly validation in brain-computer interfaces. Build security rules using coherence scoring (Cₛ) and scale-frequency invariant (f×S≈k) equations.",
   "author": "Kevin L. Qi",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "oni_framework-0.2.4.tar.gz",
-  "download_time": "2026-01-26T10:31:26.289411",
+  "download_filename": "oni_framework-0.2.5.tar.gz",
+  "download_time": "2026-01-26T11:57:59.183635",
   "package_url": "https://pypi.org/project/oni-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "acoustic-toolbox",
+  "version": "0.2.2",
+  "summary": "Acoustic Toolbox module for Python.",
+  "author": "Valentin LE BESCOND, Andrew Mitchell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acoustic_toolbox-0.2.2.tar.gz",
+  "download_time": "2026-01-26T11:58:13.881437",
+  "package_url": "https://pypi.org/project/acoustic-toolbox/"
+}

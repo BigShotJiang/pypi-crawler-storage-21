@@ -1,0 +1,11 @@
+{
+  "name": "biotmed-measurement-sdk",
+  "version": "2.3.40",
+  "summary": "BioT Measurement Service",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": null,
+  "download_filename": "biotmed_measurement_sdk-2.3.40.tar.gz",
+  "download_time": "2026-01-26T11:57:44.492593",
+  "package_url": "https://pypi.org/project/biotmed-measurement-sdk/"
+}
