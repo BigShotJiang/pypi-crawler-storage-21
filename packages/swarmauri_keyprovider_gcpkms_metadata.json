@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_keyprovider_gcpkms",
+  "version": "0.9.0.dev24",
+  "summary": "Google Cloud KMS Key Provider for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_keyprovider_gcpkms-0.9.0.dev24.tar.gz",
+  "download_time": "2026-01-27T23:27:21.011095",
+  "package_url": "https://pypi.org/project/swarmauri_keyprovider_gcpkms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tests_griffe",
+  "version": "0.1.1.dev17",
+  "summary": "Pytest plugin that turns Griffe inspection warnings into failing quality gates for Swarmauri packages.",
+  "author": "Jacob Stewart",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "swarmauri_tests_griffe-0.1.1.dev17.tar.gz",
+  "download_time": "2026-01-27T23:27:29.756464",
+  "package_url": "https://pypi.org/project/swarmauri_tests_griffe/"
+}

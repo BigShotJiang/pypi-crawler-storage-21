@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-sql-inspector",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server that enables AI to inspect SQL databases and analyze query performance.",
+  "author": "Tam Dao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_sql_inspector-0.1.1.tar.gz",
+  "download_time": "2026-01-27T23:27:14.550419",
+  "package_url": "https://pypi.org/project/mcp-server-sql-inspector/"
+}

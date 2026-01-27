@@ -1,0 +1,11 @@
+{
+  "name": "sciris",
+  "version": "3.2.5",
+  "summary": "Fast, flexible tools to simplify scientific Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sciris-3.2.5.tar.gz",
+  "download_time": "2026-01-27T23:27:26.122078",
+  "package_url": "https://pypi.org/project/sciris/"
+}
