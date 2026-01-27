@@ -1,11 +1,11 @@
 {
   "name": "cce",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "Confidence-Consistency Evaluation for Time Series Anomaly Detection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cce-0.2.6.tar.gz",
-  "download_time": "2026-01-27T06:40:19.772121",
+  "download_filename": "cce-0.3.0.tar.gz",
+  "download_time": "2026-01-27T07:46:33.911199",
   "package_url": "https://pypi.org/project/cce/"
 }

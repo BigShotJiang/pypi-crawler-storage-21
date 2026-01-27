@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_labeveryday_mcp_pdf_reader",
+  "version": "0.1.1",
+  "summary": "MCP server for reading PDFs with text extraction, image extraction, and OCR",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_labeveryday_mcp_pdf_reader-0.1.1.tar.gz",
+  "download_time": "2026-01-27T07:46:18.498679",
+  "package_url": "https://pypi.org/project/iflow-mcp_labeveryday_mcp_pdf_reader/"
+}

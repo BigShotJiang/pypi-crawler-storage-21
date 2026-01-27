@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-oauth20",
+  "version": "0.0.3",
+  "summary": "在 FastAPI 中异步授权 OAuth 2.0 客户端",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_oauth20-0.0.3.tar.gz",
+  "download_time": "2026-01-27T07:46:32.309637",
+  "package_url": "https://pypi.org/project/fastapi-oauth20/"
+}

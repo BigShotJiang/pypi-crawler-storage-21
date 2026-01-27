@@ -1,0 +1,11 @@
+{
+  "name": "PyPeridyno",
+  "version": "1.2.1",
+  "summary": "A python package for Peridyno",
+  "author": "unibeam",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://peridyno.com/",
+  "download_filename": "pyperidyno-1.2.1.tar.gz",
+  "download_time": "2026-01-27T07:46:40.948113",
+  "package_url": "https://pypi.org/project/PyPeridyno/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "askshell-ai",
+  "version": "0.1.0",
+  "summary": "用自然语言操控你的终端 - 让 AI 帮你生成并执行 Shell 命令",
+  "author": "fssqawj",
+  "license": "MIT",
+  "home_page": "https://github.com/fssqawj/ask-shell",
+  "download_filename": "askshell_ai-0.1.0.tar.gz",
+  "download_time": "2026-01-27T07:46:23.155572",
+  "package_url": "https://pypi.org/project/askshell-ai/"
+}

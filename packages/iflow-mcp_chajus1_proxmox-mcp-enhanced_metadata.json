@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_chajus1_proxmox-mcp-enhanced",
+  "version": "1.0.0",
+  "summary": "Comprehensive Proxmox VE management via Model Context Protocol with 115 specialized tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_chajus1_proxmox_mcp_enhanced-1.0.0.tar.gz",
+  "download_time": "2026-01-27T07:46:28.636401",
+  "package_url": "https://pypi.org/project/iflow-mcp_chajus1_proxmox-mcp-enhanced/"
+}

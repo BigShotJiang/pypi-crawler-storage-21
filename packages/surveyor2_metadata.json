@@ -1,0 +1,11 @@
+{
+  "name": "surveyor2",
+  "version": "0.3.0",
+  "summary": "Video quality evaluation toolkit with comprehensive metrics",
+  "author": "Moonmath AI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "surveyor2-0.3.0-py3-none-any.whl",
+  "download_time": "2026-01-27T07:46:05.178620",
+  "package_url": "https://pypi.org/project/surveyor2/"
+}

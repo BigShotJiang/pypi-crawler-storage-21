@@ -1,11 +1,11 @@
 {
   "name": "custom-llm-eval",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A comprehensive framework for evaluating Large Language Models with built-in support for bias, toxicity, relevancy metrics, custom evaluations, and conversational test cases",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "custom_llm_eval-0.1.1.tar.gz",
-  "download_time": "2026-01-24T07:44:38.619726",
+  "download_filename": "custom_llm_eval-0.1.2.tar.gz",
+  "download_time": "2026-01-27T07:46:06.779100",
   "package_url": "https://pypi.org/project/custom-llm-eval/"
 }

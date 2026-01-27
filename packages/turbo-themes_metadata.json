@@ -1,11 +1,11 @@
 {
   "name": "turbo-themes",
-  "version": "0.12.14",
+  "version": "0.12.15",
   "summary": "Universal design tokens and themes for Python applications",
   "author": "Turbo Coder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turbo_themes-0.12.14.tar.gz",
-  "download_time": "2026-01-26T12:55:52.518775",
+  "download_filename": "turbo_themes-0.12.15.tar.gz",
+  "download_time": "2026-01-27T07:46:31.277262",
   "package_url": "https://pypi.org/project/turbo-themes/"
 }
