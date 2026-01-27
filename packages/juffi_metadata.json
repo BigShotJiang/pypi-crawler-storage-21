@@ -1,0 +1,11 @@
+{
+  "name": "juffi",
+  "version": "0.4.2",
+  "summary": "A feature rich TUI JSON log file viewer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "juffi-0.4.2.tar.gz",
+  "download_time": "2026-01-27T09:51:46.572113",
+  "package_url": "https://pypi.org/project/juffi/"
+}

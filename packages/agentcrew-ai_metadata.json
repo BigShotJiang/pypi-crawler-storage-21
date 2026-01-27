@@ -1,11 +1,11 @@
 {
   "name": "agentcrew-ai",
-  "version": "0.8.13",
+  "version": "0.9.0",
   "summary": "Multi-Agents Interactive Chat Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentcrew_ai-0.8.13.tar.gz",
-  "download_time": "2026-01-22T10:29:49.750743",
+  "download_filename": "agentcrew_ai-0.9.0.tar.gz",
+  "download_time": "2026-01-27T09:51:26.789627",
   "package_url": "https://pypi.org/project/agentcrew-ai/"
 }

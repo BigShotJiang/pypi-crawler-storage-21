@@ -1,0 +1,11 @@
+{
+  "name": "security-mcp-server",
+  "version": "1.0.2",
+  "summary": "Security AI MCP Server - Advanced security testing and automation framework with 70+ tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "security_mcp_server-1.0.2.tar.gz",
+  "download_time": "2026-01-27T09:51:42.943062",
+  "package_url": "https://pypi.org/project/security-mcp-server/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-funding-insider-cc",
+  "version": "0.1.0",
+  "summary": "一个能够自动抓取微信公众号融资信息的 MCP 工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_funding_insider_cc-0.1.0.tar.gz",
+  "download_time": "2026-01-27T09:51:18.871518",
+  "package_url": "https://pypi.org/project/mcp-funding-insider-cc/"
+}

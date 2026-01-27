@@ -1,0 +1,11 @@
+{
+  "name": "jmeter-mcp-server",
+  "version": "2.0.1",
+  "summary": "Advanced MCP server for JMeter performance test analysis with 14 comprehensive tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jmeter_mcp_server-2.0.1.tar.gz",
+  "download_time": "2026-01-27T09:51:38.761691",
+  "package_url": "https://pypi.org/project/jmeter-mcp-server/"
+}

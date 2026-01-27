@@ -1,11 +1,11 @@
 {
   "name": "autocom",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "summary": "一款用于自动化执行串口指令的脚本，支持多设备、多指令的串行和并行执行",
   "author": "iFishin",
   "license": "MIT",
   "home_page": "https://github.com/iFishin/AutoCom",
-  "download_filename": "autocom-1.0.9.tar.gz",
-  "download_time": "2026-01-26T07:08:14.306727",
+  "download_filename": "autocom-1.0.11.tar.gz",
+  "download_time": "2026-01-27T09:51:43.998446",
   "package_url": "https://pypi.org/project/autocom/"
 }

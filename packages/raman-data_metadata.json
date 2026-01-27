@@ -1,0 +1,11 @@
+{
+  "name": "raman-data",
+  "version": "0.2.3",
+  "summary": "A unified Python package for accessing various Raman spectroscopy datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raman_data-0.2.3.tar.gz",
+  "download_time": "2026-01-27T09:51:31.086558",
+  "package_url": "https://pypi.org/project/raman-data/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "windows-use",
+  "version": "0.7.1",
+  "summary": "An AI Agent that interacts with Windows OS at GUI level.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "windows_use-0.7.1.tar.gz",
+  "download_time": "2026-01-27T09:51:33.256784",
+  "package_url": "https://pypi.org/project/windows-use/"
+}
