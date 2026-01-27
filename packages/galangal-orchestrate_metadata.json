@@ -1,11 +1,11 @@
 {
   "name": "galangal-orchestrate",
-  "version": "0.22.0",
+  "version": "0.22.2",
   "summary": "AI-driven development workflow orchestrator",
   "author": "Galangal Media",
   "license": null,
   "home_page": null,
-  "download_filename": "galangal_orchestrate-0.22.0.tar.gz",
-  "download_time": "2026-01-27T11:01:26.727265",
+  "download_filename": "galangal_orchestrate-0.22.2.tar.gz",
+  "download_time": "2026-01-27T11:32:57.136736",
   "package_url": "https://pypi.org/project/galangal-orchestrate/"
 }

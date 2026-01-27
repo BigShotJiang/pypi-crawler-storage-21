@@ -1,11 +1,11 @@
 {
   "name": "buke-pypi",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buke_pypi-3.2.0.tar.gz",
-  "download_time": "2026-01-25T14:22:55.542468",
+  "download_filename": "buke_pypi-3.2.1.tar.gz",
+  "download_time": "2026-01-27T11:32:33.437773",
   "package_url": "https://pypi.org/project/buke-pypi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stl2wrl",
+  "version": "1.0.0",
+  "summary": "A tool to convert STL files to VRML/WRL format",
+  "author": "Bradley Boccuzzi",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/stl2wrl",
+  "download_filename": "stl2wrl-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-27T11:32:35.480302",
+  "package_url": "https://pypi.org/project/stl2wrl/"
+}

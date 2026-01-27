@@ -1,11 +1,11 @@
 {
   "name": "anydi",
-  "version": "0.68.0",
+  "version": "0.69.0",
   "summary": "Dependency Injection library",
   "author": "Anton Ruhlov",
   "license": null,
   "home_page": null,
-  "download_filename": "anydi-0.68.0.tar.gz",
-  "download_time": "2026-01-22T19:06:01.681070",
+  "download_filename": "anydi-0.69.0.tar.gz",
+  "download_time": "2026-01-27T11:32:48.358942",
   "package_url": "https://pypi.org/project/anydi/"
 }

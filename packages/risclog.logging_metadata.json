@@ -1,0 +1,11 @@
+{
+  "name": "risclog.logging",
+  "version": "2.1.0",
+  "summary": "A logger based on structlog",
+  "author": "riscLOG Solution GmbH",
+  "license": "MIT license",
+  "home_page": "https://github.com/risclog-solution/risclog.logging",
+  "download_filename": "risclog_logging-2.1.0.tar.gz",
+  "download_time": "2026-01-27T11:32:32.418842",
+  "package_url": "https://pypi.org/project/risclog.logging/"
+}

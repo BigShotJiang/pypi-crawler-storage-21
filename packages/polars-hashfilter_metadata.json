@@ -1,0 +1,11 @@
+{
+  "name": "polars-hashfilter",
+  "version": "0.1.1",
+  "summary": "Polars plugin exposing PlHashSet for efficient filtering with persistent sets across LazyFrames",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polars_hashfilter-0.1.1.tar.gz",
+  "download_time": "2026-01-27T11:32:14.829213",
+  "package_url": "https://pypi.org/project/polars-hashfilter/"
+}

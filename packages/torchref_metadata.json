@@ -1,11 +1,11 @@
 {
   "name": "torchref",
-  "version": "0.3.0",
-  "summary": "Tools for multicopy refinement of crystallographic models",
+  "version": "0.3.2",
+  "summary": "Pytorch based crystallographic refinement",
   "author": "HansPeterSeidel",
   "license": null,
   "home_page": null,
-  "download_filename": "torchref-0.3.0.tar.gz",
-  "download_time": "2026-01-26T18:02:56.413154",
+  "download_filename": "torchref-0.3.2.tar.gz",
+  "download_time": "2026-01-27T11:32:56.091560",
   "package_url": "https://pypi.org/project/torchref/"
 }
