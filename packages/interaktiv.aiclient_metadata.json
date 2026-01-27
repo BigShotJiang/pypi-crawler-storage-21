@@ -1,0 +1,11 @@
+{
+  "name": "interaktiv.aiclient",
+  "version": "1.1.0",
+  "summary": "OpenRouter integration with Plone",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interaktiv_aiclient-1.1.0.tar.gz",
+  "download_time": "2026-01-27T11:01:21.595125",
+  "package_url": "https://pypi.org/project/interaktiv.aiclient/"
+}

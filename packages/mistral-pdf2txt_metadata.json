@@ -1,0 +1,11 @@
+{
+  "name": "mistral-pdf2txt",
+  "version": "1.0.0",
+  "summary": "一个精悍的 PDF OCR 处理 Python 包，使用 Mistral AI OCR API",
+  "author": "TRPG Agent Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pdf2txt",
+  "download_filename": "mistral_pdf2txt-1.0.0.tar.gz",
+  "download_time": "2026-01-27T11:00:52.468983",
+  "package_url": "https://pypi.org/project/mistral-pdf2txt/"
+}

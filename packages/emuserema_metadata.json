@@ -1,0 +1,11 @@
+{
+  "name": "emuserema",
+  "version": "0.2.6",
+  "summary": "EMUSEREMA Multiprotocol Session and Redirect Manager",
+  "author": "Endre Szabo",
+  "license": "GPLv2",
+  "home_page": "http://github.com/endreszabo/emuserema",
+  "download_filename": "emuserema-0.2.6-py3-none-any.whl",
+  "download_time": "2026-01-27T11:01:18.872036",
+  "package_url": "https://pypi.org/project/emuserema/"
+}

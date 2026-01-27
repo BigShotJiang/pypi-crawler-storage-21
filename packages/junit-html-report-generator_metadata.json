@@ -1,0 +1,11 @@
+{
+  "name": "junit-html-report-generator",
+  "version": "1.0.0",
+  "summary": "CLI tool and library to convert JUnit XML test results into human-readable HTML dashboards",
+  "author": "gorkalertxundi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "junit_html_report_generator-1.0.0.tar.gz",
+  "download_time": "2026-01-27T11:00:50.306066",
+  "package_url": "https://pypi.org/project/junit-html-report-generator/"
+}

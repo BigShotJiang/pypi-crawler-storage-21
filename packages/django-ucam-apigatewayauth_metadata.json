@@ -1,0 +1,11 @@
+{
+  "name": "django-ucam-apigatewayauth",
+  "version": "1.0.0",
+  "summary": "A Django module allow auth based on the headers passed from the API Gateway",
+  "author": "DevOps Division, University Information Services, University of Cambridge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_ucam_apigatewayauth-1.0.0.tar.gz",
+  "download_time": "2026-01-27T11:01:22.821892",
+  "package_url": "https://pypi.org/project/django-ucam-apigatewayauth/"
+}

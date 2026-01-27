@@ -1,0 +1,11 @@
+{
+  "name": "hack4u-sajimo",
+  "version": "0.5.1",
+  "summary": "Una biblioteca para consultar cursos de hack4u.",
+  "author": "Samuel Jiménez",
+  "license": null,
+  "home_page": "https://hack4u.io",
+  "download_filename": "hack4u_sajimo-0.5.1.tar.gz",
+  "download_time": "2026-01-27T11:01:12.915561",
+  "package_url": "https://pypi.org/project/hack4u-sajimo/"
+}

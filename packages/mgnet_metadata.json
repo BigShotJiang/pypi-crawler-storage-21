@@ -1,0 +1,11 @@
+{
+  "name": "mgnet",
+  "version": "0.1.1",
+  "summary": "Multigrid Neural Network implemented in PyTorch",
+  "author": "AKJ7",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mgnet-0.1.1.tar.gz",
+  "download_time": "2026-01-27T11:01:38.506315",
+  "package_url": "https://pypi.org/project/mgnet/"
+}

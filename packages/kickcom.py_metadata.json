@@ -1,0 +1,11 @@
+{
+  "name": "kickcom.py",
+  "version": "0.1.5",
+  "summary": "Async library for Kick.com API and webhooks",
+  "author": "PredaaA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kickcom_py-0.1.5.tar.gz",
+  "download_time": "2026-01-27T11:00:59.436048",
+  "package_url": "https://pypi.org/project/kickcom.py/"
+}

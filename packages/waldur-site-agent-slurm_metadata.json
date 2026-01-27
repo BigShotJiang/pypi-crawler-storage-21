@@ -1,0 +1,11 @@
+{
+  "name": "waldur-site-agent-slurm",
+  "version": "0.8.5",
+  "summary": "SLURM plugin for Waldur Site Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waldur_site_agent_slurm-0.8.5-py3-none-any.whl",
+  "download_time": "2026-01-27T11:00:55.660818",
+  "package_url": "https://pypi.org/project/waldur-site-agent-slurm/"
+}
