@@ -1,0 +1,11 @@
+{
+  "name": "trelent-data-ingestion",
+  "version": "0.1.6",
+  "summary": "Python SDK for the Trelent Data Ingestion API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trelent_data_ingestion-0.1.6.tar.gz",
+  "download_time": "2026-01-27T01:59:09.668961",
+  "package_url": "https://pypi.org/project/trelent-data-ingestion/"
+}

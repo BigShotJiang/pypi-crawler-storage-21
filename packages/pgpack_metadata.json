@@ -1,0 +1,11 @@
+{
+  "name": "pgpack",
+  "version": "0.3.2.3",
+  "summary": "PGCopy dump packed into LZ4, ZSTD or uncompressed with meta data information packed into zlib.",
+  "author": "0xMihalich",
+  "license": null,
+  "home_page": "https://0xmihalich.github.io/dbhose_airflow/base_modules/pgpack/index.html",
+  "download_filename": "pgpack-0.3.2.3-py3-none-any.whl",
+  "download_time": "2026-01-27T01:59:35.300708",
+  "package_url": "https://pypi.org/project/pgpack/"
+}

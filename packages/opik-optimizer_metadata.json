@@ -1,11 +1,11 @@
 {
   "name": "opik-optimizer",
-  "version": "2.3.11",
+  "version": "3.0.0",
   "summary": "Agent optimization with Opik",
   "author": "Comet ML",
   "license": "Apache 2.0",
   "home_page": "https://github.com/comet-ml/opik",
-  "download_filename": "opik_optimizer-2.3.11.tar.gz",
-  "download_time": "2026-01-20T22:28:13.372437",
+  "download_filename": "opik_optimizer-3.0.0.tar.gz",
+  "download_time": "2026-01-27T01:59:17.338824",
   "package_url": "https://pypi.org/project/opik-optimizer/"
 }

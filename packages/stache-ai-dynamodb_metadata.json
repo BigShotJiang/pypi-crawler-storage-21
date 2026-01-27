@@ -1,0 +1,11 @@
+{
+  "name": "stache-ai-dynamodb",
+  "version": "0.1.3",
+  "summary": "Dynamodb provider for Stache AI",
+  "author": "Stache Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stache_ai_dynamodb-0.1.3.tar.gz",
+  "download_time": "2026-01-27T01:59:23.661471",
+  "package_url": "https://pypi.org/project/stache-ai-dynamodb/"
+}

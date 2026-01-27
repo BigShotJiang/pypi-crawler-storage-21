@@ -1,0 +1,11 @@
+{
+  "name": "triad",
+  "version": "1.0.0",
+  "summary": "A collection of python utils for Fugue projects",
+  "author": "The Fugue Development Team",
+  "license": "Apache-2.0",
+  "home_page": "http://github.com/fugue-project/triad",
+  "download_filename": "triad-1.0.0.tar.gz",
+  "download_time": "2026-01-27T01:59:02.821918",
+  "package_url": "https://pypi.org/project/triad/"
+}

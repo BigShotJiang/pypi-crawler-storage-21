@@ -1,11 +1,11 @@
 {
   "name": "kompos",
-  "version": "0.7.0",
+  "version": "0.7.3",
   "summary": "Kompos - k8s cloud automation",
   "author": "Adobe",
   "license": "Apache2",
   "home_page": "https://github.com/adobe/kompos",
-  "download_filename": "kompos-0.7.0.tar.gz",
-  "download_time": "2026-01-26T21:01:19.062484",
+  "download_filename": "kompos-0.7.3.tar.gz",
+  "download_time": "2026-01-27T01:59:29.539708",
   "package_url": "https://pypi.org/project/kompos/"
 }

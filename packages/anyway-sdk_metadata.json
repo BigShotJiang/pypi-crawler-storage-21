@@ -1,0 +1,11 @@
+{
+  "name": "anyway-sdk",
+  "version": "0.0.6",
+  "summary": "Anyway Software Development Kit (SDK) for Python",
+  "author": "Anyway",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/anyway-platform/anyway-tracing",
+  "download_filename": "anyway_sdk-0.0.6.tar.gz",
+  "download_time": "2026-01-27T01:58:44.677022",
+  "package_url": "https://pypi.org/project/anyway-sdk/"
+}
