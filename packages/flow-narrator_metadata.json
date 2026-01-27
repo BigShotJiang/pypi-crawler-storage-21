@@ -1,0 +1,11 @@
+{
+  "name": "flow-narrator",
+  "version": "0.1.1",
+  "summary": "Generate natural sentences describing network flows",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "flow_narrator-0.1.1.tar.gz",
+  "download_time": "2026-01-27T21:22:31.656345",
+  "package_url": "https://pypi.org/project/flow-narrator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kopf",
-  "version": "1.41.0",
+  "version": "1.41.1",
   "summary": "Kubernetes Operator Pythonic Framework (Kopf)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kopf-1.41.0.tar.gz",
-  "download_time": "2026-01-26T15:34:35.069980",
+  "download_filename": "kopf-1.41.1.tar.gz",
+  "download_time": "2026-01-27T21:22:56.788662",
   "package_url": "https://pypi.org/project/kopf/"
 }

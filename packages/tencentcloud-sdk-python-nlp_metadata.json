@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-nlp",
+  "version": "3.1.39",
+  "summary": "Tencent Cloud Nlp SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud_sdk_python_nlp-3.1.39.tar.gz",
+  "download_time": "2026-01-27T21:22:43.974261",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-nlp/"
+}

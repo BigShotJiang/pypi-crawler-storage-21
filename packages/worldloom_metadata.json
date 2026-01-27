@@ -1,0 +1,11 @@
+{
+  "name": "worldloom",
+  "version": "0.1.0",
+  "summary": "Unified Python interface for world models in reinforcement learning",
+  "author": "WorldLoom Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "worldloom-0.1.0.tar.gz",
+  "download_time": "2026-01-27T21:22:14.646925",
+  "package_url": "https://pypi.org/project/worldloom/"
+}

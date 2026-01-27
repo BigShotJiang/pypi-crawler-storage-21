@@ -1,0 +1,11 @@
+{
+  "name": "doc-extraction",
+  "version": "2.5.0",
+  "summary": "Multi-format document extraction library for EPUB, PDF, HTML, Markdown, and JSON documents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doc_extraction-2.5.0.tar.gz",
+  "download_time": "2026-01-27T21:22:55.648188",
+  "package_url": "https://pypi.org/project/doc-extraction/"
+}

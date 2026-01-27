@@ -1,0 +1,11 @@
+{
+  "name": "ag2-agentos",
+  "version": "0.0.0a22",
+  "summary": "CLI tool for AG2 agent development with A2A protocol support",
+  "author": "John Marshall, Sam Bretz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ag2_agentos-0.0.0a22.tar.gz",
+  "download_time": "2026-01-27T21:22:57.360275",
+  "package_url": "https://pypi.org/project/ag2-agentos/"
+}

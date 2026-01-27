@@ -1,0 +1,11 @@
+{
+  "name": "qutePandas",
+  "version": "1.1.3",
+  "summary": "A pandas-like library for kdb+/q using pykx",
+  "author": "Isha Patro",
+  "license": null,
+  "home_page": "https://ishapatro.github.io/qutePandas/",
+  "download_filename": "qutepandas-1.1.3.tar.gz",
+  "download_time": "2026-01-27T21:22:30.091958",
+  "package_url": "https://pypi.org/project/qutePandas/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyfadetop",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": "Feiyang472",
   "license": null,
   "home_page": null,
-  "download_filename": "pyfadetop-0.2.0.tar.gz",
-  "download_time": "2026-01-27T20:30:23.954797",
+  "download_filename": "pyfadetop-0.2.1.tar.gz",
+  "download_time": "2026-01-27T21:22:37.569704",
   "package_url": "https://pypi.org/project/pyfadetop/"
 }
