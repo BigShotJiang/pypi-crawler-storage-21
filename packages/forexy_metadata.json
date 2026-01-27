@@ -1,0 +1,11 @@
+{
+  "name": "forexy",
+  "version": "2026.1.26",
+  "summary": "EXFOR utility codes",
+  "author": "Naohiko Otsuka",
+  "license": "MIT",
+  "home_page": "https://nds.iaea.org/nrdc/",
+  "download_filename": "forexy-2026.1.26.tar.gz",
+  "download_time": "2026-01-27T13:54:23.186035",
+  "package_url": "https://pypi.org/project/forexy/"
+}

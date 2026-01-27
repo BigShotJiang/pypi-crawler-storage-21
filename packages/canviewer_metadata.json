@@ -1,0 +1,11 @@
+{
+  "name": "canviewer",
+  "version": "1.6.0",
+  "summary": "A CLI tool providing rich monitoring of CAN data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "canviewer-1.6.0.tar.gz",
+  "download_time": "2026-01-27T13:53:52.421252",
+  "package_url": "https://pypi.org/project/canviewer/"
+}

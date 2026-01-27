@@ -1,11 +1,11 @@
 {
   "name": "cognite-databricks",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Helper SDK for Databricks UDTF registration and Unity Catalog integration",
   "author": "Cognite",
   "license": null,
   "home_page": null,
-  "download_filename": "cognite_databricks-0.2.0.tar.gz",
-  "download_time": "2026-01-22T10:57:26.037385",
+  "download_filename": "cognite_databricks-0.2.2.tar.gz",
+  "download_time": "2026-01-27T13:53:53.064503",
   "package_url": "https://pypi.org/project/cognite-databricks/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "author-disambiguation",
-  "version": "2.3.0",
-  "summary": "AI-powered author disambiguation agent for finding OpenAlex author IDs",
+  "version": "2.4.3",
+  "summary": "AI-powered author disambiguation and works search agents for OpenAlex",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "author_disambiguation-2.3.0.tar.gz",
-  "download_time": "2026-01-23T11:31:10.973878",
+  "download_filename": "author_disambiguation-2.4.3.tar.gz",
+  "download_time": "2026-01-27T13:54:11.011541",
   "package_url": "https://pypi.org/project/author-disambiguation/"
 }

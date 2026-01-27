@@ -1,11 +1,11 @@
 {
   "name": "mdify-cli",
-  "version": "1.6.0",
+  "version": "2.0.0",
   "summary": "Convert PDFs and document images into structured Markdown for LLM workflows",
   "author": "tiroq",
   "license": null,
   "home_page": null,
-  "download_filename": "mdify_cli-1.6.0.tar.gz",
-  "download_time": "2026-01-27T08:42:25.296524",
+  "download_filename": "mdify_cli-2.0.0.tar.gz",
+  "download_time": "2026-01-27T13:53:42.361079",
   "package_url": "https://pypi.org/project/mdify-cli/"
 }

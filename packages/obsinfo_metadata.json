@@ -1,0 +1,11 @@
+{
+  "name": "obsinfo",
+  "version": "1.0.2",
+  "summary": "Tools for documenting ocean bottom seismometer experiments and creating metadata",
+  "author": "Wayne Crawford",
+  "license": null,
+  "home_page": "https://gitlab.com/resif/smm/obsinfo",
+  "download_filename": "obsinfo-1.0.2.tar.gz",
+  "download_time": "2026-01-27T13:54:09.721427",
+  "package_url": "https://pypi.org/project/obsinfo/"
+}

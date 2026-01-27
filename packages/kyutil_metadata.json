@@ -1,11 +1,11 @@
 {
   "name": "kyutil",
-  "version": "0.3.9",
+  "version": "0.3.14",
   "summary": "Python utils for kylin python application",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kyutil-0.3.9.tar.gz",
-  "download_time": "2026-01-21T09:56:28.815309",
+  "download_filename": "kyutil-0.3.14.tar.gz",
+  "download_time": "2026-01-27T13:54:25.712356",
   "package_url": "https://pypi.org/project/kyutil/"
 }

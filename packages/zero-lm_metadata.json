@@ -1,11 +1,11 @@
 {
   "name": "zero-lm",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "Memory-efficient LLM inference with unlimited context, mobile optimization, and advanced quantization",
   "author": "ZERO Team",
   "license": "MIT",
   "home_page": "https://github.com/zero-team/zero",
-  "download_filename": "zero_lm-0.1.1.tar.gz",
-  "download_time": "2026-01-27T11:51:54.112491",
+  "download_filename": "zero_lm-0.1.7.tar.gz",
+  "download_time": "2026-01-27T13:53:40.278467",
   "package_url": "https://pypi.org/project/zero-lm/"
 }

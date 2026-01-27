@@ -1,0 +1,11 @@
+{
+  "name": "pathao",
+  "version": "0.1.3",
+  "summary": "Python SDK for Pathao Courier Merchant API",
+  "author": "Md Mojno Miya",
+  "license": "MIT",
+  "home_page": "https://github.com/mojnomiya/pathao-python",
+  "download_filename": "pathao-0.1.3.tar.gz",
+  "download_time": "2026-01-27T13:53:44.295160",
+  "package_url": "https://pypi.org/project/pathao/"
+}

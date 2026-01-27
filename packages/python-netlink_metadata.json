@@ -1,0 +1,11 @@
+{
+  "name": "python-netlink",
+  "version": "0.0.12",
+  "summary": "Asynchronous netlink library for Python",
+  "author": "Yannik Marchand",
+  "license": "GPLv3",
+  "home_page": "https://github.com/kinnay/netlink",
+  "download_filename": "python_netlink-0.0.12.tar.gz",
+  "download_time": "2026-01-27T13:53:47.381202",
+  "package_url": "https://pypi.org/project/python-netlink/"
+}

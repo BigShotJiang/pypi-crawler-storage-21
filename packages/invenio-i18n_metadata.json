@@ -1,0 +1,11 @@
+{
+  "name": "invenio-i18n",
+  "version": "3.5.0",
+  "summary": "Invenio internationalization (I18N) module.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-i18n",
+  "download_filename": "invenio_i18n-3.5.0.tar.gz",
+  "download_time": "2026-01-27T13:54:08.812758",
+  "package_url": "https://pypi.org/project/invenio-i18n/"
+}

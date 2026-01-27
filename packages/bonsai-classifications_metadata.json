@@ -1,0 +1,11 @@
+{
+  "name": "bonsai-classifications",
+  "version": "0.5.0",
+  "summary": "\"Python package classifications of the util workflow stage of the BONSAI database\"",
+  "author": "admin_bonsai",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/bonsamurais/bonsai/util/classifications",
+  "download_filename": "bonsai_classifications-0.5.0.tar.gz",
+  "download_time": "2026-01-27T13:53:38.987082",
+  "package_url": "https://pypi.org/project/bonsai-classifications/"
+}
