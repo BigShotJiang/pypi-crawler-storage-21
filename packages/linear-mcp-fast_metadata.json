@@ -1,11 +1,11 @@
 {
   "name": "linear-mcp-fast",
-  "version": "0.2.6",
+  "version": "0.3.1",
   "summary": "Fast MCP server for Linear - reads from Linear.app's local cache on macOS",
   "author": "everything-chalna",
   "license": null,
   "home_page": null,
-  "download_filename": "linear_mcp_fast-0.2.6.tar.gz",
-  "download_time": "2026-01-25T07:53:57.613897",
+  "download_filename": "linear_mcp_fast-0.3.1.tar.gz",
+  "download_time": "2026-01-27T06:40:23.870084",
   "package_url": "https://pypi.org/project/linear-mcp-fast/"
 }

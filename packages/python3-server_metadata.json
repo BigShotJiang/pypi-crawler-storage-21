@@ -1,0 +1,11 @@
+{
+  "name": "python3-server",
+  "version": "0.1.6",
+  "summary": "used to get or do something on self which is serer for example linux or windwos or other os.",
+  "author": "redrose2100",
+  "license": "MIT",
+  "home_page": "https://gitee.com/devops_dev/server",
+  "download_filename": "python3_server-0.1.6.tar.gz",
+  "download_time": "2026-01-27T06:40:34.791350",
+  "package_url": "https://pypi.org/project/python3-server/"
+}

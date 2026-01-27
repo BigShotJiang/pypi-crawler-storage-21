@@ -1,0 +1,11 @@
+{
+  "name": "redshift-connector",
+  "version": "2.1.11",
+  "summary": "Redshift interface library",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws/amazon-redshift-python-driver",
+  "download_filename": "redshift_connector-2.1.11-py3-none-any.whl",
+  "download_time": "2026-01-27T06:40:38.376854",
+  "package_url": "https://pypi.org/project/redshift-connector/"
+}

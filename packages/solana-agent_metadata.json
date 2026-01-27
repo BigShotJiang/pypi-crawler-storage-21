@@ -1,0 +1,11 @@
+{
+  "name": "solana-agent",
+  "version": "33.2.1",
+  "summary": "AI Agents for Solana",
+  "author": "Bevan Hunt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "solana_agent-33.2.1.tar.gz",
+  "download_time": "2026-01-27T06:40:39.917233",
+  "package_url": "https://pypi.org/project/solana-agent/"
+}
