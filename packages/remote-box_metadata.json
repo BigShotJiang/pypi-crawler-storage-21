@@ -1,0 +1,11 @@
+{
+  "name": "remote-box",
+  "version": "0.1.2",
+  "summary": "Type-safe remote Python function execution framework with multiple backend support",
+  "author": "Jason Steving",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "remote_box-0.1.2.tar.gz",
+  "download_time": "2026-01-27T21:58:43.307675",
+  "package_url": "https://pypi.org/project/remote-box/"
+}

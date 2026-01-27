@@ -1,0 +1,11 @@
+{
+  "name": "polars-mas",
+  "version": "0.4.0",
+  "summary": "polars-mas - a fast multiple association library for python backed by polars",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_mas-0.4.0.tar.gz",
+  "download_time": "2026-01-27T21:58:36.860498",
+  "package_url": "https://pypi.org/project/polars-mas/"
+}

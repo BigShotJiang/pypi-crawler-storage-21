@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-docs-llm",
+  "version": "0.1.0",
+  "summary": "A markdown converter for Django's admin docs to make it LLM friendly.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_admin_docs_llm-0.1.0.tar.gz",
+  "download_time": "2026-01-27T21:58:37.925517",
+  "package_url": "https://pypi.org/project/django-admin-docs-llm/"
+}

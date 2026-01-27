@@ -1,0 +1,11 @@
+{
+  "name": "universal-ads-sdk",
+  "version": "1.2.0",
+  "summary": "Python SDK for the Universal Ads Third Party API",
+  "author": "Universal Ads",
+  "license": "MIT",
+  "home_page": "https://github.com/Universal-Ads/universal-ads-sdk-python",
+  "download_filename": "universal_ads_sdk-1.2.0.tar.gz",
+  "download_time": "2026-01-27T21:58:40.092538",
+  "package_url": "https://pypi.org/project/universal-ads-sdk/"
+}
