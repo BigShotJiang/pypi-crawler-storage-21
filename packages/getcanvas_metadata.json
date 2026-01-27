@@ -1,0 +1,11 @@
+{
+  "name": "getcanvas",
+  "version": "1.0.0",
+  "summary": "Download Canvas LMS courses, convert PPTX to PDF, and generate AI summaries",
+  "author": "Alvaro Menendez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "getcanvas-1.0.0.tar.gz",
+  "download_time": "2026-01-27T20:51:32.465610",
+  "package_url": "https://pypi.org/project/getcanvas/"
+}

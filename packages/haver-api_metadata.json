@@ -1,0 +1,11 @@
+{
+  "name": "haver-api",
+  "version": "0.8.0",
+  "summary": "A Python wrapper to Haver Analytics' RESTful API.",
+  "author": "Luca Mingarelli",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": "https://github.com/LucaMingarelli/haver",
+  "download_filename": "haver_api-0.8.0.tar.gz",
+  "download_time": "2026-01-27T20:50:54.877340",
+  "package_url": "https://pypi.org/project/haver-api/"
+}

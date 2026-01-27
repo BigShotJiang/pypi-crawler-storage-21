@@ -1,0 +1,11 @@
+{
+  "name": "evoproc-procedures",
+  "version": "1.2.0",
+  "summary": "Domain procedures, schemas, prompts, runners, and backends for EvoProc",
+  "author": "Malia Barker",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evoproc_procedures-1.2.0.tar.gz",
+  "download_time": "2026-01-27T20:51:33.520513",
+  "package_url": "https://pypi.org/project/evoproc-procedures/"
+}

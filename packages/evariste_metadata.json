@@ -1,0 +1,11 @@
+{
+  "name": "evariste",
+  "version": "1.4.1",
+  "summary": "Publish annoted and compiled directory tree.",
+  "author": "Louis Paternault",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "http://framagit.org/spalax/evariste",
+  "download_filename": "evariste-1.4.1.tar.gz",
+  "download_time": "2026-01-27T20:50:53.252909",
+  "package_url": "https://pypi.org/project/evariste/"
+}

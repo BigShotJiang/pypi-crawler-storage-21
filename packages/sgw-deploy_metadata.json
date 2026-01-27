@@ -1,0 +1,11 @@
+{
+  "name": "sgw-deploy",
+  "version": "0.0.1",
+  "summary": "Defensive package registration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sgw_deploy-0.0.1.tar.gz",
+  "download_time": "2026-01-27T20:51:39.876323",
+  "package_url": "https://pypi.org/project/sgw-deploy/"
+}

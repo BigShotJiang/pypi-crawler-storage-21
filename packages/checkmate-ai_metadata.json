@@ -1,0 +1,11 @@
+{
+  "name": "checkmate-ai",
+  "version": "1.0.2",
+  "summary": "AI Code Security Scanner with Human-in-the-Loop Feedback",
+  "author": "Farhan Saleem",
+  "license": "MIT",
+  "home_page": "https://github.com/farhann-saleem/UCS-Hackathon-26",
+  "download_filename": "checkmate_ai-1.0.2.tar.gz",
+  "download_time": "2026-01-27T20:51:01.724052",
+  "package_url": "https://pypi.org/project/checkmate-ai/"
+}

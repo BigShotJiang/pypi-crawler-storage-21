@@ -1,0 +1,11 @@
+{
+  "name": "isbnlib2",
+  "version": "3.11.0b0",
+  "summary": "Extract, clean, transform, hyphenate and metadata for ISBNs (International Standard Book Number).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isbnlib2-3.11.0b0.tar.gz",
+  "download_time": "2026-01-27T20:51:27.593273",
+  "package_url": "https://pypi.org/project/isbnlib2/"
+}

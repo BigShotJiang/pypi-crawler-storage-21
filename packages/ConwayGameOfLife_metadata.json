@@ -1,0 +1,11 @@
+{
+  "name": "ConwayGameOfLife",
+  "version": "0.0.5",
+  "summary": "Conway's Game of Life with extra events.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conwaygameoflife-0.0.5.tar.gz",
+  "download_time": "2026-01-27T20:50:58.557227",
+  "package_url": "https://pypi.org/project/ConwayGameOfLife/"
+}

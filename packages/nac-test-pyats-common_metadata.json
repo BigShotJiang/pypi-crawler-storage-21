@@ -1,0 +1,11 @@
+{
+  "name": "nac-test-pyats-common",
+  "version": "0.2.0",
+  "summary": "Architecture adapters for Network as Code (NaC) PyATS testing - auth classes, test base classes, and device resolvers",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "nac_test_pyats_common-0.2.0.tar.gz",
+  "download_time": "2026-01-27T20:51:24.432271",
+  "package_url": "https://pypi.org/project/nac-test-pyats-common/"
+}
