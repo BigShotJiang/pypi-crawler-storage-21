@@ -1,11 +1,11 @@
 {
   "name": "qBitrr2",
-  "version": "5.8.3",
+  "version": "5.8.4",
   "summary": "Intelligent automation for qBittorrent and *Arr apps (Radarr/Sonarr/Lidarr) - health monitoring, instant imports, quality upgrades, request integration",
   "author": "Feramance",
   "license": "MIT",
   "home_page": "https://github.com/Feramance/qBitrr",
-  "download_filename": "qbitrr2-5.8.3.tar.gz",
-  "download_time": "2026-01-27T16:04:03.929354",
+  "download_filename": "qbitrr2-5.8.4.tar.gz",
+  "download_time": "2026-01-27T16:56:37.540540",
   "package_url": "https://pypi.org/project/qBitrr2/"
 }

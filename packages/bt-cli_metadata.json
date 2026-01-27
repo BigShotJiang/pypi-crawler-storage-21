@@ -1,11 +1,11 @@
 {
   "name": "bt-cli",
-  "version": "0.4.14",
+  "version": "0.4.17",
   "summary": "BeyondTrust Platform CLI (unofficial) - Password Safe, Entitle, PRA, EPM",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bt_cli-0.4.14.tar.gz",
-  "download_time": "2026-01-27T05:31:27.850453",
+  "download_filename": "bt_cli-0.4.17.tar.gz",
+  "download_time": "2026-01-27T16:56:10.476855",
   "package_url": "https://pypi.org/project/bt-cli/"
 }

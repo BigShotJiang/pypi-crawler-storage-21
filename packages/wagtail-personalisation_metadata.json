@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-personalisation",
+  "version": "0.16.0",
+  "summary": "A Wagtail add-on for showing personalized content",
+  "author": "Lab Digital BV and others",
+  "license": "MIT",
+  "home_page": "https://labdigital.nl/",
+  "download_filename": "wagtail_personalisation-0.16.0.tar.gz",
+  "download_time": "2026-01-27T16:56:12.565673",
+  "package_url": "https://pypi.org/project/wagtail-personalisation/"
+}

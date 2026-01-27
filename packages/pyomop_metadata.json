@@ -1,0 +1,11 @@
+{
+  "name": "pyomop",
+  "version": "6.3.1",
+  "summary": "OMOP CDM utils in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyomop-6.3.1.tar.gz",
+  "download_time": "2026-01-27T16:56:26.760763",
+  "package_url": "https://pypi.org/project/pyomop/"
+}

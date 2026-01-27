@@ -1,0 +1,11 @@
+{
+  "name": "zen-fronts",
+  "version": "1.0.5",
+  "summary": "Async Multi Objective Hyperparameter PBT (fast-cython, parameterless)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zen_fronts-1.0.5.tar.gz",
+  "download_time": "2026-01-27T16:56:27.919909",
+  "package_url": "https://pypi.org/project/zen-fronts/"
+}

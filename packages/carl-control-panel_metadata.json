@@ -1,11 +1,11 @@
 {
   "name": "carl-control-panel",
-  "version": "1.0.11",
+  "version": "1.0.18",
   "summary": "Context Augmentation & Reinforcement Layer - Desktop control panel for Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "carl_control_panel-1.0.11.tar.gz",
-  "download_time": "2026-01-27T16:03:44.510815",
+  "download_filename": "carl_control_panel-1.0.18.tar.gz",
+  "download_time": "2026-01-27T16:56:20.952053",
   "package_url": "https://pypi.org/project/carl-control-panel/"
 }
