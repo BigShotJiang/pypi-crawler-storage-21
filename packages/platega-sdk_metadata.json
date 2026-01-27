@@ -1,0 +1,11 @@
+{
+  "name": "platega-sdk",
+  "version": "0.1.1",
+  "summary": "Асинхронный Python SDK для Platega Payment API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "platega_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-27T15:08:05.244291",
+  "package_url": "https://pypi.org/project/platega-sdk/"
+}

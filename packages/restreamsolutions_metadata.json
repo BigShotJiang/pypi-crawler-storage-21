@@ -1,0 +1,11 @@
+{
+  "name": "restreamsolutions",
+  "version": "0.3.1",
+  "summary": "ReStream Datastore SDK",
+  "author": "Riley Seaman",
+  "license": null,
+  "home_page": "https://restreamsolutions.com/",
+  "download_filename": "restreamsolutions-0.3.1-py3-none-any.whl",
+  "download_time": "2026-01-27T15:07:51.579403",
+  "package_url": "https://pypi.org/project/restreamsolutions/"
+}

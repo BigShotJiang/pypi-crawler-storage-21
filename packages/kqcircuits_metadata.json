@@ -1,11 +1,11 @@
 {
   "name": "kqcircuits",
-  "version": "4.9.8",
+  "version": "4.9.9",
   "summary": "KQCircuits is a KLayout/Python-based superconducting quantum circuit library developed by IQM.",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "kqcircuits-4.9.8.tar.gz",
-  "download_time": "2026-01-21T09:56:11.403897",
+  "download_filename": "kqcircuits-4.9.9.tar.gz",
+  "download_time": "2026-01-27T15:07:32.421171",
   "package_url": "https://pypi.org/project/kqcircuits/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-domainchief",
+  "version": "1.0.0",
+  "summary": "Domain Chief DNS Authenticator plugin for Certbot",
+  "author": "Chief Tools",
+  "license": "MIT",
+  "home_page": "https://github.com/chieftools/certbot-dns-domainchief",
+  "download_filename": "certbot_dns_domainchief-1.0.0.tar.gz",
+  "download_time": "2026-01-27T15:08:12.683722",
+  "package_url": "https://pypi.org/project/certbot-dns-domainchief/"
+}

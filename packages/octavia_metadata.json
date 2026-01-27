@@ -1,0 +1,11 @@
+{
+  "name": "octavia",
+  "version": "17.0.0",
+  "summary": "OpenStack Octavia Scalable Load Balancer as a Service",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/octavia/latest/",
+  "download_filename": "octavia-17.0.0.tar.gz",
+  "download_time": "2026-01-27T15:08:12.163729",
+  "package_url": "https://pypi.org/project/octavia/"
+}

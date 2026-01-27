@@ -1,0 +1,11 @@
+{
+  "name": "openeo-gfmap",
+  "version": "0.4.8",
+  "summary": "OpenEO General Framework for Mapping",
+  "author": "Darius Couchard, Vincent Verelst, Kristof Van Tricht, Stefaan Lippens, Jeroen Degerickx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openeo_gfmap-0.4.8-py3-none-any.whl",
+  "download_time": "2026-01-27T15:07:27.694643",
+  "package_url": "https://pypi.org/project/openeo-gfmap/"
+}

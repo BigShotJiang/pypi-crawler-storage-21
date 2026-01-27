@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-error-handling",
+  "version": "0.1.1",
+  "summary": "Human-readable verbose error messages for Pydantic validation errors",
+  "author": "Scott Phillips",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_error_handling-0.1.1.tar.gz",
+  "download_time": "2026-01-27T15:08:04.723835",
+  "package_url": "https://pypi.org/project/pydantic-error-handling/"
+}

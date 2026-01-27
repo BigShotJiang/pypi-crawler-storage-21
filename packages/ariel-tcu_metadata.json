@@ -1,0 +1,11 @@
+{
+  "name": "ariel-tcu",
+  "version": "0.17.4",
+  "summary": "Telescope Control Unit (TCU) for Ariel",
+  "author": "IVS KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ariel_tcu-0.17.4.tar.gz",
+  "download_time": "2026-01-27T15:08:02.119622",
+  "package_url": "https://pypi.org/project/ariel-tcu/"
+}

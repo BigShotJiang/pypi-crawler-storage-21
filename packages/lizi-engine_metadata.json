@@ -1,11 +1,11 @@
 {
   "name": "lizi-engine",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "LiziEngine",
   "author": "是雫雫酱呦",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lizi_engine-0.1.13.tar.gz",
-  "download_time": "2026-01-23T05:47:05.494300",
+  "download_filename": "lizi_engine-0.1.14.tar.gz",
+  "download_time": "2026-01-27T15:07:35.075024",
   "package_url": "https://pypi.org/project/lizi-engine/"
 }
