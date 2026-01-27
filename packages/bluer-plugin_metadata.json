@@ -1,0 +1,11 @@
+{
+  "name": "bluer-plugin",
+  "version": "4.66.1",
+  "summary": "🌀 a git template for a bluer-ai plugin.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/bluer-plugin",
+  "download_filename": "bluer_plugin-4.66.1.tar.gz",
+  "download_time": "2026-01-27T12:56:53.017320",
+  "package_url": "https://pypi.org/project/bluer-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atomic-lru",
+  "version": "0.0.6",
+  "summary": "Thread-safe, dependency-free in-memory LRU storage library for Python 3.10+ (with optional TTL)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atomic_lru-0.0.6.tar.gz",
+  "download_time": "2026-01-27T12:56:29.863196",
+  "package_url": "https://pypi.org/project/atomic-lru/"
+}

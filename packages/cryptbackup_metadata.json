@@ -1,11 +1,11 @@
 {
   "name": "cryptbackup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Système de backup incrémental avec chiffrement AES-256",
   "author": "Steven Dev",
   "license": null,
   "home_page": "https://github.com/stevendev/cryptbackup",
-  "download_filename": "cryptbackup-1.0.0.tar.gz",
-  "download_time": "2026-01-23T19:05:49.140935",
+  "download_filename": "cryptbackup-1.0.1.tar.gz",
+  "download_time": "2026-01-27T12:56:40.893879",
   "package_url": "https://pypi.org/project/cryptbackup/"
 }

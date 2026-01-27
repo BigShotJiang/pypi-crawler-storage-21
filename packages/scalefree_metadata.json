@@ -1,11 +1,11 @@
 {
   "name": "scalefree",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "Scale-free DF velocity moments and VP calculations with a Fortran backend.",
   "author": "Eduardo Vitral",
   "license": "MIT",
   "home_page": "https://gitlab.com/eduardo-vitral/scalefree",
-  "download_filename": "scalefree-0.1.9.tar.gz",
-  "download_time": "2026-01-26T13:48:17.236866",
+  "download_filename": "scalefree-0.2.1.tar.gz",
+  "download_time": "2026-01-27T12:57:12.901725",
   "package_url": "https://pypi.org/project/scalefree/"
 }

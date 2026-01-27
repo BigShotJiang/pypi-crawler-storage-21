@@ -1,0 +1,11 @@
+{
+  "name": "pyioh2",
+  "version": "1.0",
+  "summary": "Input output modeling for hydrogen",
+  "author": "Julian Reul",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyioh2-1.0.tar.gz",
+  "download_time": "2026-01-27T12:56:36.223392",
+  "package_url": "https://pypi.org/project/pyioh2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bluer-south",
+  "version": "4.127.1",
+  "summary": "🌀 AI for Global South: Free from Big Tech.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/bluer-south",
+  "download_filename": "bluer_south-4.127.1.tar.gz",
+  "download_time": "2026-01-27T12:56:52.497876",
+  "package_url": "https://pypi.org/project/bluer-south/"
+}

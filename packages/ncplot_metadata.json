@@ -1,0 +1,11 @@
+{
+  "name": "ncplot",
+  "version": "0.3.13",
+  "summary": "Interactive viewing of NetCDF data",
+  "author": "Robert Wilson",
+  "license": null,
+  "home_page": "https://github.com/pmlmodelling/ncplot",
+  "download_filename": "ncplot-0.3.13.tar.gz",
+  "download_time": "2026-01-27T12:56:42.452369",
+  "package_url": "https://pypi.org/project/ncplot/"
+}

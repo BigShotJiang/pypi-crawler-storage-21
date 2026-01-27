@@ -1,11 +1,11 @@
 {
   "name": "refua",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Unified drug discovery ML toolkit",
   "author": "JJ Ben-Joseph",
   "license": null,
-  "home_page": "https://tensorspace.ai/",
-  "download_filename": "refua-0.1.0.tar.gz",
-  "download_time": "2026-01-20T17:06:03.190753",
+  "home_page": null,
+  "download_filename": "refua-0.4.0.tar.gz",
+  "download_time": "2026-01-27T12:57:06.648880",
   "package_url": "https://pypi.org/project/refua/"
 }

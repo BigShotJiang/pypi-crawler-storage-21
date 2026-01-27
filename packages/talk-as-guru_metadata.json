@@ -1,0 +1,11 @@
+{
+  "name": "talk-as-guru",
+  "version": "0.1.0",
+  "summary": "CLI utility for analyzing CLAUDE.md files and generating structured prompts for Claude Code",
+  "author": "Grigorii Zhovtun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "talk_as_guru-0.1.0.tar.gz",
+  "download_time": "2026-01-27T12:56:41.932563",
+  "package_url": "https://pypi.org/project/talk-as-guru/"
+}

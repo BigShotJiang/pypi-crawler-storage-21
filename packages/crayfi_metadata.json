@@ -1,0 +1,11 @@
+{
+  "name": "crayfi",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Cray Finance APIs",
+  "author": "Cray Finance",
+  "license": "MIT",
+  "home_page": "https://github.com/noibilism/crayfi-py",
+  "download_filename": "crayfi-1.0.0.tar.gz",
+  "download_time": "2026-01-27T12:56:38.821830",
+  "package_url": "https://pypi.org/project/crayfi/"
+}

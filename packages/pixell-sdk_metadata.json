@@ -1,11 +1,11 @@
 {
   "name": "pixell-sdk",
-  "version": "0.4.27",
+  "version": "0.4.28",
   "summary": "A lightweight developer kit for packaging AI agents into portable APKG files",
   "author": "Pixell Core Team",
   "license": null,
   "home_page": "https://github.com/pixell-global/pixell-kit",
-  "download_filename": "pixell_sdk-0.4.27.tar.gz",
-  "download_time": "2026-01-26T06:41:42.129121",
+  "download_filename": "pixell_sdk-0.4.28.tar.gz",
+  "download_time": "2026-01-27T12:57:02.470029",
   "package_url": "https://pypi.org/project/pixell-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "psi-pshell",
+  "version": "2.1.0",
+  "summary": "Python client to PShell REST API",
+  "author": "Paul Scherrer Institute",
+  "license": "GPLv3",
+  "home_page": "https://github.com/paulscherrerinstitute/pshell/tree/master/python",
+  "download_filename": "psi_pshell-2.1.0-py2.py3-none-any.whl",
+  "download_time": "2026-01-27T12:57:03.512315",
+  "package_url": "https://pypi.org/project/psi-pshell/"
+}
