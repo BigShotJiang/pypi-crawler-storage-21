@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em-emantomo",
+  "version": "3.4.1",
+  "summary": "Plugin to use emantomo within the Scipion framework",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_em_emantomo-3.4.1.tar.gz",
+  "download_time": "2026-01-27T18:44:37.217460",
+  "package_url": "https://pypi.org/project/scipion-em-emantomo/"
+}

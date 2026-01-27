@@ -1,11 +1,11 @@
 {
   "name": "ltq",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Add your description here",
   "author": "Tom Clesius",
   "license": null,
   "home_page": null,
-  "download_filename": "ltq-0.1.2.tar.gz",
-  "download_time": "2026-01-25T23:24:23.817005",
+  "download_filename": "ltq-0.2.0.tar.gz",
+  "download_time": "2026-01-27T18:45:02.225997",
   "package_url": "https://pypi.org/project/ltq/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "industrial-scada-alarm-parser",
+  "version": "1.0.0",
+  "summary": "A multi-database alarm log parser for industrial SCADA systems with XML rule support",
+  "author": "Industrial SCADA Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/industrial-scada-alarm-parser",
+  "download_filename": "industrial_scada_alarm_parser-1.0.0.tar.gz",
+  "download_time": "2026-01-27T18:44:59.677302",
+  "package_url": "https://pypi.org/project/industrial-scada-alarm-parser/"
+}

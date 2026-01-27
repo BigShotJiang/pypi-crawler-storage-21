@@ -1,0 +1,11 @@
+{
+  "name": "yandex-cloud-ml-sdk",
+  "version": "0.19.1",
+  "summary": "Multimodal SDK for working with Yandex Cloud ML services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yandex_cloud_ml_sdk-0.19.1.tar.gz",
+  "download_time": "2026-01-27T18:45:11.234854",
+  "package_url": "https://pypi.org/project/yandex-cloud-ml-sdk/"
+}
