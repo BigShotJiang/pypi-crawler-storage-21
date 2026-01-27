@@ -1,0 +1,11 @@
+{
+  "name": "stylizing-vit",
+  "version": "1.0.0",
+  "summary": "Official PyTorch implementation of the paper 'Stylizing ViT: Anatomy-Preserving Instance Style Transfer for Domain Generalization'.",
+  "author": "Sebastian Doerrich",
+  "license": null,
+  "home_page": "https://github.com/sdoerrich97/stylizing-vit",
+  "download_filename": "stylizing_vit-1.0.0.tar.gz",
+  "download_time": "2026-01-27T15:48:48.541712",
+  "package_url": "https://pypi.org/project/stylizing-vit/"
+}

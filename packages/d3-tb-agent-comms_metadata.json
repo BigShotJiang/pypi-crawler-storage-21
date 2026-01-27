@@ -1,0 +1,11 @@
+{
+  "name": "d3-tb-agent-comms",
+  "version": "0.2.11",
+  "summary": "Lib that holds a Class for easily interacting with TB-Agent Endpoints",
+  "author": "Oscar Mitchell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "d3_tb_agent_comms-0.2.11.tar.gz",
+  "download_time": "2026-01-27T15:48:15.050591",
+  "package_url": "https://pypi.org/project/d3-tb-agent-comms/"
+}

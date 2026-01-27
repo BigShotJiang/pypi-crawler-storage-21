@@ -1,11 +1,11 @@
 {
   "name": "x-ipe",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "X-IPE: AI-powered development framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "x_ipe-1.0.6-py3-none-any.whl",
-  "download_time": "2026-01-26T17:34:11.729407",
+  "download_filename": "x_ipe-1.0.8-py3-none-any.whl",
+  "download_time": "2026-01-27T15:49:04.277707",
   "package_url": "https://pypi.org/project/x-ipe/"
 }

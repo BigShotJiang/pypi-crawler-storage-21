@@ -1,0 +1,11 @@
+{
+  "name": "gcloud2-wrap",
+  "version": "1.0.0",
+  "summary": "A wrapper for executing commands with Google Cloud CLI authentication and project management",
+  "author": "Ravish",
+  "license": "MIT",
+  "home_page": "https://github.com/ravishtiwari/gcloud2-wrap",
+  "download_filename": "gcloud2_wrap-1.0.0.tar.gz",
+  "download_time": "2026-01-27T15:48:16.723588",
+  "package_url": "https://pypi.org/project/gcloud2-wrap/"
+}

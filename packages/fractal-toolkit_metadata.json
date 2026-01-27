@@ -1,11 +1,11 @@
 {
   "name": "fractal-toolkit",
-  "version": "6.3.0",
+  "version": "6.3.2",
   "summary": "Fractal is a scaffolding toolkit for building SOLID logic for your Python applications.",
   "author": "Douwe van der Meij",
   "license": null,
   "home_page": "https://github.com/douwevandermeij/fractal",
-  "download_filename": "fractal_toolkit-6.3.0.tar.gz",
-  "download_time": "2026-01-27T13:54:26.365577",
+  "download_filename": "fractal_toolkit-6.3.2.tar.gz",
+  "download_time": "2026-01-27T15:48:50.714698",
   "package_url": "https://pypi.org/project/fractal-toolkit/"
 }

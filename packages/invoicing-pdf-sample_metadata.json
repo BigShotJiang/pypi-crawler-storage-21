@@ -1,0 +1,11 @@
+{
+  "name": "invoicing-pdf-sample",
+  "version": "1.0.1",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "Marios Hasa",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "invoicing_pdf_sample-1.0.1.tar.gz",
+  "download_time": "2026-01-27T15:48:22.183326",
+  "package_url": "https://pypi.org/project/invoicing-pdf-sample/"
+}

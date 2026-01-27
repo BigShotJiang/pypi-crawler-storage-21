@@ -1,0 +1,11 @@
+{
+  "name": "color-ls",
+  "version": "3.0.4",
+  "summary": "Pure Python implementation of subset of ls command with colors and icons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "color_ls-3.0.4.tar.gz",
+  "download_time": "2026-01-27T15:48:17.273488",
+  "package_url": "https://pypi.org/project/color-ls/"
+}

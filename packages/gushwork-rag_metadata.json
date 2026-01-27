@@ -1,11 +1,11 @@
 {
   "name": "gushwork-rag",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Python SDK for the Gushwork Retrieval-Augmented Generation (RAG) API",
   "author": "Gushwork",
   "license": "MIT",
   "home_page": "https://github.com/gushwork/gw-rag",
-  "download_filename": "gushwork_rag-0.2.0.tar.gz",
-  "download_time": "2026-01-21T11:02:53.038167",
+  "download_filename": "gushwork_rag-0.2.2.tar.gz",
+  "download_time": "2026-01-27T15:48:45.890955",
   "package_url": "https://pypi.org/project/gushwork-rag/"
 }

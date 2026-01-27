@@ -1,0 +1,11 @@
+{
+  "name": "creaap",
+  "version": "0.1.16",
+  "summary": "CREA Applications in Python toolkit. A bundle of tools to speed up the deelopment of new Python applications in Azure. Allows you to abstract a little over persistence and to manage spatial data.",
+  "author": "CREA",
+  "license": null,
+  "home_page": "https://dev.azure.com/dariodenart/_git/CREA%20Application%20Python%20toolkit",
+  "download_filename": "creaap-0.1.16.tar.gz",
+  "download_time": "2026-01-27T15:49:02.069890",
+  "package_url": "https://pypi.org/project/creaap/"
+}

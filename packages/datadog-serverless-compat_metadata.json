@@ -1,11 +1,11 @@
 {
   "name": "datadog-serverless-compat",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Datadog Serverless Compatibility Layer for Python",
   "author": "Datadog, Inc.",
   "license": "Apache-2.0",
   "home_page": "https://github.com/DataDog/datadog-serverless-compat-py",
-  "download_filename": "datadog_serverless_compat-0.9.0.tar.gz",
-  "download_time": "2026-01-20T18:39:26.898070",
+  "download_filename": "datadog_serverless_compat-0.10.0.tar.gz",
+  "download_time": "2026-01-27T15:49:06.941452",
   "package_url": "https://pypi.org/project/datadog-serverless-compat/"
 }
