@@ -1,0 +1,11 @@
+{
+  "name": "raster2dggs",
+  "version": "0.7.2",
+  "summary": null,
+  "author": "James Ardo",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/manaakiwhenua/raster2dggs",
+  "download_filename": "raster2dggs-0.7.2.tar.gz",
+  "download_time": "2026-01-27T03:52:53.416643",
+  "package_url": "https://pypi.org/project/raster2dggs/"
+}

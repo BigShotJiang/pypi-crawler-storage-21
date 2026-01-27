@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-pos-restaurant-receipt-usability",
-  "version": "16.0.1.0.0.2",
+  "version": "16.0.1.0.0.4",
   "summary": "Improve receipt screen in the PoS Restaurant front office",
   "author": "GRAP,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/pos",
-  "download_filename": "odoo_addon_pos_restaurant_receipt_usability-16.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2026-01-24T22:46:55.084449",
+  "download_filename": "odoo_addon_pos_restaurant_receipt_usability-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-27T03:52:55.079939",
   "package_url": "https://pypi.org/project/odoo-addon-pos-restaurant-receipt-usability/"
 }

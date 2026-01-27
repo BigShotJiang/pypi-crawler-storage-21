@@ -1,11 +1,11 @@
 {
   "name": "odoo-addons-oca-multi-company",
-  "version": "18.0.20260105.0",
+  "version": "19.0.20260126.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_addons_oca_multi_company-18.0.20260105.0-py3-none-any.whl",
-  "download_time": "2026-01-25T04:10:00.648463",
+  "download_filename": "odoo_addons_oca_multi_company-19.0.20260126.0-py3-none-any.whl",
+  "download_time": "2026-01-27T03:53:11.686734",
   "package_url": "https://pypi.org/project/odoo-addons-oca-multi-company/"
 }

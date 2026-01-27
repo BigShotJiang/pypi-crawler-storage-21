@@ -1,0 +1,11 @@
+{
+  "name": "jijmodeling",
+  "version": "1.14.1",
+  "summary": "Mathematical modeling tool for optimization problem",
+  "author": "Jij Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jijmodeling-1.14.1-cp38-abi3-macosx_10_16_x86_64.whl",
+  "download_time": "2026-01-27T03:52:37.239109",
+  "package_url": "https://pypi.org/project/jijmodeling/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pubmed-search-mcp",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "MCP server for PubMed literature search with MeSH, PICO, and intelligent query expansion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pubmed_search_mcp-0.2.2.tar.gz",
-  "download_time": "2026-01-26T10:31:19.457214",
+  "download_filename": "pubmed_search_mcp-0.2.5.tar.gz",
+  "download_time": "2026-01-27T03:52:36.336070",
   "package_url": "https://pypi.org/project/pubmed-search-mcp/"
 }

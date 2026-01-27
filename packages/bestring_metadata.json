@@ -1,11 +1,11 @@
 {
   "name": "bestring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "More things to do with strings",
   "author": "kanderusss",
   "license": null,
   "home_page": null,
-  "download_filename": "bestring-1.0.0.tar.gz",
-  "download_time": "2026-01-26T05:07:26.935725",
+  "download_filename": "bestring-1.0.1.tar.gz",
+  "download_time": "2026-01-27T03:52:35.197302",
   "package_url": "https://pypi.org/project/bestring/"
 }

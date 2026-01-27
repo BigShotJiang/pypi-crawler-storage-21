@@ -1,0 +1,11 @@
+{
+  "name": "djangoql",
+  "version": "0.19.1",
+  "summary": "DjangoQL: Advanced search language for Django",
+  "author": "Denis Stebunov",
+  "license": "MIT License",
+  "home_page": "https://github.com/ivelum/djangoql/",
+  "download_filename": "djangoql-0.19.1.tar.gz",
+  "download_time": "2026-01-27T03:52:42.575027",
+  "package_url": "https://pypi.org/project/djangoql/"
+}

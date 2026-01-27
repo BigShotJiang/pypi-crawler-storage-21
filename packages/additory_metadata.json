@@ -1,11 +1,11 @@
 {
   "name": "additory",
-  "version": "0.1.0a2",
-  "summary": "A semantic, extensible dataframe transformation engine with expressions, lookup, synthetic data, and sample-data support.",
+  "version": "0.1.0a3",
+  "summary": "A semantic, extensible dataframe transformation engine with expressions, lookup, and synthetic data generation support.",
   "author": "Krishnamoorthy Sankaran",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "additory-0.1.0a2.tar.gz",
-  "download_time": "2026-01-25T12:46:29.136294",
+  "download_filename": "additory-0.1.0a3.tar.gz",
+  "download_time": "2026-01-27T03:53:07.818376",
   "package_url": "https://pypi.org/project/additory/"
 }

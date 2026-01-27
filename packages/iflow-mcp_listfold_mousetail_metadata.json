@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_listfold_mousetail",
+  "version": "0.1.5",
+  "summary": "Standalone MCP server that enables LLMs like Claude to interact with Anki flashcard collections using Anki's Python library",
+  "author": "Iain Maitland",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_listfold_mousetail-0.1.5.tar.gz",
+  "download_time": "2026-01-27T03:53:19.228464",
+  "package_url": "https://pypi.org/project/iflow-mcp_listfold_mousetail/"
+}

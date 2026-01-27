@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-base-company-legal-info",
-  "version": "16.0.1.0.0.2",
+  "version": "16.0.1.0.0.4",
   "summary": "Adds Legal informations on company model",
   "author": "Akretion,GRAP,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/multi-company",
-  "download_filename": "odoo_addon_base_company_legal_info-16.0.1.0.0.2-py3-none-any.whl",
-  "download_time": "2026-01-24T14:45:52.858253",
+  "download_filename": "odoo_addon_base_company_legal_info-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-27T03:53:11.138979",
   "package_url": "https://pypi.org/project/odoo-addon-base-company-legal-info/"
 }
