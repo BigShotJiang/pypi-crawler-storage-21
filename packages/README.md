@@ -1,13 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-27T06:40:55.912163
-- **Total Packages**: 77
-- **Total Size**: 43.83 MB
+- **Download Time**: 2026-01-27T07:09:06.915381
+- **Total Packages**: 89
+- **Total Size**: 11.27 MB
 
 ## Packages List
-- build-cub
+- tzxh-ai-factory-train-metric-log
+- tabullate
+- synpi
+- eval-protocol
+- geometrix
+- ezmsg-sigproc
+- yaralyzer
+- yunyou-py-tester
+- holmesgpt
+- agentmail-toolkit
 - wisent
+- hdsp-jupyter-extension
+- yunbei-client-sdk-python
+- nexus-ocean
+- panen-tweet
+- metaflow-kubeflow
+- visualization-toolkit
+- jarp
+- cpbv-mcp-server
+- use-sqs
+- tencent-wedata-feature-engineering
+- zpace
+- sinhala-mcp
+- langchain-dev-utils
+- maxpro
+- jmeter-mcp
+- python-zalo-bot
+- stt-prompt
+- lautaro
+- dragon-ml-toolbox
+- tensor-ipc-cyclonedds
+- pylxpweb
+- yunagent
+- drills-pro-proto
+- chael
+- blesk
+- ai-query
+- qubodock
+- apexbase
+- datajunction
+- yun-bei-client-sdk
+- datajunction-reflection
+- datajunction-server
+- gpustack-runner
+- nvhtop-tui
+- yugouhui-project
+- build-cub
 - yuda
 - django-resonant-utils
 - azure-mgmt-compute
@@ -16,11 +61,9 @@
 - cobalt-sdk
 - yptools
 - cce
-- panen-tweet
 - youku-notification
 - youku-lyrebird-android
 - thetable-poc
-- chael
 - xiutilities
 - linear-mcp-fast
 - pytest-neon
@@ -52,34 +95,3 @@
 - redshift-connector
 - linksdk
 - python3-ssh
-- solana-agent
-- matrice-analytics
-- rb-commons
-- vulnscan
-- fake-bpy-module
-- fake-bpy-module-latest
-- civyk-repoix
-- tablestore
-- vease-modeling-back
-- pierre-storage
-- cdk8s-awscdk-resolver
-- flowstate-sdk
-- pegghy-back
-- vease-back
-- hk-cdp
-- nutri-matic
-- pixelcorest
-- gllm-datastore-binary
-- wafer-cli
-- tollgate
-- intelliw
-- OpenGeodeWeb-Viewer
-- OpenGeodeWeb-Back
-- tairos-data-convert
-- wafer-core
-- wafer-lsp
-- synapse-sdk
-- cosmoGW
-- bookshelf-manager
-- tensorrt-llm
-- iflow-mcp_barvhaim_remy-mcp

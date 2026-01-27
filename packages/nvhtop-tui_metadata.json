@@ -1,0 +1,11 @@
+{
+  "name": "nvhtop-tui",
+  "version": "0.1.1",
+  "summary": "A htop-like utility for NVIDIA GPUs implemented in Python using Textual and pynvml",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nvhtop_tui-0.1.1.tar.gz",
+  "download_time": "2026-01-27T07:08:40.597352",
+  "package_url": "https://pypi.org/project/nvhtop-tui/"
+}

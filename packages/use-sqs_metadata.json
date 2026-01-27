@@ -1,0 +1,11 @@
+{
+  "name": "use-sqs",
+  "version": "0.1.1",
+  "summary": "A library for using AWS SQS and SNS",
+  "author": "miclon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "use_sqs-0.1.1.tar.gz",
+  "download_time": "2026-01-27T07:08:24.488893",
+  "package_url": "https://pypi.org/project/use-sqs/"
+}

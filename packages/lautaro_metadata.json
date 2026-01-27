@@ -1,0 +1,11 @@
+{
+  "name": "lautaro",
+  "version": "0.5.1",
+  "summary": "Una biblioteca para consultar cursos de hack4u",
+  "author": "Lautaro Ramirez",
+  "license": null,
+  "home_page": "https://hack4u.io",
+  "download_filename": "lautaro-0.5.1.tar.gz",
+  "download_time": "2026-01-27T07:08:30.250669",
+  "package_url": "https://pypi.org/project/lautaro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cpbv-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP Server for querying enterprise performance benchmark values (企业绩效标准值查询服务)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cpbv_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-01-27T07:08:23.907214",
+  "package_url": "https://pypi.org/project/cpbv-mcp-server/"
+}

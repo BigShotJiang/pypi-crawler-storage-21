@@ -1,11 +1,11 @@
 {
   "name": "linksdk",
-  "version": "0.0.1a117",
+  "version": "0.0.1a119",
   "summary": "A Python-based API interface for controlling and communicating with WiiM audio devices.",
   "author": "Linkplay",
   "license": "MIT",
   "home_page": "https://github.com/Linkplay2020/wiim",
-  "download_filename": "linksdk-0.0.1a117.tar.gz",
-  "download_time": "2026-01-27T06:40:38.890061",
+  "download_filename": "linksdk-0.0.1a119.tar.gz",
+  "download_time": "2026-01-27T07:09:05.842979",
   "package_url": "https://pypi.org/project/linksdk/"
 }

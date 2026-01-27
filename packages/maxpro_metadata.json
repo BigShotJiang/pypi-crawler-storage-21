@@ -1,0 +1,11 @@
+{
+  "name": "maxpro",
+  "version": "0.1.0",
+  "summary": "Maximum Projection and Maximin Latin Hypercube Design creation and optimization",
+  "author": "Matthew Heffernan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maxpro-0.1.0.tar.gz",
+  "download_time": "2026-01-27T07:08:27.659961",
+  "package_url": "https://pypi.org/project/maxpro/"
+}

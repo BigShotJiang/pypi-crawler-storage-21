@@ -1,0 +1,11 @@
+{
+  "name": "nexus-ocean",
+  "version": "3.0.0",
+  "summary": "Quantum Intelligence Architecture for Deep-Sea Monitoring",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/gitdeeper1/nexus-ocean",
+  "download_filename": "nexus_ocean-3.0.0.tar.gz",
+  "download_time": "2026-01-27T07:08:20.672731",
+  "package_url": "https://pypi.org/project/nexus-ocean/"
+}

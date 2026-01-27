@@ -1,11 +1,11 @@
 {
   "name": "synpi",
-  "version": "1.21.26",
+  "version": "1.1.1",
   "summary": "A neural network library",
   "author": null,
   "license": "MIT License\r\n        \r\n        Copyright (c) 2026 Isaiah Garrison\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy...\r\n        ",
   "home_page": null,
-  "download_filename": "synpi-1.21.26.tar.gz",
-  "download_time": "2026-01-22T05:30:31.109460",
+  "download_filename": "synpi-1.1.1.tar.gz",
+  "download_time": "2026-01-27T07:08:13.022140",
   "package_url": "https://pypi.org/project/synpi/"
 }

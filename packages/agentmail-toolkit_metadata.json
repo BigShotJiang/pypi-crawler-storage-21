@@ -1,11 +1,11 @@
 {
   "name": "agentmail-toolkit",
-  "version": "0.2.0",
+  "version": "0.2.5",
   "summary": "AgentMail Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentmail_toolkit-0.2.0.tar.gz",
-  "download_time": "2026-01-21T22:27:35.511642",
+  "download_filename": "agentmail_toolkit-0.2.5.tar.gz",
+  "download_time": "2026-01-27T07:08:17.762425",
   "package_url": "https://pypi.org/project/agentmail-toolkit/"
 }

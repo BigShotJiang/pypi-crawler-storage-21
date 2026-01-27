@@ -1,0 +1,11 @@
+{
+  "name": "blesk",
+  "version": "0.1.0",
+  "summary": "Controls a standing desk using BLE",
+  "author": "Daniel Hall",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "blesk-0.1.0.tar.gz",
+  "download_time": "2026-01-27T07:08:34.795507",
+  "package_url": "https://pypi.org/project/blesk/"
+}
