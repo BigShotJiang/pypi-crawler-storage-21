@@ -1,11 +1,11 @@
 {
   "name": "roar-cli",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "Reproducibility and provenance tracker for ML training pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "roar_cli-0.1.16.tar.gz",
-  "download_time": "2026-01-27T17:31:48.037564",
+  "download_filename": "roar_cli-0.1.17.tar.gz",
+  "download_time": "2026-01-27T17:58:36.211779",
   "package_url": "https://pypi.org/project/roar-cli/"
 }

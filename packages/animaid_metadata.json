@@ -1,0 +1,11 @@
+{
+  "name": "animaid",
+  "version": "0.3.0",
+  "summary": "A GUI toolkit for animating Python data structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "animaid-0.3.0.tar.gz",
+  "download_time": "2026-01-27T17:58:12.745216",
+  "package_url": "https://pypi.org/project/animaid/"
+}

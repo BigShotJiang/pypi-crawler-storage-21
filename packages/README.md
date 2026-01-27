@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-27T17:32:30.909908
+- **Download Time**: 2026-01-27T17:59:05.712638
 - **Total Packages**: 94
-- **Total Size**: 46.77 MB
+- **Total Size**: 6.89 MB
 
 ## Packages List
+- fsm-crawl
+- bt-cli
+- robot-xbox-joystick
+- bl-odoo
+- animaid
+- scalefree
+- rumdl
+- repo-seo
+- hipython
+- flywheel-bootstrap
+- bids-validator-deno
+- ProbabilisticDiffusion
+- taegis-magic
+- virtui-manager
+- omnibase_spi
+- odigos-opentelemetry-python
+- ibeatles
+- azure-storage-file-share
+- sfam-ADR
+- isagellm-benchmark
+- kiri-ocr
+- moldenViz
+- isagellm-compression
+- betfair-parser
+- jupyterlab-vscode-icons-extension
+- isagellm-comm
+- xrtm-data
 - vc6
 - toolweaver
 - brkraw
@@ -13,7 +40,6 @@
 - scipion-em-tomo
 - breesy
 - cocoindex
-- repo-seo
 - checku
 - ai-query
 - pulumi-xyz
@@ -25,7 +51,6 @@
 - isagellm-protocol
 - lightning-sdk
 - tradier-api-client
-- hipython
 - cybrid-api-organization-python
 - generate-fastapi-typed-routes
 - kostyl-toolkit
@@ -75,28 +100,3 @@
 - videosdk-plugins-aws
 - videosdk-plugins-assemblyai
 - videosdk-plugins-anthropic
-- mkv-episode-matcher
-- QuizGenerator
-- videosdk-agents
-- apollo-mcp
-- opentf-toolkit-nightly
-- zero-lm
-- cnpj-processor
-- sentdm
-- comfyui-workflow-templates
-- robot-xbox-joystick
-- models-dev
-- comfyui-workflow-templates-core
-- genvm-linter
-- libfec
-- accelerator-commissioning
-- dkist-processing-test
-- birdapp
-- NeuralEngine
-- opencode-agent-hub
-- netbox-cvexplorer
-- making-with-code-cli
-- vmlinux-to-elf
-- databento-dbn
-- silkworm-rs
-- odoo-runbot

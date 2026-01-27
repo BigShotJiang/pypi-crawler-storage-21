@@ -1,0 +1,11 @@
+{
+  "name": "sfam-ADR",
+  "version": "1.2.7",
+  "summary": "A neuro-symbolic, privacy-preserving biometric authentication engine.",
+  "author": "lumine8",
+  "license": null,
+  "home_page": "https://github.com/Lumine8/SFAM",
+  "download_filename": "sfam_adr-1.2.7.tar.gz",
+  "download_time": "2026-01-27T17:58:21.395333",
+  "package_url": "https://pypi.org/project/sfam-ADR/"
+}

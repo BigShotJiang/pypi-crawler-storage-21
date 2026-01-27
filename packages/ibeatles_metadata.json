@@ -1,0 +1,11 @@
+{
+  "name": "ibeatles",
+  "version": "1.2.1",
+  "summary": "Bragg edge strain mapping",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ibeatles-1.2.1.tar.gz",
+  "download_time": "2026-01-27T17:58:20.255464",
+  "package_url": "https://pypi.org/project/ibeatles/"
+}

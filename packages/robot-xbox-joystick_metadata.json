@@ -1,11 +1,11 @@
 {
   "name": "robot-xbox-joystick",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Library for basic xbox joystick controllers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robot_xbox_joystick-0.0.8.tar.gz",
-  "download_time": "2026-01-27T17:32:22.508581",
+  "download_filename": "robot_xbox_joystick-0.0.9.tar.gz",
+  "download_time": "2026-01-27T17:58:11.537438",
   "package_url": "https://pypi.org/project/robot-xbox-joystick/"
 }

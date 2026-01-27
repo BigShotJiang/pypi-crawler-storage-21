@@ -1,11 +1,11 @@
 {
   "name": "repo-seo",
-  "version": "0.7.0",
+  "version": "0.7.4",
   "summary": "AI-powered GitHub repository SEO optimization using X Algorithm's recommendation pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "repo_seo-0.7.0.tar.gz",
-  "download_time": "2026-01-27T17:31:43.697993",
+  "download_filename": "repo_seo-0.7.4.tar.gz",
+  "download_time": "2026-01-27T17:58:14.734524",
   "package_url": "https://pypi.org/project/repo-seo/"
 }
