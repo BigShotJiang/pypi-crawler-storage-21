@@ -1,0 +1,11 @@
+{
+  "name": "pm4ngs",
+  "version": "0.1.3",
+  "summary": "PM4NGS generates a standard organizational structure for Next Generation Sequencing (ngs) data analysis",
+  "author": "Vera Alvarez, Roberto",
+  "license": "Public Domain",
+  "home_page": null,
+  "download_filename": "pm4ngs-0.1.3.tar.gz",
+  "download_time": "2026-01-27T19:54:18.143514",
+  "package_url": "https://pypi.org/project/pm4ngs/"
+}

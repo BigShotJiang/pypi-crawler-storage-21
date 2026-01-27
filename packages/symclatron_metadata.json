@@ -1,11 +1,11 @@
 {
   "name": "symclatron",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "summary": "symclatron: symbiont classifier",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "symclatron-0.9.6.tar.gz",
-  "download_time": "2026-01-27T19:23:55.051784",
+  "download_filename": "symclatron-0.9.7.tar.gz",
+  "download_time": "2026-01-27T19:54:15.195039",
   "package_url": "https://pypi.org/project/symclatron/"
 }

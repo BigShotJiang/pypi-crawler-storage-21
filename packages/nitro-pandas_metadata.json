@@ -1,0 +1,11 @@
+{
+  "name": "nitro-pandas",
+  "version": "0.1.5",
+  "summary": "A pandas-like API wrapper around Polars for high-performance data manipulation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nitro_pandas-0.1.5.tar.gz",
+  "download_time": "2026-01-27T19:54:05.855148",
+  "package_url": "https://pypi.org/project/nitro-pandas/"
+}

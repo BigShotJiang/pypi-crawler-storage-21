@@ -1,0 +1,11 @@
+{
+  "name": "open-parl",
+  "version": "0.1.0",
+  "summary": "PARL (Parallel-Agent Reinforcement Learning) - A training paradigm for coordinating multiple agents in parallel workflows",
+  "author": "The Swarm Corporation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/The-Swarm-Corporation/PARL",
+  "download_filename": "open_parl-0.1.0.tar.gz",
+  "download_time": "2026-01-27T19:54:01.749964",
+  "package_url": "https://pypi.org/project/open-parl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onixcheck",
+  "version": "0.9.11",
+  "summary": "ONIX validation library and commandline tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onixcheck-0.9.11.tar.gz",
+  "download_time": "2026-01-27T19:54:02.333689",
+  "package_url": "https://pypi.org/project/onixcheck/"
+}

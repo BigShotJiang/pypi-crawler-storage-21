@@ -1,0 +1,11 @@
+{
+  "name": "okfn-iati",
+  "version": "0.4.3",
+  "summary": "A Python library for working with IATI XML data according to the IATI 2.03 standard",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "okfn_iati-0.4.3.tar.gz",
+  "download_time": "2026-01-27T19:53:59.996823",
+  "package_url": "https://pypi.org/project/okfn-iati/"
+}

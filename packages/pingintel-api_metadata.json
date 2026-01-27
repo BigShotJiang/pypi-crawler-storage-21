@@ -1,0 +1,11 @@
+{
+  "name": "pingintel-api",
+  "version": "1.4.0",
+  "summary": "Python-based client to Ping Data Intelligence APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pingintel_api-1.4.0.tar.gz",
+  "download_time": "2026-01-27T19:54:07.664747",
+  "package_url": "https://pypi.org/project/pingintel-api/"
+}
