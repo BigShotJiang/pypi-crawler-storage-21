@@ -1,0 +1,11 @@
+{
+  "name": "pytqs",
+  "version": "2.2.0",
+  "summary": "Bibliteca para facilitar a integração do Python com o TQS",
+  "author": "Leonardo Pires Batista",
+  "license": null,
+  "home_page": "https://github.com/leonardopbatista/pytqs",
+  "download_filename": "pytqs-2.2.0.tar.gz",
+  "download_time": "2026-01-27T20:30:24.536158",
+  "package_url": "https://pypi.org/project/pytqs/"
+}

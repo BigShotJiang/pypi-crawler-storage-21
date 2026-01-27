@@ -1,0 +1,11 @@
+{
+  "name": "nomage",
+  "version": "1.0.0",
+  "summary": "Utility for parsing and converting naming conventions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomage-1.0.0.tar.gz",
+  "download_time": "2026-01-27T20:29:56.545893",
+  "package_url": "https://pypi.org/project/nomage/"
+}

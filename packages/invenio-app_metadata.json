@@ -1,0 +1,11 @@
+{
+  "name": "invenio-app",
+  "version": "3.0.0",
+  "summary": "WSGI, Celery and CLI applications for Invenio flavours.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-app",
+  "download_filename": "invenio_app-3.0.0.tar.gz",
+  "download_time": "2026-01-27T20:30:13.722594",
+  "package_url": "https://pypi.org/project/invenio-app/"
+}

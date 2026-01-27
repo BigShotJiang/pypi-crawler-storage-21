@@ -1,0 +1,11 @@
+{
+  "name": "socx-cli",
+  "version": "0.11.4",
+  "summary": "System on chip verification and tooling infrastructure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "socx_cli-0.11.4.tar.gz",
+  "download_time": "2026-01-27T20:29:55.409777",
+  "package_url": "https://pypi.org/project/socx-cli/"
+}

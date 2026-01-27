@@ -1,0 +1,11 @@
+{
+  "name": "invenio-admin",
+  "version": "1.6.0",
+  "summary": "\"Invenio module that adds administration panel to the system.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-admin",
+  "download_filename": "invenio_admin-1.6.0.tar.gz",
+  "download_time": "2026-01-27T20:30:20.370644",
+  "package_url": "https://pypi.org/project/invenio-admin/"
+}

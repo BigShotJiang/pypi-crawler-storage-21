@@ -1,11 +1,11 @@
 {
   "name": "zwarm",
-  "version": "3.2.1",
+  "version": "3.4.0",
   "summary": "Multi-Agent CLI Orchestration Research Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zwarm-3.2.1.tar.gz",
-  "download_time": "2026-01-24T05:25:25.755251",
+  "download_filename": "zwarm-3.4.0.tar.gz",
+  "download_time": "2026-01-27T20:30:32.304333",
   "package_url": "https://pypi.org/project/zwarm/"
 }

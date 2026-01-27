@@ -1,11 +1,11 @@
 {
   "name": "perplexityai",
-  "version": "0.25.0",
+  "version": "0.27.0",
   "summary": "The official Python library for the perplexity API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "perplexityai-0.25.0.tar.gz",
-  "download_time": "2026-01-23T21:58:51.663090",
+  "download_filename": "perplexityai-0.27.0.tar.gz",
+  "download_time": "2026-01-27T20:29:58.287513",
   "package_url": "https://pypi.org/project/perplexityai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "VeraGrid",
-  "version": "5.6.18",
+  "version": "5.6.19",
   "summary": "VeraGrid is a Power Systems simulation program intended for professional use and research",
   "author": "Santiago Peñate Vera et. Al.",
   "license": "MPL2",
   "home_page": "https://github.com/SanPen/VeraGrid",
-  "download_filename": "veragrid-5.6.18.tar.gz",
-  "download_time": "2026-01-23T15:03:52.891733",
+  "download_filename": "veragrid-5.6.19.tar.gz",
+  "download_time": "2026-01-27T20:29:47.842329",
   "package_url": "https://pypi.org/project/VeraGrid/"
 }
