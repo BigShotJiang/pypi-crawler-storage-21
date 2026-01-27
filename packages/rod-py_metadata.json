@@ -1,0 +1,11 @@
+{
+  "name": "rod-py",
+  "version": "0.1.1",
+  "summary": "A high-performance schema validation library for Python, powered by Rust.",
+  "author": "Yash Makan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rod_py-0.1.1.tar.gz",
+  "download_time": "2026-01-27T19:23:49.365662",
+  "package_url": "https://pypi.org/project/rod-py/"
+}

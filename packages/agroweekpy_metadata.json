@@ -1,0 +1,11 @@
+{
+  "name": "agroweekpy",
+  "version": "1.0.0",
+  "summary": "ROS-like Python library for game robot control via WebSocket",
+  "author": "Sergej Nekrasov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agroweekpy-1.0.0.tar.gz",
+  "download_time": "2026-01-27T19:24:04.366221",
+  "package_url": "https://pypi.org/project/agroweekpy/"
+}

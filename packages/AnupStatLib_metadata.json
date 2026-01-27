@@ -1,0 +1,11 @@
+{
+  "name": "AnupStatLib",
+  "version": "0.1.0",
+  "summary": "Educational statistical library for analytics, teaching, and research",
+  "author": "Dr. Anup Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anupstatlib-0.1.0.tar.gz",
+  "download_time": "2026-01-27T19:24:17.335818",
+  "package_url": "https://pypi.org/project/AnupStatLib/"
+}

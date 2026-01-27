@@ -1,11 +1,11 @@
 {
   "name": "checku",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "CheckU: UNI56 marker completeness profiling for microbial genomes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "checku-0.1.5.tar.gz",
-  "download_time": "2026-01-27T18:44:32.595027",
+  "download_filename": "checku-0.1.6.tar.gz",
+  "download_time": "2026-01-27T19:24:21.016214",
   "package_url": "https://pypi.org/project/checku/"
 }

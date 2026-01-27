@@ -1,11 +1,11 @@
 {
   "name": "yamlgraph",
-  "version": "0.3.27",
+  "version": "0.3.31",
   "summary": "YAML-first framework for building LLM pipelines with LangGraph",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yamlgraph-0.3.27.tar.gz",
-  "download_time": "2026-01-27T07:46:21.044299",
+  "download_filename": "yamlgraph-0.3.31.tar.gz",
+  "download_time": "2026-01-27T19:23:52.074913",
   "package_url": "https://pypi.org/project/yamlgraph/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "py-pmp-manip",
+  "version": "1.2.2",
+  "summary": "Python tool for creating, editing and inspecting Penguinmod(.pmp) and Scratch(.sb3) files.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "py_pmp_manip-1.2.2.tar.gz",
+  "download_time": "2026-01-27T19:23:58.730672",
+  "package_url": "https://pypi.org/project/py-pmp-manip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phidget22",
+  "version": "1.24.20260127",
+  "summary": "Phidget22 Python wrapper library",
+  "author": "Phidgets Inc",
+  "license": "BSD-3-Clause",
+  "home_page": "http://www.phidgets.com",
+  "download_filename": "phidget22-1.24.20260127.tar.gz",
+  "download_time": "2026-01-27T19:24:14.244329",
+  "package_url": "https://pypi.org/project/phidget22/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "structai",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "A utility package for AI development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "structai-0.1.16.tar.gz",
-  "download_time": "2026-01-26T16:03:01.489431",
+  "download_filename": "structai-0.1.17.tar.gz",
+  "download_time": "2026-01-27T19:24:02.321478",
   "package_url": "https://pypi.org/project/structai/"
 }

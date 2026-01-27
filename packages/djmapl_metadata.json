@@ -1,11 +1,11 @@
 {
   "name": "djmapl",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Django Utilities used at Screener and other projects",
   "author": "Mittal Analytics Pvt Ltd",
   "license": null,
   "home_page": null,
-  "download_filename": "djmapl-0.3.0.tar.gz",
-  "download_time": "2026-01-27T12:56:46.673883",
+  "download_filename": "djmapl-0.4.0.tar.gz",
+  "download_time": "2026-01-27T19:24:18.368818",
   "package_url": "https://pypi.org/project/djmapl/"
 }

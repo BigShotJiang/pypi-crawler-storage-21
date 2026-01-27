@@ -1,0 +1,11 @@
+{
+  "name": "axe-dig",
+  "version": "1.6.0",
+  "summary": "AST, Call Graph, CFG, DFG, PDG.  ",
+  "author": "SRSWTI Research Labs",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "axe_dig-1.6.0.tar.gz",
+  "download_time": "2026-01-27T19:23:59.759305",
+  "package_url": "https://pypi.org/project/axe-dig/"
+}
