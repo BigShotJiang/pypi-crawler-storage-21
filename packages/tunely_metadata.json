@@ -1,0 +1,11 @@
+{
+  "name": "tunely",
+  "version": "0.2.1",
+  "summary": "WebSocket Tunnel - 透明反向代理隧道，支持服务端嵌入和客户端 SDK",
+  "author": "HITL Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tunely-0.2.1.tar.gz",
+  "download_time": "2026-01-27T04:51:29.492663",
+  "package_url": "https://pypi.org/project/tunely/"
+}

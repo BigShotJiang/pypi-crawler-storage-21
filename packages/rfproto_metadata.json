@@ -1,0 +1,11 @@
+{
+  "name": "rfproto",
+  "version": "0.0.19",
+  "summary": "Python for RF and SDR prototyping.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rfproto-0.0.19.tar.gz",
+  "download_time": "2026-01-27T04:51:58.203342",
+  "package_url": "https://pypi.org/project/rfproto/"
+}

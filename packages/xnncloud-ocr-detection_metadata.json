@@ -1,0 +1,11 @@
+{
+  "name": "xnncloud-ocr-detection",
+  "version": "0.0.1",
+  "summary": "Defensive package registration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xnncloud_ocr_detection-0.0.1.tar.gz",
+  "download_time": "2026-01-27T04:51:28.445968",
+  "package_url": "https://pypi.org/project/xnncloud-ocr-detection/"
+}

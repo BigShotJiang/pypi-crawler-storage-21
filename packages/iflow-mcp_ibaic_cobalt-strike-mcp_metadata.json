@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_ibaic_cobalt-strike-mcp",
+  "version": "1.0.2",
+  "summary": "Cobalt Strike MCP Server - provides access to Cobalt Strike API operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_ibaic_cobalt_strike_mcp-1.0.2.tar.gz",
+  "download_time": "2026-01-27T04:51:56.133026",
+  "package_url": "https://pypi.org/project/iflow-mcp_ibaic_cobalt-strike-mcp/"
+}

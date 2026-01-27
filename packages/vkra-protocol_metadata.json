@@ -1,0 +1,11 @@
+{
+  "name": "vkra-protocol",
+  "version": "0.3.1",
+  "summary": "VKRA Protocol - Open Source LLMA Framework for Contextual Product Matching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vkra_protocol-0.3.1.tar.gz",
+  "download_time": "2026-01-27T04:52:00.246083",
+  "package_url": "https://pypi.org/project/vkra-protocol/"
+}

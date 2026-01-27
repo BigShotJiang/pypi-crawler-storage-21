@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-warn-option",
+  "version": "18.0.1.0.1.1",
+  "summary": "Add Options to Stock Warn Messages",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_warn_option-18.0.1.0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-27T04:51:55.108719",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-warn-option/"
+}
