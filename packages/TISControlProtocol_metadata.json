@@ -1,11 +1,11 @@
 {
   "name": "TISControlProtocol",
-  "version": "1.0.54",
+  "version": "1.0.55",
   "summary": "A library for TIS Control Protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tiscontrolprotocol-1.0.54.tar.gz",
-  "download_time": "2026-01-27T21:58:41.697568",
+  "download_filename": "tiscontrolprotocol-1.0.55.tar.gz",
+  "download_time": "2026-01-27T22:27:51.010085",
   "package_url": "https://pypi.org/project/TISControlProtocol/"
 }

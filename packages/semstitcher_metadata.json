@@ -1,0 +1,11 @@
+{
+  "name": "semstitcher",
+  "version": "0.1.0",
+  "summary": "Stitch SEM tile images using stage coordinates from metadata files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semstitcher-0.1.0.tar.gz",
+  "download_time": "2026-01-27T22:27:17.384165",
+  "package_url": "https://pypi.org/project/semstitcher/"
+}

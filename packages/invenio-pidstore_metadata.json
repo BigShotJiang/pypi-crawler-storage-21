@@ -1,0 +1,11 @@
+{
+  "name": "invenio-pidstore",
+  "version": "3.0.0",
+  "summary": "\"Invenio module that stores and registers persistent identifiers.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-pidstore",
+  "download_filename": "invenio_pidstore-3.0.0.tar.gz",
+  "download_time": "2026-01-27T22:27:41.635453",
+  "package_url": "https://pypi.org/project/invenio-pidstore/"
+}

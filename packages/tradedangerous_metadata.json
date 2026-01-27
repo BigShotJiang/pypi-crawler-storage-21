@@ -1,0 +1,11 @@
+{
+  "name": "tradedangerous",
+  "version": "12.10.0",
+  "summary": "Trade-Dangerous is a set of powerful trading tools for Elite Dangerous, organized around one of the most powerful trade run optimizers available.",
+  "author": "Stefan 'Tromador' Morrell, Bernd Gollesch",
+  "license": null,
+  "home_page": "https://github.com/eyeonus/Trade-Dangerous",
+  "download_filename": "tradedangerous-12.10.0.tar.gz",
+  "download_time": "2026-01-27T22:27:29.887874",
+  "package_url": "https://pypi.org/project/tradedangerous/"
+}

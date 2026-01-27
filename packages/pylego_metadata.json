@@ -1,11 +1,11 @@
 {
   "name": "pylego",
-  "version": "0.1.33",
+  "version": "0.1.34",
   "summary": "A python wrapper package for the lego application written in Golang",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylego-0.1.33.tar.gz",
-  "download_time": "2026-01-23T12:52:24.212032",
+  "download_filename": "pylego-0.1.34.tar.gz",
+  "download_time": "2026-01-27T22:27:27.816704",
   "package_url": "https://pypi.org/project/pylego/"
 }

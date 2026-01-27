@@ -1,11 +1,11 @@
 {
   "name": "scurrypy",
-  "version": "0.15.0",
+  "version": "0.19.0",
   "summary": "Dataclass-driven Discord API Wrapper in Python",
   "author": "Furmissile",
   "license": null,
   "home_page": null,
-  "download_filename": "scurrypy-0.15.0.tar.gz",
-  "download_time": "2026-01-19T18:34:53.125232",
+  "download_filename": "scurrypy-0.19.0.tar.gz",
+  "download_time": "2026-01-27T22:27:21.571710",
   "package_url": "https://pypi.org/project/scurrypy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "package-events-bus",
+  "version": "0.1.40",
+  "summary": "Una librería para construir microservicios desacoplados en Python usando AWS EventBridge y SQS, donde cada caso de uso maneja su propia cola y se despacha automáticamente mediante handlers tipados.",
+  "author": "Jose Luis Rosales Meza",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "package_events_bus-0.1.40.tar.gz",
+  "download_time": "2026-01-27T22:27:27.298368",
+  "package_url": "https://pypi.org/project/package-events-bus/"
+}

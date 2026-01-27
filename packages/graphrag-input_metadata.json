@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-input",
+  "version": "3.0.0",
+  "summary": "Input document loading utilities for GraphRAG",
+  "author": "Mónica Carvajal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphrag_input-3.0.0.tar.gz",
+  "download_time": "2026-01-27T22:28:00.523184",
+  "package_url": "https://pypi.org/project/graphrag-input/"
+}
