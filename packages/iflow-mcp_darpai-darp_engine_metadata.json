@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_darpai-darp_engine",
+  "version": "0.1.1",
+  "summary": "The MCP searchengine for DARP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_darpai_darp_engine-0.1.1.tar.gz",
+  "download_time": "2026-01-27T05:55:25.014631",
+  "package_url": "https://pypi.org/project/iflow-mcp_darpai-darp_engine/"
+}

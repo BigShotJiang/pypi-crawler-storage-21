@@ -1,0 +1,11 @@
+{
+  "name": "panen-tweet",
+  "version": "1.0.0",
+  "summary": "Powerful Twitter/X scraping tool dengan Selenium",
+  "author": "Ramadhani",
+  "license": "MIT",
+  "home_page": "https://github.com/Dhaniaaa/Scrapping-X",
+  "download_filename": "panen_tweet-1.0.0.tar.gz",
+  "download_time": "2026-01-27T05:55:16.133240",
+  "package_url": "https://pypi.org/project/panen-tweet/"
+}

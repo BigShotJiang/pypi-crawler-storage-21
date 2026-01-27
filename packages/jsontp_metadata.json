@@ -1,0 +1,11 @@
+{
+  "name": "jsontp",
+  "version": "1.2.0",
+  "summary": "JSON Tree Parser",
+  "author": "Nodaa Gaji",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://pypi.org/project/jsontp",
+  "download_filename": "jsontp-1.2.0-py3-none-any.whl",
+  "download_time": "2026-01-27T05:55:39.756900",
+  "package_url": "https://pypi.org/project/jsontp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "MiniMax-CLI",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Unofficial MiniMax CLI - downloads and runs the Rust binary",
   "author": "Hmbown",
   "license": null,
   "home_page": null,
-  "download_filename": "minimax_cli-0.3.0.tar.gz",
-  "download_time": "2026-01-25T23:24:14.751868",
+  "download_filename": "minimax_cli-0.4.0.tar.gz",
+  "download_time": "2026-01-27T05:55:36.101948",
   "package_url": "https://pypi.org/project/MiniMax-CLI/"
 }

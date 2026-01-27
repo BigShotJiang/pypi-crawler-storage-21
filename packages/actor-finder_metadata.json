@@ -1,0 +1,11 @@
+{
+  "name": "actor-finder",
+  "version": "0.1.0",
+  "summary": "Doc2Vec 학습 + 클러스터 진단(실루엣, 덴드로그램) 유틸",
+  "author": "actor_finder contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "actor_finder-0.1.0.tar.gz",
+  "download_time": "2026-01-27T05:55:15.096169",
+  "package_url": "https://pypi.org/project/actor-finder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-datagen",
+  "version": "1.0.0",
+  "summary": "极简高性能流式数据加工库",
+  "author": "llm-datagen Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/llm-datagen",
+  "download_filename": "llm_datagen-1.0.0.tar.gz",
+  "download_time": "2026-01-27T05:55:21.889981",
+  "package_url": "https://pypi.org/project/llm-datagen/"
+}

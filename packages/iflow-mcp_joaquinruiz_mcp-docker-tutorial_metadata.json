@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_joaquinruiz_mcp-docker-tutorial",
+  "version": "0.1.0",
+  "summary": "MCP服务器示例：掷12面骰子工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_joaquinruiz_mcp_docker_tutorial-0.1.0.tar.gz",
+  "download_time": "2026-01-27T05:55:14.576045",
+  "package_url": "https://pypi.org/project/iflow-mcp_joaquinruiz_mcp-docker-tutorial/"
+}

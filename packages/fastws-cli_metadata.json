@@ -1,0 +1,11 @@
+{
+  "name": "fastws-cli",
+  "version": "0.0.1",
+  "summary": "Fast workspace tools for multi-repo management",
+  "author": "Jeremy Howard",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastws_cli-0.0.1.tar.gz",
+  "download_time": "2026-01-27T05:55:13.534876",
+  "package_url": "https://pypi.org/project/fastws-cli/"
+}
