@@ -1,11 +1,11 @@
 {
   "name": "databento-dbn",
-  "version": "0.47.0",
+  "version": "0.48.0",
   "summary": "Python bindings for encoding and decoding Databento Binary Encoding (DBN)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "databento_dbn-0.47.0-cp310-cp310-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2026-01-20T23:46:32.985073",
+  "download_filename": "databento_dbn-0.48.0-cp310-cp310-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-01-27T17:32:29.359386",
   "package_url": "https://pypi.org/project/databento-dbn/"
 }

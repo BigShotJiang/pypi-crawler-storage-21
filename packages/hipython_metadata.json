@@ -1,0 +1,11 @@
+{
+  "name": "hipython",
+  "version": "1.0.3",
+  "summary": "This is a simple hi python project",
+  "author": "Hollson",
+  "license": "MIT",
+  "home_page": "https://github.com/hollson/hipython",
+  "download_filename": "hipython-1.0.3-py3-none-any.whl",
+  "download_time": "2026-01-27T17:31:50.180335",
+  "package_url": "https://pypi.org/project/hipython/"
+}

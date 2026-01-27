@@ -1,11 +1,11 @@
 {
   "name": "endoreg-db",
-  "version": "0.8.9.37",
+  "version": "0.8.9.39",
   "summary": "EndoReg Db Django App",
   "author": "Max Hild, Hamza Zahid, Peter Kowalczyk",
   "license": null,
   "home_page": null,
-  "download_filename": "endoreg_db-0.8.9.37.tar.gz",
-  "download_time": "2026-01-25T15:24:27.525886",
+  "download_filename": "endoreg_db-0.8.9.39.tar.gz",
+  "download_time": "2026-01-27T17:32:09.414858",
   "package_url": "https://pypi.org/project/endoreg-db/"
 }

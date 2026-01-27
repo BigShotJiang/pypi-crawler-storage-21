@@ -1,0 +1,11 @@
+{
+  "name": "generate-fastapi-typed-routes",
+  "version": "0.2.0",
+  "summary": "Generate typed url_path_for functions for FastAPI applications.",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "generate_fastapi_typed_routes-0.2.0.tar.gz",
+  "download_time": "2026-01-27T17:31:51.298237",
+  "package_url": "https://pypi.org/project/generate-fastapi-typed-routes/"
+}

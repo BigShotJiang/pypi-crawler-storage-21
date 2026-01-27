@@ -1,11 +1,11 @@
 {
   "name": "videosdk-agents",
-  "version": "0.0.61",
+  "version": "0.0.62",
   "summary": "Video SDK Agents",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_agents-0.0.61.tar.gz",
-  "download_time": "2026-01-24T13:50:40.918815",
+  "download_filename": "videosdk_agents-0.0.62.tar.gz",
+  "download_time": "2026-01-27T17:32:17.819098",
   "package_url": "https://pypi.org/project/videosdk-agents/"
 }
