@@ -1,0 +1,11 @@
+{
+  "name": "umami-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server exposing Umami analytics (Cloud + self-hosted)",
+  "author": "Alessandro Ferrini",
+  "license": null,
+  "home_page": null,
+  "download_filename": "umami_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-27T11:51:37.994033",
+  "package_url": "https://pypi.org/project/umami-mcp-server/"
+}

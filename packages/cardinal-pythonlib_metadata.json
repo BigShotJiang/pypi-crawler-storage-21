@@ -1,0 +1,11 @@
+{
+  "name": "cardinal-pythonlib",
+  "version": "2.1.2",
+  "summary": "Miscellaneous Python libraries",
+  "author": "Rudolf Cardinal",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/RudolfCardinal/pythonlib",
+  "download_filename": "cardinal_pythonlib-2.1.2.tar.gz",
+  "download_time": "2026-01-27T11:51:47.365321",
+  "package_url": "https://pypi.org/project/cardinal-pythonlib/"
+}

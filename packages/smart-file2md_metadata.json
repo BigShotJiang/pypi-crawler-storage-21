@@ -1,0 +1,11 @@
+{
+  "name": "smart-file2md",
+  "version": "1.0.0",
+  "summary": "Convert PDF files to Markdown with OCR support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smart_file2md-1.0.0.tar.gz",
+  "download_time": "2026-01-27T11:51:44.171336",
+  "package_url": "https://pypi.org/project/smart-file2md/"
+}

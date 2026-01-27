@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-edit-user-filter",
+  "version": "16.0.1.0.0.2",
+  "summary": "Edit User Filters",
+  "author": "Onestein,Level Prime Srl,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_edit_user_filter-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-27T11:51:48.392820",
+  "package_url": "https://pypi.org/project/odoo-addon-web-edit-user-filter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pipebio",
+  "version": "5.0.10",
+  "summary": "A PipeBio client package",
+  "author": null,
+  "license": "BSD 3-clause",
+  "home_page": null,
+  "download_filename": "pipebio-5.0.10.tar.gz",
+  "download_time": "2026-01-27T11:51:33.367311",
+  "package_url": "https://pypi.org/project/pipebio/"
+}

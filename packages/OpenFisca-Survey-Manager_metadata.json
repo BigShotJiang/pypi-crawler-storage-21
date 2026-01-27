@@ -1,11 +1,11 @@
 {
   "name": "OpenFisca-Survey-Manager",
-  "version": "6.1.3",
+  "version": "6.1.5",
   "summary": "A tool for managing survey/administrative data and import them in OpenFisca",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openfisca_survey_manager-6.1.3.tar.gz",
-  "download_time": "2026-01-26T19:49:28.255891",
+  "download_filename": "openfisca_survey_manager-6.1.5.tar.gz",
+  "download_time": "2026-01-27T11:51:42.635552",
   "package_url": "https://pypi.org/project/OpenFisca-Survey-Manager/"
 }
