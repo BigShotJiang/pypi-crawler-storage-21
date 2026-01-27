@@ -1,0 +1,11 @@
+{
+  "name": "rotalabs-verify",
+  "version": "0.1.0",
+  "summary": "Verified code synthesis with Z3 - Formally verify LLM-generated code using neuro-symbolic synthesis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotalabs_verify-0.1.0.tar.gz",
+  "download_time": "2026-01-27T21:48:59.194617",
+  "package_url": "https://pypi.org/project/rotalabs-verify/"
+}

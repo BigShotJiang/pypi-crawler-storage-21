@@ -1,11 +1,11 @@
 {
   "name": "datajunction",
-  "version": "0.0.50",
+  "version": "0.0.52",
   "summary": "DataJunction client library for connecting to a DataJunction server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datajunction-0.0.50.tar.gz",
-  "download_time": "2026-01-27T07:08:37.330787",
+  "download_filename": "datajunction-0.0.52.tar.gz",
+  "download_time": "2026-01-27T21:49:27.632781",
   "package_url": "https://pypi.org/project/datajunction/"
 }

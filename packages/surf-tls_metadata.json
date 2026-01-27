@@ -1,0 +1,11 @@
+{
+  "name": "surf-tls",
+  "version": "0.1.0",
+  "summary": "An async HTTP library based on surf (Go) with TLS fingerprinting support",
+  "author": "ClaritySolutionsLLC",
+  "license": "MIT",
+  "home_page": "https://github.com/ClaritySolutionsLLC/surf-tls-client-python",
+  "download_filename": "surf_tls-0.1.0.tar.gz",
+  "download_time": "2026-01-27T21:49:16.130570",
+  "package_url": "https://pypi.org/project/surf-tls/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "combinatorics-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A library for combinatorics operations and utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "combinatorics_utils-0.0.1.tar.gz",
-  "download_time": "2026-01-26T22:52:19.893837",
+  "download_filename": "combinatorics_utils-0.0.2.tar.gz",
+  "download_time": "2026-01-27T21:49:32.421871",
   "package_url": "https://pypi.org/project/combinatorics-utils/"
 }

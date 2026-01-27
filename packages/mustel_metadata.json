@@ -1,0 +1,11 @@
+{
+  "name": "mustel",
+  "version": "0.1.2",
+  "summary": "Simple Python environment inspector + venv manager",
+  "author": "Raunak Nayak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mustel-0.1.2.tar.gz",
+  "download_time": "2026-01-27T21:49:06.319727",
+  "package_url": "https://pypi.org/project/mustel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scloop",
+  "version": "0.1.24",
+  "summary": "single-cell loop analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scloop-0.1.24.tar.gz",
+  "download_time": "2026-01-27T21:49:49.124749",
+  "package_url": "https://pypi.org/project/scloop/"
+}
