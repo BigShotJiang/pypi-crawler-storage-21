@@ -1,11 +1,11 @@
 {
   "name": "gs-quant",
-  "version": "1.4.74",
+  "version": "1.4.77",
   "summary": "Goldman Sachs Quant",
-  "author": "Goldman Sachs",
-  "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "home_page": "https://marquee.gs.com",
-  "download_filename": "gs_quant-1.4.74.tar.gz",
-  "download_time": "2026-01-23T10:00:59.424303",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gs_quant-1.4.77.tar.gz",
+  "download_time": "2026-01-27T14:35:24.355796",
   "package_url": "https://pypi.org/project/gs-quant/"
 }

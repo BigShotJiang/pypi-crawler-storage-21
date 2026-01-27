@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-lint",
+  "version": "0.1.1",
+  "summary": "A linter for Scrapy projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrapy_lint-0.1.1.tar.gz",
+  "download_time": "2026-01-27T14:35:32.740510",
+  "package_url": "https://pypi.org/project/scrapy-lint/"
+}

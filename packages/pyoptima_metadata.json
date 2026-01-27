@@ -1,0 +1,11 @@
+{
+  "name": "pyoptima",
+  "version": "0.0.3",
+  "summary": "Universal optimization framework - solve LP, QP, MIP, knapsack, TSP, scheduling, and more with a simple API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyoptima-0.0.3.tar.gz",
+  "download_time": "2026-01-27T14:35:23.683252",
+  "package_url": "https://pypi.org/project/pyoptima/"
+}

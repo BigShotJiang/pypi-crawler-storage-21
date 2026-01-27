@@ -1,11 +1,11 @@
 {
   "name": "factorium",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A quantitative factor analysis library for financial research",
   "author": "Samuel Chang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "factorium-0.2.0.tar.gz",
-  "download_time": "2026-01-27T13:53:56.980868",
+  "download_filename": "factorium-0.2.1.tar.gz",
+  "download_time": "2026-01-27T14:36:07.363860",
   "package_url": "https://pypi.org/project/factorium/"
 }

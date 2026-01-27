@@ -1,0 +1,11 @@
+{
+  "name": "dupla",
+  "version": "0.2.2",
+  "summary": "A python API for making requests to DUPLA (Dataudvekslingsplatformen)",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "dupla-0.2.2.tar.gz",
+  "download_time": "2026-01-27T14:35:21.763113",
+  "package_url": "https://pypi.org/project/dupla/"
+}

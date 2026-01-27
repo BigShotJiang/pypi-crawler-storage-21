@@ -1,0 +1,11 @@
+{
+  "name": "aws-pick",
+  "version": "0.1.1",
+  "summary": "CLI and TUI tool for selecting AWS account/role credentials",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_pick-0.1.1.tar.gz",
+  "download_time": "2026-01-27T14:35:23.046028",
+  "package_url": "https://pypi.org/project/aws-pick/"
+}
