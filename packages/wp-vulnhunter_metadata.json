@@ -1,0 +1,11 @@
+{
+  "name": "wp-vulnhunter",
+  "version": "1.0.0",
+  "summary": "Advanced WordPress Plugin Vulnerability Scanner",
+  "author": "LAKSHMIKANTHAN K (letchupkt)",
+  "license": "MIT",
+  "home_page": "https://github.com/letchupkt/wp-vulnhunter",
+  "download_filename": "wp_vulnhunter-1.0.0.tar.gz",
+  "download_time": "2026-01-27T16:04:06.106454",
+  "package_url": "https://pypi.org/project/wp-vulnhunter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "enable-ai",
-  "version": "0.3.19",
+  "version": "0.3.25",
   "summary": "AI-powered natural language interface for REST APIs with OpenAPI support and real-time streaming",
   "author": "Enable Engineering",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "enable_ai-0.3.19.tar.gz",
-  "download_time": "2026-01-27T11:51:59.766466",
+  "download_filename": "enable_ai-0.3.25.tar.gz",
+  "download_time": "2026-01-27T16:04:03.343080",
   "package_url": "https://pypi.org/project/enable-ai/"
 }

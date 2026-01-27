@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-aeat-mod592",
+  "version": "17.0.1.0.3",
+  "summary": "AEAT modelo 592",
+  "author": "Tecnativa, Binhex System Solutions, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_aeat_mod592-17.0.1.0.3-py3-none-any.whl",
+  "download_time": "2026-01-27T16:04:28.485276",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-aeat-mod592/"
+}

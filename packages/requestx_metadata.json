@@ -1,11 +1,11 @@
 {
   "name": "requestx",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "summary": "Highest-performance Python HTTP client based on Rust Speed",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "requestx-1.0.4.tar.gz",
-  "download_time": "2026-01-27T11:00:51.948472",
+  "download_filename": "requestx-1.0.7.tar.gz",
+  "download_time": "2026-01-27T16:04:25.175971",
   "package_url": "https://pypi.org/project/requestx/"
 }

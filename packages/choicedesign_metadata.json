@@ -1,0 +1,11 @@
+{
+  "name": "choicedesign",
+  "version": "0.2.1",
+  "summary": "Experimental designs for discrete choice models.",
+  "author": "ighdez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "choicedesign-0.2.1.tar.gz",
+  "download_time": "2026-01-27T16:03:58.356263",
+  "package_url": "https://pypi.org/project/choicedesign/"
+}

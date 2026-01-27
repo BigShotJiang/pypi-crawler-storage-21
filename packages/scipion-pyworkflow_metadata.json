@@ -1,0 +1,11 @@
+{
+  "name": "scipion-pyworkflow",
+  "version": "3.11.6",
+  "summary": "Workflow platform used in scientific applications, initially developed within the Scipion framework for image processing in Electron Microscopy but generic by design to be applied to any domain.",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_pyworkflow-3.11.6.tar.gz",
+  "download_time": "2026-01-27T16:04:08.783084",
+  "package_url": "https://pypi.org/project/scipion-pyworkflow/"
+}
