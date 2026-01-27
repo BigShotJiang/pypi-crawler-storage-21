@@ -1,0 +1,11 @@
+{
+  "name": "unityflow",
+  "version": "0.3.11",
+  "summary": "Unity workflow automation - edit, diff, and merge prefabs, scenes, and assets without the Unity Editor",
+  "author": "unityflow contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unityflow-0.3.11.tar.gz",
+  "download_time": "2026-01-27T09:08:51.571667",
+  "package_url": "https://pypi.org/project/unityflow/"
+}

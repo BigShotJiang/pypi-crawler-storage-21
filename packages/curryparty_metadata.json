@@ -1,0 +1,11 @@
+{
+  "name": "curryparty",
+  "version": "0.2.3",
+  "summary": "Python playground to learn lambda calculus",
+  "author": "Antonin P",
+  "license": null,
+  "home_page": null,
+  "download_filename": "curryparty-0.2.3.tar.gz",
+  "download_time": "2026-01-27T09:08:53.830086",
+  "package_url": "https://pypi.org/project/curryparty/"
+}

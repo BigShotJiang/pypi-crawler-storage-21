@@ -1,0 +1,11 @@
+{
+  "name": "sdkrouter-cleaner",
+  "version": "0.1.1",
+  "summary": "Local HTML cleaner for LLM pipelines — aggressive & focused cleaning, SSR hydration extraction, multiple output formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdkrouter_cleaner-0.1.1.tar.gz",
+  "download_time": "2026-01-27T09:07:55.728386",
+  "package_url": "https://pypi.org/project/sdkrouter-cleaner/"
+}
