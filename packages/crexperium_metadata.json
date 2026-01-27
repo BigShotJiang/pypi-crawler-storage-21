@@ -1,0 +1,11 @@
+{
+  "name": "crexperium",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for Crexperium CRM API",
+  "author": "Crexperium Team",
+  "license": "MIT",
+  "home_page": "https://github.com/crexperium/crexperium-python-sdk",
+  "download_filename": "crexperium-2.0.0.tar.gz",
+  "download_time": "2026-01-27T10:33:42.085540",
+  "package_url": "https://pypi.org/project/crexperium/"
+}

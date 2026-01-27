@@ -1,0 +1,11 @@
+{
+  "name": "k-means-constrained",
+  "version": "0.9.0",
+  "summary": "K-Means clustering constrained with minimum and maximum cluster size",
+  "author": "Josh Levy-Kramer",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/joshlk/k-means-constrained",
+  "download_filename": "k_means_constrained-0.9.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-27T10:33:50.222173",
+  "package_url": "https://pypi.org/project/k-means-constrained/"
+}

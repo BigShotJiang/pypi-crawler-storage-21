@@ -1,0 +1,11 @@
+{
+  "name": "Flask-KVSession-Invenio",
+  "version": "1.0.0",
+  "summary": "\"Transparent server-side session support for flask\"",
+  "author": "Marc Brinkmann",
+  "license": "MIT",
+  "home_page": "https://github.com/mbr/flask-kvsession",
+  "download_filename": "flask_kvsession_invenio-1.0.0.tar.gz",
+  "download_time": "2026-01-27T10:33:51.330780",
+  "package_url": "https://pypi.org/project/Flask-KVSession-Invenio/"
+}

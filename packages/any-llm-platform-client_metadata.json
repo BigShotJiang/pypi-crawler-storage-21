@@ -1,0 +1,11 @@
+{
+  "name": "any-llm-platform-client",
+  "version": "0.2.1",
+  "summary": "Decrypt provider API keys using X25519 sealed box encryption and challenge-response authentication",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "any_llm_platform_client-0.2.1.tar.gz",
+  "download_time": "2026-01-27T10:33:47.917753",
+  "package_url": "https://pypi.org/project/any-llm-platform-client/"
+}

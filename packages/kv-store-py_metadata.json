@@ -1,11 +1,11 @@
 {
   "name": "kv-store-py",
-  "version": "0.0.4",
-  "summary": "A simple wrapper for key-value stores supporting Python dict, Redis, Valkey, Memcached, and SQLite and other backend clients.",
+  "version": "0.0.6",
+  "summary": "A simple wrapper for key-value stores supporting Python dict, Redis, Valkey, PostgreSQL, Memcached, and SQLite and other backend clients.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kv_store_py-0.0.4.tar.gz",
-  "download_time": "2026-01-21T06:43:45.332252",
+  "download_filename": "kv_store_py-0.0.6.tar.gz",
+  "download_time": "2026-01-27T10:34:27.689642",
   "package_url": "https://pypi.org/project/kv-store-py/"
 }

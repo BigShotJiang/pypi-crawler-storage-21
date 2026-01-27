@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-redis-utils",
+  "version": "2.0.11",
+  "summary": "Fast and easy Redis integration for FastAPI applications.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_redis_utils-2.0.11.tar.gz",
+  "download_time": "2026-01-27T10:33:49.064625",
+  "package_url": "https://pypi.org/project/fastapi-redis-utils/"
+}

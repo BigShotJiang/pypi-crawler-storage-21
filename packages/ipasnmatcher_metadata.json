@@ -1,0 +1,11 @@
+{
+  "name": "ipasnmatcher",
+  "version": "1.0.5",
+  "summary": "A Python library for verifying whether an IP address belongs to a specific ASN's announced prefixes. Includes local caching and asynchronous API support using RIPEstat data.",
+  "author": "Monazir Muhammad Doha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipasnmatcher-1.0.5.tar.gz",
+  "download_time": "2026-01-27T10:34:06.740297",
+  "package_url": "https://pypi.org/project/ipasnmatcher/"
+}

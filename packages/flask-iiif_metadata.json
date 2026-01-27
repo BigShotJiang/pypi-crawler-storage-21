@@ -1,0 +1,11 @@
+{
+  "name": "flask-iiif",
+  "version": "2.0.0",
+  "summary": "\"Flask-IIIF extension provides easy IIIF API standard integration.\"",
+  "author": "Invenio collaboration",
+  "license": "BSD",
+  "home_page": "http://github.com/inveniosoftware/flask-iiif/",
+  "download_filename": "flask_iiif-2.0.0.tar.gz",
+  "download_time": "2026-01-27T10:34:21.536338",
+  "package_url": "https://pypi.org/project/flask-iiif/"
+}

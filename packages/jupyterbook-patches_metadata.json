@@ -1,11 +1,11 @@
 {
   "name": "jupyterbook-patches",
-  "version": "1.13.2",
+  "version": "1.13.3",
   "summary": "A collection of useful Jupyter Book v1 patches.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyterbook_patches-1.13.2.tar.gz",
-  "download_time": "2026-01-27T06:40:37.864243",
+  "download_filename": "jupyterbook_patches-1.13.3.tar.gz",
+  "download_time": "2026-01-27T10:33:42.602623",
   "package_url": "https://pypi.org/project/jupyterbook-patches/"
 }
