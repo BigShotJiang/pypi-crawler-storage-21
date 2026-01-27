@@ -1,11 +1,11 @@
 {
   "name": "mathai",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Mathematics solving Ai tailored to NCERT",
   "author": null,
   "license": null,
   "home_page": "https://github.com/infinity390/mathai4",
-  "download_filename": "mathai-0.7.2.tar.gz",
-  "download_time": "2026-01-26T04:05:27.679316",
+  "download_filename": "mathai-0.7.3.tar.gz",
+  "download_time": "2026-01-27T05:30:57.246118",
   "package_url": "https://pypi.org/project/mathai/"
 }

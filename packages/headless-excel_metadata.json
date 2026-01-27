@@ -1,11 +1,11 @@
 {
   "name": "headless-excel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Excel automation tool for agents in headless environments",
   "author": null,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "headless_excel-0.1.0.tar.gz",
-  "download_time": "2026-01-27T04:51:22.687215",
+  "download_filename": "headless_excel-0.1.1.tar.gz",
+  "download_time": "2026-01-27T05:31:38.274574",
   "package_url": "https://pypi.org/project/headless-excel/"
 }

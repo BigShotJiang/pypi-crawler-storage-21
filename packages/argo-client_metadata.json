@@ -1,0 +1,11 @@
+{
+  "name": "argo-client",
+  "version": "0.0.15",
+  "summary": "A JSON RPC client library.",
+  "author": "Galois, Inc.",
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "argo_client-0.0.15.tar.gz",
+  "download_time": "2026-01-27T05:30:59.444771",
+  "package_url": "https://pypi.org/project/argo-client/"
+}

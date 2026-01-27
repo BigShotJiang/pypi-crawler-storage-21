@@ -1,0 +1,11 @@
+{
+  "name": "claude-statuskit",
+  "version": "0.3.0",
+  "summary": "Modular statusline for Claude Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_statuskit-0.3.0.tar.gz",
+  "download_time": "2026-01-27T05:31:32.020155",
+  "package_url": "https://pypi.org/project/claude-statuskit/"
+}

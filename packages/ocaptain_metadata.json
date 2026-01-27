@@ -1,0 +1,11 @@
+{
+  "name": "ocaptain",
+  "version": "0.0.2",
+  "summary": "Minimal control plane for multi-VM Claude Code orchestration",
+  "author": "Clay Smith",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ocaptain-0.0.2.tar.gz",
+  "download_time": "2026-01-27T05:31:11.156225",
+  "package_url": "https://pypi.org/project/ocaptain/"
+}

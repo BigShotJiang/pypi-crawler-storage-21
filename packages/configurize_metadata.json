@@ -1,0 +1,11 @@
+{
+  "name": "configurize",
+  "version": "0.1.7",
+  "summary": "Hierarchical configuration management with inheritance, cross-references, and diffing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "configurize-0.1.7.tar.gz",
+  "download_time": "2026-01-27T05:31:37.233716",
+  "package_url": "https://pypi.org/project/configurize/"
+}

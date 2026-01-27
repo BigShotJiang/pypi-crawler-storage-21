@@ -1,0 +1,11 @@
+{
+  "name": "sdg1121",
+  "version": "1.0.0",
+  "summary": "Industrial-grade automated synthetic data generation via OpenAI Batch API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sdg1121-1.0.0.tar.gz",
+  "download_time": "2026-01-27T05:31:30.976533",
+  "package_url": "https://pypi.org/project/sdg1121/"
+}

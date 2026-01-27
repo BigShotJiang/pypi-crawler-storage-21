@@ -1,0 +1,11 @@
+{
+  "name": "agentmap",
+  "version": "0.9.200",
+  "summary": "AgentMap: Build and deploy LangGraph agentic workflows from CSV files for fun and profit!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentmap-0.9.200.tar.gz",
+  "download_time": "2026-01-27T05:31:23.112852",
+  "package_url": "https://pypi.org/project/agentmap/"
+}

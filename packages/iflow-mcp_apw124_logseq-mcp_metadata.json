@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_apw124_logseq-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for Logseq integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_apw124_logseq_mcp-0.2.0.tar.gz",
+  "download_time": "2026-01-27T05:31:11.675305",
+  "package_url": "https://pypi.org/project/iflow-mcp_apw124_logseq-mcp/"
+}

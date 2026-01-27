@@ -1,11 +1,11 @@
 {
   "name": "cava-nlp",
-  "version": "0.8.1",
+  "version": "0.8.7",
   "summary": "CaVa Platform Natural Language Processing spaCy components and pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cava_nlp-0.8.1.tar.gz",
-  "download_time": "2026-01-26T22:00:44.954611",
+  "download_filename": "cava_nlp-0.8.7.tar.gz",
+  "download_time": "2026-01-27T05:31:16.337175",
   "package_url": "https://pypi.org/project/cava-nlp/"
 }
