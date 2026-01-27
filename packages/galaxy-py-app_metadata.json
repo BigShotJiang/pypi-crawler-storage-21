@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-app",
+  "version": "0.0.12",
+  "summary": "Python Application for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": null,
+  "home_page": "https://github.com/bsaltel/galaxy-py/app",
+  "download_filename": "galaxy_py_app-0.0.12.tar.gz",
+  "download_time": "2026-01-27T07:59:44.001042",
+  "package_url": "https://pypi.org/project/galaxy-py-app/"
+}

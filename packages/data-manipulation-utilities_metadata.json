@@ -1,0 +1,11 @@
+{
+  "name": "data-manipulation-utilities",
+  "version": "0.3.3",
+  "summary": "Project storing utilities needed to reduce boilerplate code when analyzing data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_manipulation_utilities-0.3.3.tar.gz",
+  "download_time": "2026-01-27T07:59:46.623489",
+  "package_url": "https://pypi.org/project/data-manipulation-utilities/"
+}

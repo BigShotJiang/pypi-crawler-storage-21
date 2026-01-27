@@ -1,0 +1,11 @@
+{
+  "name": "syne-sql-extension",
+  "version": "1.0.11",
+  "summary": "Enterprise-grade Jupyter extension for secure SQL query execution through internal services",
+  "author": "SyneHQ",
+  "license": "MIT",
+  "home_page": "https://github.com/synehq/jupyter.sql-extension",
+  "download_filename": "syne_sql_extension-1.0.11.tar.gz",
+  "download_time": "2026-01-27T07:59:40.314649",
+  "package_url": "https://pypi.org/project/syne-sql-extension/"
+}

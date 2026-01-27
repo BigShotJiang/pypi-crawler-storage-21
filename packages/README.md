@@ -1,11 +1,75 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-27T07:46:50.681788
-- **Total Packages**: 83
-- **Total Size**: 46.84 MB
+- **Download Time**: 2026-01-27T08:00:21.406561
+- **Total Packages**: 90
+- **Total Size**: 17.18 MB
 
 ## Packages List
+- langgraph-checkpoint-aws
+- edx-games
+- huibiao-framework
+- metradar
+- summary-tool
+- nara-mcp-server
+- django-lucy-assist
+- anncsu-sdk
+- dycw-installer
+- quicksilver-inference
+- wisent
+- ssb-nudb-config
+- panen-tweet
+- syne-sql-extension
+- hk-cdp
+- path-sync
+- dcs-sdk
+- glaip-sdk
+- pdd-cli
+- flowrra
+- galaxy-py-app
+- ifc1bzncvyvo
+- pydantic-form-model
+- galaxy-py-proc
+- galaxy-py-cmd
+- data-manipulation-utilities
+- assisted-service-client
+- lib3970
+- flask-tabler-icons
+- rpyc-pve-cloud
+- dte-utils
+- fractal-toolkit
+- galaxy-py-www
+- sw8logger
+- fastworkflow
+- galaxy-py-report
+- chromhandler
+- galaxy-py-comm
+- tollgate
+- geometrix
+- echopykits11
+- verge-auth-sdk
+- lefthook
+- robusta-api
+- identity-plan-kit
+- zhangmutils
+- cce
+- SURE-tools
+- ai-query
+- pytest-pve-cloud
+- py-pve-cloud-backup
+- odoo14-addon-oca-all
+- galaxy-py-net
+- odoo-addon-ladirecta-zip-correos-code
+- odoo-addon-ladirecta-website-sale-iban
+- zgh-utils
+- odoo-addon-ladirecta-website-sale
+- galaxy-py-data
+- odoo-addon-ladirecta-res-partner-api
+- gllm-multimodal-binary
+- odoo-addon-ladirecta-odoo-keycloak-connector
+- cooperbench
+- zerotrust-credentials
+- py-pve-cloud
 - gmshairfoil2d
 - yellowdog-python-examples
 - avido
@@ -23,9 +87,7 @@
 - nexus-library
 - zerg-cli
 - markitai
-- wisent
 - python-sat
-- lib3970
 - linksdk
 - exafs
 - zelda-link
@@ -34,58 +96,3 @@
 - dynamic-detail-pages
 - feldera
 - bx-django-utils
-- iflow-mcp_labeveryday_mcp_pdf_reader
-- panen-tweet
-- odoo-addon-account-banking-sepa-direct-debit
-- largekalman
-- yamlgraph
-- openlit
-- pytest-prairielearn-grader
-- fabric-generic-cluster
-- askshell-ai
-- georgian-hyphenation
-- simplex
-- hk-cdp
-- odoo-apps-Odoo-Apps-Server-Tools
-- khmerspeech
-- astrojax
-- rangebar
-- cli-test-framework
-- iflow-mcp_chajus1_proxmox-mcp-enhanced
-- meld-fourdiff
-- unitypredict
-- unitypredict-engines
-- turbo-themes
-- bombshell
-- fastapi-oauth20
-- arthub-api
-- nara-mcp-server
-- cce
-- confshare
-- pixelbyte-figma-mcp
-- mdproc
-- wcgw
-- alayalite
-- mlops-python-sdk
-- tencent-wedata-feature-engineering
-- memorylake
-- curdezgen
-- eval-protocol
-- prescrypt
-- PyPeridyno
-- debugActivity
-- debsbom
-- py4agent
-- wbmailing
-- PyPeridyno-Volume
-- wbfdm
-- wbcrm
-- wbcompliance
-- wbhuman_resources
-- wbwiki
-- wbtasks
-- wbnews
-- wbportfolio
-- wbcore
-- wbreport
-- wbaccounting

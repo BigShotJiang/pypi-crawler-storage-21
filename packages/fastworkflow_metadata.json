@@ -1,0 +1,11 @@
+{
+  "name": "fastworkflow",
+  "version": "2.17.26",
+  "summary": "A framework for rapidly building large-scale, deterministic, interactive workflows with a fault-tolerant, conversational UX",
+  "author": "Dhar Rawal",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastworkflow-2.17.26.tar.gz",
+  "download_time": "2026-01-27T07:59:51.337783",
+  "package_url": "https://pypi.org/project/fastworkflow/"
+}

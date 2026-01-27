@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-net",
+  "version": "0.0.10",
+  "summary": "Python Network for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": null,
+  "home_page": "https://github.com/bsaltel/galaxy-py/net",
+  "download_filename": "galaxy_py_net-0.0.10.tar.gz",
+  "download_time": "2026-01-27T08:00:00.802976",
+  "package_url": "https://pypi.org/project/galaxy-py-net/"
+}

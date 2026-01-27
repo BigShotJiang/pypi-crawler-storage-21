@@ -1,11 +1,11 @@
 {
   "name": "tollgate",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Runtime enforcement layer for AI agent tool calls using Identity + Intent + Policy",
   "author": "Tollgate Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "tollgate-1.0.1.tar.gz",
-  "download_time": "2026-01-27T06:40:49.742840",
+  "download_filename": "tollgate-1.0.3.tar.gz",
+  "download_time": "2026-01-27T07:59:53.446601",
   "package_url": "https://pypi.org/project/tollgate/"
 }

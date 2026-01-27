@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-www",
+  "version": "0.0.9",
+  "summary": "Python Web for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": null,
+  "home_page": "https://github.com/bsaltel/galaxy-py/www",
+  "download_filename": "galaxy_py_www-0.0.9.tar.gz",
+  "download_time": "2026-01-27T07:59:50.310577",
+  "package_url": "https://pypi.org/project/galaxy-py-www/"
+}
