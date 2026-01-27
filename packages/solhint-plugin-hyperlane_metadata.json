@@ -1,0 +1,11 @@
+{
+  "name": "solhint-plugin-hyperlane",
+  "version": "0.1.0",
+  "summary": "Testing package",
+  "author": "bugdotexe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "solhint_plugin_hyperlane-0.1.0.tar.gz",
+  "download_time": "2026-01-27T08:42:26.318281",
+  "package_url": "https://pypi.org/project/solhint-plugin-hyperlane/"
+}

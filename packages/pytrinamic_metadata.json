@@ -1,0 +1,11 @@
+{
+  "name": "pytrinamic",
+  "version": "0.2.21",
+  "summary": "TRINAMIC's Python Technology Access Package.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytrinamic-0.2.21.tar.gz",
+  "download_time": "2026-01-27T08:42:36.616970",
+  "package_url": "https://pypi.org/project/pytrinamic/"
+}

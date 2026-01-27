@@ -1,11 +1,11 @@
 {
   "name": "django-lucy-assist",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Assistant IA intelligent Revolucy pour outil métier",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_lucy_assist-1.0.1.tar.gz",
-  "download_time": "2026-01-27T07:59:36.577036",
+  "download_filename": "django_lucy_assist-1.0.3.tar.gz",
+  "download_time": "2026-01-27T08:42:29.402379",
   "package_url": "https://pypi.org/project/django-lucy-assist/"
 }

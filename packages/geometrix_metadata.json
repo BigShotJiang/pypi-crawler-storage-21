@@ -1,11 +1,11 @@
 {
   "name": "geometrix",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "LaTeX-first differential geometry renderer for Jupyter/Colab.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geometrix-0.1.14.tar.gz",
-  "download_time": "2026-01-27T07:59:53.959030",
+  "download_filename": "geometrix-0.1.15.tar.gz",
+  "download_time": "2026-01-27T08:42:18.565878",
   "package_url": "https://pypi.org/project/geometrix/"
 }

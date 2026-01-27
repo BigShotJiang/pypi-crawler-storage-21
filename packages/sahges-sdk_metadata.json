@@ -1,11 +1,11 @@
 {
   "name": "sahges-sdk",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "SDK Python officiel de l'écosystème SAHGES",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sahges_sdk-0.1.7.tar.gz",
-  "download_time": "2026-01-26T13:47:57.976036",
+  "download_filename": "sahges_sdk-0.1.9.tar.gz",
+  "download_time": "2026-01-27T08:42:51.453634",
   "package_url": "https://pypi.org/project/sahges-sdk/"
 }

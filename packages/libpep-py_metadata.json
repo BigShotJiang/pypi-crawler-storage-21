@@ -1,0 +1,11 @@
+{
+  "name": "libpep-py",
+  "version": "0.9.0",
+  "summary": "Python bindings for libpep - implementation of PEP primitives, offering pseudonymization and encryption interfaces",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/NOLAI/libpep",
+  "download_filename": "libpep_py-0.9.0.tar.gz",
+  "download_time": "2026-01-27T08:42:23.241022",
+  "package_url": "https://pypi.org/project/libpep-py/"
+}

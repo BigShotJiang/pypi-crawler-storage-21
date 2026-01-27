@@ -1,11 +1,11 @@
 {
   "name": "evoseer-utils",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Shared library for mutation management across modules",
   "author": "benoît de Witte",
   "license": null,
   "home_page": null,
-  "download_filename": "evoseer_utils-0.2.0.tar.gz",
-  "download_time": "2026-01-22T19:05:39.162226",
+  "download_filename": "evoseer_utils-0.3.0.tar.gz",
+  "download_time": "2026-01-27T08:42:30.940105",
   "package_url": "https://pypi.org/project/evoseer-utils/"
 }

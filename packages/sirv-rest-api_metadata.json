@@ -1,0 +1,11 @@
+{
+  "name": "sirv-rest-api",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Sirv REST API - Image CDN, 360 Spins, and Media Management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sirv_rest_api-1.0.0.tar.gz",
+  "download_time": "2026-01-27T08:42:17.540593",
+  "package_url": "https://pypi.org/project/sirv-rest-api/"
+}

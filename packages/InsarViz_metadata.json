@@ -1,11 +1,11 @@
 {
   "name": "InsarViz",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "summary": "Python package for analysis of (InSar) data cubes",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "insarviz-3.1.2.tar.gz",
-  "download_time": "2026-01-26T16:03:17.235802",
+  "download_filename": "insarviz-3.1.3.tar.gz",
+  "download_time": "2026-01-27T08:42:15.461692",
   "package_url": "https://pypi.org/project/InsarViz/"
 }

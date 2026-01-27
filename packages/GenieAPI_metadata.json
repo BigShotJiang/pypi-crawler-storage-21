@@ -1,0 +1,11 @@
+{
+  "name": "GenieAPI",
+  "version": "0.1.4",
+  "summary": "Genie Music API",
+  "author": "Pma10",
+  "license": "MIT",
+  "home_page": "https://github.com/Pma10/GenieAPI",
+  "download_filename": "genieapi-0.1.4.tar.gz",
+  "download_time": "2026-01-27T08:42:34.576789",
+  "package_url": "https://pypi.org/project/GenieAPI/"
+}

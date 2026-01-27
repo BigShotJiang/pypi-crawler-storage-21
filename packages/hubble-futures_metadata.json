@@ -1,11 +1,11 @@
 {
   "name": "hubble-futures",
-  "version": "0.2.15",
+  "version": "0.2.23",
   "summary": "Unified futures exchange client library for Hubble trading platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hubble_futures-0.2.15.tar.gz",
-  "download_time": "2026-01-20T07:05:45.030593",
+  "download_filename": "hubble_futures-0.2.23.tar.gz",
+  "download_time": "2026-01-27T08:42:33.012709",
   "package_url": "https://pypi.org/project/hubble-futures/"
 }

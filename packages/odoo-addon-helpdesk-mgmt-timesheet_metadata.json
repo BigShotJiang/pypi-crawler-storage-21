@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-mgmt-timesheet",
+  "version": "18.0.1.1.2",
+  "summary": "Add HR Timesheet to the tickets for Helpdesk Management.",
+  "author": "Aresoltec Canarias, Punt Sistemes, SDi Soluciones Digitales, Solvos, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_mgmt_timesheet-18.0.1.1.2-py3-none-any.whl",
+  "download_time": "2026-01-27T08:42:49.404379",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-mgmt-timesheet/"
+}
