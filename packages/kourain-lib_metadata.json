@@ -1,11 +1,11 @@
 {
   "name": "kourain-lib",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A small lib package",
   "author": "Kourain",
   "license": null,
   "home_page": null,
-  "download_filename": "kourain_lib-0.2.1.tar.gz",
-  "download_time": "2026-01-25T10:49:52.670325",
+  "download_filename": "kourain_lib-0.2.3.tar.gz",
+  "download_time": "2026-01-28T05:20:40.609872",
   "package_url": "https://pypi.org/project/kourain-lib/"
 }

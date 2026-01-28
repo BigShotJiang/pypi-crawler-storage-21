@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_anirbanbasu_frankfurtermcp",
+  "version": "0.4.4",
+  "summary": "A MCP server for currency exchange rates and currency conversion using the Frankfurter API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_anirbanbasu_frankfurtermcp-0.4.4.tar.gz",
+  "download_time": "2026-01-28T05:20:13.629919",
+  "package_url": "https://pypi.org/project/iflow-mcp_anirbanbasu_frankfurtermcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flac-cue-split",
+  "version": "0.1.2",
+  "summary": "Split FLAC files into individual tracks based on CUE sheets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flac_cue_split-0.1.2.tar.gz",
+  "download_time": "2026-01-28T05:20:33.608371",
+  "package_url": "https://pypi.org/project/flac-cue-split/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "watsonx-vision-toolkit",
+  "version": "0.2.0",
+  "summary": "Reusable Python toolkit for vision-based document analysis using IBM Watsonx AI or Ollama",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "watsonx_vision_toolkit-0.2.0.tar.gz",
+  "download_time": "2026-01-28T05:20:24.926611",
+  "package_url": "https://pypi.org/project/watsonx-vision-toolkit/"
+}

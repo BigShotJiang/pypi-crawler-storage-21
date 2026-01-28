@@ -1,0 +1,11 @@
+{
+  "name": "xaitk-jatic",
+  "version": "0.8.1",
+  "summary": "Integration package to support interfacing, implementation and example needs for the JATIC.",
+  "author": "Kitware, Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xaitk_jatic-0.8.1.tar.gz",
+  "download_time": "2026-01-28T05:20:34.785443",
+  "package_url": "https://pypi.org/project/xaitk-jatic/"
+}

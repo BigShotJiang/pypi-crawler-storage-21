@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_fusedio_fused-mcp",
+  "version": "0.1.2",
+  "summary": "Fused MCP: Setting up MCP Servers for Data Scientists",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_fusedio_fused_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-28T05:20:29.786599",
+  "package_url": "https://pypi.org/project/iflow-mcp_fusedio_fused-mcp/"
+}

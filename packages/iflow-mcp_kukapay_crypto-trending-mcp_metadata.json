@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kukapay_crypto-trending-mcp",
+  "version": "0.1.0",
+  "summary": "An MCP server that tracks and monitors the latest trending tokens on CoinGecko.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_kukapay_crypto_trending_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-28T05:20:43.294395",
+  "package_url": "https://pypi.org/project/iflow-mcp_kukapay_crypto-trending-mcp/"
+}

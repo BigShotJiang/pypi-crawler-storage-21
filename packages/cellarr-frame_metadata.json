@@ -1,11 +1,11 @@
 {
   "name": "cellarr-frame",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A high-level Python package for managing DataFrames using TileDB as a backing store",
   "author": "Jayaram Kancherla",
   "license": "MIT",
   "home_page": "https://github.com/CellArr/cellarr-frame",
-  "download_filename": "cellarr_frame-0.0.3.tar.gz",
-  "download_time": "2026-01-25T04:09:52.767920",
+  "download_filename": "cellarr_frame-0.0.4.tar.gz",
+  "download_time": "2026-01-28T05:20:46.982116",
   "package_url": "https://pypi.org/project/cellarr-frame/"
 }

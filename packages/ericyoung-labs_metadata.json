@@ -1,0 +1,11 @@
+{
+  "name": "ericyoung-labs",
+  "version": "0.1.0",
+  "summary": "A suite of cybersecurity labs and tools: ICS Sim, Log Parser, Compliance Audit, and more.",
+  "author": null,
+  "license": "GNU GENERAL PUBLIC LICENSE\r\n        Version 3, 29 June 2007\r\n        \r\n        Copyright (C) 2025 Eric Young\r\n        \r\n        Everyone is permitted to copy and distribute verbatim copies\r\n        of this license document, but changing it is not allowed.\r\n        \r\n        This program is free software: you can redistribute it and/or modify\r\n        it under the terms of the GNU General Public License as published by\r\n        the Free Software Foundation, either version 3 of the License, or\r\n        (at your option) any later version.\r\n        \r\n        This program is distributed in the hope that it will be useful,\r\n        but WITHOUT ANY WARRANTY; without even the implied warranty of\r\n        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\n        GNU General Public License for more details.\r\n        \r\n        You should have received a copy of the GNU General Public License\r\n        along with this program.  If not, see <https://www.gnu.org/licenses/>.\r\n        \r\n        ---\r\n        \r\n        Additional Terms:\r\n        \r\n        This code is intended for educational and non-commercial demonstration purposes.\r\n        Any public redistribution of modified versions must also retain this license.\r\n        \r\n        ",
+  "home_page": null,
+  "download_filename": "ericyoung_labs-0.1.0.tar.gz",
+  "download_time": "2026-01-28T05:20:36.916225",
+  "package_url": "https://pypi.org/project/ericyoung-labs/"
+}

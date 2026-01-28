@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_yuiseki_edge_tts_mcp_server",
+  "version": "0.1.1",
+  "summary": "MCPサーバーでedge-ttsを提供するサービス",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_yuiseki_edge_tts_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-01-28T05:20:22.815175",
+  "package_url": "https://pypi.org/project/iflow-mcp_yuiseki_edge_tts_mcp_server/"
+}
