@@ -1,11 +1,11 @@
 {
   "name": "pyguiadapterlite",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Turn your python functions into GUI-based applications just in a few lines of code.",
   "author": "zimolab",
   "license": null,
   "home_page": "https://github.com/zimolab/pyguiadapterlite",
-  "download_filename": "pyguiadapterlite-0.8.0.tar.gz",
-  "download_time": "2026-01-27T11:51:49.957494",
+  "download_filename": "pyguiadapterlite-0.8.1.tar.gz",
+  "download_time": "2026-01-28T14:35:53.862917",
   "package_url": "https://pypi.org/project/pyguiadapterlite/"
 }

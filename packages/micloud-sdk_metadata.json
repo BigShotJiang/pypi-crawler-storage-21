@@ -1,0 +1,11 @@
+{
+  "name": "micloud-sdk",
+  "version": "1.0.2",
+  "summary": "Professional Python SDK for MiCloud API",
+  "author": "MiCloud Team",
+  "license": null,
+  "home_page": "https://github.com/micloud/micloud-sdk-python",
+  "download_filename": "micloud_sdk-1.0.2.tar.gz",
+  "download_time": "2026-01-28T14:35:29.189969",
+  "package_url": "https://pypi.org/project/micloud-sdk/"
+}

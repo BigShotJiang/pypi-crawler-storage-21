@@ -1,11 +1,11 @@
 {
   "name": "devqubit-ui",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Web interface for devqubit experiment tracking",
   "author": "devqubit",
   "license": null,
   "home_page": null,
-  "download_filename": "devqubit_ui-0.1.8.tar.gz",
-  "download_time": "2026-01-25T19:41:49.863676",
+  "download_filename": "devqubit_ui-0.1.9.tar.gz",
+  "download_time": "2026-01-28T14:35:33.875046",
   "package_url": "https://pypi.org/project/devqubit-ui/"
 }

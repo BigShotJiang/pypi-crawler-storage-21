@@ -1,0 +1,11 @@
+{
+  "name": "tilebox-grpc",
+  "version": "0.47.0",
+  "summary": "GRPC / Protocol Buffers functions for Tilebox",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "tilebox_grpc-0.47.0.tar.gz",
+  "download_time": "2026-01-28T14:35:27.037103",
+  "package_url": "https://pypi.org/project/tilebox-grpc/"
+}

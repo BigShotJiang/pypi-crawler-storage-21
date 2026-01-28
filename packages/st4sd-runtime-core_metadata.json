@@ -1,0 +1,11 @@
+{
+  "name": "st4sd-runtime-core",
+  "version": "2.6.0",
+  "summary": "A tool for creating and deploying computational experiments",
+  "author": "Michael A. Johnston",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/st4sd/st4sd-runtime-core",
+  "download_filename": "st4sd_runtime_core-2.6.0-py3-none-any.whl",
+  "download_time": "2026-01-28T14:35:29.712499",
+  "package_url": "https://pypi.org/project/st4sd-runtime-core/"
+}

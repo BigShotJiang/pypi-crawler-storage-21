@@ -1,0 +1,11 @@
+{
+  "name": "citrine",
+  "version": "3.29.0",
+  "summary": "Python library for the Citrine Platform",
+  "author": "Citrine Informatics",
+  "license": null,
+  "home_page": "http://github.com/CitrineInformatics/citrine-python",
+  "download_filename": "citrine-3.29.0.tar.gz",
+  "download_time": "2026-01-28T14:35:26.516522",
+  "package_url": "https://pypi.org/project/citrine/"
+}

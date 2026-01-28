@@ -1,11 +1,11 @@
 {
   "name": "wbcore",
-  "version": "1.61.2",
+  "version": "1.61.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wbcore-1.61.2.tar.gz",
-  "download_time": "2026-01-27T07:46:49.022072",
+  "download_filename": "wbcore-1.61.4.tar.gz",
+  "download_time": "2026-01-28T14:36:01.157743",
   "package_url": "https://pypi.org/project/wbcore/"
 }

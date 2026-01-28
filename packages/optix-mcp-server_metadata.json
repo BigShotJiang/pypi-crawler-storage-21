@@ -1,0 +1,11 @@
+{
+  "name": "optix-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for source code analysis",
+  "author": "optix-mcp-server contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optix_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-28T14:35:42.753719",
+  "package_url": "https://pypi.org/project/optix-mcp-server/"
+}

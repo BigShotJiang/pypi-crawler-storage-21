@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-automation-oca",
+  "version": "18.0.1.0.3",
+  "summary": "Automate actions in threaded models",
+  "author": "Dixmit,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/automation",
+  "download_filename": "odoo_addon_automation_oca-18.0.1.0.3-py3-none-any.whl",
+  "download_time": "2026-01-28T14:35:30.239558",
+  "package_url": "https://pypi.org/project/odoo-addon-automation-oca/"
+}
