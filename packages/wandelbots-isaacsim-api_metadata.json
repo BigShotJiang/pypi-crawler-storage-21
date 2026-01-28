@@ -1,0 +1,11 @@
+{
+  "name": "wandelbots-isaacsim-api",
+  "version": "2.19.1",
+  "summary": "Wandelbots IsaacSim Python Client: A microservice-based framework for managing Omniverse functionalities",
+  "author": "Wandelbots GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://wandelbots.com/",
+  "download_filename": "wandelbots_isaacsim_api-2.19.1.tar.gz",
+  "download_time": "2026-01-28T09:52:21.974661",
+  "package_url": "https://pypi.org/project/wandelbots-isaacsim-api/"
+}

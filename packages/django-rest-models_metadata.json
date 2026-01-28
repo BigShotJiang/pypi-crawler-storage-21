@@ -1,0 +1,11 @@
+{
+  "name": "django-rest-models",
+  "version": "3.0.3",
+  "summary": "A Django fake ORM model that query an RestAPI instead of a database.",
+  "author": null,
+  "license": "# License\n        \n        Copyright (c) 2017-2019, Yupeek/Menway\n        All rights reserved.\n        \n        Redistribution and use in source and binary forms, with or without\n        modification, are permitted provided that the following conditions are met:\n        \n        Redistributions of source code must retain the above copyright notice, this\n        list of conditions and the following disclaimer.\n        Redistributions in binary form must reproduce the above copyright notice, this\n        list of conditions and the following disclaimer in the documentation and/or\n        other materials provided with the distribution.\n        \n        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\n        ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\n        WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\n        DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\n        FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\n        DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\n        SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\n        CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\n        OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\n        OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n        ",
+  "home_page": null,
+  "download_filename": "django_rest_models-3.0.3.tar.gz",
+  "download_time": "2026-01-28T09:52:17.198600",
+  "package_url": "https://pypi.org/project/django-rest-models/"
+}

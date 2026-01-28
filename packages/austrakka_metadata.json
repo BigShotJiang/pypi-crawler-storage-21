@@ -1,0 +1,11 @@
+{
+  "name": "austrakka",
+  "version": "0.78.0",
+  "summary": "A CLI to interact with a AusTrakka instance",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/AusTrakka/austrakka2-cli",
+  "download_filename": "austrakka-0.78.0-py3-none-any.whl",
+  "download_time": "2026-01-28T09:52:57.131482",
+  "package_url": "https://pypi.org/project/austrakka/"
+}

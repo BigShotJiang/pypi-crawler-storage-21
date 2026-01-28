@@ -1,0 +1,11 @@
+{
+  "name": "pysiaalarm",
+  "version": "3.2.1",
+  "summary": "Python package for creating a client that talks with SIA-based alarm systems.",
+  "author": "E.A. van Valkenburg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysiaalarm-3.2.1.tar.gz",
+  "download_time": "2026-01-28T09:52:54.528982",
+  "package_url": "https://pypi.org/project/pysiaalarm/"
+}

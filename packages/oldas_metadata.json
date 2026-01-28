@@ -1,11 +1,11 @@
 {
   "name": "oldas",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "An async-friendly wrapper library for the API of TheOldReader",
   "author": "Dave Pearson",
   "license": null,
   "home_page": null,
-  "download_filename": "oldas-0.7.0.tar.gz",
-  "download_time": "2026-01-27T20:51:06.060942",
+  "download_filename": "oldas-0.8.0.tar.gz",
+  "download_time": "2026-01-28T09:52:36.746313",
   "package_url": "https://pypi.org/project/oldas/"
 }

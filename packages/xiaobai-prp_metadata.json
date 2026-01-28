@@ -1,11 +1,11 @@
 {
   "name": "xiaobai-prp",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "Python Registry Provider - A tool for managing Python package index sources similar to nrm for npm",
   "author": "Tser",
   "license": "GPL-3.0",
-  "home_page": "https://github.com/tser/prp",
-  "download_filename": "xiaobai_prp-1.0.7.tar.gz",
-  "download_time": "2026-01-27T11:01:23.431519",
+  "home_page": "https://github.com/tser/xiaobai-prp",
+  "download_filename": "xiaobai_prp-1.0.9.tar.gz",
+  "download_time": "2026-01-28T09:52:53.444936",
   "package_url": "https://pypi.org/project/xiaobai-prp/"
 }

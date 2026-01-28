@@ -1,0 +1,11 @@
+{
+  "name": "openlayer-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for the Openlayer platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openlayer_mcp-0.2.0.tar.gz",
+  "download_time": "2026-01-28T09:53:02.858173",
+  "package_url": "https://pypi.org/project/openlayer-mcp/"
+}

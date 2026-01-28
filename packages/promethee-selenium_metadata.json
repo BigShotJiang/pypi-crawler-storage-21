@@ -1,0 +1,11 @@
+{
+  "name": "promethee-selenium",
+  "version": "1.0.0",
+  "summary": "Prométhée: A POM-based automated UI test framework",
+  "author": "Yann Dipita",
+  "license": null,
+  "home_page": null,
+  "download_filename": "promethee_selenium-1.0.0.tar.gz",
+  "download_time": "2026-01-28T09:52:23.534968",
+  "package_url": "https://pypi.org/project/promethee-selenium/"
+}

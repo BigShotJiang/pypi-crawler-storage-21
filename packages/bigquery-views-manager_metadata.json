@@ -1,0 +1,11 @@
+{
+  "name": "bigquery-views-manager",
+  "version": "1.0.19",
+  "summary": "BigQuery Views Manager",
+  "author": "eLife Sciences Publications, Ltd",
+  "license": null,
+  "home_page": "https://github.com/elifesciences/bigquery-views-manager",
+  "download_filename": "bigquery_views_manager-1.0.19-py3-none-any.whl",
+  "download_time": "2026-01-28T09:52:15.118129",
+  "package_url": "https://pypi.org/project/bigquery-views-manager/"
+}
